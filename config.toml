@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://lionsconvention2020.co.za"
 languageCode = "en-za"
 title = "2020 Lions MD410 Convention"
 theme = "beautifulhugo" 
