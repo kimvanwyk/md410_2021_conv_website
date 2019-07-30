@@ -23,7 +23,7 @@ pygmentsCodefencesGuessSyntax = false
   delayDisqus = false
   showRelatedPosts = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
+   
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
 #  desc = "Triangle"
@@ -36,11 +36,11 @@ pygmentsCodefencesGuessSyntax = false
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-# [Author]
-#   name = "Some Person"
-#   website = "yourwebsite.com"
+[Author]
+   name = "Lions Clubs International Multiple District 410"
+   website = "https://lionsclubs.co.za"
 #   email = "youremail@domain.com"
-#   facebook = "username"
+   facebook = "Lions-MD-410-2020-Convention-305534583657980/"
 #   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
 #   github = "username"
 #   gitlab = "username"
@@ -62,14 +62,19 @@ pygmentsCodefencesGuessSyntax = false
 #   telegram = "username"
 #   500px = "username"
 
-[[menu.main]]
-    name = "Registration"
-    url = "registration"
-    weight = 1
+# [[menu.main]]
+#     name = "Registration"
+#     url = "registration"
+#     weight = 1
 
 [[menu.main]]
     name = "Venue"
     url = "venue"
+    weight = 1
+
+[[menu.main]]
+    name = "Program"
+    url = "program"
     weight = 1
 
 # [[menu.main]]
