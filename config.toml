@@ -10,8 +10,8 @@ pygmentsCodefencesGuessSyntax = false
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  logo = "img/avatar-icon.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  logo = "img/lionsemblemnewlarge.png"
+  favicon = "img/favicon.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
