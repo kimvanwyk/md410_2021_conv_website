@@ -16,7 +16,7 @@ Time          | Event (click on event for further details) | Venue (click for ma
 18:00-19:00   | Dinner for trainees | [Riverside Hotel](/venue)
 18:30-        | Outgoing and Incoming Council dinner | TBC
 19:00-21:00   | 410W and 410E training - RCs/ZCs/Cabinet officers/Presidents | [Riverside Hotel](/venue)
-19:00-        | Informal get-together at [North Durban Lions Clubhouse](https://northdurbanlions.org.za/meetings-and-location), open to all attendees | [[North Durban Lions Clubhouse](https://northdurbanlions.org.za/meetings-and-location)](https://northdurbanlions.org.za/meetings-and-location)
+19:00-        | Informal get-together at [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location), open to all attendees | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
 
 # Friday 1 May
 
@@ -24,9 +24,9 @@ Time          | Event (click on event for further details) | Venue (click for ma
          -----|--- |---
 07:00-        | Golf | TBC
 09:00-12:00   | Sight-seeing tour/Sharks Board visit | Natal Sharks Board
-09:00-12:00   | MD410 3rd Council meeting | [North Durban Lions Clubhouse](https://northdurbanlions.org.za/meetings-and-location)
-12:15-13:00   | Council meeting lunch | [North Durban Lions Clubhouse](https://northdurbanlions.org.za/meetings-and-location)
-13:15-15:30   | Districts 410W and 410E Cabinet meetings | [Riverside Hotel](/venue)/[North Durban Lions Clubhouse](https://northdurbanlions.org.za/meetings-and-location)
+09:00-12:00   | MD410 3rd Council meeting | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
+12:15-13:00   | Council meeting lunch | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
+13:15-15:30   | Districts 410W and 410E Cabinet meetings | [Riverside Hotel](/venue)/[North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
 14:00-15:30   | Service project | TBC
 15:45-17:00   | Committee of the whole | [Riverside Hotel](/venue)
 18:15-18:45   | Pre-banquet drinks | TBC

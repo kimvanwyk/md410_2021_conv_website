@@ -15,4 +15,4 @@ The hotel is located at 10 Kenneth Kaunda Road, Durban North. Kenneth Kaunda Roa
 
 # Alternative Accomodation
 
-There are a number of B&B's and small hotels in the immediate area and several larger hotels in Umhlanga are only 10-15 minutes away.
+There are a number of B&B's and small hotels in the immediate area and several B&B's and larger hotels in Umhlanga are only 10-15 minutes away.
