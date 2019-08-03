@@ -11,7 +11,7 @@ Some events will be held at the North Durban Lions Clubhouse which is less than 
 
 Time          | Event (click on event for further details) | Venue (click for map to venue)
          -----|---  |---
-14:00-17:30   | District 410W and 410E Vice District Governor training | [[Riverside Hotel](/venue)](/venue)
+14:00-17:30   | District 410W and 410E District Governor Elect training | [Riverside Hotel](/venue)
 14:00-        | Sharks Board tour | Natal Sharks Board
 18:00-19:00   | Dinner for trainees | [Riverside Hotel](/venue)
 18:30-        | Outgoing and Incoming Council dinner | TBC
