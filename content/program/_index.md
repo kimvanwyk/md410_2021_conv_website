@@ -11,12 +11,12 @@ Some events will be held at the North Durban Lions Clubhouse which is less than 
 
 Time          | Event (click on event for further details) | Venue (click for map to venue)
          -----|---  |---
-14:00-17:30   | [District 410W and 410E District Governor Elect training](/events/dge_training) | [Riverside Hotel](/venue)
+14:00-17:30   | [Districts 410W and 410E District Governor Elect training](/events/dge_training) | [Riverside Hotel](/venue)
 14:00-        | Sharks Board tour | Natal Sharks Board
 18:00-19:00   | Dinner for trainees | [Riverside Hotel](/venue)
 18:30-        | Outgoing and Incoming Council dinner | TBC
-19:00-21:00   | 410W and 410E training - RCs/ZCs/Cabinet officers/Presidents | [Riverside Hotel](/venue)
-19:00-        | Informal get-together at [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location), open to all attendees | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
+19:00-21:00   | [Districts 410W and 410E training - RCs/ZCs/Cabinet officers/Presidents](/events/training) | [Riverside Hotel](/venue)
+19:00-        | Informal get-together at North Durban Lions Clubhouse, open to all attendees | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
 
 # Friday 1 May
 
