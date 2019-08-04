@@ -5,5 +5,5 @@ draft: false
 
 More details will be made available closer to the event.
 
-**Time**: 18:00-19:00 \
+**Date and Time**: Tuesday 30 April 2019, 18:00-19:00 \
 **Location**: [Riverside Hotel](/venue)

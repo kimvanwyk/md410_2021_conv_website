@@ -38,7 +38,7 @@ for (date, _, fn, time, event, location, body) in events:
 
         {body}
 
-        **Time**: {time} \\
+        **Date and Time**: {date:%A %d %B %Y}, {time} \\
         **Location**: {location}
         '''))
 

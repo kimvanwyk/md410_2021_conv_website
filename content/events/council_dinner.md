@@ -5,5 +5,5 @@ draft: false
 
 More details will be made available closer to the event.
 
-**Time**: 18:30- \
+**Date and Time**: Tuesday 30 April 2019, 18:30- \
 **Location**: To be confirmed
