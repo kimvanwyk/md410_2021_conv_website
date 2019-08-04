@@ -42,7 +42,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 09:30-11:45 | [MD410 Convention](/events/md_convention) | [Riverside Hotel](/venue)
 12:00-13:30 | [Other delegates lunch](/events/lunch) | [Riverside Hotel](/venue)
 12:00-13:30 | [Melvin Jones Fellows lunch](/events/mjf_lunch) | To be confirmed
-13:45-15:00 | [MD410 Convention resumption](/events/md_convention_resumption) | [Riverside Hotel](/venue)
+13:45-15:00 | [MD410 Convention resumption](/events/md_convention) | [Riverside Hotel](/venue)
 15:30-17:00 | [Interactive function with international guest](/events/international_guest) | [Riverside Hotel](/venue)
 18:30- | [Theme evening](/events/theme_evening) | [Riverside Hotel](/venue)
 
