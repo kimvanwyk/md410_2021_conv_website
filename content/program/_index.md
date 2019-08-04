@@ -8,7 +8,7 @@ The 2020 Lions MD410 Convention will be held on Friday 1 May and Saturday 2 May 
 
 Some events will be held at the North Durban Lions Clubhouse which is less than 5 minutes travel from the Riverside Hotel.
 
-# Tuesday 30 April 2019
+# Thursday 30 April 2020
 
 Time | Event (click on event for further details) | Venue (click for map to venue)
  ---|---  |---
@@ -19,7 +19,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 19:00- | [Informal get-together at North Durban Lions Clubhouse, open to all attendees](/events/thursday_social) | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
 19:00-21:00 | [Districts 410W and 410E District Governor Elect training](/events/training) | [Riverside Hotel](/venue)
 
-# Wednesday 01 May 2019
+# Friday 01 May 2020
 
 Time | Event (click on event for further details) | Venue (click for map to venue)
  ---|---  |---
@@ -34,7 +34,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 19:00-22:00 | [Banquet](/events/banquet) | To be confirmed
 22:00- | [Nightcap and social gathering](/events/nightcap) | To be confirmed
 
-# Thursday 02 May 2019
+# Saturday 02 May 2020
 
 Time | Event (click on event for further details) | Venue (click for map to venue)
  ---|---  |---
@@ -46,7 +46,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 15:30-17:00 | [Interactive function with international guest](/events/international_guest) | [Riverside Hotel](/venue)
 18:30- | [Theme evening](/events/theme_evening) | [Riverside Hotel](/venue)
 
-# Friday 03 May 2019
+# Sunday 03 May 2020
 
 Time | Event (click on event for further details) | Venue (click for map to venue)
  ---|---  |---

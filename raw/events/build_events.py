@@ -17,7 +17,7 @@ for f in glob('*.txt'):
     if location == 'TBC':
         location = 'To be confirmed'
 
-    body = '\n'.join([l for l in lines[4:] if l])
+    body = '\n'.join([f"{l}\n" for l in lines[4:] if l])
     if not body:
         body = 'More details will be made available closer to the event.'
 
@@ -36,7 +36,10 @@ for (date, _, fn, time, event, location, body) in events:
         draft: false
         ---
 
-        {body}
+        '''))
+        fh.write(body)
+
+        fh.write(textwrap.dedent(f'''\
 
         **Date and Time**: {date:%A %d %B %Y}, {time} \\
         **Location**: {location}

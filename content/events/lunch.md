@@ -4,6 +4,5 @@ draft: false
 ---
 
 More details will be made available closer to the event.
-
-**Date and Time**: Thursday 02 May 2019, 12:00-13:30 \
+**Date and Time**: Saturday 02 May 2020, 12:00-13:30 \
 **Location**: [Riverside Hotel](/venue)
