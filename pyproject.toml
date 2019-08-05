@@ -7,6 +7,7 @@ authors = ["Kim van Wyk <kimv@sahomeloans.com>"]
 [tool.poetry.dependencies]
 python = "^3.6"
 python-dateutil = "^2.8"
+pyperclip = "^1.7"
 
 [tool.poetry.dev-dependencies]
 ptpython = "^2.0"

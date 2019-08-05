@@ -1,91 +1,258 @@
 <html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-</head>
-<body>
-<script>
-$("#seeAnotherField").change(function() {
-  if ($(this).val() == "yes") {
-    $('#otherFieldDiv').show();
-    $('#otherField').attr('required', '');
-    $('#otherField').attr('data-error', 'This field is required.');
-  } else {
-    $('#otherFieldDiv').hide();
-    $('#otherField').removeAttr('required');
-    $('#otherField').removeAttr('data-error');
-  }
-});
-$("#seeAnotherField").trigger("change");
+  <head>
+  </head>
+  <body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="/js/reg_form.js"></script>
 
-$("#seeAnotherFieldGroup").change(function() {
-  if ($(this).val() == "yes") {
-    $('#otherFieldGroupDiv').show();
-    $('#otherField1').attr('required', '');
-    $('#otherField1').attr('data-error', 'This field is required.');
-    $('#otherField2').attr('required', '');
-    $('#otherField2').attr('data-error', 'This field is required.');
-  } else {
-    $('#otherFieldGroupDiv').hide();
-    $('#otherField1').removeAttr('required');
-    $('#otherField1').removeAttr('data-error');
-    $('#otherField2').removeAttr('required');
-    $('#otherField2').removeAttr('data-error');
-  }
-});
-$("#seeAnotherFieldGroup").trigger("change");
-</script>
+    <form>
+      <h2>First Attendee</h2>
+      <div class="form-group">
+        <label for="main_first_names">First Name(s): </label>
+        <input type="text" class="form-control" id="main_first_names">
+        <label for="main_last_names">Last Name: </label>
+        <input type="text" class="form-control" id="main_last_names">
+      </div>
 
-<form class="p-3">
-  <div class="form-group">
-    <label for="name">Name</label>
-    <input type="text" class="form-control" id="name" placeholder="Joe Smith">
-  </div>
-  
-  <div class="form-group">
-    <label for="seeAnotherField">Do You Want To See Another Field?</label>
-    <select class="form-control" id="seeAnotherField">
-          <option value="no">No Way.</option>
-          <option value="yes">Absolutely!</option>
-    </select>
-  </div>
-  
-  <div class="form-group" id="otherFieldDiv">
-    <label for="otherField">Here you go!</label>
-    <select class="form-control" id="otherField">
-      <option>Yay</option>
-      <option>Woo</option>
-      <option>Hazah</option>
-      <option>Yipee</option>
-      <option>Hoorah</option>
-    </select>
-  </div>
-  
-  <div class="form-group">
-    <label for="seeAnotherFieldGroup">Do You Want To See Another Group of Fields?</label>
-    <select class="form-control" id="seeAnotherFieldGroup">
-          <option value="no">Not Particularly.</option>
-          <option value="yes">I Guess!</option>
-    </select>
-  </div>
-  
-  <div class="form-group" id="otherFieldGroupDiv">
-    <div class="row">
-      <div class="col-6">
-        <label for="otherField1">Group: Heres One!</label>
-        <input type="text" class="form-control w-100" id="otherField1">
+      <div class="form-group">
+        <label for="main_title">District: </label>
+        <select class="form-control" id="main_title">
+          <option value="Lion">Lion</option>
+          <option value="LP">LP</option>
+          <option value="LS">LS</option>
+          <option value="LT">LT</option>
+          <option value="DC">DC</option>
+          <option value="ZC">ZC</option>
+          <option value="RC">RC</option>
+          <option value="DCS">DCS</option>
+          <option value="DCT">DCT</option>
+          <option value="2VDG">2VDG</option>
+          <option value="1VDG">1VDG</option>
+          <option value="DG">DG</option>
+          <option value="PDG">PDG</option>
+          <option value="MDC">MDC</option>
+          <option value="CS">CS</option>
+          <option value="CT">CT</option>
+          <option value="CC">CC</option>
+          <option value="CCE">CCE</option>
+          <option value="PCC">PCC</option>        
+        </select>
       </div>
-      <div class="col-6">
-        <label for="otherField2">Group: Another One!</label>
-        <input type="text" class="form-control w-100" id="otherField2">
+
+      <div class="form-group">
+        <label for="main_club">Club: </label>
+        <select class="form-control" id="main_club">
+          <option value="Alberton">Alberton</option>
+          <option value="Amanzimtoti">Amanzimtoti</option>
+          <option value="Athlone">Athlone</option>
+          <option value="Azalea (Lioness)">Azalea (Lioness)</option>
+          <option value="Ballito">Ballito</option>
+          <option value="Bedfordview">Bedfordview</option>
+          <option value="Bela Bela">Bela Bela</option>
+          <option value="Benoni Benoryn">Benoni Benoryn</option>
+          <option value="Benoni Host">Benoni Host</option>
+          <option value="Benoni Lakes">Benoni Lakes</option>
+          <option value="Benoni Van Rhyn">Benoni Van Rhyn</option>
+          <option value="Bergvliet">Bergvliet</option>
+          <option value="Berlin">Berlin</option>
+          <option value="Bloemfontein">Bloemfontein</option>
+          <option value="Boksburg">Boksburg</option>
+          <option value="Brackenfell">Brackenfell</option>
+          <option value="Brackenfell (Leos)">Brackenfell (Leos)</option>
+          <option value="Bredasdorp">Bredasdorp</option>
+          <option value="Bryanston Champions Cyper">Bryanston Champions Cyper</option>
+          <option value="Butterworth">Butterworth</option>
+          <option value="Cape Of Good Hope">Cape Of Good Hope</option>
+          <option value="Cape Town">Cape Town</option>
+          <option value="Centurion">Centurion</option>
+          <option value="Centurion Lifestyle">Centurion Lifestyle</option>
+          <option value="Ceres">Ceres</option>
+          <option value="Cowies Hill">Cowies Hill</option>
+          <option value="De Grendel">De Grendel</option>
+          <option value="De Tyger (Leos)">De Tyger (Leos)</option>
+          <option value="Deep South">Deep South</option>
+          <option value="Drakenstein">Drakenstein</option>
+          <option value="Durban Central">Durban Central</option>
+          <option value="Durban Host">Durban Host</option>
+          <option value="Durban South">Durban South</option>
+          <option value="Durbanville">Durbanville</option>
+          <option value="Durbanville (Leos)">Durbanville (Leos)</option>
+          <option value="East Coast">East Coast</option>
+          <option value="East London Beacon Bay">East London Beacon Bay</option>
+          <option value="East London Cambridge">East London Cambridge</option>
+          <option value="East London Port Rex">East London Port Rex</option>
+          <option value="East London West">East London West</option>
+          <option value="Eden">Eden</option>
+          <option value="Edenvale">Edenvale</option>
+          <option value="Edenvale (Lioness)">Edenvale (Lioness)</option>
+          <option value="Empangeni">Empangeni</option>
+          <option value="Estcourt">Estcourt</option>
+          <option value="Fish Hoek">Fish Hoek</option>
+          <option value="Fort Beaufort">Fort Beaufort</option>
+          <option value="Franschhoek">Franschhoek</option>
+          <option value="Gansbaai">Gansbaai</option>
+          <option value="George">George</option>
+          <option value="Germiston">Germiston</option>
+          <option value="Gillitts-Camperdown">Gillitts-Camperdown</option>
+          <option value="Gonubie">Gonubie</option>
+          <option value="Gordonia">Gordonia</option>
+          <option value="Gordons Bay">Gordons Bay</option>
+          <option value="Graaff Reinet">Graaff Reinet</option>
+          <option value="Grahamstown">Grahamstown</option>
+          <option value="Groote Schuur">Groote Schuur</option>
+          <option value="Grootfontein">Grootfontein</option>
+          <option value="Helderberg">Helderberg</option>
+          <option value="Helderkruin">Helderkruin</option>
+          <option value="Henley On Klip">Henley On Klip</option>
+          <option value="Henties Bay">Henties Bay</option>
+          <option value="Hibberdene">Hibberdene</option>
+          <option value="Hilton">Hilton</option>
+          <option value="Hout Bay">Hout Bay</option>
+          <option value="Howick-uMngeni">Howick-uMngeni</option>
+          <option value="Johannesburg North">Johannesburg North</option>
+          <option value="Kensington">Kensington</option>
+          <option value="Kimberley">Kimberley</option>
+          <option value="King William's Town">King William's Town</option>
+          <option value="Kingsburgh">Kingsburgh</option>
+          <option value="Kirstenbosch">Kirstenbosch</option>
+          <option value="Klerksdorp">Klerksdorp</option>
+          <option value="Kloof">Kloof</option>
+          <option value="Knysna">Knysna</option>
+          <option value="Kokstad">Kokstad</option>
+          <option value="Komga">Komga</option>
+          <option value="Kouga">Kouga</option>
+          <option value="Krugersdorp">Krugersdorp</option>
+          <option value="Ladysmith">Ladysmith</option>
+          <option value="Letaba Tzaneen">Letaba Tzaneen</option>
+          <option value="Mafikeng">Mafikeng</option>
+          <option value="Magaliesburg">Magaliesburg</option>
+          <option value="Malgas">Malgas</option>
+          <option value="Malmesbury">Malmesbury</option>
+          <option value="Manzini">Manzini</option>
+          <option value="Merriman">Merriman</option>
+          <option value="Midrand">Midrand</option>
+          <option value="Milnerton">Milnerton</option>
+          <option value="Mitchells Plain">Mitchells Plain</option>
+          <option value="Moorreesburg">Moorreesburg</option>
+          <option value="Mossel Bay St Blaize">Mossel Bay St Blaize</option>
+          <option value="Nelspruit">Nelspruit</option>
+          <option value="Newcastle">Newcastle</option>
+          <option value="Newlands">Newlands</option>
+          <option value="Newlands (Leos)">Newlands (Leos)</option>
+          <option value="Noll">Noll</option>
+          <option value="North Durban">North Durban</option>
+          <option value="Northcliff">Northcliff</option>
+          <option value="Otavi">Otavi</option>
+          <option value="Paarl">Paarl</option>
+          <option value="Phalaborwa">Phalaborwa</option>
+          <option value="Pietermaritzburg">Pietermaritzburg</option>
+          <option value="Pietersburg">Pietersburg</option>
+          <option value="Pinetown">Pinetown</option>
+          <option value="Plett Baia Formosa">Plett Baia Formosa</option>
+          <option value="Port Alfred">Port Alfred</option>
+          <option value="Port Elizabeth Cape Recife">Port Elizabeth Cape Recife</option>
+          <option value="Port Elizabeth Host">Port Elizabeth Host</option>
+          <option value="Port Elizabeth St Croix">Port Elizabeth St Croix</option>
+          <option value="Port Shepstone">Port Shepstone</option>
+          <option value="Porterville">Porterville</option>
+          <option value="Potchefstroom">Potchefstroom</option>
+          <option value="Pretoria City">Pretoria City</option>
+          <option value="Pretoria Jakaranda">Pretoria Jakaranda</option>
+          <option value="Pretoria South">Pretoria South</option>
+          <option value="Ramsgate">Ramsgate</option>
+          <option value="Rehoboth">Rehoboth</option>
+          <option value="Reitz">Reitz</option>
+          <option value="Robertson">Robertson</option>
+          <option value="Roodepoort Clearwater Cyber">Roodepoort Clearwater Cyber</option>
+          <option value="Roodepoort Host">Roodepoort Host</option>
+          <option value="Rustenburg">Rustenburg</option>
+          <option value="Scottburgh">Scottburgh</option>
+          <option value="Sea Point">Sea Point</option>
+          <option value="Sedgefield">Sedgefield</option>
+          <option value="Shelly Beach">Shelly Beach</option>
+          <option value="Soweto Host">Soweto Host</option>
+          <option value="Standerton">Standerton</option>
+          <option value="Stilfontein">Stilfontein</option>
+          <option value="Still Bay">Still Bay</option>
+          <option value="Sunshine Coast Kenton-On-Sea">Sunshine Coast Kenton-On-Sea</option>
+          <option value="Swakopmund">Swakopmund</option>
+          <option value="Swellendam">Swellendam</option>
+          <option value="Table View">Table View</option>
+          <option value="The Wilds">The Wilds</option>
+          <option value="Tokai">Tokai</option>
+          <option value="Tsumeb">Tsumeb</option>
+          <option value="Tulbagh">Tulbagh</option>
+          <option value="Tygerberg Hills">Tygerberg Hills</option>
+          <option value="Uitenhage">Uitenhage</option>
+          <option value="Umtata">Umtata</option>
+          <option value="Uniondale">Uniondale</option>
+          <option value="University of KwaZulu-Natal Campus">University of KwaZulu-Natal Campus</option>
+          <option value="Vereeniging">Vereeniging</option>
+          <option value="Vredendal">Vredendal</option>
+          <option value="Vryheid">Vryheid</option>
+          <option value="Walvis Bay">Walvis Bay</option>
+          <option value="Wellington">Wellington</option>
+          <option value="Weltevreden">Weltevreden</option>
+          <option value="Westville">Westville</option>
+          <option value="Wilro Park">Wilro Park</option>
+          <option value="Windhoek">Windhoek</option>
+          <option value="Windhoek Alte Feste">Windhoek Alte Feste</option>
+          <option value="Worcester">Worcester</option>
+          <option value="Zastron">Zastron</option>          
+        </select>
+
+        <label for="main_district">District: </label>
+        <select class="form-control" id="main_district">
+          <option value="410E">410E</option>
+          <option value="410W">410W</option>
+        </select>
       </div>
-    </div>
-  </div>
-  
-  <div class="form-group">
-    <label for="comments">Comments/Questions</label>
-    <textarea class="form-control" id="comments" rows="3"></textarea>
-  </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form>
-</body>
+    </form>
+  </body>
 </html>
+
+  <!-- <div class="form-group"> -->
+  <!--   <label for="seeAnotherField">Do You Want To See Another Field?</label> -->
+  <!--   <select class="form-control" id="seeAnotherField"> -->
+  <!--         <option value="no">No Way.</option> -->
+  <!--         <option value="yes">Absolutely!</option> -->
+  <!--   </select> -->
+  <!-- </div> -->
+  
+  <!-- <div class="form-group" id="otherFieldDiv"> -->
+  <!--   <label for="otherField">Here you go!</label> -->
+  <!--   <select class="form-control" id="otherField"> -->
+  <!--     <option>Yay</option> -->
+  <!--     <option>Woo</option> -->
+  <!--     <option>Hazah</option> -->
+  <!--     <option>Yipee</option> -->
+  <!--     <option>Hoorah</option> -->
+  <!--   </select> -->
+  <!-- </div> -->
+  
+  <!-- <div class="form-group"> -->
+  <!--   <label for="seeAnotherFieldGroup">Do You Want To See Another Group of Fields?</label> -->
+  <!--   <select class="form-control" id="seeAnotherFieldGroup"> -->
+  <!--         <option value="no">Not Particularly.</option> -->
+  <!--         <option value="yes">I Guess!</option> -->
+  <!--   </select> -->
+  <!-- </div> -->
+  
+  <!-- <div class="form-group" id="otherFieldGroupDiv"> -->
+  <!--   <div class="row"> -->
+  <!--     <div class="col-6"> -->
+  <!--       <label for="otherField1">Group: Heres One!</label> -->
+  <!--       <input type="text" class="form-control w-100" id="otherField1"> -->
+  <!--     </div> -->
+  <!--     <div class="col-6"> -->
+  <!--       <label for="otherField2">Group: Another One!</label> -->
+  <!--       <input type="text" class="form-control w-100" id="otherField2"> -->
+  <!--     </div> -->
+  <!--   </div> -->
+  <!-- </div> -->
+  
+  <!-- <div class="form-group"> -->
+  <!--   <label for="comments">Comments/Questions</label> -->
+  <!--   <textarea class="form-control" id="comments" rows="3"></textarea> -->
+  <!-- </div> -->
+  <!-- <button type="submit" class="btn btn-primary">Submit</button> -->

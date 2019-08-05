@@ -62,10 +62,10 @@ pygmentsCodefencesGuessSyntax = false
 #   telegram = "username"
 #   500px = "username"
 
-# [[menu.main]]
-#     name = "Registration"
-#     url = "registration"
-#     weight = 1
+[[menu.main]]
+    name = "Registration"
+    url = "registration"
+    weight = 1
 
 [[menu.main]]
     name = "Venue"
