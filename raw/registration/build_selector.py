@@ -8,10 +8,18 @@ def build_selector(fn):
         for l in fh:
             item = l.strip()
             out.append(f'<option value="{item}">{item}</option>')
-    pyperclip.copy("\n".join(out))
+    return out
 
-if sys.argv[1] == 'c':
-    build_selector("clubs.txt")
-if sys.argv[1] == 't':
-    build_selector("titles.txt")
+def build_club_selector():
+    return build_selector('clubs.txt')
 
+def build_titles_selector():
+    return build_selector('titles.txt')
+
+if __name__ == "__main__":
+    if sys.argv[1] == 'c':
+        fn = 'clubs.txt'
+    if sys.argv[1] == 't':
+        fn = 'titles.txt'
+    pyperclip.copy("\n".join(build_selector(fn)))
+        
