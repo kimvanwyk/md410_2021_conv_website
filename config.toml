@@ -70,12 +70,12 @@ pygmentsCodefencesGuessSyntax = false
 [[menu.main]]
     name = "Venue"
     url = "venue"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "Program"
     url = "program"
-    weight = 1
+    weight = 2
 
 # [[menu.main]]
 #     identifier = "samples"
