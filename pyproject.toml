@@ -8,6 +8,7 @@ authors = ["Kim van Wyk <kimv@sahomeloans.com>"]
 python = "^3.6"
 python-dateutil = "^2.8"
 pyperclip = "^1.7"
+black = {version = "^18.3-alpha.0",allows-prereleases = true}
 
 [tool.poetry.dev-dependencies]
 ptpython = "^2.0"
