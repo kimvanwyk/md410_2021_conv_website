@@ -1,3 +1,7 @@
+CLUBS = []
+with open('clubs.txt', "r") as fh:
+    CLUBS = [l.strip() for l in fh]
+
 class HTML(object):
     def __init__(self):
         self.out = ["---",
@@ -30,13 +34,13 @@ class HTML(object):
     def add_header(self, text):
         self.out.append(f"~<h2>{text}</h2>")
 
-    def add_text(self, tag, label, help=""):
+    def add_text(self, tag, label, help="", type="text"):
         if help:
             help_attr = f' aria-describedby="{tag}_help"'
         else:
             help_attr = ""
         inner = [
-            f'~~~<input type="text" class="form-control" id="{tag}" name="{tag}"{help_attr}>'
+            f'~~~<input type="{type}" class="form-control" id="{tag}" name="{tag}"{help_attr}>'
         ]
         if help:
             inner.extend(
@@ -48,6 +52,28 @@ class HTML(object):
             )
         self.add_form_item(tag, label, inner)
 
+    def add_email(self, tag, label, help=""):
+        self.add_text(tag, label, help=help, type="email")
+
+    def add_selector(self, tag, label, items, help=""):
+        if help:
+            help_attr = f' aria-describedby="{tag}_help"'
+        else:
+            help_attr = ""
+        inner = [
+            f'~~~<select class="form-control" id="{tag}" name="{tag}"{help_attr}>'
+        ]
+        inner.extend([f'~~~~<option value="{item}">{item}</option>' for item in items])
+        inner.append('~~~</select>')
+        if help:
+            inner.extend(
+                (
+                    f'~~~<small id="{tag}_help" class="form-text text-muted">',
+                    f"~~~~{help}",
+                    "~~~</small>",
+                )
+            )
+        self.add_form_item(tag, label, inner)
 
 html = HTML()
 html.add_header("First Attendee")
@@ -57,18 +83,15 @@ html.add_text(
     "Your first name or names. Please use your real name rather than a nickname - nicknames can however be used for your name badge later in this form.",
 )
 html.add_text("main_last_name", "Last Name")
+html.add_selector("main_club", "Lions Club", CLUBS)
+html.add_text("main_cell", "Cell Phone", "A cellphone number you can be reached at if needed. Your number may also be used for urgent SMSes for changes of plan during the convention.")
+html.add_email("main_email", "Email Address")
+html.add_text("main_dietary", "Dietary Requirements", help="Please be VERY clear with these requirements")
+html.add_text("main_disability", "Special Access Requirements", help="Please indicate any requirements for wheel chair access or the like, if applicable")
+html.add_text("main_name_badge", "Name Badge", help="The name you would like to appear on your name badge. eg Kim van Wyk; Lion Trevor Hobbs, ZC Dave Shone; PDG Lyn Botha")
 html.close()
 
 with open('../../content/registration/_index.html', 'w') as fh:
     fh.write(html.render())
 print(html.render())
 
-# <div class="form-group row">
-#   <label for="main_first_names" class="col-sm-4 col-form-label">First Name(s): </label>
-#   <div class="col-sm-8">
-#     <input type="text" class="form-control" id="main_first_names" name="main_first_names" aria-describedby="main_first_names_help">
-#     <small id="main_first_names_help" class="form-text text-muted">
-#       Your first name or names. Please use your real name rather than a nickname - nicknames can be however used for your name badge later in this form.
-#     </small>
-#   </div>
-# </div>
