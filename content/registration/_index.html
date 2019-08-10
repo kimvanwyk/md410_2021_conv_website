@@ -8,22 +8,28 @@ draft: false
 <form name="registration" method="POST" data-netlify="true">
    <h2>First Attendee</h2>
    <div class="form-group row">
-      <label for="main_first_names" class="col-sm-4 col-form-label">First Names(s): </label>
+      <label for="main_first_names" class="col-sm-4 col-form-label">
+         First Names(s): 
+      </label>
       <div class="col-sm-8">
          <input type="text" class="form-control" id="main_first_names" name="main_first_names" aria-describedby="main_first_names_help">
          <small id="main_first_names_help" class="form-text text-muted">
-         Your first name or names. Please use your real name rather than a nickname - nicknames can however be used for your name badge later in this form.
+            Your first name or names. Please use your real name rather than a nickname - nicknames can however be used for your name badge later in this form.
          </small>
       </div>
    </div>
    <div class="form-group row">
-      <label for="main_last_name" class="col-sm-4 col-form-label">Last Name: </label>
+      <label for="main_last_name" class="col-sm-4 col-form-label">
+         Last Name: 
+      </label>
       <div class="col-sm-8">
          <input type="text" class="form-control" id="main_last_name" name="main_last_name">
       </div>
    </div>
    <div class="form-group row">
-      <label for="main_club" class="col-sm-4 col-form-label">Lions Club: </label>
+      <label for="main_club" class="col-sm-4 col-form-label">
+         Lions Club: 
+      </label>
       <div class="col-sm-8">
          <select class="form-control" id="main_club" name="main_club">
             <option value="Alberton">Alberton</option>
@@ -187,45 +193,81 @@ draft: false
       </div>
    </div>
    <div class="form-group row">
-      <label for="main_cell" class="col-sm-4 col-form-label">Cell Phone: </label>
+      <label for="main_cell" class="col-sm-4 col-form-label">
+         Cell Phone: 
+      </label>
       <div class="col-sm-8">
          <input type="text" class="form-control" id="main_cell" name="main_cell" aria-describedby="main_cell_help">
          <small id="main_cell_help" class="form-text text-muted">
-         A cellphone number you can be reached at if needed. Your number may also be used for urgent SMSes for changes of plan during the convention.
+            A cellphone number you can be reached at if needed. Your number may also be used for urgent SMSes for changes of plan during the convention.
          </small>
       </div>
    </div>
    <div class="form-group row">
-      <label for="main_email" class="col-sm-4 col-form-label">Email Address: </label>
+      <label for="main_email" class="col-sm-4 col-form-label">
+         Email Address: 
+      </label>
       <div class="col-sm-8">
          <input type="email" class="form-control" id="main_email" name="main_email">
       </div>
    </div>
    <div class="form-group row">
-      <label for="main_dietary" class="col-sm-4 col-form-label">Dietary Requirements: </label>
+      <label for="main_dietary" class="col-sm-4 col-form-label">
+         Dietary Requirements: 
+      </label>
       <div class="col-sm-8">
          <input type="text" class="form-control" id="main_dietary" name="main_dietary" aria-describedby="main_dietary_help">
          <small id="main_dietary_help" class="form-text text-muted">
-         Please be VERY clear with these requirements
+            Please be VERY clear with these requirements
          </small>
       </div>
    </div>
    <div class="form-group row">
-      <label for="main_disability" class="col-sm-4 col-form-label">Special Access Requirements: </label>
+      <label for="main_disability" class="col-sm-4 col-form-label">
+         Special Access Requirements: 
+      </label>
       <div class="col-sm-8">
          <input type="text" class="form-control" id="main_disability" name="main_disability" aria-describedby="main_disability_help">
          <small id="main_disability_help" class="form-text text-muted">
-         Please indicate any requirements for wheel chair access or the like, if applicable
+            Please indicate any requirements for wheel chair access or the like, if applicable
          </small>
       </div>
    </div>
    <div class="form-group row">
-      <label for="main_name_badge" class="col-sm-4 col-form-label">Name Badge: </label>
+      <label for="main_name_badge" class="col-sm-4 col-form-label">
+         Name Badge: 
+      </label>
       <div class="col-sm-8">
          <input type="text" class="form-control" id="main_name_badge" name="main_name_badge" aria-describedby="main_name_badge_help">
          <small id="main_name_badge_help" class="form-text text-muted">
-         The name you would like to appear on your name badge. eg Kim van Wyk; Lion Trevor Hobbs, ZC Dave Shone; PDG Lyn Botha
+            The name you would like to appear on your name badge. eg Kim van Wyk; Lion Trevor Hobbs, ZC Dave Shone; PDG Lyn Botha
          </small>
       </div>
+   </div>
+   <div class="form-group row">
+      <div class="form-check">
+         <input class="form-check-input" type="radio" name="partner" id="partner_none" value="partner_none" checked>
+         <label class="form-check-label" for="partner_none">
+            No partner will be coming with me
+         </label>
+      </div>
+      <div class="form-check">
+         <input class="form-check-input" type="radio" name="partner" id="partner_lion" value="partner_lion">
+         <label class="form-check-label" for="partner_lion">
+            My Lion partner will be coming with me
+         </label>
+      </div>
+      <div class="form-check">
+         <input class="form-check-input" type="radio" name="partner" id="partner_non_lion" value="partner_non_lion">
+         <label class="form-check-label" for="partner_non_lion">
+            My non-Lion partner in service will be coming with me
+         </label>
+      </div>
+   </div>
+   <div id="partner_lion_div">
+      <h2>Lion Partner</h2>
+   </div>
+   <div id="partner_non_lion_div">
+      <h2>Non Lion Partner</h2>
    </div>
 </form>
