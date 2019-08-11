@@ -67,14 +67,23 @@ class HTML(object):
     def add_header(self, text):
         self.out.append(f'{"~" * self.level}<h2>{text}</h2>')
 
-    def add_text(self, tag, label, help="", type="text"):
+    def add_text(self, tag, label, help="", type="text", cls="",cost=None, disabled=False):
         self.open_form_item(tag, label, number=type == "number")
         if help:
             help_attr = f' aria-describedby="{tag}_help"'
         else:
             help_attr = ""
+        if cost:
+            cost_attr=f" cost={cost}"
+        else:
+            cost_attr=""
+        base_class = "form-control"
+        if cls:
+            class_attr = f'{base_class} {cls}'
+        else:
+            class_attr = base_class
         inner = [
-            f'{"~" * self.level}<input type="{type}" class="form-control" id="{tag}" name="{tag}"{help_attr}>'
+            f'{"~" * self.level}<input type="{type}" class="{class_attr}" id="{tag}" name="{tag}"{help_attr}{cost_attr}{" disabled" if disabled else ""}>'
         ]
         if help:
             inner.append(
@@ -203,6 +212,11 @@ def make_attendee_fields(html, prefix, lion=True):
     )
 
     html.add_checkbox(
+        f"{prefix}_first_mdc",
+        "This will be the attendee's first MDC",
+    )
+
+    html.add_checkbox(
         f"{prefix}_mjf_lunch",
         "Attendee will attend the Melvin Jones Lunch.",
         help="This lunch is only open to Melvin Jones Fellows and may carry an additional charge. Details will be provided closer to the time.",
@@ -242,6 +256,7 @@ html.add_header("Non Lion Partner")
 make_attendee_fields(html, "partner_non_lion", lion=False)
 html.close_containing_div()
 html.add_divider()
+html.add_header("Registrations")
 html.add_radios(
     "reg_type",
     {
@@ -256,26 +271,30 @@ html.add_text(
     "Full Registrations (R1400 per person)",
     help="Full registration includes <ul><li>Lunches</li><li>Banquet</li><li>A Pony</li><li>Theme Evening</li></ul>",
     type="number",
+    cls='total',
+    cost=1400
 )
 html.close_containing_div()
 html.open_containing_div(cls="partial_reg")
 html.add_header("Partial Registrations")
 html.add_text(
-    "partial_reg_banquet", "Banquet Registrations (R600 per person)", type="number"
+    "partial_reg_banquet", "Banquet Registrations (R600 per person)", type="number", cls='total', cost=600
 )
 html.add_text(
-    "partial_reg_convention", "MD410 Convention (R450 per person)", type="number"
+    "partial_reg_convention", "MD410 Convention (R450 per person)", type="number", cls='total', cost=450
 )
 html.add_text(
-    "partial_reg_theme", "Theme Evening Registrations (R600 per person)", type="number"
+    "partial_reg_theme", "Theme Evening Registrations (R600 per person)", type="number", cls='total', cost=600
 )
 html.close_containing_div()
 html.add_divider()
 html.add_header("Extra Items")
-html.add_text("pins", "Convention Pins (R55 per pin)", type="number")
+html.add_text("pins", "Convention Pins (R55 per pin)", type="number", cls='total', cost=55)
 html.add_text(
-    "mugs", "Commemorative Convention Coffee Mug (R100 per mug)", type="number"
+    "mugs", "Commemorative Convention Coffee Mug (R100 per mug)", type="number", cls='total', cost=100
 )
+html.add_divider()
+html.add_text("total_cost", "Total Cost", type="number")
 html.close()
 
 with open("../../content/registration/_index.html", "w") as fh:

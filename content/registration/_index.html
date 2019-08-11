@@ -245,6 +245,12 @@ draft: false
       </div>
    </div>
    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="main_first_mdc">
+      <label class="form-check-label" for="main_first_mdc">
+         This will be the attendee's first MDC
+      </label>
+   </div>
+   <div class="form-check">
       <input class="form-check-input" type="checkbox" value="" id="main_mjf_lunch" aria-describedby="main_mjf_lunch_help">
       <label class="form-check-label" for="main_mjf_lunch">
          Attendee will attend the Melvin Jones Lunch.
@@ -524,6 +530,12 @@ draft: false
             </div>
          </div>
          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="partner_lion_first_mdc">
+            <label class="form-check-label" for="partner_lion_first_mdc">
+               This will be the attendee's first MDC
+            </label>
+         </div>
+         <div class="form-check">
             <input class="form-check-input" type="checkbox" value="" id="partner_lion_mjf_lunch" aria-describedby="partner_lion_mjf_lunch_help">
             <label class="form-check-label" for="partner_lion_mjf_lunch">
                Attendee will attend the Melvin Jones Lunch.
@@ -618,6 +630,12 @@ draft: false
             </div>
          </div>
          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="partner_non_lion_first_mdc">
+            <label class="form-check-label" for="partner_non_lion_first_mdc">
+               This will be the attendee's first MDC
+            </label>
+         </div>
+         <div class="form-check">
             <input class="form-check-input" type="checkbox" value="" id="partner_non_lion_mjf_lunch" aria-describedby="partner_non_lion_mjf_lunch_help">
             <label class="form-check-label" for="partner_non_lion_mjf_lunch">
                Attendee will attend the Melvin Jones Lunch.
@@ -638,15 +656,16 @@ draft: false
          <div class="form-check">
             <input class="form-check-input" type="checkbox" value="" id="partner_non_lion_partner_program" aria-describedby="partner_non_lion_partner_program_help">
             <label class="form-check-label" for="partner_non_lion_partner_program">
-               Attendee would be interested in the partners program.
+               Attendee would be interested in the partner's program.
             </label>
             <small id="partner_non_lion_partner_program_help" class="form-text text-muted">
-               The partner's program may involve an additional cost.Details will be provided closer to the time.
+               The partner's program may involve an additional cost. Details will be provided closer to the time.
             </small>
          </div>
       </fieldset>
    </div>
 <hr>
+   <h2>Registrations</h2>
    <div class="form-group row">
       <div class="form-check">
          <input class="form-check-input" type="radio" name="reg_type" id="full_reg" value="full_reg" checked>
@@ -669,7 +688,7 @@ draft: false
                Full Registrations (R1400 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" class="form-control" id="full_reg" name="full_reg" aria-describedby="full_reg_help">
+               <input type="number" class="form-control total" id="full_reg" name="full_reg" aria-describedby="full_reg_help" cost=1400>
                <small id="full_reg_help" class="form-text text-muted">
                   Full registration includes <ul><li>Lunches</li><li>Banquet</li><li>A Pony</li><li>Theme Evening</li></ul>
                </small>
@@ -685,7 +704,7 @@ draft: false
                Banquet Registrations (R600 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" class="form-control" id="partial_reg_banquet" name="partial_reg_banquet">
+               <input type="number" class="form-control total" id="partial_reg_banquet" name="partial_reg_banquet" cost=600>
             </div>
          </div>
          <div class="form-group row">
@@ -693,7 +712,7 @@ draft: false
                MD410 Convention (R450 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" class="form-control" id="partial_reg_convention" name="partial_reg_convention">
+               <input type="number" class="form-control total" id="partial_reg_convention" name="partial_reg_convention" cost=450>
             </div>
          </div>
          <div class="form-group row">
@@ -701,7 +720,7 @@ draft: false
                Theme Evening Registrations (R600 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" class="form-control" id="partial_reg_theme" name="partial_reg_theme">
+               <input type="number" class="form-control total" id="partial_reg_theme" name="partial_reg_theme" cost=600>
             </div>
          </div>
       </fieldset>
@@ -713,7 +732,7 @@ draft: false
          Convention Pins (R55 per pin): 
       </label>
       <div class="col-sm-4">
-         <input type="number" class="form-control" id="pins" name="pins">
+         <input type="number" class="form-control total" id="pins" name="pins" cost=55>
       </div>
    </div>
    <div class="form-group row">
@@ -721,7 +740,16 @@ draft: false
          Commemorative Convention Coffee Mug (R100 per mug): 
       </label>
       <div class="col-sm-4">
-         <input type="number" class="form-control" id="mugs" name="mugs">
+         <input type="number" class="form-control total" id="mugs" name="mugs" cost=100>
+      </div>
+   </div>
+<hr>
+   <div class="form-group row">
+      <label for="total_cost" class="col-sm-8 col-form-label">
+         Total Cost: 
+      </label>
+      <div class="col-sm-4">
+         <input type="number" class="form-control" id="total_cost" name="total_cost">
       </div>
    </div>
 </form>

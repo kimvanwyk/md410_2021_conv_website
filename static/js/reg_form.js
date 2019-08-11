@@ -45,4 +45,12 @@ $(document).ready(function() {
     }
   });
   $("#full_reg").trigger("change");
+
+  $('.total').keyup(function () {
+    var sum = 0;
+    $('.total').each(function() {
+      sum += (Number($(this).val()) * Number($(this).attr("cost")));
+    });
+    $('#total_cost').val(sum);
+  });
 });
