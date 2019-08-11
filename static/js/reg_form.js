@@ -2,46 +2,47 @@ $(document).ready(function() {
   $("#partner_none").change(function() {
     if ($(this).is(":checked") == true) {
       $('#partner_lion_div').hide();
-      // $('#otherField').removeAttr('required');
-      // $('#otherField').removeAttr('data-error');
+      $('#partner_lion_fs').prop('disabled', '');
       $('#partner_non_lion_div').hide();
-      // $('#otherFieldDiv').show();
-      // $('#otherField').attr('required', '');
-      // $('#otherField').attr('data-error', 'This field is required.');
+      $('#partner_non_lion_fs').prop('disabled', '');
     }
   });
-  $("#partner_none").trigger("change");
 
   $("#partner_lion").change(function() {
     if ($(this).is(":checked") == true) {
       $('#partner_lion_div').show();
+      $('#partner_lion_fs').removeAttr('disabled');
       $('#partner_non_lion_div').hide();
+      $('#partner_non_lion_fs').prop('disabled', '');
     }
   });
-  // $("#partner_lion").trigger("change");
 
   $("#partner_non_lion").change(function() {
     if ($(this).is(":checked") == true) {
       $('#partner_lion_div').hide();
+      $('#partner_lion_fs').prop('disabled', '');
       $('#partner_non_lion_div').show();
+      $('#partner_non_lion_fs').removeAttr('disabled');
     }
   });
-  // $("#partner_non_lion").trigger("change");
+  $("#partner_none").trigger("change");
 
-  $("#seeAnotherFieldGroup").change(function() {
-    if ($(this).val() == "yes") {
-      $('#otherFieldGroupDiv').show();
-      $('#otherField1').attr('required', '');
-      $('#otherField1').attr('data-error', 'This field is required.');
-      $('#otherField2').attr('required', '');
-      $('#otherField2').attr('data-error', 'This field is required.');
-    } else {
-      $('#otherFieldGroupDiv').hide();
-      $('#otherField1').removeAttr('required');
-      $('#otherField1').removeAttr('data-error');
-      $('#otherField2').removeAttr('required');
-      $('#otherField2').removeAttr('data-error');
+  $("#full_reg").change(function() {
+    if ($(this).is(":checked") == true) {
+      $('#full_reg_div').show();
+      $('#full_reg_fs').removeAttr('disabled');
+      $('#partial_reg_div').hide();
+      $('#partial_reg_fs').prop('disabled', '');
     }
   });
-  $("#seeAnotherFieldGroup").trigger("change");
+
+  $("#partial_reg").change(function() {
+    if ($(this).is(":checked") == true) {
+      $('#partial_reg_div').show();
+      $('#partial_reg_fs').removeAttr('disabled');
+      $('#full_reg_div').hide();
+      $('#full_reg_fs').prop('disabled', '');
+    }
+  });
+  $("#full_reg").trigger("change");
 });
