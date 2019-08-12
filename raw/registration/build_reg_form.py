@@ -18,13 +18,15 @@ class HTML(object):
         self.level = 1
 
     def close(self):
-       self.out.append(f'{"~" * self.level}<center>')
-       self.level += 1
-       self.out.append(f'{"~" * self.level}<button type="submit">Submit Registration Form</button>')
-       self.level -= 1
-       self.out.append(f'{"~" * self.level}</center>')
-       self.level -= 1
-       self.out.append("</form>")
+        self.out.append(f'{"~" * self.level}<center>')
+        self.level += 1
+        self.out.append(
+            f'{"~" * self.level}<button type="submit">Submit Registration Form</button>'
+        )
+        self.level -= 1
+        self.out.append(f'{"~" * self.level}</center>')
+        self.level -= 1
+        self.out.append("</form>")
 
     def render(self):
         return "\n".join([l.replace("~", "   ") for l in self.out])
@@ -86,19 +88,21 @@ class HTML(object):
             self.level -= 1
         self.out.append(f'{"~" * self.level}</div>')
 
-    def add_text(self, tag, label, help="", type="text", cls="",cost=None, disabled=False):
+    def add_text(
+        self, tag, label, help="", type="text", cls="", cost=None, disabled=False
+    ):
         self.open_form_item(tag, label, number=type == "number")
         if help:
             help_attr = f' aria-describedby="{tag}_help"'
         else:
             help_attr = ""
         if cost:
-            cost_attr=f" cost={cost}"
+            cost_attr = f" cost={cost}"
         else:
-            cost_attr=""
+            cost_attr = ""
         base_class = "form-control"
         if cls:
-            class_attr = f'{base_class} {cls}'
+            class_attr = f"{base_class} {cls}"
         else:
             class_attr = base_class
         inner = [
@@ -199,6 +203,7 @@ class HTML(object):
     def add_divider(self):
         self.out.append(f'{"~" * self.level}<hr>')
 
+
 def make_attendee_fields(html, prefix, lion=True):
     html.add_text(
         f"{prefix}_first_names",
@@ -230,10 +235,7 @@ def make_attendee_fields(html, prefix, lion=True):
         help=f"The name to appear on the attendee's name badge. eg {'Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe' if lion else 'Joe Bloggs, Partner in Service Jane Doe'}",
     )
 
-    html.add_checkbox(
-        f"{prefix}_first_mdc",
-        "This will be the attendee's first MDC",
-    )
+    html.add_checkbox(f"{prefix}_first_mdc", "This will be the attendee's first MDC")
 
     html.add_checkbox(
         f"{prefix}_mjf_lunch",
@@ -253,6 +255,7 @@ def make_attendee_fields(html, prefix, lion=True):
             "Attendee would be interested in the partner's program.",
             help="The partner's program may involve an additional cost. Details will be provided closer to the time.",
         )
+
 
 html = HTML()
 html.add_header("First Attendee")
@@ -290,27 +293,45 @@ html.add_text(
     "Full Registrations (R1400 per person)",
     help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>A Pony</li><li>Theme Evening</li></ul>",
     type="number",
-    cls='total',
-    cost=1400
+    cls="total",
+    cost=1400,
 )
 html.close_containing_div()
 html.open_containing_div(cls="partial_reg")
 html.add_header("Partial Registrations")
 html.add_text(
-    "partial_reg_banquet", '<a href="/events/banquet">Banquet Registrations</a> (R600 per person)', type="number", cls='total', cost=600
+    "partial_reg_banquet",
+    '<a href="/events/banquet">Banquet Registrations</a> (R600 per person)',
+    type="number",
+    cls="total",
+    cost=600,
 )
 html.add_text(
-    "partial_reg_convention", '<a href="/events/md_convention">MD410 Convention</a> (R450 per person)', type="number", cls='total', cost=450
+    "partial_reg_convention",
+    '<a href="/events/md_convention">MD410 Convention</a> (R450 per person)',
+    type="number",
+    cls="total",
+    cost=450,
 )
 html.add_text(
-    "partial_reg_theme", '<a href="/events/theme_evening">Theme Evening Registrations</a> (R600 per person)', type="number", cls='total', cost=600
+    "partial_reg_theme",
+    '<a href="/events/theme_evening">Theme Evening Registrations</a> (R600 per person)',
+    type="number",
+    cls="total",
+    cost=600,
 )
 html.close_containing_div()
 html.add_divider()
 html.add_header("Extra Items")
-html.add_text("pins", "Convention Pins (R55 per pin)", type="number", cls='total', cost=55)
 html.add_text(
-    "mugs", "Commemorative Convention Coffee Mug (R100 per mug)", type="number", cls='total', cost=100
+    "pins", "Convention Pins (R55 per pin)", type="number", cls="total", cost=55
+)
+html.add_text(
+    "mugs",
+    "Commemorative Convention Coffee Mug (R100 per mug)",
+    type="number",
+    cls="total",
+    cost=100,
 )
 html.add_divider()
 html.add_label("total_cost", "Total Cost: R0", centre=True)
