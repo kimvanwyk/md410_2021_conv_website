@@ -13,7 +13,7 @@ class HTML(object):
             "",
             '<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>',
             '<script src="/js/reg_form.js"></script>',
-            '<form name="registration" method="POST" data-netlify="true">',
+            '<form name="registration" method="POST" data-netlify="true" action="/registration_result>',
         ]
         self.level = 1
 
