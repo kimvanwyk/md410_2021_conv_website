@@ -67,6 +67,19 @@ class HTML(object):
     def add_header(self, text):
         self.out.append(f'{"~" * self.level}<h2>{text}</h2>')
 
+    def add_label(self, tag, text, centre=False):
+        self.out.append(f'{"~" * self.level}<div class="form-group row">')
+        self.level += 1
+        if centre:
+            self.out.append(f'{"~" * self.level}<center>')
+            self.level += 1
+        self.out.append(f'{"~" * self.level}<label id={tag}>{text}</label>')
+        self.level -= 1
+        if centre:
+            self.out.append(f'{"~" * self.level}</center>')
+            self.level -= 1
+        self.out.append(f'{"~" * self.level}</div>')
+
     def add_text(self, tag, label, help="", type="text", cls="",cost=None, disabled=False):
         self.open_form_item(tag, label, number=type == "number")
         if help:
@@ -178,7 +191,7 @@ class HTML(object):
         self.out.append(f'{"~" * self.level}</div>')
 
     def add_divider(self):
-        self.out.append('<hr>')
+        self.out.append(f'{"~" * self.level}<hr>')
 
 def make_attendee_fields(html, prefix, lion=True):
     html.add_text(
@@ -269,7 +282,7 @@ html.add_header("Full Registrations")
 html.add_text(
     "full_reg",
     "Full Registrations (R1400 per person)",
-    help="Full registration includes <ul><li>Lunches</li><li>Banquet</li><li>A Pony</li><li>Theme Evening</li></ul>",
+    help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>A Pony</li><li>Theme Evening</li></ul>",
     type="number",
     cls='total',
     cost=1400
@@ -294,7 +307,7 @@ html.add_text(
     "mugs", "Commemorative Convention Coffee Mug (R100 per mug)", type="number", cls='total', cost=100
 )
 html.add_divider()
-html.add_text("total_cost", "Total Cost", type="number")
+html.add_label("total_cost", "Total Cost: R0", centre=True)
 html.close()
 
 with open("../../content/registration/_index.html", "w") as fh:

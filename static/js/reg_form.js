@@ -46,11 +46,11 @@ $(document).ready(function() {
   });
   $("#full_reg").trigger("change");
 
-  $('.total').keyup(function () {
+  $('.total').change(function () {
     var sum = 0;
     $('.total').each(function() {
       sum += (Number($(this).val()) * Number($(this).attr("cost")));
     });
-    $('#total_cost').val(sum);
+    $('#total_cost').html("Total Cost: <strong>R" + sum + "</strong>");
   });
 });
