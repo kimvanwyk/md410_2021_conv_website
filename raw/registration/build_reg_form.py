@@ -18,7 +18,13 @@ class HTML(object):
         self.level = 1
 
     def close(self):
-        self.out.append("</form>")
+       self.out.append(f'{"~" * self.level}<center>')
+       self.level += 1
+       self.out.append(f'{"~" * self.level}<button type="submit">Submit Registration Form</button>')
+       self.level -= 1
+       self.out.append(f'{"~" * self.level}</center>')
+       self.level -= 1
+       self.out.append("</form>")
 
     def render(self):
         return "\n".join([l.replace("~", "   ") for l in self.out])

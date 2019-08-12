@@ -9,6 +9,10 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
+  /* background-image: url("/img/lionsemblemnewlarge.png"); */
+  /* background-position: center; /\* Center the image *\/ */
+  /* background-repeat: no-repeat; /\* Do not repeat the image *\/ */
+  /* background-size: cover; /\* Resize the background image to cover the entire container *\/ */
 }
 .container[role=main] {
   margin-bottom:50px;
