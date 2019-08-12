@@ -5,7 +5,7 @@ draft: false
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="/js/reg_form.js"></script>
-<form name="registration" method="POST" data-netlify="true">
+<form name="registration" method="POST" data-netlify="true" action="/registration_result">
    <h2>First Attendee</h2>
    <div class="form-group row">
       <label for="main_first_names" class="col-sm-4 col-form-label">
@@ -247,7 +247,7 @@ draft: false
    <div class="form-check">
       <input class="form-check-input" type="checkbox" value="" id="main_first_mdc">
       <label class="form-check-label" for="main_first_mdc">
-         This will be the attendee's first MDC
+         This will be the attendee's first Multiple District Convention
       </label>
    </div>
    <div class="form-check">
@@ -532,7 +532,7 @@ draft: false
          <div class="form-check">
             <input class="form-check-input" type="checkbox" value="" id="partner_lion_first_mdc">
             <label class="form-check-label" for="partner_lion_first_mdc">
-               This will be the attendee's first MDC
+               This will be the attendee's first Multiple District Convention
             </label>
          </div>
          <div class="form-check">
@@ -632,7 +632,7 @@ draft: false
          <div class="form-check">
             <input class="form-check-input" type="checkbox" value="" id="partner_non_lion_first_mdc">
             <label class="form-check-label" for="partner_non_lion_first_mdc">
-               This will be the attendee's first MDC
+               This will be the attendee's first Multiple District Convention
             </label>
          </div>
          <div class="form-check">
@@ -690,7 +690,7 @@ draft: false
             <div class="col-sm-4">
                <input type="number" class="form-control total" id="full_reg" name="full_reg" aria-describedby="full_reg_help" cost=1400>
                <small id="full_reg_help" class="form-text text-muted">
-                  Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>A Pony</li><li>Theme Evening</li></ul>
+                  Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>
                </small>
             </div>
          </div>
@@ -733,14 +733,6 @@ draft: false
       </label>
       <div class="col-sm-4">
          <input type="number" class="form-control total" id="pins" name="pins" cost=55>
-      </div>
-   </div>
-   <div class="form-group row">
-      <label for="mugs" class="col-sm-8 col-form-label">
-         Commemorative Convention Coffee Mug (R100 per mug): 
-      </label>
-      <div class="col-sm-4">
-         <input type="number" class="form-control total" id="mugs" name="mugs" cost=100>
       </div>
    </div>
    <hr>

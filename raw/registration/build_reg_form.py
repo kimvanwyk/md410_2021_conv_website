@@ -13,7 +13,7 @@ class HTML(object):
             "",
             '<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>',
             '<script src="/js/reg_form.js"></script>',
-            '<form name="registration" method="POST" data-netlify="true" action="/registration_result>',
+            '<form name="registration" method="POST" data-netlify="true" action="/registration_result">',
         ]
         self.level = 1
 
@@ -235,7 +235,7 @@ def make_attendee_fields(html, prefix, lion=True):
         help=f"The name to appear on the attendee's name badge. eg {'Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe' if lion else 'Joe Bloggs, Partner in Service Jane Doe'}",
     )
 
-    html.add_checkbox(f"{prefix}_first_mdc", "This will be the attendee's first MDC")
+    html.add_checkbox(f"{prefix}_first_mdc", "This will be the attendee's first Multiple District Convention")
 
     html.add_checkbox(
         f"{prefix}_mjf_lunch",
@@ -291,7 +291,7 @@ html.add_header("Full Registrations")
 html.add_text(
     "full_reg",
     "Full Registrations (R1400 per person)",
-    help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>A Pony</li><li>Theme Evening</li></ul>",
+    help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>",
     type="number",
     cls="total",
     cost=1400,
@@ -325,13 +325,6 @@ html.add_divider()
 html.add_header("Extra Items")
 html.add_text(
     "pins", "Convention Pins (R55 per pin)", type="number", cls="total", cost=55
-)
-html.add_text(
-    "mugs",
-    "Commemorative Convention Coffee Mug (R100 per mug)",
-    type="number",
-    cls="total",
-    cost=100,
 )
 html.add_divider()
 html.add_label("total_cost", "Total Cost: R0", centre=True)
