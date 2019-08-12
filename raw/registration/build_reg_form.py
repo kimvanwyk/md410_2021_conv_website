@@ -207,7 +207,7 @@ class HTML(object):
 def make_attendee_fields(html, prefix, lion=True):
     html.add_text(
         f"{prefix}_first_names",
-        "First Names(s)",
+        "First Name(s)",
         "Attendee's first name or names. Please use a real name rather than a nickname - nicknames can however be used for the name badge later in this form.",
     )
     html.add_text(f"{prefix}_last_name", "Last Name")
