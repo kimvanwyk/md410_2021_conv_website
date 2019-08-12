@@ -218,14 +218,14 @@ def make_attendee_fields(html, prefix, lion=True):
 
     html.add_checkbox(
         f"{prefix}_mjf_lunch",
-        "Attendee will attend the Melvin Jones Lunch.",
+        'Attendee will attend the <a href="/events/mjf_lunch">Melvin Jones Lunch</a>.',
         help="This lunch is only open to Melvin Jones Fellows and may carry an additional charge. Details will be provided closer to the time.",
     )
 
     html.add_checkbox(
         f"{prefix}_pdg_breakfast",
-        "Attendee will attend the PDG's Breakfast.",
-        help="This event may carry an additional charge, especially if the attendee is not staying at the Riverside Hotel. Details will be provided closer to the time.",
+        'Attendee will attend the <a href="/events/pdgs_breakfast">PDG\'s Breakfast.</a>',
+        help='This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.',
     )
 
     if not lion:
@@ -278,13 +278,13 @@ html.close_containing_div()
 html.open_containing_div(cls="partial_reg")
 html.add_header("Partial Registrations")
 html.add_text(
-    "partial_reg_banquet", "Banquet Registrations (R600 per person)", type="number", cls='total', cost=600
+    "partial_reg_banquet", '<a href="/events/banquet">Banquet Registrations</a> (R600 per person)', type="number", cls='total', cost=600
 )
 html.add_text(
-    "partial_reg_convention", "MD410 Convention (R450 per person)", type="number", cls='total', cost=450
+    "partial_reg_convention", '<a href="/events/md_convention">MD410 Convention</a> (R450 per person)', type="number", cls='total', cost=450
 )
 html.add_text(
-    "partial_reg_theme", "Theme Evening Registrations (R600 per person)", type="number", cls='total', cost=600
+    "partial_reg_theme", '<a href="/events/theme_evening">Theme Evening Registrations</a> (R600 per person)', type="number", cls='total', cost=600
 )
 html.close_containing_div()
 html.add_divider()

@@ -19,7 +19,7 @@ for f in glob('*.txt'):
 
     body = '\n'.join([f"{l}\n" for l in lines[4:] if l])
     if not body:
-        body = 'More details will be made available closer to the event.'
+        body = 'More details will be made available closer to the event. \\ \\'
 
     events.append((date, int(time[:2]), fn, time, event, location, body))
 
@@ -40,7 +40,7 @@ for (date, _, fn, time, event, location, body) in events:
         fh.write(body)
 
         fh.write(textwrap.dedent(f'''\
-
+        \\
         **Date and Time**: {date:%A %d %B %Y}, {time} \\
         **Location**: {location}
         '''))
