@@ -131,7 +131,7 @@ class HTML(object):
         self.level += 1
         self.out.extend(
             (
-                f'{"~" * self.level}<input class="form-check-input" type="checkbox" value="" name="{tag}" id="{tag}"{help_attr}>',
+                f'{"~" * self.level}<input class="form-check-input" type="checkbox" value="{tag}" name="{tag}" id="{tag}"{help_attr}>',
                 f'{"~" * self.level}<label class="form-check-label" for="{tag}">',
             )
         )
