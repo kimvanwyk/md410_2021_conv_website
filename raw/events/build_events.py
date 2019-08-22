@@ -9,6 +9,8 @@ events = []
 for f in glob('*.txt'):
     with open(f, 'r') as fh:
         lines = [l.strip() for l in fh]
+    if "## DISABLE" in lines[0]:
+        continue
     event = lines[0]
     fn = SPECIAL_CASES.get(event, f"{f[:-3]}md")
     date = parser.parse(lines[1], yearfirst=True, dayfirst=False)

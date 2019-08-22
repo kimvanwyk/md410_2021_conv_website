@@ -51,4 +51,3 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 Time | Event (click on event for further details) | Venue (click for map to venue)
  ---|---  |---
 07:00-08:00 | [Breakfast at the hotel](/events/breakfast) | [Riverside Hotel](/venue)
-08:30-09:30 | [Informal discussion](/events/informal_discussion) | [Riverside Hotel](/venue)
