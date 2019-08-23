@@ -34,7 +34,7 @@ for (date, _, fn, time, event, location, body) in events:
     with open(f"../../content/events/{fn}", 'w') as fh:
         fh.write(textwrap.dedent(f'''\
         ---
-        title: {string.capwords(event)}
+        title: {event}
         draft: false
         ---
 
@@ -45,6 +45,9 @@ for (date, _, fn, time, event, location, body) in events:
         \\
         **Date and Time**: {date:%A %d %B %Y}, {time} \\
         **Location**: {location}
+        \\
+        \\
+        [Back to Program](/program)
         '''))
 
     if date != dt:
