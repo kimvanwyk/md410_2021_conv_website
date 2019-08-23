@@ -63,7 +63,7 @@ pygmentsCodefencesGuessSyntax = false
 #   500px = "username"
 
 [[menu.main]]
-    name = "Registration"
+    name = "Registration Form"
     url = "registration"
     weight = 1
 
