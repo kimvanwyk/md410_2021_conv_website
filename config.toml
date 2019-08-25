@@ -77,6 +77,11 @@ pygmentsCodefencesGuessSyntax = false
     url = "program"
     weight = 2
 
+[[menu.main]]
+    name = "International Guest"
+    url = "guest"
+    weight = 3
+
 # [[menu.main]]
 #     identifier = "samples"
 #     name = "Samples"
