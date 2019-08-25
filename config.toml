@@ -81,9 +81,14 @@ pygmentsCodefencesGuessSyntax = false
     weight = 2
 
 [[menu.main]]
+    name = "Convention Committee"
+    url = "committee"
+    weight = 3
+
+[[menu.main]]
     name = "International Guest"
     url = "guest"
-    weight = 3
+    weight = 4
 
 # [[menu.main]]
 #     identifier = "samples"
