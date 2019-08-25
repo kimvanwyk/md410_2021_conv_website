@@ -1,9 +1,11 @@
 ---
-title: Interactive function with international guest
+title: Interactive Function With International Guest
 draft: false
 ---
 
-More details will be made available closer to the event. \\
+An open discussion with our innternational guest [PIP KJ Habanananda](/guest).
+\
+\
 **Date and Time**: Saturday 02 May 2020, 15:30-17:00 \
 **Location**: [Riverside Hotel](/venue)
 \

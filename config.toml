@@ -8,6 +8,9 @@ pygmentsUseClasses = false
 pygmentsCodeFences = false
 pygmentsCodefencesGuessSyntax = false
 
+[blackfriday]
+  fractions = false
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   logo = "img/lionsemblemnewlarge.png"

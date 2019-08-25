@@ -290,32 +290,32 @@ html.open_containing_div(cls="full_reg")
 html.add_header("Full Registrations")
 html.add_text(
     "full_reg",
-    "Full Registrations (R1400 per person)",
+    "Full Registrations (R1300 per person)",
     help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>",
     type="number",
     cls="total",
-    cost=1400,
+    cost=1300,
 )
 html.close_containing_div()
 html.open_containing_div(cls="partial_reg")
 html.add_header("Partial Registrations")
 html.add_text(
     "partial_reg_banquet",
-    '<a href="/events/banquet">Banquet Registrations</a> (R600 per person)',
+    '<a href="/events/banquet">Banquet Registrations</a> (R500 per person)',
     type="number",
     cls="total",
     cost=600,
 )
 html.add_text(
     "partial_reg_convention",
-    '<a href="/events/md_convention">MD410 Convention</a> (R450 per person)',
+    '<a href="/events/md_convention">MD410 Convention</a> (R400 per person)',
     type="number",
     cls="total",
     cost=450,
 )
 html.add_text(
     "partial_reg_theme",
-    '<a href="/events/theme_evening">Theme Evening Registrations</a> (R600 per person)',
+    '<a href="/events/theme_evening">Theme Evening Registrations</a> (R500 per person)',
     type="number",
     cls="total",
     cost=600,

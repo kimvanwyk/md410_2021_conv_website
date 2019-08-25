@@ -29,7 +29,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 12:15-13:00 | [Council meeting lunch](/events/council_meeting_lunch) | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
 13:15-15:30 | [Districts 410W and 410E Cabinet meetings](/events/cabinet_meetings) | [Riverside Hotel](/venue)/[North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
 14:00-15:30 | [Service project](/events/service_project) | To be confirmed
-15:45-17:00 | [Committee of the whole](/events/committee_of_the_whole) | [Riverside Hotel](/venue)
+15:45-17:00 | [Committee of the Whole](/events/committee_of_the_whole) | [Riverside Hotel](/venue)
 18:15-18:45 | [Pre-banquet drinks](/events/banquet_drinks) | To be confirmed
 19:00-22:00 | [Banquet](/events/banquet) | To be confirmed
 22:00- | [Nightcap and social gathering](/events/nightcap) | To be confirmed
@@ -43,7 +43,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 12:00-13:30 | [Other delegates lunch](/events/lunch) | [Riverside Hotel](/venue)
 12:00-13:30 | [Melvin Jones Fellows lunch](/events/mjf_lunch) | To be confirmed
 13:45-15:00 | [MD410 Convention resumption](/events/md_convention) | [Riverside Hotel](/venue)
-15:30-17:00 | [Interactive function with international guest](/events/international_guest) | [Riverside Hotel](/venue)
+15:30-17:00 | [Interactive Function With International Guest](/events/international_guest) | [Riverside Hotel](/venue)
 18:30- | [Theme evening](/events/theme_evening) | [Riverside Hotel](/venue)
 
 # Sunday 03 May 2020

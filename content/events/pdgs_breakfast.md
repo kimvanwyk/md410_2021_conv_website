@@ -9,6 +9,7 @@ The 2020 MDC Convention will however only span 2 days which does not leave an ev
 
 Please indicate on your registration form if you will be attending the PDGs breakfast, or contact the Registration Secretary Kim van Wyk if you have already registered for the Convention and wish to attend the PDGs breakfast.
 \
+\
 **Date and Time**: Saturday 02 May 2020, 07:00-08:00 \
 **Location**: [Riverside Hotel](/venue)
 \
