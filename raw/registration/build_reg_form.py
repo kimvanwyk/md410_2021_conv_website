@@ -222,7 +222,7 @@ def make_attendee_fields(html, prefix, lion=True):
     html.add_text(
         f"{prefix}_dietary",
         "Dietary Requirements",
-        help="Please be VERY clear with these requirements",
+        help="Please be VERY clear with these requirements. eg halal, kosher, vegetarian, allergic to dairy"
     )
     html.add_text(
         f"{prefix}_disability",

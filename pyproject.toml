@@ -9,6 +9,7 @@ python = "^3.6"
 python-dateutil = "^2.8"
 pyperclip = "^1.7"
 black = {version = "^18.3-alpha.0",allows-prereleases = true}
+awscli = "^1.16"
 
 [tool.poetry.dev-dependencies]
 ptpython = "^2.0"
