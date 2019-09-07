@@ -17,7 +17,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 18:30- | [Outgoing and Incoming Council dinner](/events/council_dinner) | To be confirmed
 18:00-19:00 | [Dinner for trainees](/events/dinner_for_trainees) | [Riverside Hotel](/venue)
 19:00- | [Informal get-together at North Durban Lions Clubhouse, open to all attendees](/events/thursday_social) | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
-19:00-21:00 | [Districts 410W and 410E District Governor Elect training](/events/training) | [Riverside Hotel](/venue)
+19:00-21:00 | [Districts 410W and 410E RC, ZC, Cabinet officer and LP training](/events/training) | [Riverside Hotel](/venue)
 
 # Friday 01 May 2020
 
@@ -40,7 +40,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
  ---|---  |---
 07:00-08:00 | [PDGs breakfast](/events/pdgs_breakfast) | [Riverside Hotel](/venue)
 09:30-11:45 | [MD410 Convention](/events/md_convention) | [Riverside Hotel](/venue)
-12:00-13:30 | [Other delegates lunch](/events/lunch) | [Riverside Hotel](/venue)
+12:00-13:30 | [Convention delegates lunch](/events/lunch) | [Riverside Hotel](/venue)
 12:00-13:30 | [Melvin Jones Fellows lunch](/events/mjf_lunch) | To be confirmed
 13:45-15:00 | [MD410 Convention resumption](/events/md_convention) | [Riverside Hotel](/venue)
 15:30-17:00 | [Interactive Function With International Guest](/events/international_guest) | [Riverside Hotel](/venue)

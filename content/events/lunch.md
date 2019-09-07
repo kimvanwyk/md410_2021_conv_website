@@ -1,5 +1,5 @@
 ---
-title: Other delegates lunch
+title: Convention delegates lunch
 draft: false
 ---
 
