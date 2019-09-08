@@ -13,17 +13,16 @@ The 2020 MD410 Convention will be convened by a team of dedicated and passionate
     * 083 384 4260
     * [vanwykk@gmail.com](mailto:vanwykk@gmail.com)
 * **Treasurer**: Dave Shone
-    * [david@shone.co.za](mailto:david@shone.co.za)
+    * [david.shone.za@gmail.com](mailto:david.shone.za@gmail.com)
 * **Secretary**: Avril Hobbs
     * 082 772 3654
     * [print.image@intekom.co.za](mailto:print.image@intekom.co.za)
-* **Banquet**: Wayne McLaren
 * **Theme Evening**: Seelan Naidoo
     * 073 109 9960
     * [seelan.naidoo7@gmail.com](mailto:seelan.naidoo7@gmail.com)
 * **Partners Program**: Dee Love
     * [dee.love.za@gmail.com](mailto:dee.love.za@gmail.com)
-* **Infrastructure**: Lyn Botha
+* **Transport**: Lyn Botha
     * 083 262 9153 
     * [lynb.za@gmail.com](mailto:lynb.za@gmail.com)
 * **PR & Marketing**: Avril Hobbs
@@ -33,6 +32,6 @@ The 2020 MD410 Convention will be convened by a team of dedicated and passionate
 
 The MD410 Standing Committee on Conventions advises the convention committee and the MD410 Council on the Convention:
 
-* **Standing Committee on Conventions Chair**: Vicki van Wyk (North Durban Lions) - [vanwykvs@gmail.com](mailto:vanwykvs@gmail.com)
+* **Standing Committee on Conventions Chair**: Vicki van Wyk - [vanwykvs@gmail.com](mailto:vanwykvs@gmail.com)
 
 Please use email wherever possible as the committee members may not be in a position to take phone calls.

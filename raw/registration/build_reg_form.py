@@ -315,7 +315,7 @@ html.add_text(
 )
 html.add_text(
     "partial_reg_theme",
-    '<a href="/events/theme_evening">Theme Evening Registrations</a> (R500 per person)',
+    '<a href="/events/theme_evening">Theme Evening Registrations</a> (R450 per person)',
     type="number",
     cls="total",
     cost=600,
