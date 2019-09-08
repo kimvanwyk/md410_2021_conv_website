@@ -22,5 +22,6 @@ There are a number of B&B's and small hotels in the immediate area and several B
 Some events will be held at the [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location), which is less than 5 minutes travel from the Riverside Hotel. The clubhouse is on the corner of Uitsig and Prospect Hall Roads.
 
 <center>
-<iframe src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;ll=-29.799855,31.036913&amp;spn=0.002118,0.005284&amp;t=k&amp;msid=216724318696621087807.00049bdf033167a852a63&amp;output=embed" width="600" height="450" frameborder="1"  style="border:1" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d865.5620325911697!2d31.03684846540487!3d-29.79937507007364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef707a97c1b21cd%3A0xe25aa85c00bce99f!2s29%20Uitsig%20Rd%2C%20Prospect%20Hall%2C%20Durban%20North%2C%204051!5e0!3m2!1sen!2sza!4v1567949093589!5m2!1sen!2sza" width="600" height="450" frameborder="1" style="border:1;" allowfullscreen="">
+    </iframe>
 </center>
