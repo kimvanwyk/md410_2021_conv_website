@@ -17,7 +17,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 14:00-18:00 | [Districts 410W and 410E RC, ZC, Cabinet officer and LP training](/events/training) | [Riverside Hotel](/venue)
 18:30- | [Outgoing and Incoming Council dinner](/events/council_dinner) | To be confirmed
 18:00-19:00 | [Dinner for trainees](/events/dinner_for_trainees) | [Riverside Hotel](/venue)
-19:00- | [Informal get-together at North Durban Lions Clubhouse, open to all attendees](/events/thursday_social) | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
+19:00- | [Informal get-together at North Durban Lions Clubhouse, open to all attendees](/events/thursday_social) | [North Durban Lions Clubhouse](/venue/#north-durban-lions-club)
 
 # Friday 01 May 2020
 
