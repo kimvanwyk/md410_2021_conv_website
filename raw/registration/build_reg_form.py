@@ -290,7 +290,7 @@ html.open_containing_div(cls="full_reg")
 html.add_header("Full Registrations")
 html.add_text(
     "full_reg",
-    "Full Registrations (R1300 per person)",
+    "Full Registrations (R1285 per person)",
     help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>",
     type="number",
     cls="total",

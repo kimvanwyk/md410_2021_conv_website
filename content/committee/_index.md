@@ -17,14 +17,17 @@ The 2020 MD410 Convention will be convened by a team of dedicated and passionate
 * **Secretary**: Avril Hobbs
     * 082 772 3654
     * [print.image@intekom.co.za](mailto:print.image@intekom.co.za)
+* **Banquet**: Lyn Botha
+    * 083 262 9153 
+    * [lynb.za@gmail.com](mailto:lynb.za@gmail.com)
 * **Theme Evening**: Seelan Naidoo
     * 073 109 9960
     * [seelan.naidoo7@gmail.com](mailto:seelan.naidoo7@gmail.com)
 * **Partners Program**: Dee Love
     * [dee.love.za@gmail.com](mailto:dee.love.za@gmail.com)
-* **Transport**: Lyn Botha
-    * 083 262 9153 
-    * [lynb.za@gmail.com](mailto:lynb.za@gmail.com)
+* **Infrastructure**: Karin Preston
+    * 083 660 1953
+    * [lionssecretarybird@gmail.com](mailto:lionssecretarybird@gmail.com)
 * **PR & Marketing**: Avril Hobbs
     * 082 772 3654
     * [print.image@intekom.co.za](mailto:print.image@intekom.co.za)
