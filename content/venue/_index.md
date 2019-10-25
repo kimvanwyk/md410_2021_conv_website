@@ -15,7 +15,11 @@ The hotel is located at 10 Kenneth Kaunda Road, Durban North. Kenneth Kaunda Roa
 
 # Bookings
 
-Accomodation bookings at the Riverside hotel should be made directly with the hotel - the 2020 MD Convention committee are not handling accomodation requirements.
+Accomodation bookings at the Riverside hotel should be made directly with the hotel - the 2020 MD Convention committee are not handling accomodation requirements. 
+
+The hotel can be contacted on +27 (0) 31 563 0600 or at [reserve@riversidehotel.co.za](mailto:reserve@riversidehotel.co.za). Full contact details for the hotel are on their [website](https://theriversidehotel.co.za/). 
+
+When booking at the hotel, make sure to inform them that you're booking for the Lions Convention.
 
 # Alternative Accommodation
 

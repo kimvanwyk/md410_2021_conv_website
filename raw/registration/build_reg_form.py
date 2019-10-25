@@ -18,6 +18,23 @@ class HTML(object):
         self.level = 1
 
     def close(self):
+        self.out.append(f'{"~" * self.level}The details of your registration will be sent to you, including a unique registration number. Payment details will also be included in that email. Please make all payments using your registration number as a reference.')
+        self.out.append(f'{"~" * self.level}<br>')
+        self.out.append(f'{"~" * self.level}<ul>')
+        self.level += 1
+        self.out.append(f'{"~" * self.level}<li><strong>Bank</strong>: ABC</li>') 
+        self.out.append(f'{"~" * self.level}<li><strong>Branch</strong>: DEF</li>') 
+        self.out.append(f'{"~" * self.level}<li><strong>Account Number</strong>: 12345</li>') 
+        self.out.append(f'{"~" * self.level}<li><strong>Account Name</strong>: 2020 MD410 Convention</li>') 
+        self.level -= 1
+        self.out.append(f'{"~" * self.level}</ul>')
+        self.out.append(f'{"~" * self.level}Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2020.')
+        self.out.append(f'{"~" * self.level}<ul>')
+        self.level += 1
+        self.out.append(f'{"~" * self.level}<li>If your registration is cancelled before 1 April 2020, 90% of the payments you have made will be refunded.</li>')
+        self.out.append(f'{"~" * self.level}<li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>')
+        self.level -= 1
+        self.out.append(f'{"~" * self.level}</ul>')
         self.out.append(f'{"~" * self.level}<center>')
         self.level += 1
         self.out.append(
