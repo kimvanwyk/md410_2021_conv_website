@@ -1,6 +1,6 @@
 baseURL = "https://lionsconvention2020.co.za"
 languageCode = "en-za"
-title = "2020 Lions MD410 Convention"
+title = "Lions Multiple District 410 2020 Convention"
 theme = "beautifulhugo" 
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = false
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-#  logo = "img/compass_round.png"
+  # logo = "img/compass_round.png"
   favicon = "img/favicon.png"
   dateFormat = "January 2, 2006"
   commit = false
@@ -71,6 +71,16 @@ pygmentsCodefencesGuessSyntax = false
     weight = 1
 
 [[menu.main]]
+    name = "Accomodation & Venue"
+    url = "accomodation"
+    weight = 2
+
+[[menu.accomodation]]
+    name = "Accomodation"
+    url = "accomodation"
+    weight = 2
+
+[[menu.accomodation]]
     name = "Venue"
     url = "venue"
     weight = 2
@@ -78,17 +88,17 @@ pygmentsCodefencesGuessSyntax = false
 [[menu.main]]
     name = "Program"
     url = "program"
-    weight = 2
-
-[[menu.main]]
-    name = "Convention Committee"
-    url = "committee"
     weight = 3
 
 [[menu.main]]
     name = "International Guest"
     url = "guest"
     weight = 4
+
+[[menu.main]]
+    name = "Convention Committee"
+    url = "committee"
+    weight = 5
 
 # [[menu.main]]
 #     identifier = "samples"

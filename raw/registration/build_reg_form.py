@@ -14,20 +14,11 @@ class HTML(object):
             '<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>',
             '<script src="/js/reg_form.js"></script>',
             '<form name="registration" method="POST" data-netlify="true" action="/registration_result">',
-        ]
+            ]
         self.level = 1
-
-    def close(self):
         self.out.append(f'{"~" * self.level}The details of your registration will be sent to you, including a unique registration number. Payment details will also be included in that email. Please make all payments using your registration number as a reference.')
         self.out.append(f'{"~" * self.level}<br>')
-        self.out.append(f'{"~" * self.level}<ul>')
-        self.level += 1
-        self.out.append(f'{"~" * self.level}<li><strong>Bank</strong>: ABC</li>') 
-        self.out.append(f'{"~" * self.level}<li><strong>Branch</strong>: DEF</li>') 
-        self.out.append(f'{"~" * self.level}<li><strong>Account Number</strong>: 12345</li>') 
-        self.out.append(f'{"~" * self.level}<li><strong>Account Name</strong>: 2020 MD410 Convention</li>') 
-        self.level -= 1
-        self.out.append(f'{"~" * self.level}</ul>')
+        self.out.append(f'{"~" * self.level}<br>')
         self.out.append(f'{"~" * self.level}Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2020.')
         self.out.append(f'{"~" * self.level}<ul>')
         self.level += 1
@@ -35,6 +26,8 @@ class HTML(object):
         self.out.append(f'{"~" * self.level}<li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>')
         self.level -= 1
         self.out.append(f'{"~" * self.level}</ul>')
+
+    def close(self):
         self.out.append(f'{"~" * self.level}<center>')
         self.level += 1
         self.out.append(
@@ -92,13 +85,13 @@ class HTML(object):
     def add_header(self, text):
         self.out.append(f'{"~" * self.level}<h2>{text}</h2>')
 
-    def add_label(self, tag, text, centre=False):
+    def add_label(self, tag, text, centre=False, font=None):
         self.out.append(f'{"~" * self.level}<div class="form-group row">')
         self.level += 1
         if centre:
             self.out.append(f'{"~" * self.level}<center>')
             self.level += 1
-        self.out.append(f'{"~" * self.level}<label id={tag}>{text}</label>')
+        self.out.append(f'{"~" * self.level}<label id={tag}>{"<h3>" if font=="b" else ""}{text}{"</h3>" if font=="b" else ""}</label>')
         self.level -= 1
         if centre:
             self.out.append(f'{"~" * self.level}</center>')
@@ -228,6 +221,13 @@ def make_attendee_fields(html, prefix, lion=True):
         "Attendee's first name or names. Please use a real name rather than a nickname - nicknames can however be used for the name badge later in this form.",
     )
     html.add_text(f"{prefix}_last_name", "Last Name")
+
+    html.add_text(
+        f"{prefix}_name_badge",
+        "Name Badge",
+        help=f"The name to appear on the attendee's name badge. eg {'Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe' if lion else 'Joe Bloggs, Partner in Service Jane Doe'}",
+    )
+
     if lion:
         html.add_selector(f"{prefix}_club", "Lions Club", CLUBS)
     html.add_text(
@@ -246,12 +246,6 @@ def make_attendee_fields(html, prefix, lion=True):
         "Special Access Requirements",
         help="Please indicate any requirements for wheel chair access or the like, if applicable",
     )
-    html.add_text(
-        f"{prefix}_name_badge",
-        "Name Badge",
-        help=f"The name to appear on the attendee's name badge. eg {'Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe' if lion else 'Joe Bloggs, Partner in Service Jane Doe'}",
-    )
-
     html.add_checkbox(f"{prefix}_first_mdc", "This will be the attendee's first Multiple District Convention")
 
     html.add_checkbox(
@@ -264,6 +258,30 @@ def make_attendee_fields(html, prefix, lion=True):
         f"{prefix}_pdg_breakfast",
         'Attendee will attend the <a href="/events/pdgs_breakfast">PDG\'s Breakfast.</a>',
         help='This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.',
+    )
+
+    html.add_checkbox(
+        f"{prefix}_sharks_board",
+        'Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April',
+        help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
+    )
+
+    html.add_checkbox(
+        f"{prefix}_golf",
+        'Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May',
+        help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
+    )
+
+    html.add_checkbox(
+        f"{prefix}_sight_seeing",
+        'Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May',
+        help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
+    )
+
+    html.add_checkbox(
+        f"{prefix}_service_project",
+        'Attendee is interested in attending a <a href="/events/sight_seeing/">service project</a> on Friday 1 May',
+        help="This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
     )
 
     if not lion:
@@ -307,44 +325,45 @@ html.open_containing_div(cls="full_reg")
 html.add_header("Full Registrations")
 html.add_text(
     "full_reg",
-    "Full Registrations (R1285 per person)",
+    "Number of Full Registrations (R1285 per person)",
     help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>",
     type="number",
     cls="total",
-    cost=1300,
+    cost=1285,
 )
 html.close_containing_div()
 html.open_containing_div(cls="partial_reg")
 html.add_header("Partial Registrations")
 html.add_text(
     "partial_reg_banquet",
-    '<a href="/events/banquet">Banquet Registrations</a> (R500 per person)',
+    '<a href="/events/banquet">Number of Banquet Registrations</a> (R500 per person)',
     type="number",
     cls="total",
-    cost=600,
+    cost=500,
 )
 html.add_text(
     "partial_reg_convention",
-    '<a href="/events/md_convention">MD410 Convention</a> (R400 per person)',
+    '<a href="/events/md_convention">Number of MD410 Convention Registrations</a> (R400 per person)',
+    help="Includes lunch and teas",
     type="number",
     cls="total",
-    cost=450,
+    cost=400,
 )
 html.add_text(
     "partial_reg_theme",
-    '<a href="/events/theme_evening">Theme Evening Registrations</a> (R450 per person)',
+    '<a href="/events/theme_evening">Number of Theme Evening Registrations</a> (R450 per person)',
     type="number",
     cls="total",
-    cost=600,
+    cost=450,
 )
 html.close_containing_div()
 html.add_divider()
 html.add_header("Extra Items")
 html.add_text(
-    "pins", "Convention Pins (R55 per pin)", type="number", cls="total", cost=55
+    "pins", "Total Number of Convention Pins (R55 per pin)", type="number", cls="total", cost=55
 )
 html.add_divider()
-html.add_label("total_cost", "Total Cost: R0", centre=True)
+html.add_label("total_cost", "Total Cost: R0", centre=True, font="b")
 html.close()
 
 with open("../../content/registration/_index.html", "w") as fh:

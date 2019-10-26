@@ -51,6 +51,6 @@ $(document).ready(function() {
     $('.total').each(function() {
       sum += (Number($(this).val()) * Number($(this).attr("cost")));
     });
-    $('#total_cost').html("Total Cost: <bold>R" + sum + "</bold>");
+    $('#total_cost').html("<h3>Total Cost: R" + sum + "</h3>");
   });
 });

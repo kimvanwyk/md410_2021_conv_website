@@ -6,6 +6,14 @@ draft: false
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="/js/reg_form.js"></script>
 <form name="registration" method="POST" data-netlify="true" action="/registration_result">
+   The details of your registration will be sent to you, including a unique registration number. Payment details will also be included in that email. Please make all payments using your registration number as a reference.
+   <br>
+   <br>
+   Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2020.
+   <ul>
+      <li>If your registration is cancelled before 1 April 2020, 90% of the payments you have made will be refunded.</li>
+      <li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>
+   </ul>
    <h2>First Attendee</h2>
    <div class="form-group row">
       <label for="main_first_names" class="col-sm-4 col-form-label">
@@ -24,6 +32,17 @@ draft: false
       </label>
       <div class="col-sm-8">
          <input type="text" class="form-control" id="main_last_name" name="main_last_name">
+      </div>
+   </div>
+   <div class="form-group row">
+      <label for="main_name_badge" class="col-sm-4 col-form-label">
+         Name Badge: 
+      </label>
+      <div class="col-sm-8">
+         <input type="text" class="form-control" id="main_name_badge" name="main_name_badge" aria-describedby="main_name_badge_help">
+         <small id="main_name_badge_help" class="form-text text-muted">
+            The name to appear on the attendee's name badge. eg Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe
+         </small>
       </div>
    </div>
    <div class="form-group row">
@@ -233,17 +252,6 @@ draft: false
          </small>
       </div>
    </div>
-   <div class="form-group row">
-      <label for="main_name_badge" class="col-sm-4 col-form-label">
-         Name Badge: 
-      </label>
-      <div class="col-sm-8">
-         <input type="text" class="form-control" id="main_name_badge" name="main_name_badge" aria-describedby="main_name_badge_help">
-         <small id="main_name_badge_help" class="form-text text-muted">
-            The name to appear on the attendee's name badge. eg Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe
-         </small>
-      </div>
-   </div>
    <div class="form-check">
       <input class="form-check-input" type="checkbox" value="main_first_mdc" name="main_first_mdc" id="main_first_mdc">
       <label class="form-check-label" for="main_first_mdc">
@@ -266,6 +274,42 @@ draft: false
       </label>
       <small id="main_pdg_breakfast_help" class="form-text text-muted">
          This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.
+      </small>
+   </div>
+   <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="main_sharks_board" name="main_sharks_board" id="main_sharks_board" aria-describedby="main_sharks_board_help">
+      <label class="form-check-label" for="main_sharks_board">
+         Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April
+      </label>
+      <small id="main_sharks_board_help" class="form-text text-muted">
+         This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+      </small>
+   </div>
+   <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="main_golf" name="main_golf" id="main_golf" aria-describedby="main_golf_help">
+      <label class="form-check-label" for="main_golf">
+         Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May
+      </label>
+      <small id="main_golf_help" class="form-text text-muted">
+         This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+      </small>
+   </div>
+   <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="main_sight_seeing" name="main_sight_seeing" id="main_sight_seeing" aria-describedby="main_sight_seeing_help">
+      <label class="form-check-label" for="main_sight_seeing">
+         Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May
+      </label>
+      <small id="main_sight_seeing_help" class="form-text text-muted">
+         This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+      </small>
+   </div>
+   <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="main_service_project" name="main_service_project" id="main_service_project" aria-describedby="main_service_project_help">
+      <label class="form-check-label" for="main_service_project">
+         Attendee is interested in attending a <a href="/events/sight_seeing/">service project</a> on Friday 1 May
+      </label>
+      <small id="main_service_project_help" class="form-text text-muted">
+         This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
       </small>
    </div>
    <hr>
@@ -309,6 +353,17 @@ draft: false
             </label>
             <div class="col-sm-8">
                <input type="text" class="form-control" id="partner_lion_last_name" name="partner_lion_last_name">
+            </div>
+         </div>
+         <div class="form-group row">
+            <label for="partner_lion_name_badge" class="col-sm-4 col-form-label">
+               Name Badge: 
+            </label>
+            <div class="col-sm-8">
+               <input type="text" class="form-control" id="partner_lion_name_badge" name="partner_lion_name_badge" aria-describedby="partner_lion_name_badge_help">
+               <small id="partner_lion_name_badge_help" class="form-text text-muted">
+                  The name to appear on the attendee's name badge. eg Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe
+               </small>
             </div>
          </div>
          <div class="form-group row">
@@ -518,17 +573,6 @@ draft: false
                </small>
             </div>
          </div>
-         <div class="form-group row">
-            <label for="partner_lion_name_badge" class="col-sm-4 col-form-label">
-               Name Badge: 
-            </label>
-            <div class="col-sm-8">
-               <input type="text" class="form-control" id="partner_lion_name_badge" name="partner_lion_name_badge" aria-describedby="partner_lion_name_badge_help">
-               <small id="partner_lion_name_badge_help" class="form-text text-muted">
-                  The name to appear on the attendee's name badge. eg Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe
-               </small>
-            </div>
-         </div>
          <div class="form-check">
             <input class="form-check-input" type="checkbox" value="partner_lion_first_mdc" name="partner_lion_first_mdc" id="partner_lion_first_mdc">
             <label class="form-check-label" for="partner_lion_first_mdc">
@@ -553,6 +597,42 @@ draft: false
                This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.
             </small>
          </div>
+         <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="partner_lion_sharks_board" name="partner_lion_sharks_board" id="partner_lion_sharks_board" aria-describedby="partner_lion_sharks_board_help">
+            <label class="form-check-label" for="partner_lion_sharks_board">
+               Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April
+            </label>
+            <small id="partner_lion_sharks_board_help" class="form-text text-muted">
+               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+            </small>
+         </div>
+         <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="partner_lion_golf" name="partner_lion_golf" id="partner_lion_golf" aria-describedby="partner_lion_golf_help">
+            <label class="form-check-label" for="partner_lion_golf">
+               Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May
+            </label>
+            <small id="partner_lion_golf_help" class="form-text text-muted">
+               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+            </small>
+         </div>
+         <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="partner_lion_sight_seeing" name="partner_lion_sight_seeing" id="partner_lion_sight_seeing" aria-describedby="partner_lion_sight_seeing_help">
+            <label class="form-check-label" for="partner_lion_sight_seeing">
+               Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May
+            </label>
+            <small id="partner_lion_sight_seeing_help" class="form-text text-muted">
+               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+            </small>
+         </div>
+         <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="partner_lion_service_project" name="partner_lion_service_project" id="partner_lion_service_project" aria-describedby="partner_lion_service_project_help">
+            <label class="form-check-label" for="partner_lion_service_project">
+               Attendee is interested in attending a <a href="/events/sight_seeing/">service project</a> on Friday 1 May
+            </label>
+            <small id="partner_lion_service_project_help" class="form-text text-muted">
+               This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+            </small>
+         </div>
       </fieldset>
    </div>
    <div id="partner_non_lion_div">
@@ -575,6 +655,17 @@ draft: false
             </label>
             <div class="col-sm-8">
                <input type="text" class="form-control" id="partner_non_lion_last_name" name="partner_non_lion_last_name">
+            </div>
+         </div>
+         <div class="form-group row">
+            <label for="partner_non_lion_name_badge" class="col-sm-4 col-form-label">
+               Name Badge: 
+            </label>
+            <div class="col-sm-8">
+               <input type="text" class="form-control" id="partner_non_lion_name_badge" name="partner_non_lion_name_badge" aria-describedby="partner_non_lion_name_badge_help">
+               <small id="partner_non_lion_name_badge_help" class="form-text text-muted">
+                  The name to appear on the attendee's name badge. eg Joe Bloggs, Partner in Service Jane Doe
+               </small>
             </div>
          </div>
          <div class="form-group row">
@@ -618,17 +709,6 @@ draft: false
                </small>
             </div>
          </div>
-         <div class="form-group row">
-            <label for="partner_non_lion_name_badge" class="col-sm-4 col-form-label">
-               Name Badge: 
-            </label>
-            <div class="col-sm-8">
-               <input type="text" class="form-control" id="partner_non_lion_name_badge" name="partner_non_lion_name_badge" aria-describedby="partner_non_lion_name_badge_help">
-               <small id="partner_non_lion_name_badge_help" class="form-text text-muted">
-                  The name to appear on the attendee's name badge. eg Joe Bloggs, Partner in Service Jane Doe
-               </small>
-            </div>
-         </div>
          <div class="form-check">
             <input class="form-check-input" type="checkbox" value="partner_non_lion_first_mdc" name="partner_non_lion_first_mdc" id="partner_non_lion_first_mdc">
             <label class="form-check-label" for="partner_non_lion_first_mdc">
@@ -651,6 +731,42 @@ draft: false
             </label>
             <small id="partner_non_lion_pdg_breakfast_help" class="form-text text-muted">
                This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.
+            </small>
+         </div>
+         <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="partner_non_lion_sharks_board" name="partner_non_lion_sharks_board" id="partner_non_lion_sharks_board" aria-describedby="partner_non_lion_sharks_board_help">
+            <label class="form-check-label" for="partner_non_lion_sharks_board">
+               Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April
+            </label>
+            <small id="partner_non_lion_sharks_board_help" class="form-text text-muted">
+               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+            </small>
+         </div>
+         <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="partner_non_lion_golf" name="partner_non_lion_golf" id="partner_non_lion_golf" aria-describedby="partner_non_lion_golf_help">
+            <label class="form-check-label" for="partner_non_lion_golf">
+               Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May
+            </label>
+            <small id="partner_non_lion_golf_help" class="form-text text-muted">
+               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+            </small>
+         </div>
+         <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="partner_non_lion_sight_seeing" name="partner_non_lion_sight_seeing" id="partner_non_lion_sight_seeing" aria-describedby="partner_non_lion_sight_seeing_help">
+            <label class="form-check-label" for="partner_non_lion_sight_seeing">
+               Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May
+            </label>
+            <small id="partner_non_lion_sight_seeing_help" class="form-text text-muted">
+               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
+            </small>
+         </div>
+         <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="partner_non_lion_service_project" name="partner_non_lion_service_project" id="partner_non_lion_service_project" aria-describedby="partner_non_lion_service_project_help">
+            <label class="form-check-label" for="partner_non_lion_service_project">
+               Attendee is interested in attending a <a href="/events/sight_seeing/">service project</a> on Friday 1 May
+            </label>
+            <small id="partner_non_lion_service_project_help" class="form-text text-muted">
+               This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
             </small>
          </div>
          <div class="form-check">
@@ -685,10 +801,10 @@ draft: false
          <h2>Full Registrations</h2>
          <div class="form-group row">
             <label for="full_reg" class="col-sm-8 col-form-label">
-               Full Registrations (R1285 per person): 
+               Number of Full Registrations (R1285 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" class="form-control total" id="full_reg" name="full_reg" aria-describedby="full_reg_help" cost=1300>
+               <input type="number" class="form-control total" id="full_reg" name="full_reg" aria-describedby="full_reg_help" cost=1285>
                <small id="full_reg_help" class="form-text text-muted">
                   Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>
                </small>
@@ -701,26 +817,29 @@ draft: false
          <h2>Partial Registrations</h2>
          <div class="form-group row">
             <label for="partial_reg_banquet" class="col-sm-8 col-form-label">
-               <a href="/events/banquet">Banquet Registrations</a> (R500 per person): 
+               <a href="/events/banquet">Number of Banquet Registrations</a> (R500 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" class="form-control total" id="partial_reg_banquet" name="partial_reg_banquet" cost=600>
+               <input type="number" class="form-control total" id="partial_reg_banquet" name="partial_reg_banquet" cost=500>
             </div>
          </div>
          <div class="form-group row">
             <label for="partial_reg_convention" class="col-sm-8 col-form-label">
-               <a href="/events/md_convention">MD410 Convention</a> (R400 per person): 
+               <a href="/events/md_convention">Number of MD410 Convention Registrations</a> (R400 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" class="form-control total" id="partial_reg_convention" name="partial_reg_convention" cost=450>
+               <input type="number" class="form-control total" id="partial_reg_convention" name="partial_reg_convention" aria-describedby="partial_reg_convention_help" cost=400>
+               <small id="partial_reg_convention_help" class="form-text text-muted">
+                  Includes lunch and teas
+               </small>
             </div>
          </div>
          <div class="form-group row">
             <label for="partial_reg_theme" class="col-sm-8 col-form-label">
-               <a href="/events/theme_evening">Theme Evening Registrations</a> (R450 per person): 
+               <a href="/events/theme_evening">Number of Theme Evening Registrations</a> (R450 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" class="form-control total" id="partial_reg_theme" name="partial_reg_theme" cost=600>
+               <input type="number" class="form-control total" id="partial_reg_theme" name="partial_reg_theme" cost=450>
             </div>
          </div>
       </fieldset>
@@ -729,7 +848,7 @@ draft: false
    <h2>Extra Items</h2>
    <div class="form-group row">
       <label for="pins" class="col-sm-8 col-form-label">
-         Convention Pins (R55 per pin): 
+         Total Number of Convention Pins (R55 per pin): 
       </label>
       <div class="col-sm-4">
          <input type="number" class="form-control total" id="pins" name="pins" cost=55>
@@ -738,22 +857,9 @@ draft: false
    <hr>
    <div class="form-group row">
       <center>
-         <label id=total_cost>Total Cost: R0</label>
+         <label id=total_cost><h3>Total Cost: R0</h3></label>
       </center>
    </div>
-   The details of your registration will be sent to you, including a unique registration number. Payment details will also be included in that email. Please make all payments using your registration number as a reference.
-   <br>
-   <ul>
-      <li><strong>Bank</strong>: ABC</li>
-      <li><strong>Branch</strong>: DEF</li>
-      <li><strong>Account Number</strong>: 12345</li>
-      <li><strong>Account Name</strong>: 2020 MD410 Convention</li>
-   </ul>
-   Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2020.
-   <ul>
-      <li>If your registration is cancelled before 1 April 2020, 90% of the payments you have made will be refunded.</li>
-      <li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>
-   </ul>
    <center>
       <button type="submit">Submit Registration Form</button>
    </center>
