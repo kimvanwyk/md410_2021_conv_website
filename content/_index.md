@@ -1,5 +1,5 @@
 ---
-title: "2020 Lions MD410 Convention"
+title: "Lions MD410 2020 Convention"
 date: 2019-07-14T16:19:07+02:00
 draft: false
 ---

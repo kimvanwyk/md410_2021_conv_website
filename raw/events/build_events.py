@@ -59,11 +59,11 @@ for (date, _, fn, time, event, location, body) in events:
 with open('../../content/program/_index.md', 'w') as fh:
     fh.write(textwrap.dedent('''
     ---
-    title: "2020 Lions MD410 Convention Program"
+    title: "Lions MD410 2020 Convention Program"
     draft: false
     ---
     
-    The 2020 Lions MD410 Convention will be held on Friday 1 May and Saturday 2 May 2020. Some Lions serving in District and Multiple District portfolios will be attending events on Thursday 30 April but most Lions will only need to arrive during the morning of Friday 1 May.
+    The Lions MD410 2020 Convention will be held on Friday 1 May and Saturday 2 May 2020. Some Lions serving in District and Multiple District portfolios will be attending events on Thursday 30 April but most Lions will only need to arrive during the morning of Friday 1 May.
     
     Some events will be held at the North Durban Lions Clubhouse which is less than 5 minutes travel from the Riverside Hotel.
     '''))
