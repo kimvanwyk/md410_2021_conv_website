@@ -71,19 +71,19 @@ pygmentsCodefencesGuessSyntax = false
     weight = 1
 
 [[menu.main]]
-    name = "Accomodation & Venue"
-    identifier = "accomodation"
+    name = "Accommodation & Venue"
+    identifier = "accommodation"
     weight = 2
 
 [[menu.main]]
-    name = "Accomodation"
-    url = "accomodation"
-    parent = "accomodation"
+    name = "Accommodation"
+    url = "accommodation"
+    parent = "accommodation"
     weight = 2
 
 [[menu.main]]
     name = "Venue"
-    parent = "accomodation"
+    parent = "accommodation"
     url = "venue"
     weight = 2
 

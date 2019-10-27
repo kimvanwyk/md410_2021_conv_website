@@ -13,9 +13,9 @@ The hotel is located at 10 Kenneth Kaunda Road, Durban North. Kenneth Kaunda Roa
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3461.990081019298!2d31.030728250766668!3d-29.806830927137213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef70701009063bf%3A0xb9fc916c57b2fc50!2sRiverside+Hotel!5e0!3m2!1sen!2sza!4v1564513814022!5m2!1sen!2sza" width="600" height="450" frameborder="1" style="border:1" allowfullscreen></iframe>
 </center>
 
-## Accomodation
+## Accommodation
 
-See the [Accomodation](/accomodation) page for details on accomodation at the Riverside Hotel and details of alternative accomodation venues.
+See the [Accommodation](/accommodation) page for details on accommodation at the Riverside Hotel and details of alternative accommodation venues.
 
 # North Durban Lions Club
 
