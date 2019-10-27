@@ -280,7 +280,7 @@ def make_attendee_fields(html, prefix, lion=True):
 
     html.add_checkbox(
         f"{prefix}_service_project",
-        'Attendee is interested in attending a <a href="/events/sight_seeing/">service project</a> on Friday 1 May',
+        'Attendee is interested in attending a <a href="/events/service_project/">service project</a> on Friday 1 May',
         help="This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
     )
 
