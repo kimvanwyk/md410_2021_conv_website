@@ -13,6 +13,7 @@ The 2020 MD410 Convention will be convened by a team of dedicated and passionate
     * 083 384 4260
     * [vanwykk@gmail.com](mailto:vanwykk@gmail.com)
 * **Treasurer**: Dave Shone
+    * 083 447 1930
     * [david.shone.za@gmail.com](mailto:david.shone.za@gmail.com)
 * **Secretary**: Avril Hobbs
     * 082 772 3654
