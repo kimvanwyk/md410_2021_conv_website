@@ -5,7 +5,7 @@ draft: false
 
 The Lions MD410 2020 Convention will be held at the [Riverside Hotel](https://theriversidehotel.co.za/), nestled on the mouth of the Umgeni River in Durban North. The hotel is located 20 minutes from the King Shaka airport and is easily reached via major highways.
 
-## Location
+### Location
 
 The hotel is located at 10 Kenneth Kaunda Road, Durban North. Kenneth Kaunda Road may be in your GPS as Northway.
 
@@ -13,11 +13,11 @@ The hotel is located at 10 Kenneth Kaunda Road, Durban North. Kenneth Kaunda Roa
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3461.990081019298!2d31.030728250766668!3d-29.806830927137213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef70701009063bf%3A0xb9fc916c57b2fc50!2sRiverside+Hotel!5e0!3m2!1sen!2sza!4v1564513814022!5m2!1sen!2sza" width="600" height="450" frameborder="1" style="border:1" allowfullscreen></iframe>
 </center>
 
-## Accommodation
+### Accommodation
 
 See the [Accommodation](/accommodation) page for details on accommodation at the Riverside Hotel and details of alternative accommodation venues.
 
-# North Durban Lions Club
+## North Durban Lions Club
 
 Some events will be held at the [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location), which is less than 5 minutes travel from the Riverside Hotel. The clubhouse is on the corner of Uitsig and Prospect Hall Roads.
 

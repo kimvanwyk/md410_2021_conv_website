@@ -24,10 +24,10 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 Time | Event (click on event for further details) | Venue (click for map to venue)
  ---|---  |---
 07:00- | [Golf](/events/golf) | To be confirmed
-09:00-12:00 | [MD410 3rd Council meeting](/events/council_meeting) | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
+09:00-12:00 | [MD410 3rd Council meeting](/events/council_meeting) | [North Durban Lions Clubhouse](/venue/#north-durban-lions-club)
 09:00-12:00 | [Sight-seeing tour/Sharks Board visit](/events/sight_seeing) | Natal Sharks Board
-12:15-13:00 | [Council meeting lunch](/events/council_meeting_lunch) | [North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
-13:15-15:30 | [Districts 410W and 410E Cabinet meetings](/events/cabinet_meetings) | [Riverside Hotel](/venue)/[North Durban Lions Clubhouse](http://northdurbanlions.org.za/club-details/meetings-and-location)
+12:15-13:00 | [Council meeting lunch](/events/council_meeting_lunch) | [North Durban Lions Clubhouse](/venue/#north-durban-lions-club)
+13:15-15:30 | [Districts 410W and 410E Cabinet meetings](/events/cabinet_meetings) | [Riverside Hotel](/venue)/[North Durban Lions Clubhouse](/venue/#north-durban-lions-club)
 14:00-15:30 | [Service project](/events/service_project) | To be confirmed
 15:45-17:00 | [Committee of the Whole](/events/committee_of_the_whole) | [Riverside Hotel](/venue)
 18:15-18:45 | [Pre-banquet drinks](/events/banquet_drinks) | To be confirmed
