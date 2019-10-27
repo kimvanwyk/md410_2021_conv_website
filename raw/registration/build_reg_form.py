@@ -115,8 +115,11 @@ class HTML(object):
             class_attr = f"{base_class} {cls}"
         else:
             class_attr = base_class
+        m = ""
+        if type == "number":
+            m = 'min="0"'
         inner = [
-            f'{"~" * self.level}<input type="{type}" class="{class_attr}" id="{tag}" name="{tag}"{help_attr}{cost_attr}{" disabled" if disabled else ""}>'
+            f'{"~" * self.level}<input type="{type}" {m} class="{class_attr}" id="{tag}" name="{tag}"{help_attr}{cost_attr}{" disabled" if disabled else ""}>'
         ]
         if help:
             inner.append(
