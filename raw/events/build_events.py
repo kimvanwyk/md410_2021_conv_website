@@ -3,7 +3,7 @@ from glob import glob
 import string
 import textwrap
 
-SPECIAL_CASES = {"MD410 Convention resumption":"md_convention.md"}
+SPECIAL_CASES = {"MD410 Convention resumption":"md_convention"}
 
 events = []
 for f in glob('*.txt'):
@@ -12,9 +12,9 @@ for f in glob('*.txt'):
     if "## DISABLE" in lines[0]:
         continue
     event = lines[0]
-    fn = SPECIAL_CASES.get(event, f"{f[:-3]}md")
     date = parser.parse(lines[1], yearfirst=True, dayfirst=False)
     time = lines[2]
+    fn = f"{f[:-3]}md"
     location = lines[3]
     if location == 'TBC':
         location = 'To be confirmed'
@@ -31,30 +31,32 @@ dt = None
 program = []
 for (date, _, fn, time, event, location, body) in events:
     out = []
-    with open(f"../../content/events/{fn}", 'w') as fh:
-        fh.write(textwrap.dedent(f'''\
-        ---
-        title: {event}
-        draft: false
-        ---
+    if event not in SPECIAL_CASES:
+        with open(f"../../content/events/{fn}", 'w') as fh:
+            fh.write(textwrap.dedent(f'''\
+            ---
+            title: {event}
+            draft: false
+            ---
 
-        '''))
-        fh.write(body)
+            '''))
+            fh.write(body)
 
-        fh.write(textwrap.dedent(f'''\
-        \\
-        \\
-        **Date and Time**: {date:%A %d %B %Y}, {time} \\
-        **Location**: {location}
-        \\
-        \\
-        [Back to Program](/program)
-        '''))
+            fh.write(textwrap.dedent(f'''\
+            \\
+            \\
+            **Date and Time**: {date:%A %d %B %Y}, {time} \\
+            **Location**: {location}
+            \\
+            \\
+            [Back to Program](/program)
+            '''))
 
     if date != dt:
         dt = date
-        program.extend(['',f'# {dt:%A %d %B %Y}','','Time | Event (click on event for further details) | Venue (click for map to venue)',' ---|---  |---'])
-    program.append(f"{time} | [{event}](/events/{fn[:-3]}) | {location}") 
+        program.extend(['',f'## {dt:%A %d %B %Y}','','Time | Event (click on event for further details) | Venue (click for map to venue)',' ---|---  |---'])
+    fn = SPECIAL_CASES.get(event, f"{f[:-3]}md")
+    program.append(f"{time} | [{event}](/events/{fn}) | {location}") 
 
 with open('../../content/program/_index.md', 'w') as fh:
     fh.write(textwrap.dedent('''
