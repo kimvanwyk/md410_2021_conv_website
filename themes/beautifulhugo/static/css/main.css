@@ -10,7 +10,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 100vh;
-  background-image: url("/img/skyline2.jpg");
+  background-image: url("/img/skyline2_small.jpg");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
