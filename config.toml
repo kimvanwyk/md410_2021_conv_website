@@ -1,6 +1,6 @@
 baseURL = "https://lionsconvention2020.co.za"
 languageCode = "en-za"
-title = "Lions Multiple District 410 2020 Convention"
+title = "Lions Multiple <br/>District 410<br/>2020 Convention"
 theme = "beautifulhugo" 
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
