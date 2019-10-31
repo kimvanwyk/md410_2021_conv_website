@@ -1,12 +1,13 @@
 ---
-title: Sight-seeing tour/Sharks Board visit
+title: Sight-seeing tour of Durban
 draft: false
 ---
 
-More details will be made available closer to the event. \\
+**This event will be for your own cost and is not covered by the Convention registration fee.**
+\
 \
 **Date and Time**: Friday 01 May 2020, 09:00-12:00 \
-**Location**: Natal Sharks Board
+**Location**: 
 \
 \
 [Back to Program](/program)
