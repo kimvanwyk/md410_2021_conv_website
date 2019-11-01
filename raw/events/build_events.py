@@ -55,8 +55,9 @@ for (date, _, fn, time, event, location, body) in events:
     if date != dt:
         dt = date
         program.extend(['',f'## {dt:%A %d %B %Y}','','Time | Event (click on event for further details) | Venue (click for map to venue)',' ---|---  |---'])
-    fn = SPECIAL_CASES.get(event, f"{f[:-3]}md")
-    program.append(f"{time} | [{event}](/events/{fn}) | {location}") 
+    print(event, SPECIAL_CASES.get(event, fn))
+    f = SPECIAL_CASES.get(event, fn[:-3])
+    program.append(f"{time} | [{event}](/events/{f}) | {location}") 
 
 with open('../../content/program/_index.md', 'w') as fh:
     fh.write(textwrap.dedent('''
