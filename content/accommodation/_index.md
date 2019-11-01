@@ -13,7 +13,7 @@ The hotel can be contacted on +27 (0) 31 563 0600 or at [reserve@riversidehotel.
 
 ## Rates and Rooms
 
-The Riverside Hotel has offered a substantially reduced rate for the MD Convention, especially on double rooms:
+The Riverside Hotel has offered a substantially reduced rate for the MD Convention, especially on double rate bookings:
 
 <div class="text-center">
     <img src="/img/riverside_room_standard.png" width="300" alt="Riverside Hotel - Standard Room" class="rounded img-fluid">
