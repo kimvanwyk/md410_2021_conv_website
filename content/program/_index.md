@@ -41,7 +41,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 12:15-13:00 | [Council meeting lunch](/events/council_meeting_lunch) | [North Durban Lions Clubhouse](/venue/#north-durban-lions-club)
 13:30-16:00 | [Districts 410W and 410E Cabinet meetings](/events/cabinet_meetings) | [Riverside Hotel](/venue)/[North Durban Lions Clubhouse](/venue/#north-durban-lions-club)
 14:00-15:30 | [Service project](/events/service_project) | To be confirmed
-15:45-17:00 | [Committee of the Whole](/events/committee_of_the_whole) | [Riverside Hotel](/venue)
+16:00-17:00 | [Committee of the Whole](/events/committee_of_the_whole) | [Riverside Hotel](/venue)
 18:30-18:15 | [Pre-banquet drinks](/events/banquet_drinks) | To be confirmed
 19:00-22:00 | [Banquet](/events/banquet) | To be confirmed
 
