@@ -12,16 +12,10 @@ draft: false
 
 '''
 TABLE_HEADER = '''<h2>Registrees</h2>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="jquery.tablesorter.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.com/libraries/jquery.tablesorter"></script>
 
-<script type="text/javascript">
-    $(function() {
-        $("registreeTable").tablesorter();
-    });
-</script>
-
-<table id="registreeTable" class="registreeTable">
+<table id="registreeTable" class="tablesorter">
     <thead>
         <tr>
             <th>
@@ -36,6 +30,13 @@ TABLE_HEADER = '''<h2>Registrees</h2>
 '''
 FOOTER = '''    </tbody>
 </table>
+
+<script type="text/javascript">
+    $(function() {
+        $("#registreeTable").tablesorter();
+    });
+</script>
+
 '''
 
 TABLES = {
@@ -112,11 +113,11 @@ with open(URL_PATH, 'w') as fh:
     fh.write('''
 <ul>
 ''')
-    fh.write(f'<li><strong>Number of Registrees</strong>: {len(registrees)}</li>')
-    fh.write('')
-    fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in registrees]))}</li>')
-    fh.write('')
-    fh.write(f'<li><strong>Club With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)')
+    fh.write(f'<li><strong>Number of Registrees</strong>: {len(registrees)}</li>\n')
+    fh.write('\n')
+    fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in registrees]))}</li>\n')
+    fh.write('\n')
+    fh.write(f'<li><strong>Club With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
     fh.write('''
 </ul>
 ''')
