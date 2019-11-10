@@ -26,7 +26,7 @@ FULL_HEADER = '''<html>
 </script>
 </head>
 <body>
-<h1>Full Registration Stats</h1>
+<h1 style="color: #000000;">Full Registration Stats</h1>
 '''
 PUBLIC_TABLE_HEADER = '''<h2>Registrees</h2>
 

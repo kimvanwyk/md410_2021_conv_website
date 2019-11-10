@@ -9,7 +9,7 @@
 </script>
 </head>
 <body>
-<h1>Full Registration Stats</h1>
+<h1 style="color: #000000;">Full Registration Stats</h1>
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
