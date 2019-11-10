@@ -15,15 +15,28 @@ draft: false
 ---
 
 '''
-FULL_HEADER = '''---
-title: Full Registration Stats
-draft: false
----
-
-'''
-PUBLIC_TABLE_HEADER = '''<h2>Registrees</h2>
+FULL_HEADER = '''<html>
+<head>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.com/libraries/jquery.tablesorter"></script>
+<script type="text/javascript">
+    $(function() {
+        $(".registreeTable").tablesorter();
+    });
+</script>
+</head>
+<body>
+<h1>Full Registration Stats</h1>
+'''
+PUBLIC_TABLE_HEADER = '''<h2>Registrees</h2>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.com/libraries/jquery.tablesorter"></script>
+<script type="text/javascript">
+    $(function() {
+        $(".registreeTable").tablesorter();
+    });
+</script>
 
 <table id="registreeTable" class="tablesorter">
     <thead>
@@ -39,12 +52,12 @@ PUBLIC_TABLE_HEADER = '''<h2>Registrees</h2>
     <tbody>
 '''
 FULL_TABLE_HEADER = '''<h2>Registrees</h2>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.com/libraries/jquery.tablesorter"></script>
-
-<table id="registreeTable" class="tablesorter">
+<table id="registreeTable" class="tablesorter" border="1" padding=1>
     <thead>
         <tr>
+            <th>
+                Registration Number
+            </th> 
             <th>
                 Name
             </th> 
@@ -69,13 +82,8 @@ FULL_TABLE_HEADER = '''<h2>Registrees</h2>
 '''
 FOOTER = '''    </tbody>
 </table>
-
-<script type="text/javascript">
-    $(function() {
-        $("#registreeTable").tablesorter();
-    });
-</script>
-
+</body>
+</html>
 '''
 
 TABLES = {
@@ -277,15 +285,15 @@ def build_full_stats(registrees):
         fh.write(f'<li><strong>Club With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
         fh.write('<li><strong>Registrations</strong></li><ul>')
         for a in ('full', 'banquet', 'convention', 'theme'):
-            fh.write(f'<li><strong>{a.capitalize()}:</strong>: {sum([getattr(r, a) for r in registrees])}\n')
+            fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in registrees])}\n')
         fh.write('</ul>')
         fh.write('<li><strong>Extra Items</strong></li><ul>')
         for a in ('pins', ):
-            fh.write(f'<li><strong>{a.capitalize()}:</strong>: {sum([getattr(r, a) for r in registrees])}\n')
+            fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in registrees])}\n')
         fh.write('</ul>')
         fh.write('<li><strong>Extra Activities</strong></li><ul>')
         for a in ("mjf_lunch","pdg_breakfast","sharks_board","golf","sight_seeing","service_project","partner_program",):
-            fh.write(f'<li><strong>{" ".join([i.capitalize() if len(i) > 3 else i.upper() for i in a.split("_")])}:</strong>: {sum([bool(getattr(r, a)) for r in registrees])}\n')
+            fh.write(f'<li><strong>{" ".join([i.capitalize() if len(i) > 3 else i.upper() for i in a.split("_")])}</strong>: {sum([bool(getattr(r, a)) for r in registrees])}\n')
         fh.write('</ul>')
         fh.write(f'<li><strong>Total Owed:</strong> R{sum([r.initial_owed for r in registrees])}</li>')
         fh.write(f'<li><strong>Paid:</strong> R{sum([r.paid for r in registrees])}</li>')
@@ -302,12 +310,10 @@ def build_full_stats(registrees):
 
         fh.write(FULL_TABLE_HEADER)
         for registree in registrees:
-            fh.write(f"<tr><td>{registree.name}</td><td>{registree.club}</td><td>{registree.name_badge}</td><td>{registree.initial_owed}</td><td>{registree.paid}</td><td>{registree.still_owed}</td></tr>")
+            fh.write(f"<tr><td>{registree.reg_num}</td><td>{registree.name}</td><td>{registree.club}</td><td>{registree.name_badge}</td><td>{registree.initial_owed}</td><td>{registree.paid}</td><td>{registree.still_owed}</td></tr>")
         fh.write(FOOTER)
 
 db = DB()
 registrees = db.get_registrees()
-for registree in registrees:
-    print(registree)
 build_public_stats(registrees)
 build_full_stats(registrees)
