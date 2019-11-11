@@ -310,7 +310,7 @@ def build_full_stats(registrees):
 
         fh.write(FULL_TABLE_HEADER)
         for registree in registrees:
-            fh.write(f"<tr><td>{registree.reg_num}</td><td>{registree.name}</td><td>{registree.club}</td><td>{registree.name_badge}</td><td>{registree.initial_owed}</td><td>{registree.paid}</td><td>{registree.still_owed}</td></tr>")
+            fh.write(f"<tr><td>{registree.reg_num}</td><td>{registree.name}</td><td>{registree.club if registree.is_lion else '(Partner in Service)'}</td><td>{registree.name_badge}</td><td>{registree.initial_owed}</td><td>{registree.paid}</td><td>{registree.still_owed}</td></tr>")
         fh.write(FOOTER)
 
 db = DB()
