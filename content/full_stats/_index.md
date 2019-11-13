@@ -27,11 +27,8 @@
 <li><strong>Sight Seeing</strong>: 1
 <li><strong>Service Project</strong>: 5
 <li><strong>Partner Program</strong>: 1
-</ul><li><strong>Total Owed:</strong> R25680.00</li><li><strong>Paid:</strong> R3250.00</li><li><strong>Still Owed:</strong> R22430.00</li><li><strong>Dietary Requirements</strong></li><ul><li>Nil</li>
-<li>None</li>
-<li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
-</ul><li><strong>Disability Requirements</strong></li><ul><li>Nil</li>
-<li>None</li>
+</ul><li><strong>Total Owed:</strong> R25680.00</li><li><strong>Paid:</strong> R3250.00</li><li><strong>Still Owed:</strong> R22430.00</li><li><strong>Dietary Requirements</strong></li><ul><li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
+</ul><li><strong>Disability Requirements</strong></li><ul><li>None Recorded</li>
 </ul><h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
     <thead>

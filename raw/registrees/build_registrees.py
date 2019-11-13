@@ -301,9 +301,13 @@ def build_full_stats(registrees):
 
         for attr in ('dietary', 'disability'):
             fh.write(f'<li><strong>{attr.capitalize()} Requirements</strong></li><ul>')
-            items = set([getattr(r, attr) for r in registrees if getattr(r, attr) ])
+            items = []
+            for r in registrees:
+                a = getattr(r, attr)
+                if a and (not any([c == a.lower() for c in ('nil', 'none')])):
+                    items.append(a)
             if not items:
-                items = ['None recorded']
+                items = ['None Recorded']
             for d in items:
                 fh.write(f'<li>{d}</li>\n')
             fh.write('</ul>')
