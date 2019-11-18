@@ -36,6 +36,6 @@ The 2020 MD410 Convention will be convened by a team of dedicated and passionate
 
 The MD410 Standing Committee on Conventions advises the convention committee and the MD410 Council on the Convention:
 
-* **Standing Committee on Conventions Chair**: Vicki van Wyk - [vanwykvs@gmail.com](mailto:vanwykvs@gmail.com)
+* **Standing Committee on Conventions Chair**: Vicki van Wyk [vanwykvs@gmail.com](mailto:vanwykvs@gmail.com)
 
 Please use email wherever possible as the committee members may not be in a position to take phone calls.
