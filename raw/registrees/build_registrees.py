@@ -277,30 +277,30 @@ def build_full_stats(registrees):
 <ul>
 ''')
         fh.write(f'<li><strong>Number of Registrees</strong><ul>\n')
-        fh.write(f'<li><strong>Total</strong>: {len(registrees)}</li>')        
-        fh.write(f'<li><strong>Lions</strong>: {len([r for r in registrees if r.is_lion])}</li>')        
-        fh.write(f'<li><strong>Partners In Service</strong>: {len([r for r in registrees if not r.is_lion])}</li>')        
-        fh.write('</ul>')
+        fh.write(f'<li><strong>Total</strong>: {len(registrees)}</li>\n')
+        fh.write(f'<li><strong>Lions</strong>: {len([r for r in registrees if r.is_lion])}</li>\n')
+        fh.write(f'<li><strong>Partners In Service</strong>: {len([r for r in registrees if not r.is_lion])}</li>\n')
+        fh.write('</ul>\n')
         fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in registrees]))}</li>\n')
         fh.write(f'<li><strong>Club With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
         fh.write('<li><strong>Registrations</strong></li><ul>')
         for a in ('full', 'banquet', 'convention', 'theme'):
             fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in registrees])}\n')
         fh.write('</ul>')
-        fh.write('<li><strong>Extra Items</strong></li><ul>')
+        fh.write('<li><strong>Extra Items</strong></li><ul>\n')
         for a in ('pins', ):
             fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in registrees])}\n')
         fh.write('</ul>')
-        fh.write('<li><strong>Extra Activities</strong></li><ul>')
+        fh.write('<li><strong>Extra Activities</strong></li><ul>\n')
         for a in ("mjf_lunch","pdg_breakfast","sharks_board","golf","sight_seeing","service_project","partner_program",):
             fh.write(f'<li><strong>{" ".join([i.capitalize() if len(i) > 3 else i.upper() for i in a.split("_")])}</strong>: {sum([bool(getattr(r, a)) for r in registrees])}\n')
-        fh.write('</ul>')
-        fh.write(f'<li><strong>Total Owed:</strong> R{sum([r.initial_owed for r in registrees])}</li>')
-        fh.write(f'<li><strong>Paid:</strong> R{sum([r.paid for r in registrees])}</li>')
-        fh.write(f'<li><strong>Still Owed:</strong> R{sum([r.still_owed for r in registrees])}</li>')
+        fh.write('</ul>\n')
+        fh.write(f'<li><strong>Total Owed:</strong> R{sum([r.initial_owed for r in registrees])}</li>\n')
+        fh.write(f'<li><strong>Paid:</strong> R{sum([r.paid for r in registrees])}</li>\n')
+        fh.write(f'<li><strong>Still Owed:</strong> R{sum([r.still_owed for r in registrees])}</li>\n')
 
         for attr in ('dietary', 'disability'):
-            fh.write(f'<li><strong>{attr.capitalize()} Requirements</strong></li><ul>')
+            fh.write(f'<li><strong>{attr.capitalize()} Requirements</strong></li><ul>\n')
             items = []
             for r in registrees:
                 a = getattr(r, attr)
@@ -310,11 +310,20 @@ def build_full_stats(registrees):
                 items = ['None Recorded']
             for d in items:
                 fh.write(f'<li>{d}</li>\n')
-            fh.write('</ul>')
+            fh.write('</ul>\n')
 
         fh.write(FULL_TABLE_HEADER)
         for registree in registrees:
-            fh.write(f"<tr><td>{registree.reg_num}</td><td>{registree.name}</td><td>{registree.club if registree.is_lion else '(Partner in Service)'}</td><td>{registree.name_badge}</td><td>{registree.initial_owed}</td><td>{registree.paid}</td><td>{registree.still_owed}</td></tr>")
+            fh.write(f"""<tr {'style="background-color: yellow"' if not registree.still_owed else ''}>
+    <td>{registree.reg_num}</td>
+    <td>{registree.name}</td>
+    <td>{registree.club if registree.is_lion else '(Partner in Service)'}</td>
+    <td>{registree.name_badge}</td>
+    <td>{registree.initial_owed}</td>
+    <td>{registree.paid}</td>
+    <td>{registree.still_owed}</td>
+</tr>\n
+""")
         fh.write(FOOTER)
 
 db = DB()
