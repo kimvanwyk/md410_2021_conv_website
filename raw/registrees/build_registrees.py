@@ -314,7 +314,7 @@ def build_full_stats(registrees):
 
         fh.write(FULL_TABLE_HEADER)
         for registree in registrees:
-            fh.write(f"""<tr {'style="background-color: yellow"' if not registree.still_owed else ''}>
+            fh.write(f"""<tr {'style="background-color: lightgreen"' if not registree.still_owed else ''}{'style="background-color: yellow"' if not registree.paid else ''}>
     <td>{registree.reg_num}</td>
     <td>{registree.name}</td>
     <td>{registree.club if registree.is_lion else '(Partner in Service)'}</td>

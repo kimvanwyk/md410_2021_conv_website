@@ -73,7 +73,7 @@
         </tr>
     </thead>
     <tbody>
-<tr >
+<tr style="background-color: yellow">
     <td>17</td>
     <td>Sharon Cottle</td>
     <td>Groote Schuur</td>
@@ -83,7 +83,7 @@
     <td>1285.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>13</td>
     <td>Desiree Du Toit</td>
     <td>Ramsgate</td>
@@ -133,7 +133,7 @@
     <td>985.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>29</td>
     <td>Zwaai Krüger</td>
     <td>Sedgefield</td>
@@ -143,7 +143,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
     <td>26</td>
     <td>Lance Maytham</td>
     <td>Bredasdorp</td>
@@ -153,7 +153,7 @@
     <td>0.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>15</td>
     <td>Roy Michas</td>
     <td>Midrand</td>
@@ -163,7 +163,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>16</td>
     <td>Dawn Michas</td>
     <td>Midrand</td>
@@ -193,7 +193,7 @@
     <td>985.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>18</td>
     <td>Michael Newlands</td>
     <td>Port Alfred</td>
@@ -203,7 +203,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>4</td>
     <td>Susanna Helena Smit</td>
     <td>Centurion</td>
@@ -213,7 +213,7 @@
     <td>1835.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>19</td>
     <td>Herman Smit</td>
     <td>Swellendam</td>
@@ -223,7 +223,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>20</td>
     <td>Berdine Smit</td>
     <td>(Partner in Service)</td>
@@ -233,7 +233,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>9</td>
     <td>Bennie Smith</td>
     <td>Wellington</td>
@@ -243,7 +243,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>12</td>
     <td>Jeff Smith</td>
     <td>Port Shepstone</td>
@@ -253,7 +253,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
     <td>5</td>
     <td>Alistair Tuckett</td>
     <td>Roodepoort Clearwater Cyber</td>
@@ -283,7 +283,7 @@
     <td>985.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>28</td>
     <td>Owolabi Williams Monzur</td>
     <td>Badagry</td>
@@ -293,7 +293,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>21</td>
     <td>Geila Wills</td>
     <td>Cape Town</td>
@@ -303,7 +303,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>27</td>
     <td>Judy Young</td>
     <td>Durbanville</td>
@@ -313,7 +313,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>6</td>
     <td>Lindie van Wyk</td>
     <td>Pretoria Jakaranda</td>
@@ -323,7 +323,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>22</td>
     <td>Vicki van Wyk</td>
     <td>North Durban</td>
@@ -333,7 +333,7 @@
     <td>1340.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: yellow">
     <td>23</td>
     <td>Kim van Wyk</td>
     <td>North Durban</td>
