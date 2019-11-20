@@ -13,30 +13,30 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 27</li>
-<li><strong>Lions</strong>: 26</li>
+<li><strong>Total</strong>: 28</li>
+<li><strong>Lions</strong>: 27</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 19</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (4 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 27
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 28
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
 <li><strong>Pins</strong>: 30
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 13
+<li><strong>MJF Lunch</strong>: 14
 <li><strong>PDG Breakfast</strong>: 12
 <li><strong>Sharks Board</strong>: 3
 <li><strong>Golf</strong>: 0
 <li><strong>Sight Seeing</strong>: 2
-<li><strong>Service Project</strong>: 8
+<li><strong>Service Project</strong>: 9
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R36345.00</li>
+<li><strong>Total Owed:</strong> R37630.00</li>
 <li><strong>Paid:</strong> R6530.00</li>
-<li><strong>Still Owed:</strong> R29815.00</li>
+<li><strong>Still Owed:</strong> R31100.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
@@ -281,6 +281,16 @@
     <td>1285.00</td>
     <td>300.00</td>
     <td>985.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>31</td>
+    <td>Joyce Wilcocks</td>
+    <td>Pretoria Jakaranda</td>
+    <td>Joyce</td>
+    <td>1285.00</td>
+    <td>0.00</td>
+    <td>1285.00</td>
 </tr>
 
 <tr style="background-color: yellow">
