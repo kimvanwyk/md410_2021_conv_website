@@ -35,8 +35,8 @@
 <li><strong>Partner Program</strong>: 1
 </ul>
 <li><strong>Total Owed:</strong> R37630.00</li>
-<li><strong>Paid:</strong> R6530.00</li>
-<li><strong>Still Owed:</strong> R31100.00</li>
+<li><strong>Paid:</strong> R7870.00</li>
+<li><strong>Still Owed:</strong> R29760.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
@@ -323,14 +323,14 @@
     <td>1340.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
     <td>6</td>
     <td>Lindie van Wyk</td>
     <td>Pretoria Jakaranda</td>
     <td>Lindie</td>
     <td>1340.00</td>
-    <td>0.00</td>
     <td>1340.00</td>
+    <td>0.00</td>
 </tr>
 
 <tr style="background-color: yellow">
