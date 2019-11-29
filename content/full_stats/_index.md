@@ -13,30 +13,30 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 28</li>
-<li><strong>Lions</strong>: 27</li>
+<li><strong>Total</strong>: 30</li>
+<li><strong>Lions</strong>: 29</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 19</li>
-<li><strong>Club With Most Attendees</strong>: Midrand (4 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 28
+<li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 30
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
 <li><strong>Pins</strong>: 30
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 14
-<li><strong>PDG Breakfast</strong>: 12
+<li><strong>MJF Lunch</strong>: 15
+<li><strong>PDG Breakfast</strong>: 13
 <li><strong>Sharks Board</strong>: 3
 <li><strong>Golf</strong>: 0
 <li><strong>Sight Seeing</strong>: 2
 <li><strong>Service Project</strong>: 9
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R37630.00</li>
+<li><strong>Total Owed:</strong> R40200.00</li>
 <li><strong>Paid:</strong> R7870.00</li>
-<li><strong>Still Owed:</strong> R29760.00</li>
+<li><strong>Still Owed:</strong> R32330.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
@@ -348,6 +348,26 @@
     <td>Kim van Wyk</td>
     <td>North Durban</td>
     <td>Kim van Wyk</td>
+    <td>1285.00</td>
+    <td>0.00</td>
+    <td>1285.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>32</td>
+    <td>Patricia van Wyk</td>
+    <td>Pretoria Jakaranda</td>
+    <td>PDG Patricia van Wyk</td>
+    <td>1285.00</td>
+    <td>0.00</td>
+    <td>1285.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>33</td>
+    <td>Willie van Wyk</td>
+    <td>Midrand</td>
+    <td>Lion Willem van Wyk</td>
     <td>1285.00</td>
     <td>0.00</td>
     <td>1285.00</td>
