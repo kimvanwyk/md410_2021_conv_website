@@ -13,18 +13,18 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 32</li>
-<li><strong>Lions</strong>: 31</li>
+<li><strong>Total</strong>: 33</li>
+<li><strong>Lions</strong>: 32</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 20</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 32
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 33
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 32
+<li><strong>Pins</strong>: 33
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 15
 <li><strong>PDG Breakfast</strong>: 13
@@ -34,9 +34,9 @@
 <li><strong>Service Project</strong>: 9
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R42880.00</li>
-<li><strong>Paid:</strong> R7870.00</li>
-<li><strong>Still Owed:</strong> R35010.00</li>
+<li><strong>Total Owed:</strong> R44220.00</li>
+<li><strong>Paid:</strong> R9470.00</li>
+<li><strong>Still Owed:</strong> R34750.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
@@ -134,6 +134,16 @@
 </tr>
 
 <tr style="background-color: yellow">
+    <td>36</td>
+    <td>Dawid Jacobs</td>
+    <td>Durbanville</td>
+    <td>Dawid Jacobs</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
+</tr>
+
+<tr style="background-color: yellow">
     <td>29</td>
     <td>Zwaai Krüger</td>
     <td>Sedgefield</td>
@@ -143,24 +153,24 @@
     <td>1340.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr >
     <td>34</td>
     <td>Heather Lee</td>
     <td>Cape Of Good Hope</td>
     <td>Lion Heather Lee</td>
     <td>1395.00</td>
-    <td>0.00</td>
-    <td>1395.00</td>
+    <td>800.00</td>
+    <td>595.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr >
     <td>35</td>
     <td>Darrol Lee</td>
     <td>Cape Of Good Hope</td>
     <td>Lion Darrol Lee</td>
     <td>1285.00</td>
-    <td>0.00</td>
-    <td>1285.00</td>
+    <td>800.00</td>
+    <td>485.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
