@@ -35,8 +35,8 @@
 <li><strong>Partner Program</strong>: 1
 </ul>
 <li><strong>Total Owed:</strong> R44220.00</li>
-<li><strong>Paid:</strong> R9470.00</li>
-<li><strong>Still Owed:</strong> R34750.00</li>
+<li><strong>Paid:</strong> R9770.00</li>
+<li><strong>Still Owed:</strong> R34450.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
@@ -143,14 +143,14 @@
     <td>1340.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr >
     <td>29</td>
     <td>Zwaai Krüger</td>
     <td>Sedgefield</td>
     <td>Zwaai Krüger</td>
     <td>1340.00</td>
-    <td>0.00</td>
-    <td>1340.00</td>
+    <td>300.00</td>
+    <td>1040.00</td>
 </tr>
 
 <tr >
