@@ -13,20 +13,20 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 33</li>
-<li><strong>Lions</strong>: 32</li>
+<li><strong>Total</strong>: 35</li>
+<li><strong>Lions</strong>: 34</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 20</li>
+<li><strong>Number of Clubs</strong>: 21</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 33
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 35
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 33
+<li><strong>Pins</strong>: 35
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 15
+<li><strong>MJF Lunch</strong>: 16
 <li><strong>PDG Breakfast</strong>: 13
 <li><strong>Sharks Board</strong>: 3
 <li><strong>Golf</strong>: 0
@@ -34,16 +34,19 @@
 <li><strong>Service Project</strong>: 9
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R44220.00</li>
-<li><strong>Paid:</strong> R9770.00</li>
-<li><strong>Still Owed:</strong> R34450.00</li>
+<li><strong>Total Owed:</strong> R46900.00</li>
+<li><strong>Paid:</strong> R10270.00</li>
+<li><strong>Still Owed:</strong> R36630.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
+<li>N/A</li>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
 <li>Allergic to cheese and cream</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
+<li>N/A</li>
 <li>no</li>
+<li>N/A</li>
 </ul>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -73,6 +76,16 @@
         </tr>
     </thead>
     <tbody>
+<tr style="background-color: yellow">
+    <td>37</td>
+    <td>Jose Braga Borges</td>
+    <td>Malmesbury</td>
+    <td>1st VE Jose Braga Borges</td>
+    <td>1395.00</td>
+    <td>0.00</td>
+    <td>1395.00</td>
+</tr>
+
 <tr style="background-color: yellow">
     <td>17</td>
     <td>Sharon Cottle</td>
@@ -159,8 +172,8 @@
     <td>Cape Of Good Hope</td>
     <td>Lion Heather Lee</td>
     <td>1395.00</td>
-    <td>800.00</td>
-    <td>595.00</td>
+    <td>1050.00</td>
+    <td>345.00</td>
 </tr>
 
 <tr >
@@ -169,8 +182,8 @@
     <td>Cape Of Good Hope</td>
     <td>Lion Darrol Lee</td>
     <td>1285.00</td>
-    <td>800.00</td>
-    <td>485.00</td>
+    <td>1050.00</td>
+    <td>235.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
@@ -398,6 +411,16 @@
     <td>Willie van Wyk</td>
     <td>Midrand</td>
     <td>Lion Willem van Wyk</td>
+    <td>1285.00</td>
+    <td>0.00</td>
+    <td>1285.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>38</td>
+    <td>Martha Maria van der Merwe</td>
+    <td>Malmesbury</td>
+    <td>LP Marina van der Merwe</td>
     <td>1285.00</td>
     <td>0.00</td>
     <td>1285.00</td>
