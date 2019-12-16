@@ -13,30 +13,30 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 35</li>
-<li><strong>Lions</strong>: 34</li>
+<li><strong>Total</strong>: 36</li>
+<li><strong>Lions</strong>: 35</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 21</li>
+<li><strong>Number of Clubs</strong>: 22</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 35
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 36
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 35
+<li><strong>Pins</strong>: 36
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 16
+<li><strong>MJF Lunch</strong>: 17
 <li><strong>PDG Breakfast</strong>: 13
 <li><strong>Sharks Board</strong>: 3
 <li><strong>Golf</strong>: 0
 <li><strong>Sight Seeing</strong>: 2
-<li><strong>Service Project</strong>: 9
+<li><strong>Service Project</strong>: 10
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R46900.00</li>
+<li><strong>Total Owed:</strong> R48240.00</li>
 <li><strong>Paid:</strong> R10270.00</li>
-<li><strong>Still Owed:</strong> R36630.00</li>
+<li><strong>Still Owed:</strong> R37970.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
 <li>Halal</li>
@@ -194,6 +194,16 @@
     <td>1340.00</td>
     <td>1340.00</td>
     <td>0.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>41</td>
+    <td>Mark Meltzer</td>
+    <td>The Wilds</td>
+    <td>Mark Meltzer</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
 </tr>
 
 <tr style="background-color: yellow">
