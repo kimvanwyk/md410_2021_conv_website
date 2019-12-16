@@ -76,14 +76,14 @@
         </tr>
     </thead>
     <tbody>
-<tr >
+<tr style="background-color: lightgreen">
     <td>37</td>
     <td>Jose Braga Borges</td>
     <td>Malmesbury</td>
     <td>1st VE Jose Braga Borges</td>
-    <td>1395.00</td>
     <td>1340.00</td>
-    <td>55.00</td>
+    <td>1340.00</td>
+    <td>0.00</td>
 </tr>
 
 <tr style="background-color: yellow">
@@ -436,14 +436,14 @@
     <td>1285.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: lightgreen">
     <td>38</td>
     <td>Martha Maria van der Merwe</td>
     <td>Malmesbury</td>
     <td>LP Marina van der Merwe</td>
-    <td>1285.00</td>
     <td>1340.00</td>
-    <td>-55.00</td>
+    <td>1340.00</td>
+    <td>0.00</td>
 </tr>
 
     </tbody>
