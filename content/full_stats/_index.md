@@ -13,30 +13,30 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 36</li>
-<li><strong>Lions</strong>: 35</li>
+<li><strong>Total</strong>: 37</li>
+<li><strong>Lions</strong>: 36</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 22</li>
+<li><strong>Number of Clubs</strong>: 23</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
 <li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 36
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 36
+<li><strong>Pins</strong>: 37
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 17
 <li><strong>PDG Breakfast</strong>: 13
-<li><strong>Sharks Board</strong>: 3
+<li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 0
 <li><strong>Sight Seeing</strong>: 2
-<li><strong>Service Project</strong>: 10
+<li><strong>Service Project</strong>: 11
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R48240.00</li>
-<li><strong>Paid:</strong> R10270.00</li>
-<li><strong>Still Owed:</strong> R37970.00</li>
+<li><strong>Total Owed:</strong> R48295.00</li>
+<li><strong>Paid:</strong> R12950.00</li>
+<li><strong>Still Owed:</strong> R35345.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
 <li>Halal</li>
@@ -76,14 +76,14 @@
         </tr>
     </thead>
     <tbody>
-<tr style="background-color: yellow">
+<tr >
     <td>37</td>
     <td>Jose Braga Borges</td>
     <td>Malmesbury</td>
     <td>1st VE Jose Braga Borges</td>
     <td>1395.00</td>
-    <td>0.00</td>
-    <td>1395.00</td>
+    <td>1340.00</td>
+    <td>55.00</td>
 </tr>
 
 <tr style="background-color: yellow">
@@ -306,6 +306,16 @@
     <td>1340.00</td>
 </tr>
 
+<tr style="background-color: yellow">
+    <td>42</td>
+    <td>Alex Tshikala</td>
+    <td>Athlone</td>
+    <td>Lion David-Alex Tshikala</td>
+    <td>55.00</td>
+    <td>0.00</td>
+    <td>55.00</td>
+</tr>
+
 <tr style="background-color: lightgreen">
     <td>5</td>
     <td>Alistair Tuckett</td>
@@ -426,14 +436,14 @@
     <td>1285.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr >
     <td>38</td>
     <td>Martha Maria van der Merwe</td>
     <td>Malmesbury</td>
     <td>LP Marina van der Merwe</td>
     <td>1285.00</td>
-    <td>0.00</td>
-    <td>1285.00</td>
+    <td>1340.00</td>
+    <td>-55.00</td>
 </tr>
 
     </tbody>
