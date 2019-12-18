@@ -26,7 +26,7 @@
 </ul><li><strong>Extra Items</strong></li><ul>
 <li><strong>Pins</strong>: 37
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 17
+<li><strong>MJF Lunch</strong>: 18
 <li><strong>PDG Breakfast</strong>: 13
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 0
