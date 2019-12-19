@@ -19,7 +19,7 @@
 </ul>
 <li><strong>Number of Clubs</strong>: 23</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 36
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 37
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
@@ -34,9 +34,9 @@
 <li><strong>Service Project</strong>: 11
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R48295.00</li>
+<li><strong>Total Owed:</strong> R49580.00</li>
 <li><strong>Paid:</strong> R12950.00</li>
-<li><strong>Still Owed:</strong> R35345.00</li>
+<li><strong>Still Owed:</strong> R36630.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
 <li>Halal</li>
@@ -311,9 +311,9 @@
     <td>Alex Tshikala</td>
     <td>Athlone</td>
     <td>Lion David-Alex Tshikala</td>
-    <td>55.00</td>
+    <td>1340.00</td>
     <td>0.00</td>
-    <td>55.00</td>
+    <td>1340.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
