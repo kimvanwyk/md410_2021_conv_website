@@ -13,32 +13,33 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 38</li>
-<li><strong>Lions</strong>: 37</li>
+<li><strong>Total</strong>: 39</li>
+<li><strong>Lions</strong>: 38</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 24</li>
+<li><strong>Number of Clubs</strong>: 25</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
 <li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 38
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 38
+<li><strong>Pins</strong>: 39
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 18
+<li><strong>MJF Lunch</strong>: 19
 <li><strong>PDG Breakfast</strong>: 13
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 0
 <li><strong>Sight Seeing</strong>: 2
-<li><strong>Service Project</strong>: 11
+<li><strong>Service Project</strong>: 12
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R50920.00</li>
+<li><strong>Total Owed:</strong> R50975.00</li>
 <li><strong>Paid:</strong> R14290.00</li>
-<li><strong>Still Owed:</strong> R36630.00</li>
+<li><strong>Still Owed:</strong> R36685.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
+<li>Halal</li>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
 <li>Allergic to cheese and cream</li>
@@ -154,6 +155,16 @@
     <td>1285.00</td>
     <td>300.00</td>
     <td>985.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>44</td>
+    <td>Akinyemi Ismaila Tunde</td>
+    <td>Alberton</td>
+    <td>tunde </td>
+    <td>55.00</td>
+    <td>0.00</td>
+    <td>55.00</td>
 </tr>
 
 <tr style="background-color: yellow">
