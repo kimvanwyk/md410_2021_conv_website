@@ -35,8 +35,8 @@
 <li><strong>Partner Program</strong>: 1
 </ul>
 <li><strong>Total Owed:</strong> R50920.00</li>
-<li><strong>Paid:</strong> R12950.00</li>
-<li><strong>Still Owed:</strong> R37970.00</li>
+<li><strong>Paid:</strong> R14290.00</li>
+<li><strong>Still Owed:</strong> R36630.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
 <li>Halal</li>
@@ -126,14 +126,14 @@
     <td>1040.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
     <td>43</td>
     <td>Wendy Higgins</td>
     <td>Wilro Park</td>
     <td>Wendy Higgins </td>
     <td>1340.00</td>
-    <td>0.00</td>
     <td>1340.00</td>
+    <td>0.00</td>
 </tr>
 
 <tr >
