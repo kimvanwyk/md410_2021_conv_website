@@ -19,7 +19,7 @@
 </ul>
 <li><strong>Number of Clubs</strong>: 25</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 38
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 39
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
@@ -34,9 +34,9 @@
 <li><strong>Service Project</strong>: 12
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R50975.00</li>
+<li><strong>Total Owed:</strong> R52260.00</li>
 <li><strong>Paid:</strong> R14290.00</li>
-<li><strong>Still Owed:</strong> R36685.00</li>
+<li><strong>Still Owed:</strong> R37970.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
 <li>Halal</li>
@@ -162,9 +162,9 @@
     <td>Akinyemi Ismaila Tunde</td>
     <td>Alberton</td>
     <td>tunde </td>
-    <td>55.00</td>
+    <td>1340.00</td>
     <td>0.00</td>
-    <td>55.00</td>
+    <td>1340.00</td>
 </tr>
 
 <tr style="background-color: yellow">
