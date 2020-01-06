@@ -71,6 +71,11 @@ pygmentsCodefencesGuessSyntax = false
     weight = 1
 
 [[menu.main]]
+    name = "Theme"
+    url = "theme"
+    weight = 1
+
+[[menu.main]]
     name = "Accommodation & Venue"
     identifier = "accommodation"
     weight = 2
