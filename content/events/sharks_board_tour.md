@@ -1,5 +1,5 @@
 ---
-title: Sharks Board tour
+title: 'Sharks Board tour'
 draft: false
 ---
 

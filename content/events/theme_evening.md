@@ -1,5 +1,5 @@
 ---
-title: \"Something Fishy\" theme evening
+title: '"Something Fishy" theme evening'
 draft: false
 ---
 

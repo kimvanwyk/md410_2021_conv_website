@@ -54,7 +54,7 @@ Time | Event (click on event for further details) | Venue (click for map to venu
 12:30-13:30 | [Convention delegates lunch](/events/lunch) | [Riverside Hotel](/venue)
 12:30-13:30 | [Melvin Jones Fellows lunch](/events/mjf_lunch) | [Riverside Hotel](/venue)
 15:30-17:00 | [Interactive Function With International Guest and/or Workshops](/events/international_guest) | [Riverside Hotel](/venue)
-18:30- | [\"Something Fishy\" theme evening](/events/theme_evening) | [Riverside Hotel](/venue)
+18:30- | ["Something Fishy" theme evening](/events/theme_evening) | [Riverside Hotel](/venue)
 
 ## Sunday 03 May 2020
 

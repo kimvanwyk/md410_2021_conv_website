@@ -1,5 +1,5 @@
 ---
-title: Council meeting lunch
+title: 'Council meeting lunch'
 draft: false
 ---
 

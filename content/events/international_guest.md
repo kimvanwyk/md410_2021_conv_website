@@ -1,5 +1,5 @@
 ---
-title: Interactive Function With International Guest and/or Workshops
+title: 'Interactive Function With International Guest and/or Workshops'
 draft: false
 ---
 

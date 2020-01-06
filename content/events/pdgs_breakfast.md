@@ -1,5 +1,5 @@
 ---
-title: PDGs breakfast
+title: 'PDGs breakfast'
 draft: false
 ---
 

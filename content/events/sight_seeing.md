@@ -1,5 +1,5 @@
 ---
-title: Sight-seeing tour of Durban
+title: 'Sight-seeing tour of Durban'
 draft: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Outgoing and Incoming Council dinner
+title: 'Outgoing and Incoming Council dinner'
 draft: false
 ---
 

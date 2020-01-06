@@ -1,5 +1,5 @@
 ---
-title: Service project
+title: 'Service project'
 draft: false
 ---
 

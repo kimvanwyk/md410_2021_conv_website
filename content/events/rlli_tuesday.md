@@ -1,5 +1,5 @@
 ---
-title: Regional Lions Leadership Institute
+title: 'Regional Lions Leadership Institute'
 draft: false
 ---
 

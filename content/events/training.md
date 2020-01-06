@@ -1,5 +1,5 @@
 ---
-title: Districts 410W and 410E RC, ZC, Cabinet officer and LP training
+title: 'Districts 410W and 410E RC, ZC, Cabinet officer and LP training'
 draft: false
 ---
 

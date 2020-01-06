@@ -1,5 +1,5 @@
 ---
-title: Golf
+title: 'Golf'
 draft: false
 ---
 

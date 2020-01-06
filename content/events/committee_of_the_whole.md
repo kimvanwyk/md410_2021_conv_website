@@ -1,5 +1,5 @@
 ---
-title: Committee of the Whole
+title: 'Committee of the Whole'
 draft: false
 ---
 
