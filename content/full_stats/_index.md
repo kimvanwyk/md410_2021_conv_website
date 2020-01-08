@@ -35,8 +35,8 @@
 <li><strong>Partner Program</strong>: 1
 </ul>
 <li><strong>Total Owed:</strong> R52260.00</li>
-<li><strong>Paid:</strong> R14290.00</li>
-<li><strong>Still Owed:</strong> R37970.00</li>
+<li><strong>Paid:</strong> R19710.00</li>
+<li><strong>Still Owed:</strong> R32550.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
 <li>Halal</li>
@@ -187,24 +187,24 @@
     <td>1040.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: lightgreen">
     <td>34</td>
     <td>Heather Lee</td>
     <td>Cape Of Good Hope</td>
     <td>Lion Heather Lee</td>
     <td>1395.00</td>
-    <td>1050.00</td>
-    <td>345.00</td>
+    <td>1395.00</td>
+    <td>0.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: lightgreen">
     <td>35</td>
     <td>Darrol Lee</td>
     <td>Cape Of Good Hope</td>
     <td>Lion Darrol Lee</td>
     <td>1285.00</td>
-    <td>1050.00</td>
-    <td>235.00</td>
+    <td>1285.00</td>
+    <td>0.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
@@ -347,24 +347,24 @@
     <td>0.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: lightgreen">
     <td>10</td>
     <td>Keith Weston</td>
     <td>Scottburgh</td>
     <td>Keith Weston</td>
     <td>1285.00</td>
-    <td>300.00</td>
-    <td>985.00</td>
+    <td>1285.00</td>
+    <td>0.00</td>
 </tr>
 
-<tr >
+<tr style="background-color: lightgreen">
     <td>11</td>
     <td>Barbara Weston</td>
     <td>Scottburgh</td>
     <td>Barbara Weston</td>
     <td>1285.00</td>
-    <td>300.00</td>
-    <td>985.00</td>
+    <td>1285.00</td>
+    <td>0.00</td>
 </tr>
 
 <tr style="background-color: yellow">
@@ -397,14 +397,14 @@
     <td>1340.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr >
     <td>27</td>
     <td>Judy Young</td>
     <td>Durbanville</td>
     <td>CS Judy Young</td>
     <td>1340.00</td>
-    <td>0.00</td>
-    <td>1340.00</td>
+    <td>300.00</td>
+    <td>1040.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
@@ -437,24 +437,24 @@
     <td>1285.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
     <td>32</td>
     <td>Patricia van Wyk</td>
     <td>Pretoria Jakaranda</td>
     <td>PDG Patricia van Wyk</td>
     <td>1285.00</td>
-    <td>0.00</td>
     <td>1285.00</td>
+    <td>0.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
     <td>33</td>
     <td>Willie van Wyk</td>
     <td>Midrand</td>
     <td>Lion Willem van Wyk</td>
     <td>1285.00</td>
-    <td>0.00</td>
     <td>1285.00</td>
+    <td>0.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
