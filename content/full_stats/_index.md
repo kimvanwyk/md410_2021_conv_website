@@ -13,18 +13,18 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 41</li>
-<li><strong>Lions</strong>: 40</li>
+<li><strong>Total</strong>: 43</li>
+<li><strong>Lions</strong>: 42</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 25</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 41
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 43
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 39
+<li><strong>Pins</strong>: 41
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 19
 <li><strong>PDG Breakfast</strong>: 13
@@ -34,12 +34,14 @@
 <li><strong>Service Project</strong>: 12
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R54830.00</li>
+<li><strong>Total Owed:</strong> R57510.00</li>
 <li><strong>Paid:</strong> R20310.00</li>
-<li><strong>Still Owed:</strong> R34520.00</li>
+<li><strong>Still Owed:</strong> R37200.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
 <li>Halal</li>
+<li>n/a</li>
+<li>No fish or mushrooms</li>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
 <li>NA</li>
@@ -349,6 +351,26 @@
     <td>1450.00</td>
     <td>1450.00</td>
     <td>0.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>47</td>
+    <td>Gail Tuckett</td>
+    <td>Roodepoort Clearwater Cyber</td>
+    <td>Lion Gail Tuckett</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>48</td>
+    <td>Rowan Tuckett</td>
+    <td>Roodepoort Clearwater Cyber</td>
+    <td>LP Rowan Tuckett</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
