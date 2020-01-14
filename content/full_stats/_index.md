@@ -13,13 +13,13 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 39</li>
-<li><strong>Lions</strong>: 38</li>
+<li><strong>Total</strong>: 41</li>
+<li><strong>Lions</strong>: 40</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 25</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 39
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 41
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
@@ -34,19 +34,23 @@
 <li><strong>Service Project</strong>: 12
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R52260.00</li>
-<li><strong>Paid:</strong> R19710.00</li>
-<li><strong>Still Owed:</strong> R32550.00</li>
+<li><strong>Total Owed:</strong> R54830.00</li>
+<li><strong>Paid:</strong> R20310.00</li>
+<li><strong>Still Owed:</strong> R34520.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>N/A</li>
 <li>Halal</li>
 <li>Halal</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
+<li>NA</li>
+<li>NA</li>
 <li>Allergic to cheese and cream</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
 <li>N/A</li>
 <li>no</li>
+<li>NA</li>
+<li>NA</li>
 <li>N/A</li>
 </ul>
 <h2>Registrees</h2>
@@ -287,24 +291,24 @@
     <td>1835.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr >
     <td>19</td>
     <td>Herman Smit</td>
     <td>Swellendam</td>
     <td>Herman Smit</td>
     <td>1340.00</td>
-    <td>0.00</td>
-    <td>1340.00</td>
+    <td>300.00</td>
+    <td>1040.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr >
     <td>20</td>
     <td>Berdine Smit</td>
     <td>(Partner in Service)</td>
     <td>Berdine Smit</td>
     <td>1340.00</td>
-    <td>0.00</td>
-    <td>1340.00</td>
+    <td>300.00</td>
+    <td>1040.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
@@ -405,6 +409,26 @@
     <td>1340.00</td>
     <td>300.00</td>
     <td>1040.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>45</td>
+    <td>Sydney van Heerden</td>
+    <td>Wilro Park</td>
+    <td>RC Sydney van Heerden</td>
+    <td>1285.00</td>
+    <td>0.00</td>
+    <td>1285.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>46</td>
+    <td>Sandy van Heerden</td>
+    <td>Wilro Park</td>
+    <td>DC Sandy van Heerden</td>
+    <td>1285.00</td>
+    <td>0.00</td>
+    <td>1285.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
