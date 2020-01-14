@@ -304,10 +304,13 @@ def build_full_stats(registrees):
             items = []
             for r in registrees:
                 a = getattr(r, attr)
-                if a and (not any([c == a.lower() for c in ('nil', 'none')])):
+                if a and (not any([c == a.strip().lower() for c in ('nil', 'none', 'n/a', 'na', 'no')])):
                     items.append(a)
             if not items:
                 items = ['None Recorded']
+            else:
+                items = list(set(items))
+                items.sort()
             for d in items:
                 fh.write(f'<li>{d}</li>\n')
             fh.write('</ul>\n')

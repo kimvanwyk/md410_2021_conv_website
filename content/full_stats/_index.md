@@ -38,22 +38,13 @@
 <li><strong>Paid:</strong> R20310.00</li>
 <li><strong>Still Owed:</strong> R37200.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
-<li>N/A</li>
-<li>Halal</li>
-<li>n/a</li>
-<li>No fish or mushrooms</li>
-<li>Halal</li>
-<li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
-<li>NA</li>
-<li>NA</li>
 <li>Allergic to cheese and cream</li>
+<li>Halal</li>
+<li>No fish or mushrooms</li>
+<li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
-<li>N/A</li>
-<li>no</li>
-<li>NA</li>
-<li>NA</li>
-<li>N/A</li>
+<li>None Recorded</li>
 </ul>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
