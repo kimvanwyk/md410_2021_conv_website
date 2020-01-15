@@ -506,5 +506,6 @@
 
     </tbody>
 </table>
+<div style="text-align:center"><img src="/img/registrations_over_time.png"></div>
 </body>
 </html>

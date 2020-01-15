@@ -1,8 +1,11 @@
 from collections import Counter
 from decimal import Decimal, getcontext
+import os
 
 import attr
 import sqlalchemy as sa
+
+import plot
 
 getcontext().prec = 20
 TWOPLACES = Decimal(10) ** -2
@@ -80,8 +83,10 @@ FULL_TABLE_HEADER = '''<h2>Registrees</h2>
     </thead>
     <tbody>
 '''
-FOOTER = '''    </tbody>
+TABLE_FOOTER = '''    </tbody>
 </table>
+'''
+FOOTER = '''
 </body>
 </html>
 '''
@@ -154,7 +159,7 @@ class DB(object):
 
     def __attrs_post_init__(self):
         self.engine = sa.create_engine(
-            f"postgresql+psycopg2://{self.user}@{self.host}/{self.dbname}"
+            f"postgresql+psycopg2://{self.user}:{os.getenv('PGPASSWORD')}@{self.host}/{self.dbname}"
         )
         md = sa.MetaData()
         md.bind = self.engine
@@ -327,6 +332,12 @@ def build_full_stats(registrees):
     <td>{registree.still_owed}</td>
 </tr>\n
 """)
+        fh.write(TABLE_FOOTER)
+
+        reg_dates = [r.timestamp for r in registrees]
+        reg_dates.sort()
+        plot.plot_registration_dates(reg_dates, '../../static/img/registrations_over_time.png')
+        fh.write('<div style="text-align:center"><img src="/img/registrations_over_time.png"></div>')
         fh.write(FOOTER)
 
 db = DB()
