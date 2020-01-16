@@ -18,7 +18,7 @@
 <li><strong>Partners In Service</strong>: 2</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 26</li>
-<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (6 registrees)
+<li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Midrand (6 registrees)
 <li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 49
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
@@ -35,8 +35,8 @@
 <li><strong>Partner Program</strong>: 2
 </ul>
 <li><strong>Total Owed:</strong> R66555.00</li>
-<li><strong>Paid:</strong> R26625.00</li>
-<li><strong>Still Owed:</strong> R39930.00</li>
+<li><strong>Paid:</strong> R27225.00</li>
+<li><strong>Still Owed:</strong> R39330.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Halal</li>
@@ -75,14 +75,14 @@
         </tr>
     </thead>
     <tbody>
-<tr style="background-color: yellow">
+<tr >
     <td>54</td>
     <td>Valencia Beukes</td>
     <td>Kuilsriver</td>
     <td>Valencia Beukes</td>
     <td>1340.00</td>
-    <td>0.00</td>
-    <td>1340.00</td>
+    <td>300.00</td>
+    <td>1040.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
@@ -455,14 +455,14 @@
     <td>1285.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr >
     <td>55</td>
     <td>Richard Williams</td>
     <td>(Partner in Service)</td>
     <td>Richard Williams</td>
     <td>950.00</td>
-    <td>0.00</td>
-    <td>950.00</td>
+    <td>300.00</td>
+    <td>650.00</td>
 </tr>
 
 <tr style="background-color: yellow">

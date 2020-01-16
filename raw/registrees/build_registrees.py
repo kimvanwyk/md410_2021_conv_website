@@ -257,7 +257,15 @@ class DB(object):
 def build_public_stats(registrees):
     with open(PUBLIC_URL_PATH, 'w') as fh:
         fh.write(PUBLIC_HEADER)
-        (club_freq_name, club_freq_num) = Counter([r.club for r in registrees]).most_common(1)[0]
+        freq = Counter([r.club for r in registrees]).most_common()
+        club_freq_num = freq[0][1]
+        names = []
+        for (name, num) in freq:
+            if num == club_freq_num:
+                names.append(name)
+            else:
+                break
+        club_freq_name = ', '.join(names)
         fh.write('''
 <ul>
 ''')
@@ -265,7 +273,7 @@ def build_public_stats(registrees):
         fh.write('\n')
         fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in registrees]))}</li>\n')
         fh.write('\n')
-        fh.write(f'<li><strong>Club With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
+        fh.write(f'<li><strong>Club{"s" if ", " in club_freq_name else ""} With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
         fh.write('''
 </ul>
 ''')
@@ -277,7 +285,15 @@ def build_public_stats(registrees):
 def build_full_stats(registrees):
     with open(FULL_URL_PATH, 'w') as fh:
         fh.write(FULL_HEADER)
-        (club_freq_name, club_freq_num) = Counter([r.club for r in registrees]).most_common(1)[0]
+        freq = Counter([r.club for r in registrees]).most_common()
+        club_freq_num = freq[0][1]
+        names = []
+        for (name, num) in freq:
+            if num == club_freq_num:
+                names.append(name)
+            else:
+                break
+        club_freq_name = ', '.join(names)
         fh.write('''
 <ul>
 ''')
@@ -287,7 +303,7 @@ def build_full_stats(registrees):
         fh.write(f'<li><strong>Partners In Service</strong>: {len([r for r in registrees if not r.is_lion])}</li>\n')
         fh.write('</ul>\n')
         fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in registrees]))}</li>\n')
-        fh.write(f'<li><strong>Club With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
+        fh.write(f'<li><strong>Club{"s" if ", " in club_freq_name else ""} With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
         fh.write('<li><strong>Registrations</strong></li><ul>')
         for a in ('full', 'banquet', 'convention', 'theme'):
             fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in registrees])}\n')
@@ -309,7 +325,7 @@ def build_full_stats(registrees):
             items = []
             for r in registrees:
                 a = getattr(r, attr)
-                if a and (not any([c == a.strip().lower() for c in ('nil', 'none', 'n/a', 'na', 'no')])):
+                if a and (not any([c == a.strip().lower() for c in ('nil', 'none', 'n/a', 'n / a', 'any', 'na', 'no')])):
                     items.append(a)
             if not items:
                 items = ['None Recorded']

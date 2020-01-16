@@ -9,7 +9,7 @@ draft: false
 
 <li><strong>Number of Clubs</strong>: 26</li>
 
-<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (6 registrees)
+<li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Midrand (6 registrees)
 
 </ul>
 <h2>Registrees</h2>
