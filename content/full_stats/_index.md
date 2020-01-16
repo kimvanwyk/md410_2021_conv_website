@@ -13,18 +13,18 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 48</li>
-<li><strong>Lions</strong>: 47</li>
-<li><strong>Partners In Service</strong>: 1</li>
+<li><strong>Total</strong>: 50</li>
+<li><strong>Lions</strong>: 48</li>
+<li><strong>Partners In Service</strong>: 2</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 25</li>
-<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (6 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 48
+<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (7 registrees)
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 50
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 47
+<li><strong>Pins</strong>: 48
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 19
 <li><strong>PDG Breakfast</strong>: 13
@@ -32,11 +32,11 @@
 <li><strong>Golf</strong>: 0
 <li><strong>Sight Seeing</strong>: 3
 <li><strong>Service Project</strong>: 12
-<li><strong>Partner Program</strong>: 1
+<li><strong>Partner Program</strong>: 2
 </ul>
-<li><strong>Total Owed:</strong> R64265.00</li>
+<li><strong>Total Owed:</strong> R66890.00</li>
 <li><strong>Paid:</strong> R26625.00</li>
-<li><strong>Still Owed:</strong> R37640.00</li>
+<li><strong>Still Owed:</strong> R40265.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Any</li>
@@ -77,6 +77,16 @@
         </tr>
     </thead>
     <tbody>
+<tr style="background-color: yellow">
+    <td>54</td>
+    <td>Valencia Beukes</td>
+    <td>Cape Of Good Hope</td>
+    <td>Valencia Beukes</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
+</tr>
+
 <tr style="background-color: lightgreen">
     <td>37</td>
     <td>Jose Braga Borges</td>
@@ -442,6 +452,16 @@
     <td>Joyce Wilcocks</td>
     <td>Pretoria Jakaranda</td>
     <td>Joyce</td>
+    <td>1285.00</td>
+    <td>0.00</td>
+    <td>1285.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>55</td>
+    <td>Richard Williams</td>
+    <td>(Partner in Service)</td>
+    <td>Richard Williams</td>
     <td>1285.00</td>
     <td>0.00</td>
     <td>1285.00</td>
