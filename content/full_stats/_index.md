@@ -13,18 +13,18 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 45</li>
-<li><strong>Lions</strong>: 44</li>
+<li><strong>Total</strong>: 48</li>
+<li><strong>Lions</strong>: 47</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 25</li>
-<li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 45
+<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (6 registrees)
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 48
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 44
+<li><strong>Pins</strong>: 47
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 19
 <li><strong>PDG Breakfast</strong>: 13
@@ -34,18 +34,20 @@
 <li><strong>Service Project</strong>: 12
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R60245.00</li>
+<li><strong>Total Owed:</strong> R64265.00</li>
 <li><strong>Paid:</strong> R21705.00</li>
-<li><strong>Still Owed:</strong> R38540.00</li>
+<li><strong>Still Owed:</strong> R42560.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Any</li>
 <li>Halal</li>
+<li>N / A</li>
 <li>No fish or mushrooms</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
+<li>diary</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
-<li>None Recorded</li>
+<li>N / A</li>
 </ul>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -86,6 +88,16 @@
 </tr>
 
 <tr style="background-color: yellow">
+    <td>51</td>
+    <td>Lynnette Virginia Christians</td>
+    <td>Cape Of Good Hope</td>
+    <td>Lynne Christians</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
+</tr>
+
+<tr style="background-color: yellow">
     <td>17</td>
     <td>Sharon Cottle</td>
     <td>Groote Schuur</td>
@@ -123,6 +135,16 @@
     <td>1340.00</td>
     <td>300.00</td>
     <td>1040.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>53</td>
+    <td>Allison Georges</td>
+    <td>Cape Of Good Hope</td>
+    <td>Allison Georges</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
 </tr>
 
 <tr style="background-color: lightgreen">
@@ -380,6 +402,16 @@
     <td>Rowan Tuckett</td>
     <td>Roodepoort Clearwater Cyber</td>
     <td>LP Rowan Tuckett</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>52</td>
+    <td>Yolandi Van der Schyf</td>
+    <td>Midrand</td>
+    <td>LP Yolandi van der Schyf</td>
     <td>1340.00</td>
     <td>0.00</td>
     <td>1340.00</td>
