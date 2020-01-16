@@ -35,8 +35,8 @@
 <li><strong>Partner Program</strong>: 1
 </ul>
 <li><strong>Total Owed:</strong> R60245.00</li>
-<li><strong>Paid:</strong> R20310.00</li>
-<li><strong>Still Owed:</strong> R39935.00</li>
+<li><strong>Paid:</strong> R21705.00</li>
+<li><strong>Still Owed:</strong> R38540.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Any</li>
@@ -285,14 +285,14 @@
     <td>1340.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
     <td>49</td>
     <td>Yvonne  Maureen Poyo</td>
     <td>Cape Of Good Hope</td>
     <td>Yvonne</td>
     <td>1395.00</td>
-    <td>0.00</td>
     <td>1395.00</td>
+    <td>0.00</td>
 </tr>
 
 <tr style="background-color: yellow">
