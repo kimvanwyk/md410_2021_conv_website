@@ -35,8 +35,8 @@
 <li><strong>Partner Program</strong>: 1
 </ul>
 <li><strong>Total Owed:</strong> R64265.00</li>
-<li><strong>Paid:</strong> R22005.00</li>
-<li><strong>Still Owed:</strong> R42260.00</li>
+<li><strong>Paid:</strong> R23345.00</li>
+<li><strong>Still Owed:</strong> R40920.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Any</li>
@@ -87,14 +87,14 @@
     <td>0.00</td>
 </tr>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
     <td>51</td>
     <td>Lynnette Virginia Christians</td>
     <td>Cape Of Good Hope</td>
     <td>Lynne Christians</td>
     <td>1340.00</td>
-    <td>0.00</td>
     <td>1340.00</td>
+    <td>0.00</td>
 </tr>
 
 <tr style="background-color: yellow">
