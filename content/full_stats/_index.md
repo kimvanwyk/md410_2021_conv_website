@@ -39,15 +39,13 @@
 <li><strong>Still Owed:</strong> R39930.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
-<li>Any</li>
 <li>Halal</li>
-<li>N / A</li>
 <li>No fish or mushrooms</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
 <li>dairy</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
-<li>N / A</li>
+<li>None Recorded</li>
 </ul>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
