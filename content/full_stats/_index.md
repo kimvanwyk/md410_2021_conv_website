@@ -13,32 +13,33 @@
 
 <ul>
 <li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 43</li>
-<li><strong>Lions</strong>: 42</li>
+<li><strong>Total</strong>: 45</li>
+<li><strong>Lions</strong>: 44</li>
 <li><strong>Partners In Service</strong>: 1</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 25</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (5 registrees)
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 43
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 45
 <li><strong>Banquet</strong>: 0
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 0
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 41
+<li><strong>Pins</strong>: 44
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 19
 <li><strong>PDG Breakfast</strong>: 13
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 0
-<li><strong>Sight Seeing</strong>: 2
+<li><strong>Sight Seeing</strong>: 3
 <li><strong>Service Project</strong>: 12
 <li><strong>Partner Program</strong>: 1
 </ul>
-<li><strong>Total Owed:</strong> R57510.00</li>
+<li><strong>Total Owed:</strong> R60245.00</li>
 <li><strong>Paid:</strong> R20310.00</li>
-<li><strong>Still Owed:</strong> R37200.00</li>
+<li><strong>Still Owed:</strong> R39935.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
+<li>Any</li>
 <li>Halal</li>
 <li>No fish or mushrooms</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
@@ -174,6 +175,16 @@
     <td>1340.00</td>
 </tr>
 
+<tr style="background-color: yellow">
+    <td>50</td>
+    <td>Charlotte Jubelin</td>
+    <td>Cape Of Good Hope</td>
+    <td>RC Charlotte Jubelin</td>
+    <td>1340.00</td>
+    <td>0.00</td>
+    <td>1340.00</td>
+</tr>
+
 <tr >
     <td>29</td>
     <td>Zwaai Krüger</td>
@@ -272,6 +283,16 @@
     <td>1340.00</td>
     <td>0.00</td>
     <td>1340.00</td>
+</tr>
+
+<tr style="background-color: yellow">
+    <td>49</td>
+    <td>Yvonne  Maureen Poyo</td>
+    <td>Cape Of Good Hope</td>
+    <td>Yvonne</td>
+    <td>1395.00</td>
+    <td>0.00</td>
+    <td>1395.00</td>
 </tr>
 
 <tr style="background-color: yellow">
