@@ -646,7 +646,8 @@ StillOwed
 <td>0.00</td>
 </tr>
 
-    </tbody>
+    
+</tbody>
 </table>
 <div style="text-align:center"><img src="/img/registrations_over_time.png"></div>
 </body>
