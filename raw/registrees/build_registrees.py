@@ -56,34 +56,34 @@ PUBLIC_TABLE_HEADER = '''<h2>Registrees</h2>
 '''
 FULL_TABLE_HEADER = '''<h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
-    <thead>
-        <tr>
-            <th>
-                Registration Number
-            </th> 
-            <th>
-                Name
-            </th> 
-            <th>
-                Club
-            </th>
-            <th>
-                Name Badge
-            </th>
-            <th>
-                Initially Owed
-            </th>
-            <th>
-                Paid
-            </th>
-            <th>
-                Still Owed
-            </th>
-        </tr>
-    </thead>
-    <tbody>
+<thead>
+<tr>
+<th>
+RegistrationNumber
+</th>
+<th>
+Name
+</th>
+<th>
+Club
+</th>
+<th>
+NameBadge
+</th>
+<th>
+InitiallyOwed
+</th>
+<th>
+Paid
+</th>
+<th>
+StillOwed
+</th>
+</tr>
+</thead>
+<tbody>
 '''
-TABLE_FOOTER = '''    </tbody>
+TABLE_FOOTER = '''</tbody>
 </table>
 '''
 FOOTER = '''
@@ -329,15 +329,16 @@ class Stats(object):
 
             fh.write(FULL_TABLE_HEADER)
             for registree in self.registrees:
-                fh.write(f"""<tr {'style="background-color: lightgreen"' if not registree.still_owed else ''}{'style="background-color: yellow"' if not registree.paid else ''}>
-        <td>{registree.reg_num}</td>
-        <td>{registree.name}</td>
-        <td>{registree.club if registree.is_lion else '(Partner in Service)'}</td>
-        <td>{registree.name_badge}</td>
-        <td>{registree.initial_owed}</td>
-        <td>{registree.paid}</td>
-        <td>{registree.still_owed}</td>
-    </tr>\n
+                fh.write(f"""
+<tr{' style="background-color: lightgreen"' if not registree.still_owed else ''}{' style="background-color: yellow"' if not registree.paid else ''}>
+<td>{registree.reg_num}</td>
+<td>{registree.name}</td>
+<td>{registree.club if registree.is_lion else '(Partner in Service)'}</td>
+<td>{registree.name_badge}</td>
+<td>{registree.initial_owed}</td>
+<td>{registree.paid}</td>
+<td>{registree.still_owed}</td>
+</tr>\n
     """)
             fh.write(TABLE_FOOTER)
 
