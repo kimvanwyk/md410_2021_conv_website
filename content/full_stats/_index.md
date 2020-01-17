@@ -16,7 +16,7 @@
 <li><strong>Partners In Service</strong>: 2</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 27</li>
-<li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Midrand (6 registrees)
+<li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Midrand (6 registrees)</li>
 <li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 51
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0

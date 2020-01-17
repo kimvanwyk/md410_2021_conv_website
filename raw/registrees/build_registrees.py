@@ -282,7 +282,6 @@ class Stats(object):
             for registree in self.registrees:
                 fh.write(f"<tr><td>{registree.name}</td><td>{registree.club}</td></tr>")
             fh.write(TABLE_FOOTER)
-            # fh.write(FOOTER)
 
     def build_full_stats(self):
         with open(FULL_URL_PATH, 'w') as fh:
@@ -294,7 +293,7 @@ class Stats(object):
             fh.write(f'<li><strong>Partners In Service</strong>: {len([r for r in self.registrees if not r.is_lion])}</li>\n')
             fh.write('</ul>\n')
             fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in self.registrees]))}</li>\n')
-            fh.write(f'<li><strong>Club{"s" if ", " in self.club_freq_name else ""} With Most Attendees</strong>: {self.club_freq_name} ({self.club_freq_num} registrees)\n')
+            fh.write(f'<li><strong>Club{"s" if ", " in self.club_freq_name else ""} With Most Attendees</strong>: {self.club_freq_name} ({self.club_freq_num} registrees)</li>\n')
             fh.write('<li><strong>Registrations</strong></li><ul>')
             for a in ('full', 'banquet', 'convention', 'theme'):
                 fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in self.registrees])}\n')
