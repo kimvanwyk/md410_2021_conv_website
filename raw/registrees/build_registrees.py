@@ -159,7 +159,7 @@ class DB(object):
 
     def __attrs_post_init__(self):
         self.engine = sa.create_engine(
-            f"postgresql+psycopg2://{self.user}:{os.getenv('PGPASSWORD')}@{self.host}/{self.dbname}"
+            f"postgresql+psycopg2://{self.user}:{os.getenv('PGPASSWORD')}@{self.host}:{self.port}/{self.dbname}"
         )
         md = sa.MetaData()
         md.bind = self.engine
@@ -254,109 +254,100 @@ class DB(object):
         else:
             self.reg_nums = [reg_num]
 
-def build_public_stats(registrees):
-    with open(PUBLIC_URL_PATH, 'w') as fh:
-        fh.write(PUBLIC_HEADER)
-        freq = Counter([r.club for r in registrees]).most_common()
-        club_freq_num = freq[0][1]
+class Stats(object):
+    def __init__(self, registrees):
+        self.registrees = registrees
+        freq = Counter([r.club for r in self.registrees]).most_common()
+        self.club_freq_num = freq[0][1]
         names = []
         for (name, num) in freq:
-            if num == club_freq_num:
+            if num == self.club_freq_num:
                 names.append(name)
             else:
                 break
-        club_freq_name = ', '.join(names)
-        fh.write('''
-<ul>
-''')
-        fh.write(f'<li><strong>Number of Registrees</strong>: {len(registrees)}</li>\n')
-        fh.write('\n')
-        fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in registrees]))}</li>\n')
-        fh.write('\n')
-        fh.write(f'<li><strong>Club{"s" if ", " in club_freq_name else ""} With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
-        fh.write('''
-</ul>
-''')
-        fh.write(PUBLIC_TABLE_HEADER)
-        for registree in registrees:
-            fh.write(f"<tr><td>{registree.name}</td><td>{registree.club}</td></tr>")
-        fh.write(FOOTER)
+        self.club_freq_name = ', '.join(names)
+        self.num_clubs = len(set([r.club for r in self.registrees]))
 
-def build_full_stats(registrees):
-    with open(FULL_URL_PATH, 'w') as fh:
-        fh.write(FULL_HEADER)
-        freq = Counter([r.club for r in registrees]).most_common()
-        club_freq_num = freq[0][1]
-        names = []
-        for (name, num) in freq:
-            if num == club_freq_num:
-                names.append(name)
-            else:
-                break
-        club_freq_name = ', '.join(names)
-        fh.write('''
-<ul>
-''')
-        fh.write(f'<li><strong>Number of Registrees</strong><ul>\n')
-        fh.write(f'<li><strong>Total</strong>: {len(registrees)}</li>\n')
-        fh.write(f'<li><strong>Lions</strong>: {len([r for r in registrees if r.is_lion])}</li>\n')
-        fh.write(f'<li><strong>Partners In Service</strong>: {len([r for r in registrees if not r.is_lion])}</li>\n')
-        fh.write('</ul>\n')
-        fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in registrees]))}</li>\n')
-        fh.write(f'<li><strong>Club{"s" if ", " in club_freq_name else ""} With Most Attendees</strong>: {club_freq_name} ({club_freq_num} registrees)\n')
-        fh.write('<li><strong>Registrations</strong></li><ul>')
-        for a in ('full', 'banquet', 'convention', 'theme'):
-            fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in registrees])}\n')
-        fh.write('</ul>')
-        fh.write('<li><strong>Extra Items</strong></li><ul>\n')
-        for a in ('pins', ):
-            fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in registrees])}\n')
-        fh.write('</ul>')
-        fh.write('<li><strong>Extra Activities</strong></li><ul>\n')
-        for a in ("mjf_lunch","pdg_breakfast","sharks_board","golf","sight_seeing","service_project","partner_program",):
-            fh.write(f'<li><strong>{" ".join([i.capitalize() if len(i) > 3 else i.upper() for i in a.split("_")])}</strong>: {sum([bool(getattr(r, a)) for r in registrees])}\n')
-        fh.write('</ul>\n')
-        fh.write(f'<li><strong>Total Owed:</strong> R{sum([r.initial_owed for r in registrees])}</li>\n')
-        fh.write(f'<li><strong>Paid:</strong> R{sum([r.paid for r in registrees])}</li>\n')
-        fh.write(f'<li><strong>Still Owed:</strong> R{sum([r.still_owed for r in registrees])}</li>\n')
+    def build_public_stats(self):
+        with open(PUBLIC_URL_PATH, 'w') as fh:
+            fh.write(PUBLIC_HEADER)
+            fh.write('<ul>')
+            fh.write(f'<li><strong>Number of Registrees</strong>: {len(self.registrees)}</li>\n')
+            fh.write('\n')
+            fh.write(f'<li><strong>Number of Clubs</strong>: {self.num_clubs}</li>\n')
+            fh.write('\n')
+            fh.write(f'<li><strong>Club{"s" if ", " in self.club_freq_name else ""} With Most Attendees</strong>: {self.club_freq_name} ({self.club_freq_num} registrees)</li>\n')
+            fh.write('</ul>')
+            fh.write(PUBLIC_TABLE_HEADER)
+            for registree in self.registrees:
+                fh.write(f"<tr><td>{registree.name}</td><td>{registree.club}</td></tr>")
+            fh.write(TABLE_FOOTER)
+            # fh.write(FOOTER)
 
-        for attr in ('dietary', 'disability'):
-            fh.write(f'<li><strong>{attr.capitalize()} Requirements</strong></li><ul>\n')
-            items = []
-            for r in registrees:
-                a = getattr(r, attr)
-                if a and (not any([c == a.strip().lower() for c in ('nil', 'none', 'n/a', 'n / a', 'any', 'na', 'no')])):
-                    items.append(a)
-            if not items:
-                items = ['None Recorded']
-            else:
-                items = list(set(items))
-                items.sort()
-            for d in items:
-                fh.write(f'<li>{d}</li>\n')
+    def build_full_stats(self):
+        with open(FULL_URL_PATH, 'w') as fh:
+            fh.write(FULL_HEADER)
+            fh.write('<ul>')
+            fh.write(f'<li><strong>Number of Registrees</strong><ul>\n')
+            fh.write(f'<li><strong>Total</strong>: {len(self.registrees)}</li>\n')
+            fh.write(f'<li><strong>Lions</strong>: {self.num_clubs}</li>\n')
+            fh.write(f'<li><strong>Partners In Service</strong>: {len([r for r in self.registrees if not r.is_lion])}</li>\n')
             fh.write('</ul>\n')
+            fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in self.registrees]))}</li>\n')
+            fh.write(f'<li><strong>Club{"s" if ", " in self.club_freq_name else ""} With Most Attendees</strong>: {self.club_freq_name} ({self.club_freq_num} registrees)\n')
+            fh.write('<li><strong>Registrations</strong></li><ul>')
+            for a in ('full', 'banquet', 'convention', 'theme'):
+                fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in self.registrees])}\n')
+            fh.write('</ul>')
+            fh.write('<li><strong>Extra Items</strong></li><ul>\n')
+            for a in ('pins', ):
+                fh.write(f'<li><strong>{a.capitalize()}</strong>: {sum([getattr(r, a) for r in self.registrees])}\n')
+            fh.write('</ul>')
+            fh.write('<li><strong>Extra Activities</strong></li><ul>\n')
+            for a in ("mjf_lunch","pdg_breakfast","sharks_board","golf","sight_seeing","service_project","partner_program",):
+                fh.write(f'<li><strong>{" ".join([i.capitalize() if len(i) > 3 else i.upper() for i in a.split("_")])}</strong>: {sum([bool(getattr(r, a)) for r in self.registrees])}\n')
+            fh.write('</ul>\n')
+            fh.write(f'<li><strong>Total Owed:</strong> R{sum([r.initial_owed for r in self.registrees])}</li>\n')
+            fh.write(f'<li><strong>Paid:</strong> R{sum([r.paid for r in self.registrees])}</li>\n')
+            fh.write(f'<li><strong>Still Owed:</strong> R{sum([r.still_owed for r in self.registrees])}</li>\n')
 
-        fh.write(FULL_TABLE_HEADER)
-        for registree in registrees:
-            fh.write(f"""<tr {'style="background-color: lightgreen"' if not registree.still_owed else ''}{'style="background-color: yellow"' if not registree.paid else ''}>
-    <td>{registree.reg_num}</td>
-    <td>{registree.name}</td>
-    <td>{registree.club if registree.is_lion else '(Partner in Service)'}</td>
-    <td>{registree.name_badge}</td>
-    <td>{registree.initial_owed}</td>
-    <td>{registree.paid}</td>
-    <td>{registree.still_owed}</td>
-</tr>\n
-""")
-        fh.write(TABLE_FOOTER)
+            for attr in ('dietary', 'disability'):
+                fh.write(f'<li><strong>{attr.capitalize()} Requirements</strong></li><ul>\n')
+                items = []
+                for r in self.registrees:
+                    a = getattr(r, attr)
+                    if a and (not any([c == a.strip().lower() for c in ('nil', 'none', 'n/a', 'n / a', 'any', 'na', 'no')])):
+                        items.append(a)
+                if not items:
+                    items = ['None Recorded']
+                else:
+                    items = list(set(items))
+                    items.sort()
+                for d in items:
+                    fh.write(f'<li>{d}</li>\n')
+                fh.write('</ul>\n')
 
-        reg_dates = [r.timestamp for r in registrees]
-        reg_dates.sort()
-        plot.plot_registration_dates(reg_dates, '../../static/img/registrations_over_time.png')
-        fh.write('<div style="text-align:center"><img src="/img/registrations_over_time.png"></div>')
-        fh.write(FOOTER)
+            fh.write(FULL_TABLE_HEADER)
+            for registree in self.registrees:
+                fh.write(f"""<tr {'style="background-color: lightgreen"' if not registree.still_owed else ''}{'style="background-color: yellow"' if not registree.paid else ''}>
+        <td>{registree.reg_num}</td>
+        <td>{registree.name}</td>
+        <td>{registree.club if registree.is_lion else '(Partner in Service)'}</td>
+        <td>{registree.name_badge}</td>
+        <td>{registree.initial_owed}</td>
+        <td>{registree.paid}</td>
+        <td>{registree.still_owed}</td>
+    </tr>\n
+    """)
+            fh.write(TABLE_FOOTER)
+
+            reg_dates = [r.timestamp for r in self.registrees]
+            reg_dates.sort()
+            plot.plot_registration_dates(reg_dates, '../../static/img/registrations_over_time.png')
+            fh.write('<div style="text-align:center"><img src="/img/registrations_over_time.png"></div>')
+            fh.write(FOOTER)
 
 db = DB()
-registrees = db.get_registrees()
-build_public_stats(registrees)
-build_full_stats(registrees)
+stats = Stats(db.get_registrees())
+stats.build_public_stats()
+stats.build_full_stats()

@@ -10,9 +10,7 @@
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-
-    <ul>
-    <li><strong>Number of Registrees</strong><ul>
+<ul><li><strong>Number of Registrees</strong><ul>
 <li><strong>Total</strong>: 52</li>
 <li><strong>Lions</strong>: 27</li>
 <li><strong>Partners In Service</strong>: 2</li>
