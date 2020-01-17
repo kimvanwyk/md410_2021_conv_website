@@ -83,7 +83,8 @@ StillOwed
 </thead>
 <tbody>
 '''
-TABLE_FOOTER = '''</tbody>
+TABLE_FOOTER = '''
+</tbody>
 </table>
 '''
 FOOTER = '''
