@@ -45,6 +45,7 @@
 <li><strong>Disability Requirements</strong></li><ul>
 <li>None Recorded</li>
 </ul>
+</ul>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
     <thead>

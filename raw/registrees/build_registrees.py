@@ -325,6 +325,7 @@ class Stats(object):
                 for d in items:
                     fh.write(f'<li>{d}</li>\n')
                 fh.write('</ul>\n')
+            fh.write('</ul>\n')
 
             fh.write(FULL_TABLE_HEADER)
             for registree in self.registrees:
