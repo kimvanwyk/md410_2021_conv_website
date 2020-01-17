@@ -118,6 +118,11 @@ unsafe= true
     weight = 5
 
 [[menu.main]]
+    name = "RLLI"
+    url = "rlli"
+    weight = 5
+
+[[menu.main]]
     name = "Convention Committee"
     url = "committee"
     weight = 6
