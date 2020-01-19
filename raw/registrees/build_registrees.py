@@ -281,7 +281,7 @@ class Stats(object):
             fh.write('</ul>')
             fh.write(PUBLIC_TABLE_HEADER)
             for registree in self.registrees:
-                fh.write(f"<tr><td>{registree.name}</td><td>{registree.club}</td></tr>")
+                fh.write(f"<tr><td>{registree.name}</td><td>{registree.club if registree.is_lion else '(Partner in Service)'}</td></tr>")
             fh.write(TABLE_FOOTER)
 
     def build_full_stats(self):
@@ -290,7 +290,7 @@ class Stats(object):
             fh.write('<ul>')
             fh.write(f'<li><strong>Number of Registrees</strong><ul>\n')
             fh.write(f'<li><strong>Total</strong>: {len(self.registrees)}</li>\n')
-            fh.write(f'<li><strong>Lions</strong>: {self.num_clubs}</li>\n')
+            fh.write(f'<li><strong>Lions</strong>: {len([r for r in self.registrees if r.is_lion])}</li>\n')
             fh.write(f'<li><strong>Partners In Service</strong>: {len([r for r in self.registrees if not r.is_lion])}</li>\n')
             fh.write('</ul>\n')
             fh.write(f'<li><strong>Number of Clubs</strong>: {len(set([r.club for r in self.registrees]))}</li>\n')

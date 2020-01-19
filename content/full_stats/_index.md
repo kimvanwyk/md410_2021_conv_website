@@ -12,7 +12,7 @@
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
 <li><strong>Total</strong>: 54</li>
-<li><strong>Lions</strong>: 28</li>
+<li><strong>Lions</strong>: 52</li>
 <li><strong>Partners In Service</strong>: 2</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 28</li>
