@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 2
 </ul>
 <li><strong>Total Owed:</strong> R74485.00</li>
-<li><strong>Paid:</strong> R27225.00</li>
-<li><strong>Still Owed:</strong> R47260.00</li>
+<li><strong>Paid:</strong> R27825.00</li>
+<li><strong>Still Owed:</strong> R46660.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Halal</li>
@@ -449,25 +449,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>60</td>
 <td>Pierre Theron</td>
 <td>Midrand</td>
 <td>PDG Pierre Theron</td>
 <td>1285.00</td>
-<td>0.00</td>
-<td>1285.00</td>
+<td>300.00</td>
+<td>985.00</td>
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>61</td>
 <td>Moira Theron</td>
 <td>Midrand</td>
 <td>PDG Moira Theron</td>
 <td>1285.00</td>
-<td>0.00</td>
-<td>1285.00</td>
+<td>300.00</td>
+<td>985.00</td>
 </tr>
 
     
