@@ -11,30 +11,30 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 56</li>
-<li><strong>Lions</strong>: 54</li>
-<li><strong>Partners In Service</strong>: 2</li>
+<li><strong>Total</strong>: 58</li>
+<li><strong>Lions</strong>: 55</li>
+<li><strong>Partners In Service</strong>: 3</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 28</li>
+<li><strong>Number of Clubs</strong>: 29</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (8 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 55
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 57
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 52
+<li><strong>Pins</strong>: 53
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 19
 <li><strong>PDG Breakfast</strong>: 15
-<li><strong>Sharks Board</strong>: 4
+<li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 0
-<li><strong>Sight Seeing</strong>: 5
-<li><strong>Service Project</strong>: 14
-<li><strong>Partner Program</strong>: 2
+<li><strong>Sight Seeing</strong>: 6
+<li><strong>Service Project</strong>: 15
+<li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R74485.00</li>
+<li><strong>Total Owed:</strong> R77110.00</li>
 <li><strong>Paid:</strong> R27825.00</li>
-<li><strong>Still Owed:</strong> R46660.00</li>
+<li><strong>Still Owed:</strong> R49285.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Halal</li>
@@ -94,6 +94,17 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>62</td>
+<td>Nkandu Chapeshamano</td>
+<td>Rustenburg</td>
+<td>Lion Nkandu Chapeshamano</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
 </tr>
 
     
@@ -391,6 +402,17 @@ StillOwed
 <td>1395.00</td>
 <td>1395.00</td>
 <td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>63</td>
+<td>Pinky Serobatse</td>
+<td>(Partner in Service)</td>
+<td>L/Ldy Serobatse-Chapeshamano</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
