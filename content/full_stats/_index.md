@@ -11,18 +11,18 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 58</li>
-<li><strong>Lions</strong>: 55</li>
+<li><strong>Total</strong>: 61</li>
+<li><strong>Lions</strong>: 58</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 29</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (8 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 57
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 60
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 53
+<li><strong>Pins</strong>: 55
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 19
 <li><strong>PDG Breakfast</strong>: 15
@@ -32,11 +32,12 @@
 <li><strong>Service Project</strong>: 15
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R77110.00</li>
+<li><strong>Total Owed:</strong> R81075.00</li>
 <li><strong>Paid:</strong> R27825.00</li>
-<li><strong>Still Owed:</strong> R49285.00</li>
+<li><strong>Still Owed:</strong> R53250.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
+<li>Allergic to fish</li>
 <li>Halal</li>
 <li>No fish or mushrooms</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
@@ -204,6 +205,28 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>64</td>
+<td>Trevor Hobbs</td>
+<td>North Durban</td>
+<td>Lion Trevor Hobbs</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>65</td>
+<td>Avril Hobbs</td>
+<td>North Durban</td>
+<td>Lion Avril Hobbs</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
@@ -388,6 +411,17 @@ StillOwed
 <td>Michael Newlands</td>
 <td>Port Alfred</td>
 <td>Mike Newlands</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>68</td>
+<td>Jessica Philander</td>
+<td>Cape Of Good Hope</td>
+<td>Lion Jessica Philander</td>
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
