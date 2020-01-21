@@ -139,6 +139,7 @@ class Registree(object):
     paid = attr.ib()
     initial_owed = attr.ib(default=0)
     still_owed = attr.ib(default=0)
+    title = attr.ib(default=None)
 
     def __attrs_post_init__(self):
         self.name = f"{self.first_names.strip()} {self.last_name.strip()}"
