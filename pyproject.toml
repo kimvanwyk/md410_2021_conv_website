@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "conv_2020_website"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Kim van Wyk <kimv@sahomeloans.com>"]
 
