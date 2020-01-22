@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R86435.00</li>
-<li><strong>Paid:</strong> R27825.00</li>
-<li><strong>Still Owed:</strong> R58610.00</li>
+<li><strong>Paid:</strong> R28375.00</li>
+<li><strong>Still Owed:</strong> R58060.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to fish</li>
@@ -417,14 +417,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>69</td>
 <td>Brian Moses</td>
 <td>Cape Of Good Hope</td>
 <td>LP Brian Moses</td>
 <td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
+<td>550.00</td>
+<td>790.00</td>
 </tr>
 
     
