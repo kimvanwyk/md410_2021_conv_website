@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R87775.00</li>
-<li><strong>Paid:</strong> R28375.00</li>
-<li><strong>Still Owed:</strong> R59400.00</li>
+<li><strong>Paid:</strong> R28675.00</li>
+<li><strong>Still Owed:</strong> R59100.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to fish</li>
@@ -274,14 +274,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>73</td>
 <td>Brenda Joshua</td>
 <td>Cape Of Good Hope</td>
 <td>Lion Brenda</td>
 <td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
+<td>300.00</td>
+<td>1040.00</td>
 </tr>
 
     
