@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R90455.00</li>
-<li><strong>Paid:</strong> R28675.00</li>
-<li><strong>Still Owed:</strong> R61780.00</li>
+<li><strong>Paid:</strong> R31355.00</li>
+<li><strong>Still Owed:</strong> R59100.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to fish</li>
@@ -340,25 +340,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>75</td>
 <td>Nick Maré</td>
 <td>Benoni Lakes</td>
 <td>PDG Nick Maré</td>
-<td>1395.00</td>
+<td>1340.00</td>
+<td>1340.00</td>
 <td>0.00</td>
-<td>1395.00</td>
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>76</td>
 <td>Beaulieu Maré</td>
 <td>Benoni Lakes</td>
 <td>Council Secretary Beaulieu Maré</td>
-<td>1285.00</td>
+<td>1340.00</td>
+<td>1340.00</td>
 <td>0.00</td>
-<td>1285.00</td>
 </tr>
 
     
