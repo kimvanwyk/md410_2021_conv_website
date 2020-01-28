@@ -41,7 +41,6 @@
 <li>Halal</li>
 <li>No fish or mushrooms</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
-<li>None Special</li>
 <li>dairy</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
