@@ -11,11 +11,11 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 68</li>
-<li><strong>Lions</strong>: 65</li>
+<li><strong>Total</strong>: 70</li>
+<li><strong>Lions</strong>: 67</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 29</li>
+<li><strong>Number of Clubs</strong>: 30</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
 <li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 67
 <li><strong>Banquet</strong>: 1
@@ -33,14 +33,15 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R90455.00</li>
-<li><strong>Paid:</strong> R31355.00</li>
-<li><strong>Still Owed:</strong> R59100.00</li>
+<li><strong>Paid:</strong> R34035.00</li>
+<li><strong>Still Owed:</strong> R56420.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to fish</li>
 <li>Halal</li>
 <li>No fish or mushrooms</li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
+<li>None Special</li>
 <li>dairy</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
@@ -175,25 +176,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>56</td>
 <td>Valerie Graham</td>
 <td>Nelspruit</td>
 <td>ZC Val Graham</td>
-<td>1395.00</td>
+<td>1340.00</td>
+<td>1340.00</td>
 <td>0.00</td>
-<td>1395.00</td>
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>57</td>
 <td>Michael Graham</td>
 <td>Nelspruit</td>
 <td>RC Mike Graham</td>
-<td>1285.00</td>
+<td>1340.00</td>
+<td>1340.00</td>
 <td>0.00</td>
-<td>1285.00</td>
 </tr>
 
     
@@ -480,6 +481,28 @@ StillOwed
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: lightgreen" style="background-color: yellow">
+<td>77</td>
+<td>Ramona Nulliah</td>
+<td>Durban Host</td>
+<td>Ramona Nulliah</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: lightgreen" style="background-color: yellow">
+<td>78</td>
+<td>Gary Nulliah</td>
+<td>Durban Host</td>
+<td>Ramona Nulliah</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
 </tr>
 
     
