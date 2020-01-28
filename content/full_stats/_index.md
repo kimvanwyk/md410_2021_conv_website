@@ -17,7 +17,7 @@
 </ul>
 <li><strong>Number of Clubs</strong>: 30</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 67
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 69
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
@@ -32,9 +32,9 @@
 <li><strong>Service Project</strong>: 17
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R90455.00</li>
+<li><strong>Total Owed:</strong> R93025.00</li>
 <li><strong>Paid:</strong> R34035.00</li>
-<li><strong>Still Owed:</strong> R56420.00</li>
+<li><strong>Still Owed:</strong> R58990.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to fish</li>
@@ -484,25 +484,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: lightgreen" style="background-color: yellow">
+<tr style="background-color: yellow">
 <td>77</td>
 <td>Ramona Nulliah</td>
 <td>Durban Host</td>
 <td>Ramona Nulliah</td>
+<td>1285.00</td>
 <td>0.00</td>
-<td>0.00</td>
-<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
-<tr style="background-color: lightgreen" style="background-color: yellow">
+<tr style="background-color: yellow">
 <td>78</td>
 <td>Gary Nulliah</td>
 <td>Durban Host</td>
 <td>Ramona Nulliah</td>
+<td>1285.00</td>
 <td>0.00</td>
-<td>0.00</td>
-<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
