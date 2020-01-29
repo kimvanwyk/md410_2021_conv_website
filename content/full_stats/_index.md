@@ -11,18 +11,18 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 70</li>
-<li><strong>Lions</strong>: 67</li>
-<li><strong>Partners In Service</strong>: 3</li>
+<li><strong>Total</strong>: 72</li>
+<li><strong>Lions</strong>: 68</li>
+<li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 30</li>
+<li><strong>Number of Clubs</strong>: 31</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 69
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 70
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 62
+<li><strong>Pins</strong>: 63
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 20
 <li><strong>PDG Breakfast</strong>: 17
@@ -30,13 +30,14 @@
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 6
 <li><strong>Service Project</strong>: 17
-<li><strong>Partner Program</strong>: 3
+<li><strong>Partner Program</strong>: 4
 </ul>
-<li><strong>Total Owed:</strong> R93025.00</li>
-<li><strong>Paid:</strong> R34035.00</li>
-<li><strong>Still Owed:</strong> R58990.00</li>
+<li><strong>Total Owed:</strong> R94365.00</li>
+<li><strong>Paid:</strong> R35675.00</li>
+<li><strong>Still Owed:</strong> R58690.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
+<li>Allergic to chocolate, cheese, coffee and crayfish</li>
 <li>Allergic to fish</li>
 <li>Halal</li>
 <li>No fish or mushrooms</li>
@@ -44,7 +45,7 @@
 <li>dairy</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
-<li>None Recorded</li>
+<li>Due to Osteo Arthritis, I find climbing steps very difficult</li>
 </ul>
 </ul>
 <h2>Registrees</h2>
@@ -84,6 +85,17 @@ StillOwed
 <td>1340.00</td>
 <td>300.00</td>
 <td>1040.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>79</td>
+<td>Annette Bothma</td>
+<td>Fish Hoek</td>
+<td>Annette</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
 </tr>
 
     
@@ -285,14 +297,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>50</td>
 <td>Charlotte Jubelin</td>
 <td>Cape Of Good Hope</td>
 <td>RC Charlotte Jubelin</td>
 <td>1340.00</td>
-<td>0.00</td>
 <td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -505,14 +517,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>68</td>
 <td>Jessica Philander</td>
 <td>Cape Of Good Hope</td>
 <td>Lion Jessica Philander</td>
 <td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
+<td>300.00</td>
+<td>1040.00</td>
 </tr>
 
     
@@ -667,6 +679,17 @@ StillOwed
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: lightgreen" style="background-color: yellow">
+<td>80</td>
+<td>Daniel Van Der Merwe</td>
+<td>(Partner in Service)</td>
+<td>Daniel Van Der Merwe</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
 </tr>
 
     
