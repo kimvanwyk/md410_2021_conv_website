@@ -11,13 +11,13 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 73</li>
-<li><strong>Lions</strong>: 69</li>
+<li><strong>Total</strong>: 74</li>
+<li><strong>Lions</strong>: 70</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 32</li>
+<li><strong>Number of Clubs</strong>: 33</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 71
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 72
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
@@ -28,13 +28,13 @@
 <li><strong>PDG Breakfast</strong>: 17
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
-<li><strong>Sight Seeing</strong>: 7
-<li><strong>Service Project</strong>: 18
+<li><strong>Sight Seeing</strong>: 8
+<li><strong>Service Project</strong>: 19
 <li><strong>Partner Program</strong>: 4
 </ul>
-<li><strong>Total Owed:</strong> R95705.00</li>
+<li><strong>Total Owed:</strong> R96990.00</li>
 <li><strong>Paid:</strong> R37700.00</li>
-<li><strong>Still Owed:</strong> R58005.00</li>
+<li><strong>Still Owed:</strong> R59290.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to chocolate, cheese, coffee and crayfish</li>
@@ -808,6 +808,17 @@ StillOwed
 <td>Sandy van Heerden</td>
 <td>Wilro Park</td>
 <td>DC Sandy van Heerden</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>82</td>
+<td>Deon van Wulven</td>
+<td>Tygerberg Hills</td>
+<td>LP Deon van Wulven</td>
 <td>1285.00</td>
 <td>0.00</td>
 <td>1285.00</td>
