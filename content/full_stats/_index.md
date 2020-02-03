@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Total Owed:</strong> R95705.00</li>
-<li><strong>Paid:</strong> R35675.00</li>
-<li><strong>Still Owed:</strong> R60030.00</li>
+<li><strong>Paid:</strong> R37700.00</li>
+<li><strong>Still Owed:</strong> R58005.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to chocolate, cheese, coffee and crayfish</li>
@@ -242,25 +242,25 @@ StillOwed
 </tr>
 
     
-<tr>
+<tr style="background-color: lightgreen">
 <td>2</td>
 <td>Jacqui Hocking</td>
 <td>Midrand</td>
 <td>CC Jacqui Hocking</td>
 <td>1340.00</td>
-<td>300.00</td>
-<td>1040.00</td>
+<td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
-<tr>
+<tr style="background-color: lightgreen">
 <td>3</td>
 <td>Cliff Hocking</td>
 <td>Midrand</td>
 <td>PCC Cliff Hocking</td>
 <td>1285.00</td>
-<td>300.00</td>
-<td>985.00</td>
+<td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
