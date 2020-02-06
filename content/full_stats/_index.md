@@ -11,30 +11,30 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 76</li>
-<li><strong>Lions</strong>: 72</li>
+<li><strong>Total</strong>: 77</li>
+<li><strong>Lions</strong>: 73</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 34</li>
+<li><strong>Number of Clubs</strong>: 35</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 74
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 75
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 66
+<li><strong>Pins</strong>: 67
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 22
 <li><strong>PDG Breakfast</strong>: 19
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
-<li><strong>Sight Seeing</strong>: 8
-<li><strong>Service Project</strong>: 19
+<li><strong>Sight Seeing</strong>: 9
+<li><strong>Service Project</strong>: 20
 <li><strong>Partner Program</strong>: 4
 </ul>
-<li><strong>Total Owed:</strong> R99670.00</li>
-<li><strong>Paid:</strong> R37700.00</li>
-<li><strong>Still Owed:</strong> R61970.00</li>
+<li><strong>Total Owed:</strong> R101010.00</li>
+<li><strong>Paid:</strong> R38985.00</li>
+<li><strong>Still Owed:</strong> R62025.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to chocolate, cheese, coffee and crayfish</li>
@@ -327,6 +327,17 @@ StillOwed
 <td>1340.00</td>
 <td>300.00</td>
 <td>1040.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>85</td>
+<td>Bevil Lakay</td>
+<td>Mitchells Plain</td>
+<td>Bevil Lakay</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
 </tr>
 
     
@@ -836,14 +847,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>82</td>
 <td>Deon van Wulven</td>
 <td>Tygerberg Hills</td>
 <td>LP Deon van Wulven</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
