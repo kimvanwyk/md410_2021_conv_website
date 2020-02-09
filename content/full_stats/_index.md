@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Total Owed:</strong> R101010.00</li>
-<li><strong>Paid:</strong> R40325.00</li>
-<li><strong>Still Owed:</strong> R60685.00</li>
+<li><strong>Paid:</strong> R41325.00</li>
+<li><strong>Still Owed:</strong> R59685.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to chocolate, cheese, coffee and crayfish</li>
@@ -517,25 +517,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>77</td>
 <td>Ramona Nulliah</td>
 <td>Durban Host</td>
 <td>Ramona Nulliah</td>
 <td>1285.00</td>
-<td>0.00</td>
-<td>1285.00</td>
+<td>300.00</td>
+<td>985.00</td>
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>78</td>
 <td>Gary Nulliah</td>
 <td>Durban Host</td>
 <td>Gary Nulliah</td>
 <td>1285.00</td>
-<td>0.00</td>
-<td>1285.00</td>
+<td>300.00</td>
+<td>985.00</td>
 </tr>
 
     
@@ -732,8 +732,8 @@ StillOwed
 <td>Midrand</td>
 <td>LP Yolandi van der Schyf</td>
 <td>1340.00</td>
-<td>300.00</td>
-<td>1040.00</td>
+<td>700.00</td>
+<td>640.00</td>
 </tr>
 
     
