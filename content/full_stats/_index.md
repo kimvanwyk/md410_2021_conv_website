@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R105085.00</li>
-<li><strong>Paid:</strong> R42665.00</li>
-<li><strong>Still Owed:</strong> R62420.00</li>
+<li><strong>Paid:</strong> R44005.00</li>
+<li><strong>Still Owed:</strong> R61080.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to chocolate, cheese, coffee and crayfish</li>
@@ -826,14 +826,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>86</td>
 <td>Patricia Wilson</td>
 <td>Kingsburgh</td>
 <td>Pat Wilson</td>
 <td>1340.00</td>
-<td>0.00</td>
 <td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
