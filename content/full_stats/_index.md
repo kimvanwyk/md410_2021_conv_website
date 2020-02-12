@@ -11,30 +11,30 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 77</li>
-<li><strong>Lions</strong>: 74</li>
+<li><strong>Total</strong>: 79</li>
+<li><strong>Lions</strong>: 76</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 38</li>
+<li><strong>Number of Clubs</strong>: 39</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 76
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 78
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 68
+<li><strong>Pins</strong>: 71
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 23
-<li><strong>PDG Breakfast</strong>: 20
+<li><strong>MJF Lunch</strong>: 25
+<li><strong>PDG Breakfast</strong>: 21
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 7
 <li><strong>Service Project</strong>: 19
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R102350.00</li>
-<li><strong>Paid:</strong> R41325.00</li>
-<li><strong>Still Owed:</strong> R61025.00</li>
+<li><strong>Total Owed:</strong> R105085.00</li>
+<li><strong>Paid:</strong> R42665.00</li>
+<li><strong>Still Owed:</strong> R62420.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to chocolate, cheese, coffee and crayfish</li>
@@ -78,14 +78,14 @@ StillOwed
 </thead>
 <tbody>
 
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>89</td>
 <td>Linda Anderson</td>
 <td>George</td>
 <td>Linda Anderson</td>
 <td>1340.00</td>
-<td>0.00</td>
 <td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -512,6 +512,28 @@ StillOwed
 <td>Alain Moulounda</td>
 <td>Cape Of Good Hope</td>
 <td>Lion Alain Moulounda</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>90</td>
+<td>Tillie Nel</td>
+<td>Eden</td>
+<td>PDG Tillie Nel </td>
+<td>1395.00</td>
+<td>0.00</td>
+<td>1395.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>91</td>
+<td>Pieter Nel</td>
+<td>George</td>
+<td>DGE Pieter Nel</td>
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
