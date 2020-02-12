@@ -12,35 +12,36 @@
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
 <li><strong>Total</strong>: 77</li>
-<li><strong>Lions</strong>: 73</li>
-<li><strong>Partners In Service</strong>: 4</li>
+<li><strong>Lions</strong>: 74</li>
+<li><strong>Partners In Service</strong>: 3</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 37</li>
+<li><strong>Number of Clubs</strong>: 38</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 75
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 76
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 67
+<li><strong>Pins</strong>: 68
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 23
 <li><strong>PDG Breakfast</strong>: 20
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 7
-<li><strong>Service Project</strong>: 18
-<li><strong>Partner Program</strong>: 4
+<li><strong>Service Project</strong>: 19
+<li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R101010.00</li>
+<li><strong>Total Owed:</strong> R102350.00</li>
 <li><strong>Paid:</strong> R41325.00</li>
-<li><strong>Still Owed:</strong> R59685.00</li>
+<li><strong>Still Owed:</strong> R61025.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to chocolate, cheese, coffee and crayfish</li>
 <li>Allergic to fish</li>
 <li>Halal</li>
 <li>No fish or mushrooms</li>
+<li>No fish please </li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
 <li>dairy</li>
 </ul>
@@ -77,6 +78,17 @@ StillOwed
 </thead>
 <tbody>
 
+<tr style="background-color: yellow">
+<td>89</td>
+<td>Linda Anderson</td>
+<td>George</td>
+<td>Linda Anderson</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
+</tr>
+
+    
 <tr>
 <td>54</td>
 <td>Valencia Beukes</td>
@@ -712,17 +724,6 @@ StillOwed
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen" style="background-color: yellow">
-<td>80</td>
-<td>Daniel Van Der Merwe</td>
-<td>(Partner in Service)</td>
-<td>Daniel Van Der Merwe</td>
-<td>0.00</td>
-<td>0.00</td>
-<td>0.00</td>
 </tr>
 
     
