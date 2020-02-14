@@ -11,18 +11,18 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 80</li>
-<li><strong>Lions</strong>: 77</li>
+<li><strong>Total</strong>: 81</li>
+<li><strong>Lions</strong>: 78</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 40</li>
+<li><strong>Number of Clubs</strong>: 41</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 79
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 80
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 72
+<li><strong>Pins</strong>: 73
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 25
 <li><strong>PDG Breakfast</strong>: 21
@@ -32,9 +32,9 @@
 <li><strong>Service Project</strong>: 19
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R106425.00</li>
+<li><strong>Total Owed:</strong> R107765.00</li>
 <li><strong>Paid:</strong> R44005.00</li>
-<li><strong>Still Owed:</strong> R62420.00</li>
+<li><strong>Still Owed:</strong> R63760.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -755,6 +755,17 @@ StillOwed
 <td>Rowan Tuckett</td>
 <td>Roodepoort Clearwater Cyber</td>
 <td>LP Rowan Tuckett</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>93</td>
+<td>Neville Van Rensburg</td>
+<td>Moorreesburg</td>
+<td>Neville Van Rensburg MDC</td>
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
