@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R111785.00</li>
-<li><strong>Paid:</strong> R44005.00</li>
-<li><strong>Still Owed:</strong> R67780.00</li>
+<li><strong>Paid:</strong> R45980.00</li>
+<li><strong>Still Owed:</strong> R65805.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -134,14 +134,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>62</td>
 <td>Nkandu Chapeshamano</td>
 <td>Rustenburg</td>
 <td>Lion Nkandu Chapeshamano</td>
 <td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
+<td>312.50</td>
+<td>1027.50</td>
 </tr>
 
     
@@ -651,14 +651,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>63</td>
 <td>Pinky Serobatse</td>
 <td>(Partner in Service)</td>
 <td>L/Ldy Serobatse-Chapeshamano</td>
 <td>1285.00</td>
-<td>0.00</td>
-<td>1285.00</td>
+<td>312.50</td>
+<td>972.50</td>
 </tr>
 
     
@@ -794,14 +794,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>93</td>
 <td>Neville Van Rensburg</td>
 <td>Moorreesburg</td>
 <td>Neville Van Rensburg MDC</td>
 <td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
+<td>1350.00</td>
+<td>-10.00</td>
 </tr>
 
     
