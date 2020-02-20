@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R115695.00</li>
-<li><strong>Paid:</strong> R45980.00</li>
-<li><strong>Still Owed:</strong> R69715.00</li>
+<li><strong>Paid:</strong> R48550.00</li>
+<li><strong>Still Owed:</strong> R67145.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -332,14 +332,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>99</td>
 <td>Marco Joubert</td>
-<td>Alberton</td>
+<td>Tygerberg Hills</td>
 <td>Lion Marco Joubert</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -959,14 +959,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>98</td>
 <td>Janine van Wulven</td>
 <td>Tygerberg Hills</td>
 <td>Lion Janine van Wulven</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
