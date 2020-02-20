@@ -11,30 +11,30 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 87</li>
-<li><strong>Lions</strong>: 84</li>
+<li><strong>Total</strong>: 89</li>
+<li><strong>Lions</strong>: 86</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 42</li>
+<li><strong>Number of Clubs</strong>: 43</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 86
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 88
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 77
+<li><strong>Pins</strong>: 78
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 25
-<li><strong>PDG Breakfast</strong>: 21
+<li><strong>MJF Lunch</strong>: 27
+<li><strong>PDG Breakfast</strong>: 23
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 9
 <li><strong>Service Project</strong>: 20
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R115695.00</li>
+<li><strong>Total Owed:</strong> R118320.00</li>
 <li><strong>Paid:</strong> R48550.00</li>
-<li><strong>Still Owed:</strong> R67145.00</li>
+<li><strong>Still Owed:</strong> R69770.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -161,6 +161,28 @@ StillOwed
 <td>Sharon Cottle</td>
 <td>Groote Schuur</td>
 <td>GLT Sharon Cottle </td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>100</td>
+<td>Ivan Du Plooy</td>
+<td>Krugersdorp</td>
+<td>PDG Ivan du Plooy</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>101</td>
+<td>Peggy Du Plooy</td>
+<td>Krugersdorp</td>
+<td>IPDG Peggy du Plooy</td>
 <td>1285.00</td>
 <td>0.00</td>
 <td>1285.00</td>
