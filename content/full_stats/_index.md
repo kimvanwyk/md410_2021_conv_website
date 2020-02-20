@@ -28,8 +28,8 @@
 <li><strong>PDG Breakfast</strong>: 21
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
-<li><strong>Sight Seeing</strong>: 7
-<li><strong>Service Project</strong>: 19
+<li><strong>Sight Seeing</strong>: 9
+<li><strong>Service Project</strong>: 20
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R115695.00</li>
