@@ -29,7 +29,7 @@
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 9
-<li><strong>Service Project</strong>: 20
+<li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R118320.00</li>
