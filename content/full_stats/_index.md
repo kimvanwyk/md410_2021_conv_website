@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R122175.00</li>
-<li><strong>Paid:</strong> R48550.00</li>
-<li><strong>Still Owed:</strong> R73625.00</li>
+<li><strong>Paid:</strong> R52515.00</li>
+<li><strong>Still Owed:</strong> R69660.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -112,14 +112,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>79</td>
 <td>Annette Bothma</td>
 <td>Fish Hoek</td>
 <td>Annette</td>
 <td>1340.00</td>
-<td>0.00</td>
 <td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -167,25 +167,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>100</td>
 <td>Ivan Du Plooy</td>
 <td>Krugersdorp</td>
 <td>PDG Ivan du Plooy</td>
 <td>1340.00</td>
-<td>0.00</td>
 <td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>101</td>
 <td>Peggy Du Plooy</td>
 <td>Krugersdorp</td>
 <td>IPDG Peggy du Plooy</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
