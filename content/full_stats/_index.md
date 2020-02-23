@@ -11,13 +11,13 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 89</li>
-<li><strong>Lions</strong>: 86</li>
+<li><strong>Total</strong>: 92</li>
+<li><strong>Lions</strong>: 89</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 43</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 88
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 91
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
@@ -25,16 +25,16 @@
 <li><strong>Pins</strong>: 78
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 27
-<li><strong>PDG Breakfast</strong>: 23
+<li><strong>PDG Breakfast</strong>: 24
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 9
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R118320.00</li>
+<li><strong>Total Owed:</strong> R122175.00</li>
 <li><strong>Paid:</strong> R48550.00</li>
-<li><strong>Still Owed:</strong> R69770.00</li>
+<li><strong>Still Owed:</strong> R73625.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -453,6 +453,17 @@ StillOwed
 </tr>
 
     
+<tr style="background-color: yellow">
+<td>103</td>
+<td>Tony Marron</td>
+<td>Kingsburgh</td>
+<td>Tony Marron, Club Secretary Kingsburgh</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
+</tr>
+
+    
 <tr style="background-color: lightgreen">
 <td>75</td>
 <td>Nick Maré</td>
@@ -615,6 +626,17 @@ StillOwed
 <td>1285.00</td>
 <td>300.00</td>
 <td>985.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>104</td>
+<td>William Pfaff</td>
+<td>North Durban</td>
+<td>Lion Bill Pfaff</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
@@ -846,6 +868,17 @@ StillOwed
 <td>1340.00</td>
 <td>1350.00</td>
 <td>-10.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>102</td>
+<td>Jeannie Van Wulven</td>
+<td>Tygerberg Hills</td>
+<td>Jeannie van Wulven</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
