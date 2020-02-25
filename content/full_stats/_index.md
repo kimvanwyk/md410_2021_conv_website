@@ -11,30 +11,30 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 92</li>
-<li><strong>Lions</strong>: 89</li>
+<li><strong>Total</strong>: 93</li>
+<li><strong>Lions</strong>: 90</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 43</li>
+<li><strong>Number of Clubs</strong>: 44</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 91
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 92
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 78
+<li><strong>Pins</strong>: 79
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 27
-<li><strong>PDG Breakfast</strong>: 24
+<li><strong>MJF Lunch</strong>: 28
+<li><strong>PDG Breakfast</strong>: 25
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 9
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R122175.00</li>
-<li><strong>Paid:</strong> R52515.00</li>
-<li><strong>Still Owed:</strong> R69660.00</li>
+<li><strong>Total Owed:</strong> R123515.00</li>
+<li><strong>Paid:</strong> R55100.00</li>
+<li><strong>Still Owed:</strong> R68415.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -101,14 +101,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>87</td>
 <td>Lyn Botha</td>
 <td>Cowies Hill</td>
 <td>Lyn Botha</td>
 <td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
+<td>1000.00</td>
+<td>340.00</td>
 </tr>
 
     
@@ -156,14 +156,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>17</td>
 <td>Sharon Cottle</td>
 <td>Groote Schuur</td>
 <td>GLT Sharon Cottle </td>
 <td>1285.00</td>
-<td>0.00</td>
-<td>1285.00</td>
+<td>300.00</td>
+<td>985.00</td>
 </tr>
 
     
@@ -871,14 +871,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>102</td>
 <td>Jeannie Van Wulven</td>
 <td>Tygerberg Hills</td>
 <td>Jeannie van Wulven</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -967,6 +967,17 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>105</td>
+<td>Rocky Wright</td>
+<td>Table View</td>
+<td>Rocky Wright</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
 </tr>
 
     
