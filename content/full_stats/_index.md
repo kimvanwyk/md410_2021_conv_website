@@ -579,9 +579,9 @@ StillOwed
 <td>Tillie Nel</td>
 <td>Eden</td>
 <td>PDG Tillie Nel </td>
-<td>1395.00</td>
+<td>1450.00</td>
 <td>0.00</td>
-<td>1395.00</td>
+<td>1450.00</td>
 </tr>
 
     
@@ -590,9 +590,9 @@ StillOwed
 <td>Pieter Nel</td>
 <td>George</td>
 <td>DGE Pieter Nel</td>
-<td>1340.00</td>
+<td>1285.00</td>
 <td>0.00</td>
-<td>1340.00</td>
+<td>1285.00</td>
 </tr>
 
     
