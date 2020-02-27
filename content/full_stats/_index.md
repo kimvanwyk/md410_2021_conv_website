@@ -11,20 +11,20 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 93</li>
-<li><strong>Lions</strong>: 90</li>
+<li><strong>Total</strong>: 94</li>
+<li><strong>Lions</strong>: 91</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 44</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 92
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 93
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
 <li><strong>Pins</strong>: 79
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 28
+<li><strong>MJF Lunch</strong>: 29
 <li><strong>PDG Breakfast</strong>: 25
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 2
@@ -32,9 +32,9 @@
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R123515.00</li>
-<li><strong>Paid:</strong> R55100.00</li>
-<li><strong>Still Owed:</strong> R68415.00</li>
+<li><strong>Total Owed:</strong> R124800.00</li>
+<li><strong>Paid:</strong> R56140.00</li>
+<li><strong>Still Owed:</strong> R68660.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -255,6 +255,17 @@ StillOwed
 </tr>
 
     
+<tr style="background-color: yellow">
+<td>106</td>
+<td>Barbara Haywood</td>
+<td>Eden</td>
+<td>Barbara Haywood</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
+</tr>
+
+    
 <tr style="background-color: lightgreen">
 <td>43</td>
 <td>Wendy Higgins</td>
@@ -387,14 +398,14 @@ StillOwed
 </tr>
 
     
-<tr>
+<tr style="background-color: lightgreen">
 <td>29</td>
 <td>Zwaai Krüger</td>
 <td>Sedgefield</td>
 <td>Zwaai Krüger</td>
 <td>1340.00</td>
-<td>300.00</td>
-<td>1040.00</td>
+<td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
