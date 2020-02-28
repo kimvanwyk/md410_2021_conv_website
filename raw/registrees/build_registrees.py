@@ -270,6 +270,8 @@ class Stats(object):
         self.club_freq_name = ', '.join(names)
         self.num_clubs = len(set([r.club for r in self.registrees]))
 
+        print([r for r in self.registrees if not any([getattr(r,a) for a in ('full', 'banquet', 'convention', 'theme')])])
+
     def build_public_stats(self):
         with open(PUBLIC_URL_PATH, 'w') as fh:
             fh.write(PUBLIC_HEADER)
