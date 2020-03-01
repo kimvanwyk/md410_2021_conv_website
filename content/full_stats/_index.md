@@ -11,30 +11,30 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 95</li>
-<li><strong>Lions</strong>: 92</li>
+<li><strong>Total</strong>: 97</li>
+<li><strong>Lions</strong>: 94</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 45</li>
+<li><strong>Number of Clubs</strong>: 46</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 94
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 96
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 0
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 79
+<li><strong>Pins</strong>: 81
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 30
+<li><strong>MJF Lunch</strong>: 32
 <li><strong>PDG Breakfast</strong>: 25
 <li><strong>Sharks Board</strong>: 6
-<li><strong>Golf</strong>: 2
+<li><strong>Golf</strong>: 3
 <li><strong>Sight Seeing</strong>: 9
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R126085.00</li>
-<li><strong>Paid:</strong> R58220.00</li>
-<li><strong>Still Owed:</strong> R67865.00</li>
+<li><strong>Total Owed:</strong> R128765.00</li>
+<li><strong>Paid:</strong> R59560.00</li>
+<li><strong>Still Owed:</strong> R69205.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -87,6 +87,28 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>108</td>
+<td>Karl Bands</td>
+<td>Helderkruin</td>
+<td>LP Karl Bands</td>
+<td>1395.00</td>
+<td>0.00</td>
+<td>1395.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>109</td>
+<td>Jonquille Bands</td>
+<td>Helderkruin</td>
+<td> Jonquille Bands</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
@@ -860,14 +882,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>47</td>
 <td>Gail Tuckett</td>
 <td>Roodepoort Clearwater Cyber</td>
 <td>Lion Gail Tuckett</td>
 <td>1340.00</td>
-<td>0.00</td>
 <td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
