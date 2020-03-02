@@ -14,16 +14,24 @@ class HTML(object):
             '<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>',
             '<script src="/js/reg_form.js"></script>',
             '<form name="registration" method="POST" data-netlify="true" action="/registration_result">',
-            ]
+        ]
         self.level = 1
-        self.out.append(f'{"~" * self.level}The details of your registration will be sent to you, including a unique registration number. Payment details will also be included in that email. Please make all payments using your registration number as a reference.')
+        self.out.append(
+            f'{"~" * self.level}The details of your registration will be sent to you, including a unique registration number. Payment details will also be included in that email. Please make all payments using your registration number as a reference.'
+        )
         self.out.append(f'{"~" * self.level}<br>')
         self.out.append(f'{"~" * self.level}<br>')
-        self.out.append(f'{"~" * self.level}Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2020.')
+        self.out.append(
+            f'{"~" * self.level}Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2020.'
+        )
         self.out.append(f'{"~" * self.level}<ul>')
         self.level += 1
-        self.out.append(f'{"~" * self.level}<li>If your registration is cancelled before 1 April 2020, 90% of the payments you have made will be refunded.</li>')
-        self.out.append(f'{"~" * self.level}<li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>')
+        self.out.append(
+            f'{"~" * self.level}<li>If your registration is cancelled before 1 April 2020, 90% of the payments you have made will be refunded.</li>'
+        )
+        self.out.append(
+            f'{"~" * self.level}<li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>'
+        )
         self.level -= 1
         self.out.append(f'{"~" * self.level}</ul>')
 
@@ -91,7 +99,9 @@ class HTML(object):
         if centre:
             self.out.append(f'{"~" * self.level}<center>')
             self.level += 1
-        self.out.append(f'{"~" * self.level}<label id={tag}>{"<h3>" if font=="b" else ""}{text}{"</h3>" if font=="b" else ""}</label>')
+        self.out.append(
+            f'{"~" * self.level}<label id={tag}>{"<h3>" if font=="b" else ""}{text}{"</h3>" if font=="b" else ""}</label>'
+        )
         self.level -= 1
         if centre:
             self.out.append(f'{"~" * self.level}</center>')
@@ -242,14 +252,17 @@ def make_attendee_fields(html, prefix, lion=True):
     html.add_text(
         f"{prefix}_dietary",
         "Dietary Requirements",
-        help="Please be VERY clear with these requirements. eg halal, kosher, vegetarian, allergic to dairy"
+        help="Please be VERY clear with these requirements. eg halal, kosher, vegetarian, allergic to dairy",
     )
     html.add_text(
         f"{prefix}_disability",
         "Special Access Requirements",
         help="Please indicate any requirements for wheel chair access or the like, if applicable",
     )
-    html.add_checkbox(f"{prefix}_first_mdc", "This will be the attendee's first Multiple District Convention")
+    html.add_checkbox(
+        f"{prefix}_first_mdc",
+        "This will be the attendee's first Multiple District Convention",
+    )
 
     html.add_checkbox(
         f"{prefix}_mjf_lunch",
@@ -363,7 +376,12 @@ html.close_containing_div()
 html.add_divider()
 html.add_header("Extra Items")
 html.add_text(
-    "pins", "Total Number of Convention Pins (R55 per pin)", type="number", cls="total", cost=55
+    "pins",
+    "Total Number of Convention Pins (R55 per pin)",
+    help="<b>Please note that pins ordered after 15 March 2020 will not be ready in time for collection at the convention.</b>",
+    type="number",
+    cls="total",
+    cost=55,
 )
 html.add_divider()
 html.add_label("total_cost", "Total Cost: R0", centre=True, font="b")

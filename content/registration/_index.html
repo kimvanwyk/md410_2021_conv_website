@@ -853,7 +853,10 @@ draft: false
          Total Number of Convention Pins (R55 per pin): 
       </label>
       <div class="col-sm-4">
-         <input type="number" min="0" value="0" class="form-control total" id="pins" name="pins" cost=55>
+         <input type="number" min="0" value="0" class="form-control total" id="pins" name="pins" aria-describedby="pins_help" cost=55>
+         <small id="pins_help" class="form-text text-muted">
+            <b>Please note that pins ordered after 15 March 2020 will not be ready in time for collection at the convention.</b>
+         </small>
       </div>
    </div>
    <hr>
