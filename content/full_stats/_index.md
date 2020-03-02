@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R128765.00</li>
-<li><strong>Paid:</strong> R59560.00</li>
-<li><strong>Still Owed:</strong> R69205.00</li>
+<li><strong>Paid:</strong> R61640.00</li>
+<li><strong>Still Owed:</strong> R67125.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -783,25 +783,25 @@ StillOwed
 </tr>
 
     
-<tr>
+<tr style="background-color: lightgreen">
 <td>19</td>
 <td>Herman Smit</td>
 <td>Swellendam</td>
 <td>Herman Smit</td>
 <td>1340.00</td>
-<td>300.00</td>
-<td>1040.00</td>
+<td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
-<tr>
+<tr style="background-color: lightgreen">
 <td>20</td>
 <td>Berdine Smit</td>
 <td>(Partner in Service)</td>
 <td>Berdine Smit</td>
 <td>1340.00</td>
-<td>300.00</td>
-<td>1040.00</td>
+<td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
