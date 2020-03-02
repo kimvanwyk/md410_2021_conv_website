@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R128765.00</li>
-<li><strong>Paid:</strong> R61640.00</li>
-<li><strong>Still Owed:</strong> R67125.00</li>
+<li><strong>Paid:</strong> R62090.00</li>
+<li><strong>Still Owed:</strong> R66675.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -376,14 +376,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr>
 <td>97</td>
 <td>Jean Jacobs</td>
 <td>Mitchells Plain</td>
 <td>VP Jean Jacobs</td>
 <td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
+<td>450.00</td>
+<td>890.00</td>
 </tr>
 
     
