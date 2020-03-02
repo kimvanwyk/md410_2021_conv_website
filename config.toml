@@ -119,6 +119,12 @@ unsafe= true
     weight = 2
 
 [[menu.main]]
+    name = "Third Newsletter"
+    url = "news/newsletter_03"
+    parent = "news"
+    weight = 2
+
+[[menu.main]]
     name = "International Guest"
     url = "guest"
     weight = 5
