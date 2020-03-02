@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 3
 </ul>
 <li><strong>Total Owed:</strong> R134015.00</li>
-<li><strong>Paid:</strong> R62090.00</li>
-<li><strong>Still Owed:</strong> R71925.00</li>
+<li><strong>Paid:</strong> R63075.00</li>
+<li><strong>Still Owed:</strong> R70940.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -888,8 +888,8 @@ StillOwed
 <td>Midrand</td>
 <td>PDG Pierre Theron</td>
 <td>1285.00</td>
-<td>300.00</td>
-<td>985.00</td>
+<td>792.50</td>
+<td>492.50</td>
 </tr>
 
     
@@ -899,8 +899,8 @@ StillOwed
 <td>Midrand</td>
 <td>PDG Moira Theron</td>
 <td>1285.00</td>
-<td>300.00</td>
-<td>985.00</td>
+<td>792.50</td>
+<td>492.50</td>
 </tr>
 
     
