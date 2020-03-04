@@ -11,18 +11,18 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 101</li>
-<li><strong>Lions</strong>: 98</li>
+<li><strong>Total</strong>: 103</li>
+<li><strong>Lions</strong>: 100</li>
 <li><strong>Partners In Service</strong>: 3</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 46</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
 <li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 100
 <li><strong>Banquet</strong>: 1
-<li><strong>Convention</strong>: 0
+<li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 83
+<li><strong>Pins</strong>: 84
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 32
 <li><strong>PDG Breakfast</strong>: 27
@@ -32,9 +32,9 @@
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 3
 </ul>
-<li><strong>Total Owed:</strong> R134015.00</li>
+<li><strong>Total Owed:</strong> R134870.00</li>
 <li><strong>Paid:</strong> R63075.00</li>
-<li><strong>Still Owed:</strong> R70940.00</li>
+<li><strong>Still Owed:</strong> R71795.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -45,6 +45,7 @@
 <li>No fish please </li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
 <li>dairy</li>
+<li>no seafood</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
 <li>Due to Osteo Arthritis, I find climbing steps very difficult</li>
@@ -780,6 +781,28 @@ StillOwed
 <td>1285.00</td>
 <td>0.00</td>
 <td>1285.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>114</td>
+<td>Moira Rigby</td>
+<td>Kingsburgh</td>
+<td>LP Moira</td>
+<td>455.00</td>
+<td>0.00</td>
+<td>455.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>115</td>
+<td>David Rigby</td>
+<td>Kingsburgh</td>
+<td>Lion Dave</td>
+<td>400.00</td>
+<td>0.00</td>
+<td>400.00</td>
 </tr>
 
     
