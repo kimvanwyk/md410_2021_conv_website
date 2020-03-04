@@ -402,7 +402,7 @@ StillOwed
 <tr style="background-color: yellow">
 <td>44</td>
 <td>Akinyemi Ismaila Tunde</td>
-<td>Alberton</td>
+<td>-</td>
 <td>tunde </td>
 <td>1340.00</td>
 <td>0.00</td>
