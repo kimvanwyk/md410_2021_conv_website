@@ -11,13 +11,13 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 103</li>
-<li><strong>Lions</strong>: 100</li>
-<li><strong>Partners In Service</strong>: 3</li>
+<li><strong>Total</strong>: 105</li>
+<li><strong>Lions</strong>: 101</li>
+<li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 46</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 100
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 102
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
@@ -28,13 +28,13 @@
 <li><strong>PDG Breakfast</strong>: 27
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 3
-<li><strong>Sight Seeing</strong>: 9
+<li><strong>Sight Seeing</strong>: 10
 <li><strong>Service Project</strong>: 21
-<li><strong>Partner Program</strong>: 3
+<li><strong>Partner Program</strong>: 4
 </ul>
-<li><strong>Total Owed:</strong> R134870.00</li>
+<li><strong>Total Owed:</strong> R137440.00</li>
 <li><strong>Paid:</strong> R63075.00</li>
-<li><strong>Still Owed:</strong> R71795.00</li>
+<li><strong>Still Owed:</strong> R74365.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -297,6 +297,28 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>116</td>
+<td>Victor Hawla</td>
+<td>Krugersdorp</td>
+<td>Victor Hawla </td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>117</td>
+<td>Loriane Hawla</td>
+<td>(Partner in Service)</td>
+<td>Loriane Hawla </td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
