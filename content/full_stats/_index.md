@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Total Owed:</strong> R140120.00</li>
-<li><strong>Paid:</strong> R69010.00</li>
-<li><strong>Still Owed:</strong> R71110.00</li>
+<li><strong>Paid:</strong> R72965.00</li>
+<li><strong>Still Owed:</strong> R67155.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -323,14 +323,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>106</td>
 <td>Barbara Haywood</td>
 <td>Eden</td>
 <td>Barbara Haywood</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -648,8 +648,8 @@ StillOwed
 <td>Cape Of Good Hope</td>
 <td>LP Brian Moses</td>
 <td>1340.00</td>
-<td>550.00</td>
-<td>790.00</td>
+<td>950.00</td>
+<td>390.00</td>
 </tr>
 
     
@@ -675,14 +675,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>91</td>
 <td>Pieter Nel</td>
 <td>George</td>
 <td>DGE Pieter Nel</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -1143,8 +1143,8 @@ StillOwed
 <td>Durbanville</td>
 <td>CS Judy Young</td>
 <td>1340.00</td>
-<td>300.00</td>
-<td>1040.00</td>
+<td>1285.00</td>
+<td>55.00</td>
 </tr>
 
     
