@@ -11,18 +11,18 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 105</li>
-<li><strong>Lions</strong>: 101</li>
+<li><strong>Total</strong>: 107</li>
+<li><strong>Lions</strong>: 103</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 46</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 102
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 104
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 84
+<li><strong>Pins</strong>: 86
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 32
 <li><strong>PDG Breakfast</strong>: 27
@@ -32,14 +32,15 @@
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 4
 </ul>
-<li><strong>Total Owed:</strong> R137440.00</li>
-<li><strong>Paid:</strong> R64415.00</li>
-<li><strong>Still Owed:</strong> R73025.00</li>
+<li><strong>Total Owed:</strong> R140120.00</li>
+<li><strong>Paid:</strong> R66985.00</li>
+<li><strong>Still Owed:</strong> R73135.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
 <li>Allergic to chocolate, cheese, coffee and crayfish</li>
 <li>Allergic to fish</li>
+<li>Diabetic</li>
 <li>Halal</li>
 <li>No fish or mushrooms</li>
 <li>No fish please </li>
@@ -256,25 +257,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>112</td>
 <td>Bernd Gerhard</td>
 <td>Wilro Park</td>
 <td>PDG Bernd Gerhard</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>113</td>
 <td>Shirley Gerhard</td>
 <td>Wilro Park</td>
 <td>Lion Shirley Gerhard</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -946,6 +947,28 @@ StillOwed
 <td>1285.00</td>
 <td>792.50</td>
 <td>492.50</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>118</td>
+<td>Diane Townsend</td>
+<td>Benoni Lakes</td>
+<td>Diane Townsend</td>
+<td>1395.00</td>
+<td>0.00</td>
+<td>1395.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>119</td>
+<td>Kendyl Townsend</td>
+<td>Benoni Lakes</td>
+<td>Kendyl Townsend</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
