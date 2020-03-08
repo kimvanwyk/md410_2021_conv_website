@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Total Owed:</strong> R140120.00</li>
-<li><strong>Paid:</strong> R72965.00</li>
-<li><strong>Still Owed:</strong> R67155.00</li>
+<li><strong>Paid:</strong> R74250.00</li>
+<li><strong>Still Owed:</strong> R65870.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -543,14 +543,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>103</td>
 <td>Tony Marron</td>
 <td>Kingsburgh</td>
 <td>Tony Marron, Club Secretary Kingsburgh</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
