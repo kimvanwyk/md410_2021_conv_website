@@ -11,30 +11,30 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 107</li>
-<li><strong>Lions</strong>: 103</li>
-<li><strong>Partners In Service</strong>: 4</li>
+<li><strong>Total</strong>: 111</li>
+<li><strong>Lions</strong>: 106</li>
+<li><strong>Partners In Service</strong>: 5</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 46</li>
+<li><strong>Number of Clubs</strong>: 47</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 104
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 108
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 86
+<li><strong>Pins</strong>: 90
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 32
-<li><strong>PDG Breakfast</strong>: 27
+<li><strong>MJF Lunch</strong>: 33
+<li><strong>PDG Breakfast</strong>: 28
 <li><strong>Sharks Board</strong>: 6
 <li><strong>Golf</strong>: 3
-<li><strong>Sight Seeing</strong>: 10
+<li><strong>Sight Seeing</strong>: 13
 <li><strong>Service Project</strong>: 21
-<li><strong>Partner Program</strong>: 4
+<li><strong>Partner Program</strong>: 5
 </ul>
-<li><strong>Total Owed:</strong> R140120.00</li>
+<li><strong>Total Owed:</strong> R145480.00</li>
 <li><strong>Paid:</strong> R75535.00</li>
-<li><strong>Still Owed:</strong> R64585.00</li>
+<li><strong>Still Owed:</strong> R69945.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -1255,6 +1255,50 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>120</td>
+<td>Brian von der Decken</td>
+<td>King William's Town</td>
+<td>PDG Brian von der Decken</td>
+<td>1395.00</td>
+<td>0.00</td>
+<td>1395.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>121</td>
+<td>Janet von der Decken</td>
+<td>(Partner in Service)</td>
+<td>Janet von der Decken</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>122</td>
+<td>Andrew von der Decken</td>
+<td>King William's Town</td>
+<td>Andrew von der Decken</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>123</td>
+<td>Ann von der Dekcen</td>
+<td>King William's Town</td>
+<td>Ann von der Dekcen</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
 </tr>
 
     
