@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Total Owed:</strong> R140120.00</li>
-<li><strong>Paid:</strong> R74250.00</li>
-<li><strong>Still Owed:</strong> R65870.00</li>
+<li><strong>Paid:</strong> R75535.00</li>
+<li><strong>Still Owed:</strong> R64585.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -389,14 +389,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>107</td>
 <td>Leslie Human</td>
 <td>East London Port Rex</td>
 <td>FVDGE Leslie Human </td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
