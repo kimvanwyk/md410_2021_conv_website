@@ -1293,9 +1293,9 @@ StillOwed
     
 <tr style="background-color: yellow">
 <td>123</td>
-<td>Ann von der Dekcen</td>
+<td>Ann von der Decken</td>
 <td>King William's Town</td>
-<td>Ann von der Dekcen</td>
+<td>Ann von der Decken</td>
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
