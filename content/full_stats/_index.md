@@ -11,13 +11,13 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 113</li>
-<li><strong>Lions</strong>: 108</li>
+<li><strong>Total</strong>: 114</li>
+<li><strong>Lions</strong>: 109</li>
 <li><strong>Partners In Service</strong>: 5</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 48</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 110
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 111
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
@@ -32,9 +32,9 @@
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 5
 </ul>
-<li><strong>Total Owed:</strong> R148050.00</li>
+<li><strong>Total Owed:</strong> R149335.00</li>
 <li><strong>Paid:</strong> R75535.00</li>
-<li><strong>Still Owed:</strong> R72515.00</li>
+<li><strong>Still Owed:</strong> R73800.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -1068,6 +1068,17 @@ StillOwed
 <td>1340.00</td>
 <td>700.00</td>
 <td>640.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>126</td>
+<td>Gunther Wallendorf</td>
+<td>Krugersdorp</td>
+<td>Gunther Wallendorf</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
