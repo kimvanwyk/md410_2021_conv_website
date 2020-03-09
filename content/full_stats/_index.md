@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 5
 </ul>
 <li><strong>Total Owed:</strong> R149335.00</li>
-<li><strong>Paid:</strong> R75535.00</li>
-<li><strong>Still Owed:</strong> R73800.00</li>
+<li><strong>Paid:</strong> R76820.00</li>
+<li><strong>Still Owed:</strong> R72515.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -1071,14 +1071,14 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>126</td>
 <td>Gunther Wallendorf</td>
 <td>Krugersdorp</td>
 <td>Gunther Wallendorf</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
