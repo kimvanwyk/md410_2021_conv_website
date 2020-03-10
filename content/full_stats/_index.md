@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 5
 </ul>
 <li><strong>Total Owed:</strong> R149335.00</li>
-<li><strong>Paid:</strong> R76820.00</li>
-<li><strong>Still Owed:</strong> R72515.00</li>
+<li><strong>Paid:</strong> R78510.00</li>
+<li><strong>Still Owed:</strong> R70825.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -114,14 +114,14 @@ StillOwed
 </tr>
 
     
-<tr>
+<tr style="background-color: lightgreen">
 <td>54</td>
 <td>Valencia Beukes</td>
 <td>Kuilsriver</td>
 <td>Valencia Beukes</td>
 <td>1340.00</td>
-<td>300.00</td>
-<td>1040.00</td>
+<td>1340.00</td>
+<td>0.00</td>
 </tr>
 
     
@@ -1115,14 +1115,14 @@ StillOwed
 </tr>
 
     
-<tr>
+<tr style="background-color: lightgreen">
 <td>55</td>
 <td>Richard Williams</td>
 <td>(Partner in Service)</td>
 <td>Richard Williams</td>
 <td>950.00</td>
-<td>300.00</td>
-<td>650.00</td>
+<td>950.00</td>
+<td>0.00</td>
 </tr>
 
     
