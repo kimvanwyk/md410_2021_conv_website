@@ -11,18 +11,18 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 114</li>
-<li><strong>Lions</strong>: 109</li>
+<li><strong>Total</strong>: 115</li>
+<li><strong>Lions</strong>: 110</li>
 <li><strong>Partners In Service</strong>: 5</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 48</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 111
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 112
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 90
+<li><strong>Pins</strong>: 91
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 33
 <li><strong>PDG Breakfast</strong>: 29
@@ -32,9 +32,9 @@
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 5
 </ul>
-<li><strong>Total Owed:</strong> R149335.00</li>
+<li><strong>Total Owed:</strong> R150675.00</li>
 <li><strong>Paid:</strong> R78510.00</li>
-<li><strong>Still Owed:</strong> R70825.00</li>
+<li><strong>Still Owed:</strong> R72165.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -760,6 +760,17 @@ StillOwed
 <td>1340.00</td>
 <td>300.00</td>
 <td>1040.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>127</td>
+<td>Patrick Pillay</td>
+<td>Tygerberg Hills</td>
+<td>Pat Pillay</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
 </tr>
 
     
