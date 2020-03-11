@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 5
 </ul>
 <li><strong>Total Owed:</strong> R150675.00</li>
-<li><strong>Paid:</strong> R78510.00</li>
-<li><strong>Still Owed:</strong> R72165.00</li>
+<li><strong>Paid:</strong> R81080.00</li>
+<li><strong>Still Owed:</strong> R69595.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -1192,25 +1192,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>45</td>
 <td>Sydney van Heerden</td>
 <td>Wilro Park</td>
 <td>RC Sydney van Heerden</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>46</td>
 <td>Sandy van Heerden</td>
 <td>Wilro Park</td>
 <td>DC Sandy van Heerden</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
