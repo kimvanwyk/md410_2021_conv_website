@@ -11,18 +11,18 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 115</li>
-<li><strong>Lions</strong>: 110</li>
+<li><strong>Total</strong>: 117</li>
+<li><strong>Lions</strong>: 112</li>
 <li><strong>Partners In Service</strong>: 5</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 48</li>
+<li><strong>Number of Clubs</strong>: 49</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (12 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 112
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 114
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 91
+<li><strong>Pins</strong>: 96
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 33
 <li><strong>PDG Breakfast</strong>: 29
@@ -32,9 +32,9 @@
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 5
 </ul>
-<li><strong>Total Owed:</strong> R150675.00</li>
+<li><strong>Total Owed:</strong> R153520.00</li>
 <li><strong>Paid:</strong> R83650.00</li>
-<li><strong>Still Owed:</strong> R67025.00</li>
+<li><strong>Still Owed:</strong> R69870.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -42,6 +42,7 @@
 <li>Allergic to fish</li>
 <li>Diabetic</li>
 <li>Halal</li>
+<li>No Lamb</li>
 <li>No fish or mushrooms</li>
 <li>No fish please </li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
@@ -687,6 +688,17 @@ StillOwed
 
     
 <tr style="background-color: yellow">
+<td>129</td>
+<td>Suzanne Murray</td>
+<td>Vereeniging</td>
+<td>PP Suzanne Murray</td>
+<td>1340.00</td>
+<td>0.00</td>
+<td>1340.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
 <td>90</td>
 <td>Tillie Nel</td>
 <td>Eden</td>
@@ -738,6 +750,17 @@ StillOwed
 <td>1285.00</td>
 <td>300.00</td>
 <td>985.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>128</td>
+<td>Teresa Pantoleon</td>
+<td>Vereeniging</td>
+<td>IPP Teresa Pantoleon</td>
+<td>1505.00</td>
+<td>0.00</td>
+<td>1505.00</td>
 </tr>
 
     
