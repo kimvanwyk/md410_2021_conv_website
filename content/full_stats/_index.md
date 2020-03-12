@@ -33,8 +33,8 @@
 <li><strong>Partner Program</strong>: 5
 </ul>
 <li><strong>Total Owed:</strong> R150675.00</li>
-<li><strong>Paid:</strong> R81080.00</li>
-<li><strong>Still Owed:</strong> R69595.00</li>
+<li><strong>Paid:</strong> R83650.00</li>
+<li><strong>Still Owed:</strong> R67025.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -477,25 +477,25 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>124</td>
 <td>Ian King</td>
 <td>Alberton</td>
 <td>PDG Ian King</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
-<tr style="background-color: yellow">
+<tr style="background-color: lightgreen">
 <td>125</td>
 <td>Sandy King</td>
 <td>Alberton</td>
 <td>Lion Sandy</td>
 <td>1285.00</td>
-<td>0.00</td>
 <td>1285.00</td>
+<td>0.00</td>
 </tr>
 
     
