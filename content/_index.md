@@ -14,6 +14,16 @@ Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2020 Convention websi
     </center>
 </form>
 
+<center><h2>A Message From the Council of Governors Regarding COVID-19</h2></center>
+<p>Dear Fellow Lions of Multiple District 410,
+<p>We as the Multiple District 410 Council wish to assure you that the safety and wellbeing of all of you are our primary concern in light of the COVID-19 virus.
+<p>As such we are in consultation with the all parties (Hotel, Government, LCI) in regard to our upcoming Multiple District 410 Convention and you will be appraised of the decisions taken.
+<p>I therefore respectfully request that as Lions you please stop posting information around this which in some cases is “fake news” and furthermore just raises alarm and panic.  Please just adhere to the rulings regarding hygiene and be safe.
+<p>Yours in Lionism,
+<br>Jacqui Hocking
+<br>Council Chairman
+<br>Multiple District 410
+
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 <!-- <script src="/js/countdown.js"></script> -->
 <!-- <div id="countdown">Clock</div> -->

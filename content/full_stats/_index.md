@@ -1,3 +1,9 @@
+---
+title: "Full Registration Stats"
+date: 2019-07-14T16:19:07+02:00
+draft: false
+---
+
 <html>
 <head>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -11,18 +17,18 @@
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 117</li>
-<li><strong>Lions</strong>: 112</li>
+<li><strong>Total</strong>: 116</li>
+<li><strong>Lions</strong>: 111</li>
 <li><strong>Partners In Service</strong>: 5</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 49</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (11 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 114
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 113
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 96
+<li><strong>Pins</strong>: 95
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 33
 <li><strong>PDG Breakfast</strong>: 29
@@ -32,9 +38,9 @@
 <li><strong>Service Project</strong>: 21
 <li><strong>Partner Program</strong>: 5
 </ul>
-<li><strong>Total Owed:</strong> R153520.00</li>
+<li><strong>Total Owed:</strong> R152180.00</li>
 <li><strong>Paid:</strong> R85100.00</li>
-<li><strong>Still Owed:</strong> R68420.00</li>
+<li><strong>Still Owed:</strong> R67080.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -81,17 +87,6 @@ StillOwed
 </thead>
 <tbody>
 
-<tr style="background-color: yellow">
-<td>130</td>
-<td> </td>
-<td>Alberton</td>
-<td> </td>
-<td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
-</tr>
-
-    
 <tr style="background-color: lightgreen">
 <td>89</td>
 <td>Linda Anderson</td>

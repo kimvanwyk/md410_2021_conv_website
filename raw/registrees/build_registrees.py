@@ -18,7 +18,13 @@ draft: false
 ---
 
 '''
-FULL_HEADER = '''<html>
+FULL_HEADER = '''---
+title: "Full Registration Stats"
+date: 2019-07-14T16:19:07+02:00
+draft: false
+---
+
+<html>
 <head>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.com/libraries/jquery.tablesorter"></script>

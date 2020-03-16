@@ -125,6 +125,12 @@ unsafe= true
     weight = 2
 
 [[menu.main]]
+    name = "A Message From the Council of Governors Regarding COVID-19"
+    url = "news/covid_19"
+    parent = "news"
+    weight = 1
+
+[[menu.main]]
     name = "International Guest"
     url = "guest"
     weight = 5
