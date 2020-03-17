@@ -263,9 +263,17 @@ class DB(object):
         else:
             self.reg_nums = [reg_num]
 
+    def get_cancellations(self):
+        tr = self.tables["registree"]
+
+        cancellations = [r for r in self.engine.execute(sa.select([tr.c.cancellation_timestamp, tr.c.last_name, tr.c.first_names], whereclause=tr.c.cancellation_timestamp != None)).fetchall()]
+        cancellations.sort()
+        return(cancellations)
+
 class Stats(object):
-    def __init__(self, registrees):
+    def __init__(self, registrees, cancellations):
         self.registrees = registrees
+        self.cancellations = cancellations
         freq = Counter([r.club for r in self.registrees]).most_common()
         self.club_freq_num = freq[0][1]
         names = []
@@ -331,7 +339,11 @@ class Stats(object):
             perc = (float(num) / len(self.registrees) * 100)
             fh.write(f"<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> {num} ({perc:.2f}%)</li>\n")
             fh.write('</ul>\n')
-
+            fh.write('<li><strong>Cancellations</strong></li><ul>\n')
+            for (d,ln,fn) in self.cancellations:
+                fh.write(f"<li>{d:%y-%m-%d} {ln}, {fn}</li>\n")
+            fh.write('</ul>\n')
+                
             for attr in ('dietary', 'disability'):
                 fh.write(f'<li><strong>{attr.capitalize()} Requirements</strong></li><ul>\n')
                 items = []
@@ -371,6 +383,6 @@ class Stats(object):
             fh.write(FOOTER)
 
 db = DB()
-stats = Stats(db.get_registrees())
+stats = Stats(db.get_registrees(), db.get_cancellations())
 stats.build_public_stats()
 stats.build_full_stats()
