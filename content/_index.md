@@ -14,11 +14,12 @@ Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2020 Convention websi
     </center>
 </form>
 
-<center><h2>A Message From the Council of Governors Regarding COVID-19</h2></center>
-<p>Dear Fellow Lions of Multiple District 410,
-<p>We as the Multiple District 410 Council wish to assure you that the safety and wellbeing of all of you are our primary concern in light of the COVID-19 virus.
-<p>As such we are in consultation with the all parties (Hotel, Government, LCI) in regard to our upcoming Multiple District 410 Convention and you will be appraised of the decisions taken.
-<p>I therefore respectfully request that as Lions you please stop posting information around this which in some cases is “fake news” and furthermore just raises alarm and panic.  Please just adhere to the rulings regarding hygiene and be safe.
+
+<center><h2>A Further Message From the Council of Governors Regarding COVID-19</h2></center>
+<p>Dear Fellow Lions,
+<p>We have just received confirmation that our International Guest PIP Kajit Habanananda has had to cancel his attendance at the MD410 Convention due to the travel bans relevant to the COVID-19 virus.
+<p>As communicated yesterday, we will keep you informed as to the way forward as soon as we have full clarity from all sources. 
+<p>On behalf of the MD410 Council, my thanks to the Convention Committee under the Chairmanship of Lion Trevor Hobbs, who are managing a crisis which we have never had to deal with previously and I please request you, Fellow Lions, to not bombard them with emails, etc.  I assure you that we will never put any of you in jeopardy.
 <p>Yours in Lionism,
 <br>Jacqui Hocking
 <br>Council Chairman
