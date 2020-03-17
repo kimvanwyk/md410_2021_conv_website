@@ -17,30 +17,30 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 116</li>
-<li><strong>Lions</strong>: 111</li>
-<li><strong>Partners In Service</strong>: 5</li>
+<li><strong>Total</strong>: 112</li>
+<li><strong>Lions</strong>: 108</li>
+<li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 49</li>
+<li><strong>Number of Clubs</strong>: 46</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (11 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 113
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 109
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 95
+<li><strong>Pins</strong>: 93
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 33
-<li><strong>PDG Breakfast</strong>: 29
-<li><strong>Sharks Board</strong>: 6
+<li><strong>MJF Lunch</strong>: 32
+<li><strong>PDG Breakfast</strong>: 28
+<li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 3
-<li><strong>Sight Seeing</strong>: 13
-<li><strong>Service Project</strong>: 21
-<li><strong>Partner Program</strong>: 5
+<li><strong>Sight Seeing</strong>: 12
+<li><strong>Service Project</strong>: 20
+<li><strong>Partner Program</strong>: 4
 </ul>
-<li><strong>Total Owed:</strong> R152180.00</li>
-<li><strong>Paid:</strong> R90460.00</li>
-<li><strong>Still Owed:</strong> R61720.00</li>
+<li><strong>Total Owed:</strong> R146930.00</li>
+<li><strong>Paid:</strong> R89535.00</li>
+<li><strong>Still Owed:</strong> R57395.00</li>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
@@ -164,17 +164,6 @@ StillOwed
 </tr>
 
     
-<tr>
-<td>62</td>
-<td>Nkandu Chapeshamano</td>
-<td>Rustenburg</td>
-<td>Lion Nkandu Chapeshamano</td>
-<td>1340.00</td>
-<td>312.50</td>
-<td>1027.50</td>
-</tr>
-
-    
 <tr style="background-color: lightgreen">
 <td>51</td>
 <td>Lynnette Virginia Christians</td>
@@ -183,17 +172,6 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
-</tr>
-
-    
-<tr>
-<td>17</td>
-<td>Sharon Cottle</td>
-<td>Groote Schuur</td>
-<td>GLT Sharon Cottle </td>
-<td>1285.00</td>
-<td>300.00</td>
-<td>985.00</td>
 </tr>
 
     
@@ -901,17 +879,6 @@ StillOwed
 </tr>
 
     
-<tr>
-<td>63</td>
-<td>Pinky Serobatse</td>
-<td>(Partner in Service)</td>
-<td>L/Ldy Serobatse-Chapeshamano</td>
-<td>1285.00</td>
-<td>312.50</td>
-<td>972.50</td>
-</tr>
-
-    
 <tr style="background-color: yellow">
 <td>4</td>
 <td>Susanna Helena Smit</td>
@@ -1184,17 +1151,6 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: yellow">
-<td>105</td>
-<td>Rocky Wright</td>
-<td>Table View</td>
-<td>Rocky Wright</td>
-<td>1340.00</td>
-<td>0.00</td>
-<td>1340.00</td>
 </tr>
 
     
