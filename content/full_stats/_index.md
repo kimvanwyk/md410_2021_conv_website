@@ -46,6 +46,15 @@ draft: false
 <li><strong>Number of Attendees Who Have Paid in Part:</strong> 13 (11.61%)</li>
 <li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (33.04%)</li>
 </ul>
+<li><strong>Cancellations</strong></li><ul>
+<li>20-02-07 McCullough, David</li>
+<li>20-02-07 McCullough, Gizella</li>
+<li>20-03-13 Chapeshamano, Nkandu</li>
+<li>20-03-13 Philander, Jessica</li>
+<li>20-03-13 Serobatse, Pinky</li>
+<li>20-03-17 Cottle, Sharon</li>
+<li>20-03-17 Wright, Rocky</li>
+</ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
