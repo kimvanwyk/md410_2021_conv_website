@@ -146,6 +146,7 @@ class Registree(object):
     initial_owed = attr.ib(default=0)
     still_owed = attr.ib(default=0)
     title = attr.ib(default=None)
+    cancellation_timestamp = attr.ib(default=None)
 
     def __attrs_post_init__(self):
         self.name = f"{self.first_names.strip()} {self.last_name.strip()}"
@@ -185,7 +186,7 @@ class DB(object):
         tpy = self.tables["payment"]
         tp = self.tables["pins"]
 
-        res = self.engine.execute(tr.select()).fetchall()
+        res = self.engine.execute(tr.select(whereclause=tr.c.cancellation_timestamp == None)).fetchall()
         registrees = []
 
         for r in res:
@@ -316,9 +317,20 @@ class Stats(object):
             for a in ("mjf_lunch","pdg_breakfast","sharks_board","golf","sight_seeing","service_project","partner_program",):
                 fh.write(f'<li><strong>{" ".join([i.capitalize() if len(i) > 3 else i.upper() for i in a.split("_")])}</strong>: {sum([bool(getattr(r, a)) for r in self.registrees])}\n')
             fh.write('</ul>\n')
+            fh.write('<li><strong>Payment Details</strong></li><ul>\n')
             fh.write(f'<li><strong>Total Owed:</strong> R{sum([r.initial_owed for r in self.registrees])}</li>\n')
             fh.write(f'<li><strong>Paid:</strong> R{sum([r.paid for r in self.registrees])}</li>\n')
             fh.write(f'<li><strong>Still Owed:</strong> R{sum([r.still_owed for r in self.registrees])}</li>\n')
+            num = len([r for r in self.registrees if r.still_owed <= 0])
+            perc = (float(num) / len(self.registrees) * 100)
+            fh.write(f'<li><strong>Number of Attendees Who Have Paid in Full:</strong> {num} ({perc:.2f}%)</li>\n')
+            num = len([r for r in self.registrees if (r.still_owed > 0 and r.paid > 0)])
+            perc = (float(num) / len(self.registrees) * 100)
+            fh.write(f'<li><strong>Number of Attendees Who Have Paid in Part:</strong> {num} ({perc:.2f}%)</li>\n')
+            num = len([r for r in self.registrees if (r.still_owed > 0 and r.paid <= 0)])
+            perc = (float(num) / len(self.registrees) * 100)
+            fh.write(f"<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> {num} ({perc:.2f}%)</li>\n")
+            fh.write('</ul>\n')
 
             for attr in ('dietary', 'disability'):
                 fh.write(f'<li><strong>{attr.capitalize()} Requirements</strong></li><ul>\n')
@@ -340,7 +352,7 @@ class Stats(object):
             fh.write(FULL_TABLE_HEADER)
             for registree in self.registrees:
                 fh.write(f"""
-<tr{' style="background-color: lightgreen"' if not registree.still_owed else ''}{' style="background-color: yellow"' if not registree.paid else ''}>
+<tr{' style="background-color: lightgreen"' if not registree.still_owed > 0 else ''}{' style="background-color: yellow"' if not registree.paid else ''}>
 <td>{registree.reg_num}</td>
 <td>{registree.name}</td>
 <td>{registree.club if registree.is_lion else '(Partner in Service)'}</td>

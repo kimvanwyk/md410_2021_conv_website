@@ -38,9 +38,14 @@ draft: false
 <li><strong>Service Project</strong>: 20
 <li><strong>Partner Program</strong>: 4
 </ul>
+<li><strong>Payment Details</strong></li><ul>
 <li><strong>Total Owed:</strong> R146930.00</li>
 <li><strong>Paid:</strong> R89535.00</li>
 <li><strong>Still Owed:</strong> R57395.00</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 62 (55.36%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 13 (11.61%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (33.04%)</li>
+</ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
 <li>Allergic to cheese and cream</li>
