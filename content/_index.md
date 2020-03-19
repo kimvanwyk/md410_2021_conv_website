@@ -4,26 +4,17 @@ date: 2019-07-14T16:19:07+02:00
 draft: false
 ---
 
-<center><h2>1-3 May 2020</h2></center>
+<center><h2>June 2020</h2></center>
 
-Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2020 Convention website, coming up from 1-3 May 2020 at the [Riverside Hotel](/venue) in eThekwini, KwaZulu-Natal.
+<center><h3>The 2020 Multiple District 410 2020 Convention has been postponed until June 2020 - see <a href="/news/postponement">here for details</a>.</h3><center>
+
+Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2020 Convention website, coming up in June 2020 at the [Riverside Hotel](/venue) in eThekwini, KwaZulu-Natal.
 
 <form action="/registration">
     <center>
         <button style="height:100px; width:400px" type="button"><h3>Register Here</h3></button>
     </center>
 </form>
-
-
-<center><h2>A Further Message From the Council of Governors Regarding COVID-19</h2></center>
-<p>Dear Fellow Lions,
-<p>We have just received confirmation that our International Guest PIP Kajit Habanananda has had to cancel his attendance at the MD410 Convention due to the travel bans relevant to the COVID-19 virus.
-<p>As communicated yesterday, we will keep you informed as to the way forward as soon as we have full clarity from all sources. 
-<p>On behalf of the MD410 Council, my thanks to the Convention Committee under the Chairmanship of Lion Trevor Hobbs, who are managing a crisis which we have never had to deal with previously and I please request you, Fellow Lions, to not bombard them with emails, etc.  I assure you that we will never put any of you in jeopardy.
-<p>Yours in Lionism,
-<br>Jacqui Hocking
-<br>Council Chairman
-<br>Multiple District 410
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 <!-- <script src="/js/countdown.js"></script> -->

@@ -110,29 +110,35 @@ unsafe= true
     name = "Launch Poster"
     url = "news/launch_poster"
     parent = "news"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Second Newsletter"
     url = "news/newsletter_02"
     parent = "news"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Third Newsletter"
     url = "news/newsletter_03"
     parent = "news"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "A Message From the Council of Governors Regarding COVID-19"
     url = "news/covid_19_01"
     parent = "news"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "A Further Message From the Council of Governors Regarding COVID-19"
     url = "news/covid_19_02"
+    parent = "news"
+    weight = 2
+
+[[menu.main]]
+    name = "Postponement of the MD410 2020 Convention"
+    url = "news/postponement"
     parent = "news"
     weight = 1
 
