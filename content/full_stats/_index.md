@@ -17,21 +17,21 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 112</li>
-<li><strong>Lions</strong>: 108</li>
+<li><strong>Total</strong>: 108</li>
+<li><strong>Lions</strong>: 104</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 46</li>
-<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (11 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 109
+<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (9 registrees)</li>
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 105
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 93
+<li><strong>Pins</strong>: 91
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 32
-<li><strong>PDG Breakfast</strong>: 28
+<li><strong>MJF Lunch</strong>: 31
+<li><strong>PDG Breakfast</strong>: 27
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 3
 <li><strong>Sight Seeing</strong>: 12
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R146930.00</li>
-<li><strong>Paid:</strong> R89535.00</li>
+<li><strong>Total Owed:</strong> R141680.00</li>
+<li><strong>Paid:</strong> R84285.00</li>
 <li><strong>Still Owed:</strong> R57395.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 62 (55.36%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 13 (11.61%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (33.04%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 58 (53.70%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 13 (12.04%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (34.26%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David</li>
@@ -54,6 +54,10 @@ draft: false
 <li>20-03-13 Serobatse, Pinky</li>
 <li>20-03-17 Cottle, Sharon</li>
 <li>20-03-17 Wright, Rocky</li>
+<li>20-03-19 van Wyk, Patricia</li>
+<li>20-03-19 van Wyk, Willie</li>
+<li>20-03-19 Lee, Darrol</li>
+<li>20-03-19 Lee, Heather </li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -538,28 +542,6 @@ StillOwed
 <td>1285.00</td>
 <td>0.00</td>
 <td>1285.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>34</td>
-<td>Heather Lee</td>
-<td>Cape Of Good Hope</td>
-<td>Lion Heather Lee</td>
-<td>1395.00</td>
-<td>1395.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>35</td>
-<td>Darrol Lee</td>
-<td>Cape Of Good Hope</td>
-<td>Lion Darrol Lee</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
 </tr>
 
     
@@ -1250,28 +1232,6 @@ StillOwed
 <td>Kim van Wyk</td>
 <td>North Durban</td>
 <td>Kim van Wyk</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>32</td>
-<td>Patricia van Wyk</td>
-<td>Pretoria Jakaranda</td>
-<td>PDG Patricia van Wyk</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>33</td>
-<td>Willie van Wyk</td>
-<td>Midrand</td>
-<td>Lion Willem van Wyk</td>
 <td>1285.00</td>
 <td>1285.00</td>
 <td>0.00</td>
