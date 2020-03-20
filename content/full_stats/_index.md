@@ -17,18 +17,18 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 106</li>
-<li><strong>Lions</strong>: 102</li>
+<li><strong>Total</strong>: 105</li>
+<li><strong>Lions</strong>: 101</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 45</li>
-<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (9 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 103
+<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (8 registrees)</li>
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 102
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 91
+<li><strong>Pins</strong>: 90
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 29
 <li><strong>PDG Breakfast</strong>: 27
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R139110.00</li>
-<li><strong>Paid:</strong> R81715.00</li>
+<li><strong>Total Owed:</strong> R137770.00</li>
+<li><strong>Paid:</strong> R80375.00</li>
 <li><strong>Still Owed:</strong> R57395.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 56 (52.83%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 13 (12.26%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (34.91%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 55 (52.38%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 13 (12.38%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (35.24%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David</li>
@@ -60,6 +60,7 @@ draft: false
 <li>20-03-19 Lee, Heather </li>
 <li>20-03-20 Weston, Barbara</li>
 <li>20-03-20 Weston, Keith</li>
+<li>20-03-20 Jubelin, Charlotte</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -455,17 +456,6 @@ StillOwed
 <td>Lion Marco Joubert</td>
 <td>1285.00</td>
 <td>1285.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>50</td>
-<td>Charlotte Jubelin</td>
-<td>Cape Of Good Hope</td>
-<td>RC Charlotte Jubelin</td>
-<td>1340.00</td>
-<td>1340.00</td>
 <td>0.00</td>
 </tr>
 
