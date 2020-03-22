@@ -266,7 +266,7 @@ class DB(object):
     def get_cancellations(self):
         tr = self.tables["registree"]
 
-        cancellations = [r for r in self.engine.execute(sa.select([tr.c.cancellation_timestamp, tr.c.last_name, tr.c.first_names], whereclause=tr.c.cancellation_timestamp != None)).fetchall()]
+        cancellations = [r for r in self.engine.execute(sa.select([tr.c.cancellation_timestamp, tr.c.last_name, tr.c.first_names, tr.c.reg_num], whereclause=tr.c.cancellation_timestamp != None)).fetchall()]
         cancellations.sort()
         return(cancellations)
 
@@ -340,8 +340,8 @@ class Stats(object):
             fh.write(f"<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> {num} ({perc:.2f}%)</li>\n")
             fh.write('</ul>\n')
             fh.write('<li><strong>Cancellations</strong></li><ul>\n')
-            for (d,ln,fn) in self.cancellations:
-                fh.write(f"<li>{d:%y-%m-%d} {ln}, {fn}</li>\n")
+            for (d,ln,fn, rn) in self.cancellations:
+                fh.write(f"<li>{d:%y-%m-%d} {ln}, {fn} (reg number: {rn:03})</li>\n")
             fh.write('</ul>\n')
                 
             for attr in ('dietary', 'disability'):

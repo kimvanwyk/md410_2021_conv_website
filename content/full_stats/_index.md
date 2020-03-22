@@ -47,20 +47,20 @@ draft: false
 <li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (35.24%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
-<li>20-02-07 McCullough, David</li>
-<li>20-02-07 McCullough, Gizella</li>
-<li>20-03-13 Chapeshamano, Nkandu</li>
-<li>20-03-13 Philander, Jessica</li>
-<li>20-03-13 Serobatse, Pinky</li>
-<li>20-03-17 Cottle, Sharon</li>
-<li>20-03-17 Wright, Rocky</li>
-<li>20-03-19 van Wyk, Patricia</li>
-<li>20-03-19 van Wyk, Willie</li>
-<li>20-03-19 Lee, Darrol</li>
-<li>20-03-19 Lee, Heather </li>
-<li>20-03-20 Weston, Barbara</li>
-<li>20-03-20 Weston, Keith</li>
-<li>20-03-20 Jubelin, Charlotte</li>
+<li>20-02-07 McCullough, David (reg number: 058)</li>
+<li>20-02-07 McCullough, Gizella (reg number: 059)</li>
+<li>20-03-13 Chapeshamano, Nkandu (reg number: 062)</li>
+<li>20-03-13 Philander, Jessica (reg number: 068)</li>
+<li>20-03-13 Serobatse, Pinky (reg number: 063)</li>
+<li>20-03-17 Cottle, Sharon (reg number: 017)</li>
+<li>20-03-17 Wright, Rocky (reg number: 105)</li>
+<li>20-03-19 van Wyk, Patricia (reg number: 032)</li>
+<li>20-03-19 van Wyk, Willie (reg number: 033)</li>
+<li>20-03-19 Lee, Darrol (reg number: 035)</li>
+<li>20-03-19 Lee, Heather  (reg number: 034)</li>
+<li>20-03-20 Weston, Barbara (reg number: 011)</li>
+<li>20-03-20 Weston, Keith (reg number: 010)</li>
+<li>20-03-20 Jubelin, Charlotte (reg number: 050)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
