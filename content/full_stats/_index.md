@@ -17,8 +17,8 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 105</li>
-<li><strong>Lions</strong>: 101</li>
+<li><strong>Total</strong>: 102</li>
+<li><strong>Lions</strong>: 98</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 44</li>
@@ -30,7 +30,7 @@ draft: false
 </ul><li><strong>Extra Items</strong></li><ul>
 <li><strong>Pins</strong>: 88
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 29
+<li><strong>MJF Lunch</strong>: 28
 <li><strong>PDG Breakfast</strong>: 27
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 3
@@ -40,11 +40,11 @@ draft: false
 </ul>
 <li><strong>Payment Details</strong></li><ul>
 <li><strong>Total Owed:</strong> R133805.00</li>
-<li><strong>Paid:</strong> R80375.00</li>
-<li><strong>Still Owed:</strong> R53430.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 56 (53.33%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 12 (11.43%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (35.24%)</li>
+<li><strong>Paid:</strong> R77050.00</li>
+<li><strong>Still Owed:</strong> R56755.00</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 53 (51.96%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 12 (11.76%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (36.27%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -61,6 +61,9 @@ draft: false
 <li>20-03-20 Weston, Barbara (reg number: 011)</li>
 <li>20-03-20 Weston, Keith (reg number: 010)</li>
 <li>20-03-20 Jubelin, Charlotte (reg number: 050)</li>
+<li>20-04-01 Wallendorf, Gunther (reg number: 126)</li>
+<li>20-04-01 Van der Schyf, Yolandi (reg number: 052)</li>
+<li>20-04-01 Smith, Bennie  (reg number: 009)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -900,17 +903,6 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: lightgreen">
-<td>9</td>
-<td>Bennie Smith</td>
-<td>None</td>
-<td>DG Bennie Smith</td>
-<td>0.00</td>
-<td>1340.00</td>
-<td>-1340.00</td>
-</tr>
-
-    
 <tr>
 <td>70</td>
 <td>Rochelle Smith</td>
@@ -1040,28 +1032,6 @@ StillOwed
 <td>1285.00</td>
 <td>1285.00</td>
 <td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>52</td>
-<td>Yolandi Van der Schyf</td>
-<td>None</td>
-<td>LP Yolandi van der Schyf</td>
-<td>0.00</td>
-<td>700.00</td>
-<td>-700.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>126</td>
-<td>Gunther Wallendorf</td>
-<td>None</td>
-<td>Gunther Wallendorf</td>
-<td>0.00</td>
-<td>1285.00</td>
-<td>-1285.00</td>
 </tr>
 
     
