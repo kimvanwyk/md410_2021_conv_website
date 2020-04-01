@@ -21,14 +21,14 @@ draft: false
 <li><strong>Lions</strong>: 101</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 45</li>
+<li><strong>Number of Clubs</strong>: 44</li>
 <li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (8 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 102
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 99
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 90
+<li><strong>Pins</strong>: 88
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 29
 <li><strong>PDG Breakfast</strong>: 27
@@ -39,11 +39,11 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R137770.00</li>
+<li><strong>Total Owed:</strong> R133805.00</li>
 <li><strong>Paid:</strong> R80375.00</li>
-<li><strong>Still Owed:</strong> R57395.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 55 (52.38%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 13 (12.38%)</li>
+<li><strong>Still Owed:</strong> R53430.00</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 56 (53.33%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 12 (11.43%)</li>
 <li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (35.24%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
@@ -903,11 +903,11 @@ StillOwed
 <tr style="background-color: lightgreen">
 <td>9</td>
 <td>Bennie Smith</td>
-<td>Wellington</td>
+<td>None</td>
 <td>DG Bennie Smith</td>
-<td>1340.00</td>
-<td>1340.00</td>
 <td>0.00</td>
+<td>1340.00</td>
+<td>-1340.00</td>
 </tr>
 
     
@@ -1043,25 +1043,25 @@ StillOwed
 </tr>
 
     
-<tr>
+<tr style="background-color: lightgreen">
 <td>52</td>
 <td>Yolandi Van der Schyf</td>
-<td>Midrand</td>
+<td>None</td>
 <td>LP Yolandi van der Schyf</td>
-<td>1340.00</td>
+<td>0.00</td>
 <td>700.00</td>
-<td>640.00</td>
+<td>-700.00</td>
 </tr>
 
     
 <tr style="background-color: lightgreen">
 <td>126</td>
 <td>Gunther Wallendorf</td>
-<td>Krugersdorp</td>
+<td>None</td>
 <td>Gunther Wallendorf</td>
-<td>1285.00</td>
-<td>1285.00</td>
 <td>0.00</td>
+<td>1285.00</td>
+<td>-1285.00</td>
 </tr>
 
     
