@@ -17,34 +17,34 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 102</li>
-<li><strong>Lions</strong>: 98</li>
+<li><strong>Total</strong>: 100</li>
+<li><strong>Lions</strong>: 96</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 44</li>
-<li><strong>Club With Most Attendees</strong>: Cape Of Good Hope (8 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 99
+<li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Midrand (6 registrees)</li>
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 97
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 88
+<li><strong>Pins</strong>: 85
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 28
 <li><strong>PDG Breakfast</strong>: 27
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 3
-<li><strong>Sight Seeing</strong>: 12
+<li><strong>Sight Seeing</strong>: 11
 <li><strong>Service Project</strong>: 20
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R133805.00</li>
-<li><strong>Paid:</strong> R77050.00</li>
+<li><strong>Total Owed:</strong> R131070.00</li>
+<li><strong>Paid:</strong> R74315.00</li>
 <li><strong>Still Owed:</strong> R56755.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 53 (51.96%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 12 (11.76%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (36.27%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 51 (51.00%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 12 (12.00%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (37.00%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -64,6 +64,8 @@ draft: false
 <li>20-04-01 Wallendorf, Gunther (reg number: 126)</li>
 <li>20-04-01 Van der Schyf, Yolandi (reg number: 052)</li>
 <li>20-04-01 Smith, Bennie  (reg number: 009)</li>
+<li>20-04-06 Georges, Allison  (reg number: 053)</li>
+<li>20-04-08 Poyo , Yvonne  Maureen (reg number: 049)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -75,7 +77,6 @@ draft: false
 <li>No fish or mushrooms</li>
 <li>No fish please </li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
-<li>dairy</li>
 <li>no seafood</li>
 </ul>
 <li><strong>Disability Requirements</strong></li><ul>
@@ -248,17 +249,6 @@ StillOwed
 <td>Julie Flanagan</td>
 <td>Tokai</td>
 <td>Lion Jules Flanagan</td>
-<td>1340.00</td>
-<td>1340.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>53</td>
-<td>Allison Georges</td>
-<td>Cape Of Good Hope</td>
-<td>Allison Georges</td>
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
@@ -779,17 +769,6 @@ StillOwed
 <td>1285.00</td>
 <td>0.00</td>
 <td>1285.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>49</td>
-<td>Yvonne  Maureen Poyo</td>
-<td>Cape Of Good Hope</td>
-<td>Yvonne</td>
-<td>1395.00</td>
-<td>1395.00</td>
-<td>0.00</td>
 </tr>
 
     
