@@ -17,13 +17,13 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 100</li>
-<li><strong>Lions</strong>: 96</li>
+<li><strong>Total</strong>: 98</li>
+<li><strong>Lions</strong>: 94</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 44</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Midrand (6 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 97
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 95
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R131070.00</li>
-<li><strong>Paid:</strong> R74315.00</li>
+<li><strong>Total Owed:</strong> R128500.00</li>
+<li><strong>Paid:</strong> R71745.00</li>
 <li><strong>Still Owed:</strong> R56755.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 51 (51.00%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 12 (12.00%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (37.00%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 49 (50.00%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 12 (12.24%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (37.76%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -66,6 +66,8 @@ draft: false
 <li>20-04-01 Smith, Bennie  (reg number: 009)</li>
 <li>20-04-06 Georges, Allison  (reg number: 053)</li>
 <li>20-04-08 Poyo , Yvonne  Maureen (reg number: 049)</li>
+<li>20-04-16 Joubert, Marco (reg number: 099)</li>
+<li>20-04-16 van Wulven, Janine (reg number: 098)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -439,17 +441,6 @@ StillOwed
 <td>1340.00</td>
 <td>300.00</td>
 <td>1040.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>99</td>
-<td>Marco Joubert</td>
-<td>Tygerberg Hills</td>
-<td>Lion Marco Joubert</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
 </tr>
 
     
@@ -1107,17 +1098,6 @@ StillOwed
 <td>Deon van Wulven</td>
 <td>Tygerberg Hills</td>
 <td>LP Deon van Wulven</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>98</td>
-<td>Janine van Wulven</td>
-<td>Tygerberg Hills</td>
-<td>Lion Janine van Wulven</td>
 <td>1285.00</td>
 <td>1285.00</td>
 <td>0.00</td>
