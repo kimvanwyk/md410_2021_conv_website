@@ -17,18 +17,18 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 98</li>
-<li><strong>Lions</strong>: 94</li>
+<li><strong>Total</strong>: 96</li>
+<li><strong>Lions</strong>: 92</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 44</li>
-<li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Midrand (6 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 95
+<li><strong>Club With Most Attendees</strong>: Midrand (6 registrees)</li>
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 93
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 85
+<li><strong>Pins</strong>: 83
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 28
 <li><strong>PDG Breakfast</strong>: 27
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R128500.00</li>
-<li><strong>Paid:</strong> R71745.00</li>
-<li><strong>Still Owed:</strong> R56755.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 49 (50.00%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 12 (12.24%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (37.76%)</li>
+<li><strong>Total Owed:</strong> R125820.00</li>
+<li><strong>Paid:</strong> R69455.00</li>
+<li><strong>Still Owed:</strong> R56365.00</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 48 (50.00%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 11 (11.46%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (38.54%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -68,6 +68,8 @@ draft: false
 <li>20-04-08 Poyo , Yvonne  Maureen (reg number: 049)</li>
 <li>20-04-16 Joubert, Marco (reg number: 099)</li>
 <li>20-04-16 van Wulven, Janine (reg number: 098)</li>
+<li>20-04-21 Moses, Brian (reg number: 069)</li>
+<li>20-04-21 Tuckett, Gail  (reg number: 047)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -620,17 +622,6 @@ StillOwed
 </tr>
 
     
-<tr>
-<td>69</td>
-<td>Brian Moses</td>
-<td>Cape Of Good Hope</td>
-<td>LP Brian Moses</td>
-<td>1340.00</td>
-<td>950.00</td>
-<td>390.00</td>
-</tr>
-
-    
 <tr style="background-color: yellow">
 <td>71</td>
 <td>Alain Moulounda</td>
@@ -957,17 +948,6 @@ StillOwed
 <td>Alistair Tuckett</td>
 <td>1450.00</td>
 <td>1450.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>47</td>
-<td>Gail Tuckett</td>
-<td>Roodepoort Clearwater Cyber</td>
-<td>Lion Gail Tuckett</td>
-<td>1340.00</td>
-<td>1340.00</td>
 <td>0.00</td>
 </tr>
 
