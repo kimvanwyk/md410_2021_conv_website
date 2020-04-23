@@ -17,13 +17,13 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 96</li>
-<li><strong>Lions</strong>: 92</li>
+<li><strong>Total</strong>: 94</li>
+<li><strong>Lions</strong>: 90</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 44</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (6 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 93
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 91
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
@@ -31,20 +31,20 @@ draft: false
 <li><strong>Pins</strong>: 83
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 28
-<li><strong>PDG Breakfast</strong>: 27
+<li><strong>PDG Breakfast</strong>: 26
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 3
-<li><strong>Sight Seeing</strong>: 11
-<li><strong>Service Project</strong>: 20
+<li><strong>Sight Seeing</strong>: 10
+<li><strong>Service Project</strong>: 19
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R125820.00</li>
-<li><strong>Paid:</strong> R69455.00</li>
+<li><strong>Total Owed:</strong> R123250.00</li>
+<li><strong>Paid:</strong> R66885.00</li>
 <li><strong>Still Owed:</strong> R56365.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 48 (50.00%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 11 (11.46%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (38.54%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 46 (48.94%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 11 (11.70%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (39.36%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -70,6 +70,8 @@ draft: false
 <li>20-04-16 van Wulven, Janine (reg number: 098)</li>
 <li>20-04-21 Moses, Brian (reg number: 069)</li>
 <li>20-04-21 Tuckett, Gail  (reg number: 047)</li>
+<li>20-04-23 Van Wulven, Jeannie (reg number: 102)</li>
+<li>20-04-23 van Wulven, Deon (reg number: 082)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -974,17 +976,6 @@ StillOwed
 </tr>
 
     
-<tr style="background-color: lightgreen">
-<td>102</td>
-<td>Jeannie Van Wulven</td>
-<td>Tygerberg Hills</td>
-<td>Jeannie van Wulven</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
-</tr>
-
-    
 <tr style="background-color: yellow">
 <td>31</td>
 <td>Joyce Wilcocks</td>
@@ -1067,17 +1058,6 @@ StillOwed
 <td>Sandy van Heerden</td>
 <td>Wilro Park</td>
 <td>DC Sandy van Heerden</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>82</td>
-<td>Deon van Wulven</td>
-<td>Tygerberg Hills</td>
-<td>LP Deon van Wulven</td>
 <td>1285.00</td>
 <td>1285.00</td>
 <td>0.00</td>
