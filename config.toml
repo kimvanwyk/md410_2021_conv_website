@@ -140,6 +140,12 @@ unsafe= true
     name = "Postponement of the MD410 2020 Convention"
     url = "news/postponement"
     parent = "news"
+    weight = 2
+
+[[menu.main]]
+    name = "Cancellation of the MD410 2020 Convention"
+    url = "news/cancellation"
+    parent = "news"
     weight = 1
 
 # [[menu.main]]

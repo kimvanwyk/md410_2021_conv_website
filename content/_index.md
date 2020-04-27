@@ -4,17 +4,15 @@ date: 2019-07-14T16:19:07+02:00
 draft: false
 ---
 
-<center><h2>June 2020</h2></center>
+<center><h3>The 2020 Multiple District 410 2020 Convention has been cancelled due to COVID-19 - see <a href="/news/cancellation">here for details</a>.</h3><center>
 
-<center><h3>The 2020 Multiple District 410 2020 Convention has been postponed until June 2020 - see <a href="/news/postponement">here for details</a>.</h3><center>
+Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2020 Convention website, which should have been held at the [Riverside Hotel](/venue) in eThekwini, KwaZulu-Natal.
 
-Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2020 Convention website, coming up in June 2020 at the [Riverside Hotel](/venue) in eThekwini, KwaZulu-Natal.
-
-<form action="/registration">
-    <center>
-        <button style="height:100px; width:400px" type="button"><h3>Register Here</h3></button>
-    </center>
-</form>
+<!-- <form action="/registration"> -->
+<!--     <center> -->
+<!--         <button style="height:100px; width:400px" type="button"><h3>Register Here</h3></button> -->
+<!--     </center> -->
+<!-- </form> -->
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 <!-- <script src="/js/countdown.js"></script> -->
