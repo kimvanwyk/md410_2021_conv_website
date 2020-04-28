@@ -17,34 +17,34 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 94</li>
-<li><strong>Lions</strong>: 90</li>
+<li><strong>Total</strong>: 92</li>
+<li><strong>Lions</strong>: 88</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 44</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (6 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 91
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 89
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 83
+<li><strong>Pins</strong>: 81
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 28
-<li><strong>PDG Breakfast</strong>: 26
+<li><strong>MJF Lunch</strong>: 25
+<li><strong>PDG Breakfast</strong>: 24
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 3
-<li><strong>Sight Seeing</strong>: 10
-<li><strong>Service Project</strong>: 19
+<li><strong>Sight Seeing</strong>: 11
+<li><strong>Service Project</strong>: 18
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R123250.00</li>
-<li><strong>Paid:</strong> R66885.00</li>
-<li><strong>Still Owed:</strong> R56365.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 46 (48.94%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 11 (11.70%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 37 (39.36%)</li>
+<li><strong>Total Owed:</strong> R120570.00</li>
+<li><strong>Paid:</strong> R62920.00</li>
+<li><strong>Still Owed:</strong> R57650.00</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 43 (46.74%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 11 (11.96%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (41.30%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -72,6 +72,9 @@ draft: false
 <li>20-04-21 Tuckett, Gail  (reg number: 047)</li>
 <li>20-04-23 Van Wulven, Jeannie (reg number: 102)</li>
 <li>20-04-23 van Wulven, Deon (reg number: 082)</li>
+<li>20-04-28 Du Plooy, Ivan  (reg number: 100)</li>
+<li>20-04-28 Du Plooy, Peggy (reg number: 101)</li>
+<li>20-04-28 Meltzer, Mark  (reg number: 041)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -126,6 +129,17 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
+</tr>
+
+    
+<tr style="background-color: yellow">
+<td>131</td>
+<td>Tayebwa Smith Bamwesigye</td>
+<td>Butterworth</td>
+<td>Tayebwa Smith Bamwesigye</td>
+<td>1285.00</td>
+<td>0.00</td>
+<td>1285.00</td>
 </tr>
 
     
@@ -202,28 +216,6 @@ StillOwed
 <td>Lynne Christians</td>
 <td>1340.00</td>
 <td>1340.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>100</td>
-<td>Ivan Du Plooy</td>
-<td>Krugersdorp</td>
-<td>PDG Ivan du Plooy</td>
-<td>1340.00</td>
-<td>1340.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>101</td>
-<td>Peggy Du Plooy</td>
-<td>Krugersdorp</td>
-<td>IPDG Peggy du Plooy</td>
-<td>1285.00</td>
-<td>1285.00</td>
 <td>0.00</td>
 </tr>
 
@@ -563,17 +555,6 @@ StillOwed
 <td>Lance Maytham</td>
 <td>Bredasdorp</td>
 <td>PDG Lance Maytham</td>
-<td>1340.00</td>
-<td>1340.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>41</td>
-<td>Mark Meltzer</td>
-<td>The Wilds</td>
-<td>Mark Meltzer</td>
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
