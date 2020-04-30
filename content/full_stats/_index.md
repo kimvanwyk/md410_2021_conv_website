@@ -17,21 +17,21 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 92</li>
-<li><strong>Lions</strong>: 88</li>
+<li><strong>Total</strong>: 91</li>
+<li><strong>Lions</strong>: 87</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 44</li>
+<li><strong>Number of Clubs</strong>: 43</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (6 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 89
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 88
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 81
+<li><strong>Pins</strong>: 80
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 25
-<li><strong>PDG Breakfast</strong>: 24
+<li><strong>MJF Lunch</strong>: 24
+<li><strong>PDG Breakfast</strong>: 23
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 3
 <li><strong>Sight Seeing</strong>: 11
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R120570.00</li>
-<li><strong>Paid:</strong> R62920.00</li>
-<li><strong>Still Owed:</strong> R57650.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 43 (46.74%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 11 (11.96%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (41.30%)</li>
+<li><strong>Total Owed:</strong> R119230.00</li>
+<li><strong>Paid:</strong> R61920.00</li>
+<li><strong>Still Owed:</strong> R57310.00</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 43 (47.25%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 10 (10.99%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (41.76%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -75,6 +75,7 @@ draft: false
 <li>20-04-28 Du Plooy, Ivan  (reg number: 100)</li>
 <li>20-04-28 Du Plooy, Peggy (reg number: 101)</li>
 <li>20-04-28 Meltzer, Mark  (reg number: 041)</li>
+<li>20-04-30 Botha, Lyn (reg number: 087)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -173,17 +174,6 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
-</tr>
-
-    
-<tr>
-<td>87</td>
-<td>Lyn Botha</td>
-<td>Cowies Hill</td>
-<td>Lyn Botha</td>
-<td>1340.00</td>
-<td>1000.00</td>
-<td>340.00</td>
 </tr>
 
     
