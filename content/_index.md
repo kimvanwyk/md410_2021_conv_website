@@ -4,7 +4,7 @@ date: 2019-07-14T16:19:07+02:00
 draft: false
 ---
 
-<center><h3>The 2020 Multiple District 410 2020 Convention has been cancelled due to COVID-19 - see <a href="/news/cancellation">here for details</a>.</h3><center>
+<center><h3>The 2020 Multiple District 410 2020 Convention has been cancelled due to COVID-19 - see <a href="/news/cancellation">here for details</a> and <a href="/news/cc_thanks">here</a> for a letter of thanks to all Lions from CC Jacqui Hocking.</h3><center> 
 
 Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2020 Convention website, which should have been held at the [Riverside Hotel](/venue) in eThekwini, KwaZulu-Natal.
 

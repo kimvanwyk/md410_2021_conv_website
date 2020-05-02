@@ -148,6 +148,12 @@ unsafe= true
     parent = "news"
     weight = 1
 
+[[menu.main]]
+    name = "Letter of Thanks From CC Jacqui"
+    url = "news/cc_thanks"
+    parent = "news"
+    weight = 1
+
 # [[menu.main]]
 #     name = "International Guest"
 #     url = "guest"
