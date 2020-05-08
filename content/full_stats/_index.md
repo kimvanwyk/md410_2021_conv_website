@@ -17,21 +17,21 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 84</li>
-<li><strong>Lions</strong>: 80</li>
+<li><strong>Total</strong>: 83</li>
+<li><strong>Lions</strong>: 79</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 43</li>
 <li><strong>Club With Most Attendees</strong>: Midrand (6 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 81
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 80
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 75
+<li><strong>Pins</strong>: 72
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 24
-<li><strong>PDG Breakfast</strong>: 19
+<li><strong>MJF Lunch</strong>: 23
+<li><strong>PDG Breakfast</strong>: 18
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 11
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R109960.00</li>
-<li><strong>Paid:</strong> R52650.00</li>
+<li><strong>Total Owed:</strong> R108510.00</li>
+<li><strong>Paid:</strong> R51200.00</li>
 <li><strong>Still Owed:</strong> R57310.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 36 (42.86%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 10 (11.90%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (45.24%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 35 (42.17%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 10 (12.05%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (45.78%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -83,6 +83,7 @@ draft: false
 <li>20-05-05 Flanagan, Julie (reg number: 025)</li>
 <li>20-05-05 van Wyk, Kim (reg number: 023)</li>
 <li>20-05-05 van Wyk, Vicki (reg number: 022)</li>
+<li>20-05-08 Nel, Tillie (reg number: 090)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -565,17 +566,6 @@ StillOwed
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>90</td>
-<td>Tillie Nel</td>
-<td>Eden</td>
-<td>PDG Tillie Nel </td>
-<td>1450.00</td>
-<td>1450.00</td>
-<td>0.00</td>
 </tr>
 
     
