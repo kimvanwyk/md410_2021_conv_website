@@ -17,13 +17,13 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 83</li>
-<li><strong>Lions</strong>: 79</li>
+<li><strong>Total</strong>: 81</li>
+<li><strong>Lions</strong>: 77</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 43</li>
-<li><strong>Club With Most Attendees</strong>: Midrand (6 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 80
+<li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Wilro Park (5 registrees)</li>
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 78
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
@@ -31,7 +31,7 @@ draft: false
 <li><strong>Pins</strong>: 72
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 23
-<li><strong>PDG Breakfast</strong>: 18
+<li><strong>PDG Breakfast</strong>: 16
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 11
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R108510.00</li>
-<li><strong>Paid:</strong> R51200.00</li>
-<li><strong>Still Owed:</strong> R57310.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 35 (42.17%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 10 (12.05%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (45.78%)</li>
+<li><strong>Total Owed:</strong> R105940.00</li>
+<li><strong>Paid:</strong> R49615.00</li>
+<li><strong>Still Owed:</strong> R56325.00</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 35 (43.21%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 8 (9.88%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (46.91%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -84,6 +84,8 @@ draft: false
 <li>20-05-05 van Wyk, Kim (reg number: 023)</li>
 <li>20-05-05 van Wyk, Vicki (reg number: 022)</li>
 <li>20-05-08 Nel, Tillie (reg number: 090)</li>
+<li>20-05-13 Theron, Moira (reg number: 061)</li>
+<li>20-05-13 Theron, Pierre (reg number: 060)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -797,28 +799,6 @@ StillOwed
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
-</tr>
-
-    
-<tr>
-<td>60</td>
-<td>Pierre Theron</td>
-<td>Midrand</td>
-<td>PDG Pierre Theron</td>
-<td>1285.00</td>
-<td>792.50</td>
-<td>492.50</td>
-</tr>
-
-    
-<tr>
-<td>61</td>
-<td>Moira Theron</td>
-<td>Midrand</td>
-<td>PDG Moira Theron</td>
-<td>1285.00</td>
-<td>792.50</td>
-<td>492.50</td>
 </tr>
 
     
