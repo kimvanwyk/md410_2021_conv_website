@@ -17,34 +17,34 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 81</li>
-<li><strong>Lions</strong>: 77</li>
+<li><strong>Total</strong>: 80</li>
+<li><strong>Lions</strong>: 76</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
 <li><strong>Number of Clubs</strong>: 43</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Wilro Park (5 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 78
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 77
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 72
+<li><strong>Pins</strong>: 71
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 23
 <li><strong>PDG Breakfast</strong>: 16
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 11
-<li><strong>Service Project</strong>: 13
+<li><strong>Service Project</strong>: 12
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R105940.00</li>
-<li><strong>Paid:</strong> R49615.00</li>
+<li><strong>Total Owed:</strong> R104600.00</li>
+<li><strong>Paid:</strong> R48275.00</li>
 <li><strong>Still Owed:</strong> R56325.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 35 (43.21%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 8 (9.88%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (46.91%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 34 (42.50%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 8 (10.00%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (47.50%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -86,6 +86,7 @@ draft: false
 <li>20-05-08 Nel, Tillie (reg number: 090)</li>
 <li>20-05-13 Theron, Moira (reg number: 061)</li>
 <li>20-05-13 Theron, Pierre (reg number: 060)</li>
+<li>20-05-15 Anderson, Linda (reg number: 089)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -94,7 +95,6 @@ draft: false
 <li>Halal</li>
 <li>No Lamb</li>
 <li>No fish or mushrooms</li>
-<li>No fish please </li>
 <li>No gluten, starch or sugar (including fruit) No tea or coffee.</li>
 <li>no seafood</li>
 </ul>
@@ -131,17 +131,6 @@ StillOwed
 </thead>
 <tbody>
 
-<tr style="background-color: lightgreen">
-<td>89</td>
-<td>Linda Anderson</td>
-<td>George</td>
-<td>Linda Anderson</td>
-<td>1340.00</td>
-<td>1340.00</td>
-<td>0.00</td>
-</tr>
-
-    
 <tr style="background-color: yellow">
 <td>131</td>
 <td>Tayebwa Smith Bamwesigye</td>
