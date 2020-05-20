@@ -17,13 +17,13 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 80</li>
-<li><strong>Lions</strong>: 76</li>
+<li><strong>Total</strong>: 78</li>
+<li><strong>Lions</strong>: 74</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 43</li>
+<li><strong>Number of Clubs</strong>: 42</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Wilro Park (5 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 77
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 75
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
@@ -31,7 +31,7 @@ draft: false
 <li><strong>Pins</strong>: 71
 </ul><li><strong>Extra Activities</strong></li><ul>
 <li><strong>MJF Lunch</strong>: 23
-<li><strong>PDG Breakfast</strong>: 16
+<li><strong>PDG Breakfast</strong>: 15
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 2
 <li><strong>Sight Seeing</strong>: 11
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R104600.00</li>
-<li><strong>Paid:</strong> R48275.00</li>
+<li><strong>Total Owed:</strong> R102030.00</li>
+<li><strong>Paid:</strong> R45705.00</li>
 <li><strong>Still Owed:</strong> R56325.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 34 (42.50%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 8 (10.00%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (47.50%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 32 (41.03%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 8 (10.26%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (48.72%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -87,6 +87,8 @@ draft: false
 <li>20-05-13 Theron, Moira (reg number: 061)</li>
 <li>20-05-13 Theron, Pierre (reg number: 060)</li>
 <li>20-05-15 Anderson, Linda (reg number: 089)</li>
+<li>20-05-20 King, Ian (reg number: 124)</li>
+<li>20-05-20 King, Sandy (reg number: 125)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -414,28 +416,6 @@ StillOwed
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>124</td>
-<td>Ian King</td>
-<td>Alberton</td>
-<td>PDG Ian King</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>125</td>
-<td>Sandy King</td>
-<td>Alberton</td>
-<td>Lion Sandy</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
 </tr>
 
     
