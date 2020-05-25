@@ -17,20 +17,20 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 78</li>
-<li><strong>Lions</strong>: 74</li>
+<li><strong>Total</strong>: 77</li>
+<li><strong>Lions</strong>: 73</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 42</li>
+<li><strong>Number of Clubs</strong>: 41</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Wilro Park (5 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 75
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 74
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
 <li><strong>Pins</strong>: 71
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 23
+<li><strong>MJF Lunch</strong>: 22
 <li><strong>PDG Breakfast</strong>: 15
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 2
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R102030.00</li>
-<li><strong>Paid:</strong> R45705.00</li>
+<li><strong>Total Owed:</strong> R100745.00</li>
+<li><strong>Paid:</strong> R44420.00</li>
 <li><strong>Still Owed:</strong> R56325.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 32 (41.03%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 8 (10.26%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (48.72%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 31 (40.26%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 8 (10.39%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (49.35%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -89,6 +89,7 @@ draft: false
 <li>20-05-15 Anderson, Linda (reg number: 089)</li>
 <li>20-05-20 King, Ian (reg number: 124)</li>
 <li>20-05-20 King, Sandy (reg number: 125)</li>
+<li>20-05-25 Human , Leslie  (reg number: 107)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -347,17 +348,6 @@ StillOwed
 <td>Cliff Hocking</td>
 <td>Midrand</td>
 <td>PCC Cliff Hocking</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>107</td>
-<td>Leslie Human</td>
-<td>East London Port Rex</td>
-<td>FVDGE Leslie Human </td>
 <td>1285.00</td>
 <td>1285.00</td>
 <td>0.00</td>
