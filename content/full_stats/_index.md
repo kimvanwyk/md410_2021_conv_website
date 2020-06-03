@@ -17,20 +17,20 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 75</li>
-<li><strong>Lions</strong>: 71</li>
+<li><strong>Total</strong>: 73</li>
+<li><strong>Lions</strong>: 69</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 40</li>
+<li><strong>Number of Clubs</strong>: 39</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Wilro Park (5 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 72
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 70
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 69
+<li><strong>Pins</strong>: 67
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 22
+<li><strong>MJF Lunch</strong>: 21
 <li><strong>PDG Breakfast</strong>: 15
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 2
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R98065.00</li>
-<li><strong>Paid:</strong> R42630.00</li>
+<li><strong>Total Owed:</strong> R95385.00</li>
+<li><strong>Paid:</strong> R39950.00</li>
 <li><strong>Still Owed:</strong> R55435.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 30 (40.00%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 7 (9.33%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (50.67%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 28 (38.36%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 7 (9.59%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (52.05%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -92,6 +92,8 @@ draft: false
 <li>20-05-25 Human , Leslie  (reg number: 107)</li>
 <li>20-06-02 Rossouw, Mark (reg number: 094)</li>
 <li>20-06-02 Jacobs, Jean (reg number: 097)</li>
+<li>20-06-03 Braga Borges, Jose (reg number: 037)</li>
+<li>20-06-03 van der Merwe, Martha Maria (reg number: 038)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -185,17 +187,6 @@ StillOwed
 <td>Annette Bothma</td>
 <td>Fish Hoek</td>
 <td>Annette</td>
-<td>1340.00</td>
-<td>1340.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>37</td>
-<td>Jose Braga Borges</td>
-<td>Malmesbury</td>
-<td>1st VE Jose Braga Borges</td>
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
@@ -900,17 +891,6 @@ StillOwed
 <td>Lindie van Wyk</td>
 <td>Pretoria Jakaranda</td>
 <td>Lindie</td>
-<td>1340.00</td>
-<td>1340.00</td>
-<td>0.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>38</td>
-<td>Martha Maria van der Merwe</td>
-<td>Malmesbury</td>
-<td>LP Marina van der Merwe</td>
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
