@@ -14,6 +14,9 @@ psycopg2-binary = "^2.8"
 matplotlib = "^3.1.2"
 pandas = "^0.25.3"
 black = "^19.10b0"
+requests = "^2.23.0"
+attrs = "^19.3.0"
+dateparser = "^0.7.6"
 
 [tool.poetry.dev-dependencies]
 ptpython = "^2.0"
