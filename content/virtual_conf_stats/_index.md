@@ -92,6 +92,6 @@ Club
 
 </tbody>
 </table>
-
+<div style="text-align:center"><img src="/img/virtual_registrations_over_time.png"></div>
 </body>
 </html>

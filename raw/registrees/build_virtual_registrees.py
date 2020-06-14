@@ -1,8 +1,9 @@
 import attr
+import datetime
 
-# import plot
 
 import gotowebinar_api
+import plot
 
 api = gotowebinar_api.Api()
 
@@ -64,8 +65,8 @@ with open(URL_PATH, "w") as fh:
         fh.write(f"<tr><td>{name}</td><td>{club}</td></tr>\n")
     fh.write(TABLE_FOOTER)
 
-    # reg_dates = [r.timestamp for r in self.registrees]
-    # reg_dates.sort()
-    # plot.plot_registration_dates(reg_dates, "../../static/img/registrations_over_time.png")
-    # fh.write('<div style="text-align:center"><img src="/img/registrations_over_time.png"></div>')
+    reg_dates = [datetime.datetime.fromisoformat(d["date"]).date() for d in api.registrees.values()]
+    reg_dates.sort()
+    plot.plot_registration_dates(reg_dates, "../../static/img/virtual_registrations_over_time.png")
+    fh.write('<div style="text-align:center"><img src="/img/virtual_registrations_over_time.png"></div>')
     fh.write(FOOTER)
