@@ -60,7 +60,7 @@ with open(URL_PATH, "w") as fh:
 
     fh.write(TABLE_HEADER)
     lines = [(f"{d['last_name']}, {d['first_name']}", d["club"]) for d in api.registrees.values()]
-    lines.sort()
+    lines.sort(key=lambda x: x[0].lower())
     for (name, club) in lines:
         fh.write(f"<tr><td>{name}</td><td>{club}</td></tr>\n")
     fh.write(TABLE_FOOTER)

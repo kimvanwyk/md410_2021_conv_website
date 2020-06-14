@@ -44,8 +44,8 @@ Club
 <tr><td>Hocking, Cliff</td><td>Midrand 410E</td></tr>
 <tr><td>Hocking, Jacqui</td><td>Midrand</td></tr>
 <tr><td>Human, Leslie</td><td>East London Port Rex</td></tr>
-<tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
+<tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
 <tr><td>Jonathan, Grant</td><td>Gordon's Bay</td></tr>
 <tr><td>Kahn, Michelle</td><td>Sea Point</td></tr>
 <tr><td>Karshagen, Veronica Nicolene</td><td>King Williams Town</td></tr>
@@ -69,6 +69,7 @@ Club
 <tr><td>Smit, Herman</td><td>Swellendam Lions Club</td></tr>
 <tr><td>Smit, Sue</td><td>Centurion</td></tr>
 <tr><td>Sochen, Diana</td><td>Sea Point</td></tr>
+<tr><td>stuppel, malcolm</td><td>de grendel</td></tr>
 <tr><td>Sturges, Trevor</td><td>Lions Club of Midrand</td></tr>
 <tr><td>Theron, Pierre</td><td>Midrand</td></tr>
 <tr><td>Tuckett, Alistair</td><td>Roodepoort Clearwater Cyber Club</td></tr>
@@ -76,19 +77,18 @@ Club
 <tr><td>Tuckett, Rowan</td><td>Roodepoort Clearwater Cyber</td></tr>
 <tr><td>Tyler, Natascha</td><td>Kensington</td></tr>
 <tr><td>Uchytil, Jiri</td><td>Alberton</td></tr>
-<tr><td>VAN DER MERWE, PAT</td><td>PORT REX LIONS CLUB</td></tr>
 <tr><td>Valadao, Tracy</td><td>Midrand</td></tr>
+<tr><td>VAN DER MERWE, PAT</td><td>PORT REX LIONS CLUB</td></tr>
 <tr><td>Van der Schyf, Yolandi</td><td>Midrand</td></tr>
-<tr><td>Wangari, Joyce</td><td>Eden</td></tr>
-<tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
-<tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
-<tr><td>Young, Judy</td><td>Durbanville</td></tr>
-<tr><td>stuppel, malcolm</td><td>de grendel</td></tr>
 <tr><td>van Heerden, Sandy</td><td>WILRO PARK</td></tr>
 <tr><td>van Heerden, Sydney</td><td>WILRO PARK</td></tr>
 <tr><td>van Wyk, Kim</td><td>North Durban</td></tr>
 <tr><td>van Wyk, Lindie</td><td>Pretoria Jakaranda</td></tr>
 <tr><td>von der Decken, Brian</td><td>King William's Town</td></tr>
+<tr><td>Wangari, Joyce</td><td>Eden</td></tr>
+<tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
+<tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
+<tr><td>Young, Judy</td><td>Durbanville</td></tr>
 
 </tbody>
 </table>
