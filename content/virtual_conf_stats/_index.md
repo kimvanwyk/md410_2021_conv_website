@@ -17,7 +17,7 @@ draft: false
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong>: 58</li>
-</ul>
+</ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
 <thead>

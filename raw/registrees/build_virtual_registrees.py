@@ -7,6 +7,7 @@ import plot
 
 api = gotowebinar_api.Api()
 
+CSV_PATH = "../../static/docs/virtual_convention_stats.csv"
 URL_PATH = "../../content/virtual_conf_stats/_index.md"
 HEADER = """---
 title: "Virtual Convention Registration Stats"
@@ -51,12 +52,17 @@ FOOTER = """
 </html>
 """
 
+with open(CSV_PATH, "w") as fh:
+    fh.write("Last Name;First Name;Club Name;Registration Date\n")
+    for d in api.registrees.values():
+        fh.write(f"{d['last_name']};{d['first_name']};{d['club']};{d['date']}\n")
 
 with open(URL_PATH, "w") as fh:
     fh.write(HEADER)
     fh.write("<ul>")
     fh.write(f"<li><strong>Number of Registrees</strong>: {len(api.registrees)}</li>\n")
     fh.write("</ul>")
+    fh.write('<a href="/docs/virtual_convention_stats.csv">Download registration details here</a>')
 
     fh.write(TABLE_HEADER)
     lines = [(f"{d['last_name']}, {d['first_name']}", d["club"]) for d in api.registrees.values()]
