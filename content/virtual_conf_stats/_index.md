@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 67</li>
+<ul><li><strong>Number of Registrees</strong>: 69</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -33,6 +33,7 @@ Club
 <tbody>
 <tr><td>Abramsohn, Alan</td><td>Milnerton</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
+<tr><td>Bull, Christopher (Chris)</td><td>Johannesburg - The Wilds</td></tr>
 <tr><td>Carter, Shaun</td><td>Vereeniging</td></tr>
 <tr><td>Charles, Sue</td><td>Tokai</td></tr>
 <tr><td>Cottle, Sharon</td><td>Groote Schuur</td></tr>
@@ -60,6 +61,7 @@ Club
 <tr><td>Lakay, Bevil</td><td>Mitchell's Plain</td></tr>
 <tr><td>Lang, James</td><td>The Lions Club of Gordon's Bay</td></tr>
 <tr><td>Lang, Paula</td><td>Gordons Bay</td></tr>
+<tr><td>Love, Dee</td><td>Cowies Hill</td></tr>
 <tr><td>Marchant, Richard</td><td>The Wilds - Johannesburg</td></tr>
 <tr><td>Mare, Beaulieu</td><td>Benoni Lakes</td></tr>
 <tr><td>Mare, Nicholas</td><td>Benoni Lakes Lions</td></tr>
