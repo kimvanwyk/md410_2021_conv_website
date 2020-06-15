@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 69</li>
+<ul><li><strong>Number of Registrees</strong>: 70</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -37,6 +37,7 @@ Club
 <tr><td>Carter, Shaun</td><td>Vereeniging</td></tr>
 <tr><td>Charles, Sue</td><td>Tokai</td></tr>
 <tr><td>Cottle, Sharon</td><td>Groote Schuur</td></tr>
+<tr><td>Daniel, Peter</td><td>Gordon's Bay</td></tr>
 <tr><td>Esdaile, Michael</td><td>Manzini</td></tr>
 <tr><td>Ewers, Aidan</td><td>Newlands</td></tr>
 <tr><td>Flanagan, Charlie</td><td>Tokai</td></tr>
