@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 70</li>
+<ul><li><strong>Number of Registrees</strong>: 72</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -66,12 +66,14 @@ Club
 <tr><td>Marchant, Richard</td><td>The Wilds - Johannesburg</td></tr>
 <tr><td>Mare, Beaulieu</td><td>Benoni Lakes</td></tr>
 <tr><td>Mare, Nicholas</td><td>Benoni Lakes Lions</td></tr>
+<tr><td>MAYTHAM, LANCE</td><td>BREDASDORP</td></tr>
 <tr><td>Meltzer, Mark</td><td>THE WILDS</td></tr>
 <tr><td>Meyer, Denis</td><td>Port Shepstone</td></tr>
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
 <tr><td>Nulliah, Ramona</td><td>Durban Host</td></tr>
 <tr><td>Olivier, Debra</td><td>Sedgefield</td></tr>
+<tr><td>Pantoleon, IPP</td><td>Vereeniging Lions Club</td></tr>
 <tr><td>Polkinghorne, Gavin</td><td>Kensington</td></tr>
 <tr><td>Polkinghorne, Tracey</td><td>Kensington</td></tr>
 <tr><td>PORTEOUS, BRIAN</td><td>HIBBERDENE - 57333</td></tr>
