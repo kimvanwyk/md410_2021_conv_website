@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 99</li>
+<ul><li><strong>Number of Registrees</strong>: 101</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -52,6 +52,7 @@ Club
 <tr><td>graham, mike</td><td>Nelspruit</td></tr>
 <tr><td>Graham, Valerie</td><td>Nelspruit</td></tr>
 <tr><td>Grater, Viv</td><td>Newlands</td></tr>
+<tr><td>Griffith, David</td><td>The Wilds</td></tr>
 <tr><td>Haywood, Barbara</td><td>Eden 410W</td></tr>
 <tr><td>Herzfeld, Evelyn</td><td>Edenvale</td></tr>
 <tr><td>Hobbs, Avril</td><td>North Durban</td></tr>
@@ -128,6 +129,7 @@ Club
 <tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
 <tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
+<tr><td>Wilson, Jim</td><td>Alberton</td></tr>
 <tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
 <tr><td>Young, Judy</td><td>Durbanville</td></tr>
 
