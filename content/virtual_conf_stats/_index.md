@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 82</li>
+<ul><li><strong>Number of Registrees</strong>: 84</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -75,6 +75,7 @@ Club
 <tr><td>Meyer, Denis</td><td>Port Shepstone</td></tr>
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
+<tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
 <tr><td>Murray, Gary</td><td>Vereeniging</td></tr>
 <tr><td>Murray, Suzanne</td><td>Vereeniging Lions Club</td></tr>
 <tr><td>Newlands, Mike</td><td>Port Alfred</td></tr>
@@ -86,6 +87,7 @@ Club
 <tr><td>PORTEOUS, BRIAN</td><td>HIBBERDENE - 57333</td></tr>
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
 <tr><td>Sabatier, Rodney</td><td>Letaba Tzaneen Lions Club</td></tr>
+<tr><td>Sampie, Sharon</td><td>BERGVLIET LC</td></tr>
 <tr><td>Searle, Gloria Ann</td><td>Kouga</td></tr>
 <tr><td>Seaward, Roy</td><td>Alberton</td></tr>
 <tr><td>Shone, David</td><td>Cowies HIll</td></tr>
