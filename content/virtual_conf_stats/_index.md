@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 98</li>
+<ul><li><strong>Number of Registrees</strong>: 99</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -33,6 +33,7 @@ Club
 <tbody>
 <tr><td>Abramsohn, Alan</td><td>Milnerton</td></tr>
 <tr><td>Abramsohn, Janine</td><td>Sea Point</td></tr>
+<tr><td>Baumgarten, Linda</td><td>Sea Point</td></tr>
 <tr><td>Botha, Lynette</td><td>Cowies Hill</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
 <tr><td>Bull, Christopher (Chris)</td><td>Johannesburg - The Wilds</td></tr>
