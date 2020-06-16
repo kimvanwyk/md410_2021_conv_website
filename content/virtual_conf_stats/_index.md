@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 84</li>
+<ul><li><strong>Number of Registrees</strong>: 88</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -32,6 +32,7 @@ Club
 </thead>
 <tbody>
 <tr><td>Abramsohn, Alan</td><td>Milnerton</td></tr>
+<tr><td>Abramsohn, Janine</td><td>Sea Point</td></tr>
 <tr><td>Botha, Lynette</td><td>Cowies Hill</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
 <tr><td>Bull, Christopher (Chris)</td><td>Johannesburg - The Wilds</td></tr>
@@ -47,6 +48,8 @@ Club
 <tr><td>Gabriel, Anastasia</td><td>Vereeniging</td></tr>
 <tr><td>Gabriel, Mervyn</td><td>Vereeniging</td></tr>
 <tr><td>Gerhard, Bernd</td><td>Wilro Park</td></tr>
+<tr><td>graham, mike</td><td>Nelspruit</td></tr>
+<tr><td>Graham, Valerie</td><td>Nelspruit</td></tr>
 <tr><td>Grater, Viv</td><td>Newlands</td></tr>
 <tr><td>Haywood, Barbara</td><td>Eden 410W</td></tr>
 <tr><td>Herzfeld, Evelyn</td><td>Edenvale</td></tr>
@@ -78,6 +81,7 @@ Club
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
 <tr><td>Murray, Gary</td><td>Vereeniging</td></tr>
 <tr><td>Murray, Suzanne</td><td>Vereeniging Lions Club</td></tr>
+<tr><td>Nel, Pieter</td><td>George</td></tr>
 <tr><td>Newlands, Mike</td><td>Port Alfred</td></tr>
 <tr><td>Nulliah, Ramona</td><td>Durban Host</td></tr>
 <tr><td>Olivier, Debra</td><td>Sedgefield</td></tr>
