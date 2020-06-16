@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 88</li>
+<ul><li><strong>Number of Registrees</strong>: 92</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -57,6 +57,7 @@ Club
 <tr><td>HOBBS, TREVOR</td><td>North Durban</td></tr>
 <tr><td>Hocking, Cliff</td><td>Midrand 410E</td></tr>
 <tr><td>Hocking, Jacqui</td><td>Midrand</td></tr>
+<tr><td>Houston, Elizabeth</td><td>Table View</td></tr>
 <tr><td>Human, Leslie</td><td>East London Port Rex</td></tr>
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
 <tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
@@ -74,6 +75,8 @@ Club
 <tr><td>Mare, Beaulieu</td><td>Benoni Lakes</td></tr>
 <tr><td>Mare, Nicholas</td><td>Benoni Lakes Lions</td></tr>
 <tr><td>MAYTHAM, LANCE</td><td>BREDASDORP</td></tr>
+<tr><td>McCullough, David</td><td>Benoni Lakes Lions Club</td></tr>
+<tr><td>McDonald, Rochelle</td><td>Vereeniging Lions Club</td></tr>
 <tr><td>Meltzer, Mark</td><td>THE WILDS</td></tr>
 <tr><td>Meyer, Denis</td><td>Port Shepstone</td></tr>
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
@@ -86,6 +89,7 @@ Club
 <tr><td>Nulliah, Ramona</td><td>Durban Host</td></tr>
 <tr><td>Olivier, Debra</td><td>Sedgefield</td></tr>
 <tr><td>Pantoleon, IPP</td><td>Vereeniging Lions Club</td></tr>
+<tr><td>Pillay, Priya</td><td>Lions East Coast</td></tr>
 <tr><td>Polkinghorne, Gavin</td><td>Kensington</td></tr>
 <tr><td>Polkinghorne, Tracey</td><td>Kensington</td></tr>
 <tr><td>PORTEOUS, BRIAN</td><td>HIBBERDENE - 57333</td></tr>
