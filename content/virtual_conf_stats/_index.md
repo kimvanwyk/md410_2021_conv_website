@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 95</li>
+<ul><li><strong>Number of Registrees</strong>: 98</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -58,6 +58,7 @@ Club
 <tr><td>Hocking, Cliff</td><td>Midrand 410E</td></tr>
 <tr><td>Hocking, Jacqui</td><td>Midrand</td></tr>
 <tr><td>Houston, Elizabeth</td><td>Table View</td></tr>
+<tr><td>Houston, John</td><td>Table View</td></tr>
 <tr><td>Human, Leslie</td><td>East London Port Rex</td></tr>
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
 <tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
@@ -65,6 +66,7 @@ Club
 <tr><td>Kahn, Michelle</td><td>Sea Point</td></tr>
 <tr><td>Karshagen, Veronica Nicolene</td><td>King Williams Town</td></tr>
 <tr><td>King, Ian</td><td>Alberton</td></tr>
+<tr><td>King, Sandy</td><td>Alberton</td></tr>
 <tr><td>Krüger, Zwaai</td><td>Sedgefield</td></tr>
 <tr><td>Kuni, Dylin</td><td>Table View</td></tr>
 <tr><td>Lakay, Bevil</td><td>Mitchell's Plain</td></tr>
@@ -122,6 +124,7 @@ Club
 <tr><td>van Wyk, Lindie</td><td>Pretoria Jakaranda</td></tr>
 <tr><td>Voges, Tinus</td><td>Alberton</td></tr>
 <tr><td>von der Decken, Brian</td><td>King William's Town</td></tr>
+<tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
 <tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
 <tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
