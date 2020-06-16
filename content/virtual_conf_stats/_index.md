@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 92</li>
+<ul><li><strong>Number of Registrees</strong>: 95</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -101,10 +101,12 @@ Club
 <tr><td>Shone, David</td><td>Cowies HIll</td></tr>
 <tr><td>Smit, Herman</td><td>Swellendam Lions Club</td></tr>
 <tr><td>Smit, Sue</td><td>Centurion</td></tr>
+<tr><td>SMITH, BENNIE</td><td>WELLINGTON</td></tr>
 <tr><td>SMYTH, JANINE</td><td>VEREENIGING</td></tr>
 <tr><td>Sochen, Diana</td><td>Sea Point</td></tr>
 <tr><td>stuppel, malcolm</td><td>de grendel</td></tr>
 <tr><td>Sturges, Trevor</td><td>Lions Club of Midrand</td></tr>
+<tr><td>Theron, Moira</td><td>Midrand</td></tr>
 <tr><td>Theron, Pierre</td><td>Midrand</td></tr>
 <tr><td>Tuckett, Alistair</td><td>Roodepoort Clearwater Cyber Club</td></tr>
 <tr><td>Tuckett, Gail</td><td>Roodepoort Clearwater Cyber</td></tr>
@@ -118,6 +120,7 @@ Club
 <tr><td>van Heerden, Sydney</td><td>WILRO PARK</td></tr>
 <tr><td>van Wyk, Kim</td><td>North Durban</td></tr>
 <tr><td>van Wyk, Lindie</td><td>Pretoria Jakaranda</td></tr>
+<tr><td>Voges, Tinus</td><td>Alberton</td></tr>
 <tr><td>von der Decken, Brian</td><td>King William's Town</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
 <tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
