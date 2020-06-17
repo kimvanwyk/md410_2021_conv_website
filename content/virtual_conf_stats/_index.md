@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 105</li>
+<ul><li><strong>Number of Registrees</strong>: 106</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -133,6 +133,7 @@ Club
 <tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
 <tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
+<tr><td>Wills, Geila</td><td>Cape Town</td></tr>
 <tr><td>Wilson, Jim</td><td>Alberton</td></tr>
 <tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
 <tr><td>Young, Judy</td><td>Durbanville</td></tr>
