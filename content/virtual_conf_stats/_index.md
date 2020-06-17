@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 102</li>
+<ul><li><strong>Number of Registrees</strong>: 104</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -113,6 +113,8 @@ Club
 <tr><td>Sturges, Trevor</td><td>Lions Club of Midrand</td></tr>
 <tr><td>Theron, Moira</td><td>Midrand</td></tr>
 <tr><td>Theron, Pierre</td><td>Midrand</td></tr>
+<tr><td>Toward, Helen</td><td>Kingsburgh</td></tr>
+<tr><td>Toward, Ken</td><td>Amanzimtoti</td></tr>
 <tr><td>Tuckett, Alistair</td><td>Roodepoort Clearwater Cyber Club</td></tr>
 <tr><td>Tuckett, Gail</td><td>Roodepoort Clearwater Cyber</td></tr>
 <tr><td>Tuckett, Rowan</td><td>Roodepoort Clearwater Cyber</td></tr>
