@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 108</li>
+<ul><li><strong>Number of Registrees</strong>: 109</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -72,6 +72,7 @@ Club
 <tr><td>King, Ian</td><td>Alberton</td></tr>
 <tr><td>King, Sandy</td><td>Alberton</td></tr>
 <tr><td>Krüger, Zwaai</td><td>Sedgefield</td></tr>
+<tr><td>kunfermann, ernst</td><td>durban north</td></tr>
 <tr><td>Kuni, Dylin</td><td>Table View</td></tr>
 <tr><td>Lakay, Bevil</td><td>Mitchell's Plain</td></tr>
 <tr><td>Lang, James</td><td>The Lions Club of Gordon's Bay</td></tr>
