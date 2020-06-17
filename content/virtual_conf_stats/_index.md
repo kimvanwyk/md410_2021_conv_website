@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 109</li>
+<ul><li><strong>Number of Registrees</strong>: 110</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -112,6 +112,7 @@ Club
 <tr><td>SMITH, BENNIE</td><td>WELLINGTON</td></tr>
 <tr><td>SMYTH, JANINE</td><td>VEREENIGING</td></tr>
 <tr><td>Sochen, Diana</td><td>Sea Point</td></tr>
+<tr><td>stier, RORY</td><td>NEWLANDS DEEP SOUTH</td></tr>
 <tr><td>stuppel, malcolm</td><td>de grendel</td></tr>
 <tr><td>Sturges, Trevor</td><td>Lions Club of Midrand</td></tr>
 <tr><td>Theron, Moira</td><td>Midrand</td></tr>
