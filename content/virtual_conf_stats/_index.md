@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 106</li>
+<ul><li><strong>Number of Registrees</strong>: 107</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -77,6 +77,7 @@ Club
 <tr><td>Lang, James</td><td>The Lions Club of Gordon's Bay</td></tr>
 <tr><td>Lang, Paula</td><td>Gordons Bay</td></tr>
 <tr><td>Love, Dee</td><td>Cowies Hill</td></tr>
+<tr><td>MACROBERT, PAM</td><td>LIONS CLUB OF GROOTE SCHUUR</td></tr>
 <tr><td>Marchant, Richard</td><td>The Wilds - Johannesburg</td></tr>
 <tr><td>Mare, Beaulieu</td><td>Benoni Lakes</td></tr>
 <tr><td>Mare, Nicholas</td><td>Benoni Lakes Lions</td></tr>
