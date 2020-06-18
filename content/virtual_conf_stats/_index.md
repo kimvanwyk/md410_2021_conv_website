@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 114</li>
+<ul><li><strong>Number of Registrees</strong>: 115</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -67,6 +67,7 @@ Club
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
 <tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
 <tr><td>Jonathan, Grant</td><td>Gordon's Bay</td></tr>
+<tr><td>Jubelin, Charlotte</td><td>CAPE OF GOOD HOPE</td></tr>
 <tr><td>Kahn, Michelle</td><td>Sea Point</td></tr>
 <tr><td>Karshagen, Veronica Nicolene</td><td>King Williams Town</td></tr>
 <tr><td>King, Ian</td><td>Alberton</td></tr>
