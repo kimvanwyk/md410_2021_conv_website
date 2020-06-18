@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 123</li>
+<ul><li><strong>Number of Registrees</strong>: 126</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -56,6 +56,7 @@ Club
 <tr><td>Graham, Valerie</td><td>Nelspruit</td></tr>
 <tr><td>Grater, Viv</td><td>Newlands</td></tr>
 <tr><td>Griffith, David</td><td>The Wilds</td></tr>
+<tr><td>Harris, Washiela</td><td>Mitchell's Plain Lions Club</td></tr>
 <tr><td>Haywood, Barbara</td><td>Eden 410W</td></tr>
 <tr><td>Herzfeld, Evelyn</td><td>Edenvale</td></tr>
 <tr><td>Hobbs, Avril</td><td>North Durban</td></tr>
@@ -83,6 +84,7 @@ Club
 <tr><td>le Roux, Jeanette</td><td>GONUBIE</td></tr>
 <tr><td>Love, Dee</td><td>Cowies Hill</td></tr>
 <tr><td>MACROBERT, PAM</td><td>LIONS CLUB OF GROOTE SCHUUR</td></tr>
+<tr><td>Mangwende, Sharon</td><td>Lions Club of Cape Town</td></tr>
 <tr><td>Marchant, Richard</td><td>The Wilds - Johannesburg</td></tr>
 <tr><td>Mare, Beaulieu</td><td>Benoni Lakes</td></tr>
 <tr><td>Mare, Nicholas</td><td>Benoni Lakes Lions</td></tr>
@@ -99,6 +101,7 @@ Club
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
 <tr><td>Murray, Gary</td><td>Vereeniging</td></tr>
 <tr><td>Murray, Suzanne</td><td>Vereeniging Lions Club</td></tr>
+<tr><td>Naidoo, Rajin</td><td>Mitchells Plain</td></tr>
 <tr><td>Nel, Pieter</td><td>George</td></tr>
 <tr><td>Newlands, Mike</td><td>Port Alfred</td></tr>
 <tr><td>NIEHAUS, ANGELA</td><td>BERGVLIET LIONS CLUB 410W</td></tr>
