@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 120</li>
+<ul><li><strong>Number of Registrees</strong>: 121</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -115,6 +115,7 @@ Club
 <tr><td>Searle, Gloria Ann</td><td>Kouga</td></tr>
 <tr><td>Seaward, Roy</td><td>Alberton</td></tr>
 <tr><td>Shone, David</td><td>Cowies HIll</td></tr>
+<tr><td>Sircoulomb, Kenlis</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Smit, Herman</td><td>Swellendam Lions Club</td></tr>
 <tr><td>Smit, Sue</td><td>Centurion</td></tr>
 <tr><td>SMITH, BENNIE</td><td>WELLINGTON</td></tr>
