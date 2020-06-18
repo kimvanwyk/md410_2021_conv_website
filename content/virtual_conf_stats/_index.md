@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 121</li>
+<ul><li><strong>Number of Registrees</strong>: 123</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -92,6 +92,7 @@ Club
 <tr><td>McDonald, Rochelle</td><td>Vereeniging Lions Club</td></tr>
 <tr><td>Meltzer, Mark</td><td>THE WILDS</td></tr>
 <tr><td>Meyer, Denis</td><td>Port Shepstone</td></tr>
+<tr><td>Michalitsis, Philip Antonios</td><td>Gordon's Bay</td></tr>
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
@@ -103,6 +104,7 @@ Club
 <tr><td>NIEHAUS, ANGELA</td><td>BERGVLIET LIONS CLUB 410W</td></tr>
 <tr><td>Nulliah, Ramona</td><td>Durban Host</td></tr>
 <tr><td>Olivier, Debra</td><td>Sedgefield</td></tr>
+<tr><td>Olsen, Rita</td><td>Gordon's Bay</td></tr>
 <tr><td>Pantoleon, IPP</td><td>Vereeniging Lions Club</td></tr>
 <tr><td>Pillay, Priya</td><td>Lions East Coast</td></tr>
 <tr><td>Polkinghorne, Gavin</td><td>Kensington</td></tr>
