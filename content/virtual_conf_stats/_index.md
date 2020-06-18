@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 111</li>
+<ul><li><strong>Number of Registrees</strong>: 114</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -89,6 +89,7 @@ Club
 <tr><td>Meyer, Denis</td><td>Port Shepstone</td></tr>
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
+<tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
 <tr><td>Murray, Gary</td><td>Vereeniging</td></tr>
 <tr><td>Murray, Suzanne</td><td>Vereeniging Lions Club</td></tr>
@@ -101,6 +102,7 @@ Club
 <tr><td>Polkinghorne, Gavin</td><td>Kensington</td></tr>
 <tr><td>Polkinghorne, Tracey</td><td>Kensington</td></tr>
 <tr><td>PORTEOUS, BRIAN</td><td>HIBBERDENE - 57333</td></tr>
+<tr><td>RICHARDSON, VANESSA</td><td>RAMSGATE</td></tr>
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
 <tr><td>Sabatier, Rodney</td><td>Letaba Tzaneen Lions Club</td></tr>
 <tr><td>Sampie, Sharon</td><td>BERGVLIET LC</td></tr>
@@ -141,6 +143,7 @@ Club
 <tr><td>Wills, Geila</td><td>Cape Town</td></tr>
 <tr><td>Wilson, Jim</td><td>Alberton</td></tr>
 <tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
+<tr><td>Wright, Rocky</td><td>Table View</td></tr>
 <tr><td>Young, Judy</td><td>Durbanville</td></tr>
 
 </tbody>
