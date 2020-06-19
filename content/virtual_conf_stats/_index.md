@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 133</li>
+<ul><li><strong>Number of Registrees</strong>: 134</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -107,6 +107,7 @@ Club
 <tr><td>Murray, Gary</td><td>Vereeniging</td></tr>
 <tr><td>Murray, Suzanne</td><td>Vereeniging Lions Club</td></tr>
 <tr><td>Naidoo, Rajin</td><td>Mitchells Plain</td></tr>
+<tr><td>naidu, vanessa</td><td>merriman</td></tr>
 <tr><td>Nel, Pieter</td><td>George</td></tr>
 <tr><td>Nel, Tillie</td><td>Eden</td></tr>
 <tr><td>Newlands, Mike</td><td>Port Alfred</td></tr>
