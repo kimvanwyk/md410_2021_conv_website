@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 129</li>
+<ul><li><strong>Number of Registrees</strong>: 130</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -37,6 +37,7 @@ Club
 <tr><td>Botha, Lynette</td><td>Cowies Hill</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
 <tr><td>Bull, Christopher (Chris)</td><td>Johannesburg - The Wilds</td></tr>
+<tr><td>Calomiris, Artemis</td><td>Helderberg</td></tr>
 <tr><td>Carter, Shaun</td><td>Vereeniging</td></tr>
 <tr><td>Charles, Sue</td><td>Tokai</td></tr>
 <tr><td>Chazen, Lionel</td><td>Edenvale</td></tr>
