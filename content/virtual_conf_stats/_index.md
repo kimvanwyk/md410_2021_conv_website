@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 154</li>
+<ul><li><strong>Number of Registrees</strong>: 156</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -35,6 +35,7 @@ Club
 <tr><td>Abramsohn, Janine</td><td>Sea Point</td></tr>
 <tr><td>Adams, Rashid</td><td>Athlone</td></tr>
 <tr><td>Baumgarten, Linda</td><td>Sea Point</td></tr>
+<tr><td>Behrens, Ulrike</td><td>Windhoek</td></tr>
 <tr><td>Beukes, Valencia</td><td>Kuilsriver</td></tr>
 <tr><td>Botha, Lynette</td><td>Cowies Hill</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
@@ -137,6 +138,7 @@ Club
 <tr><td>Schatz, Vera</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Searle, Gloria Ann</td><td>Kouga</td></tr>
 <tr><td>Seaward, Roy</td><td>Alberton</td></tr>
+<tr><td>Sell, Ami</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Semusemu, Tendayi</td><td>Benoni Lakes lions club</td></tr>
 <tr><td>Shone, David</td><td>Cowies HIll</td></tr>
 <tr><td>Sircoulomb, Holger</td><td>Windhoek</td></tr>
