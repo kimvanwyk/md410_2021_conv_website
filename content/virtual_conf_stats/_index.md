@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 136</li>
+<ul><li><strong>Number of Registrees</strong>: 146</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -33,6 +33,7 @@ Club
 <tbody>
 <tr><td>Abramsohn, Alan</td><td>Milnerton</td></tr>
 <tr><td>Abramsohn, Janine</td><td>Sea Point</td></tr>
+<tr><td>Adams, Rashid</td><td>Athlone</td></tr>
 <tr><td>Baumgarten, Linda</td><td>Sea Point</td></tr>
 <tr><td>Botha, Lynette</td><td>Cowies Hill</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
@@ -44,8 +45,10 @@ Club
 <tr><td>Chetty, Perry</td><td>East Coast Lions club</td></tr>
 <tr><td>Cottle, Sharon</td><td>Groote Schuur</td></tr>
 <tr><td>Daniel, Peter</td><td>Gordon's Bay</td></tr>
+<tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>du Plooy, Marc</td><td>alberton</td></tr>
 <tr><td>Easton, Denise</td><td>Roodepoort Clearwater Cyber Lions Club</td></tr>
+<tr><td>Ely, Fadia</td><td>Athlone</td></tr>
 <tr><td>Esdaile, Michael</td><td>Manzini</td></tr>
 <tr><td>Ewers, Aidan</td><td>Newlands</td></tr>
 <tr><td>Flanagan, Charlie</td><td>Tokai</td></tr>
@@ -64,6 +67,7 @@ Club
 <tr><td>Harris, Washiela</td><td>Mitchell's Plain Lions Club</td></tr>
 <tr><td>Haywood, Barbara</td><td>Eden 410W</td></tr>
 <tr><td>Herzfeld, Evelyn</td><td>Edenvale</td></tr>
+<tr><td>Hess, Dorothy</td><td>Kuilsriver</td></tr>
 <tr><td>Hobbs, Avril</td><td>North Durban</td></tr>
 <tr><td>HOBBS, TREVOR</td><td>North Durban</td></tr>
 <tr><td>Hocking, Cliff</td><td>Midrand 410E</td></tr>
@@ -104,6 +108,7 @@ Club
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
+<tr><td>Moulounda, Alain</td><td>CAPE OF GOOD HOPE LIONS</td></tr>
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
 <tr><td>Murray, Gary</td><td>Vereeniging</td></tr>
 <tr><td>Murray, Suzanne</td><td>Vereeniging Lions Club</td></tr>
@@ -128,6 +133,7 @@ Club
 <tr><td>Schatz, Vera</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Searle, Gloria Ann</td><td>Kouga</td></tr>
 <tr><td>Seaward, Roy</td><td>Alberton</td></tr>
+<tr><td>Semusemu, Tendayi</td><td>Benoni Lakes lions club</td></tr>
 <tr><td>Shone, David</td><td>Cowies HIll</td></tr>
 <tr><td>Sircoulomb, Holger</td><td>Windhoek</td></tr>
 <tr><td>Sircoulomb, Kenlis</td><td>Windhoek Lions Club</td></tr>
@@ -143,6 +149,8 @@ Club
 <tr><td>Theron, Pierre</td><td>Midrand</td></tr>
 <tr><td>Toward, Helen</td><td>Kingsburgh</td></tr>
 <tr><td>Toward, Ken</td><td>Amanzimtoti</td></tr>
+<tr><td>Townsend, Diane</td><td>Benoni Lakes Lions Club</td></tr>
+<tr><td>Townsend, Kendyl</td><td>Benoni Lakes Lions Club</td></tr>
 <tr><td>Tuckett, Alistair</td><td>Roodepoort Clearwater Cyber Club</td></tr>
 <tr><td>Tuckett, Gail</td><td>Roodepoort Clearwater Cyber</td></tr>
 <tr><td>Tuckett, Rowan</td><td>Roodepoort Clearwater Cyber</td></tr>
@@ -155,6 +163,7 @@ Club
 <tr><td>Van der Schyf, Yolandi</td><td>Midrand</td></tr>
 <tr><td>van Heerden, Sandy</td><td>WILRO PARK</td></tr>
 <tr><td>van Heerden, Sydney</td><td>WILRO PARK</td></tr>
+<tr><td>Van Wyk, Edith</td><td>Kuilsriver</td></tr>
 <tr><td>van Wyk, Kim</td><td>North Durban</td></tr>
 <tr><td>van Wyk, Lindie</td><td>Pretoria Jakaranda</td></tr>
 <tr><td>Voges, Tinus</td><td>Alberton</td></tr>
@@ -162,6 +171,7 @@ Club
 <tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
 <tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
+<tr><td>Williams, Alice</td><td>Kuilsriver</td></tr>
 <tr><td>Wills, Geila</td><td>Cape Town</td></tr>
 <tr><td>Wilson, Jim</td><td>Alberton</td></tr>
 <tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
