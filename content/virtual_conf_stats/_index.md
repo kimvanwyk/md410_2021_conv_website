@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 157</li>
+<ul><li><strong>Number of Registrees</strong>: 159</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -37,6 +37,7 @@ Club
 <tr><td>Baumgarten, Linda</td><td>Sea Point</td></tr>
 <tr><td>Behrens, Ulrike</td><td>Windhoek</td></tr>
 <tr><td>Beukes, Valencia</td><td>Kuilsriver</td></tr>
+<tr><td>Beukes, Valencia</td><td>Kuilsrver</td></tr>
 <tr><td>Botha, Lynette</td><td>Cowies Hill</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
 <tr><td>Bull, Christopher (Chris)</td><td>Johannesburg - The Wilds</td></tr>
@@ -49,6 +50,7 @@ Club
 <tr><td>Daniel, Peter</td><td>Gordon's Bay</td></tr>
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
+<tr><td>Diener, Benita (Bonny)</td><td>Lions Club of Mitchell's Plain</td></tr>
 <tr><td>du Plooy, Marc</td><td>alberton</td></tr>
 <tr><td>Easton, Denise</td><td>Roodepoort Clearwater Cyber Lions Club</td></tr>
 <tr><td>Ely, Fadia</td><td>Athlone</td></tr>
