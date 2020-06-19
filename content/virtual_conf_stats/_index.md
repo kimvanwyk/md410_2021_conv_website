@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 148</li>
+<ul><li><strong>Number of Registrees</strong>: 152</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -35,6 +35,7 @@ Club
 <tr><td>Abramsohn, Janine</td><td>Sea Point</td></tr>
 <tr><td>Adams, Rashid</td><td>Athlone</td></tr>
 <tr><td>Baumgarten, Linda</td><td>Sea Point</td></tr>
+<tr><td>Beukes, Valencia</td><td>Kuilsriver</td></tr>
 <tr><td>Botha, Lynette</td><td>Cowies Hill</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
 <tr><td>Bull, Christopher (Chris)</td><td>Johannesburg - The Wilds</td></tr>
@@ -81,6 +82,7 @@ Club
 <tr><td>Jubelin, Charlotte</td><td>CAPE OF GOOD HOPE</td></tr>
 <tr><td>Kahn, Michelle</td><td>Sea Point</td></tr>
 <tr><td>Karshagen, Veronica Nicolene</td><td>King Williams Town</td></tr>
+<tr><td>Kennel, Esmeralda Catherine</td><td>Lions Club of Newlands</td></tr>
 <tr><td>King, Ian</td><td>Alberton</td></tr>
 <tr><td>King, Sandy</td><td>Alberton</td></tr>
 <tr><td>Krüger, Zwaai</td><td>Sedgefield</td></tr>
@@ -166,6 +168,7 @@ Club
 <tr><td>van Rensburg, Anne</td><td>Windhoek Lions Club</td></tr>
 <tr><td>van Rensburg, Johan</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Van Wyk, Edith</td><td>Kuilsriver</td></tr>
+<tr><td>Van wyk, Edith Naomi</td><td>Kuilsriver Loins</td></tr>
 <tr><td>van Wyk, Kim</td><td>North Durban</td></tr>
 <tr><td>van Wyk, Lindie</td><td>Pretoria Jakaranda</td></tr>
 <tr><td>Voges, Tinus</td><td>Alberton</td></tr>
@@ -173,6 +176,7 @@ Club
 <tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
 <tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
+<tr><td>Williams, Alice</td><td>Kuilsriver</td></tr>
 <tr><td>Williams, Alice</td><td>Kuilsriver</td></tr>
 <tr><td>Wills, Geila</td><td>Cape Town</td></tr>
 <tr><td>Wilson, Jim</td><td>Alberton</td></tr>
