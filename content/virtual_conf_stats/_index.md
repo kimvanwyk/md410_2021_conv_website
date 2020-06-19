@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 135</li>
+<ul><li><strong>Number of Registrees</strong>: 136</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -125,6 +125,7 @@ Club
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
 <tr><td>Sabatier, Rodney</td><td>Letaba Tzaneen Lions Club</td></tr>
 <tr><td>Sampie, Sharon</td><td>BERGVLIET LC</td></tr>
+<tr><td>Schatz, Vera</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Searle, Gloria Ann</td><td>Kouga</td></tr>
 <tr><td>Seaward, Roy</td><td>Alberton</td></tr>
 <tr><td>Shone, David</td><td>Cowies HIll</td></tr>
