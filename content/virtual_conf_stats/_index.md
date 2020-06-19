@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 159</li>
+<ul><li><strong>Number of Registrees</strong>: 169</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -53,7 +53,10 @@ Club
 <tr><td>Diener, Benita (Bonny)</td><td>Lions Club of Mitchell's Plain</td></tr>
 <tr><td>du Plooy, Marc</td><td>alberton</td></tr>
 <tr><td>Easton, Denise</td><td>Roodepoort Clearwater Cyber Lions Club</td></tr>
+<tr><td>Elske, Valerie</td><td>Krugersdorp</td></tr>
 <tr><td>Ely, Fadia</td><td>Athlone</td></tr>
+<tr><td>Erasmus, Freddie</td><td>Uitenhage</td></tr>
+<tr><td>Erasmus, Tanja</td><td>Uitenhage</td></tr>
 <tr><td>Esdaile, Michael</td><td>Manzini</td></tr>
 <tr><td>Ewers, Aidan</td><td>Newlands</td></tr>
 <tr><td>Flanagan, Charlie</td><td>Tokai</td></tr>
@@ -81,6 +84,7 @@ Club
 <tr><td>Houston, Elizabeth</td><td>Table View</td></tr>
 <tr><td>Houston, John</td><td>Table View</td></tr>
 <tr><td>Human, Leslie</td><td>East London Port Rex</td></tr>
+<tr><td>Irving, David</td><td>Benoni Lakes</td></tr>
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
 <tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
 <tr><td>Jonathan, Grant</td><td>Gordon's Bay</td></tr>
@@ -113,6 +117,7 @@ Club
 <tr><td>Meyer, Denis</td><td>Port Shepstone</td></tr>
 <tr><td>Michalitsis, Philip Antonios</td><td>Gordon's Bay</td></tr>
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
+<tr><td>Mills, Bernice</td><td>Centurion</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
 <tr><td>Moulounda, Alain</td><td>CAPE OF GOOD HOPE LIONS</td></tr>
@@ -124,6 +129,7 @@ Club
 <tr><td>Nel, Pieter</td><td>George</td></tr>
 <tr><td>Nel, Tillie</td><td>Eden</td></tr>
 <tr><td>Newlands, Mike</td><td>Port Alfred</td></tr>
+<tr><td>Ngoyi, John WaNgoyi</td><td>Lion club of athlone</td></tr>
 <tr><td>NIEHAUS, ANGELA</td><td>BERGVLIET LIONS CLUB 410W</td></tr>
 <tr><td>Nulliah, Ramona</td><td>Durban Host</td></tr>
 <tr><td>Olivier, Debra</td><td>Sedgefield</td></tr>
@@ -134,9 +140,11 @@ Club
 <tr><td>Polkinghorne, Tracey</td><td>Kensington</td></tr>
 <tr><td>PORTEOUS, BRIAN</td><td>HIBBERDENE - 57333</td></tr>
 <tr><td>RICHARDSON, VANESSA</td><td>RAMSGATE</td></tr>
+<tr><td>Rigby, Moira</td><td>Kingsburgh</td></tr>
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
 <tr><td>Sabatier, Rodney</td><td>Letaba Tzaneen Lions Club</td></tr>
 <tr><td>Sampie, Sharon</td><td>BERGVLIET LC</td></tr>
+<tr><td>Schatz, Frank</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Schatz, Vera</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Searle, Gloria Ann</td><td>Kouga</td></tr>
 <tr><td>Seaward, Roy</td><td>Alberton</td></tr>
@@ -150,6 +158,7 @@ Club
 <tr><td>SMITH, BENNIE</td><td>WELLINGTON</td></tr>
 <tr><td>SMYTH, JANINE</td><td>VEREENIGING</td></tr>
 <tr><td>Sochen, Diana</td><td>Sea Point</td></tr>
+<tr><td>Stewart, Annia</td><td>Bergvliet</td></tr>
 <tr><td>stier, RORY</td><td>NEWLANDS DEEP SOUTH</td></tr>
 <tr><td>stuppel, malcolm</td><td>de grendel</td></tr>
 <tr><td>Sturges, Trevor</td><td>Lions Club of Midrand</td></tr>
@@ -187,6 +196,7 @@ Club
 <tr><td>Williams, Alice</td><td>Kuilsriver</td></tr>
 <tr><td>Wills, Geila</td><td>Cape Town</td></tr>
 <tr><td>Wilson, Jim</td><td>Alberton</td></tr>
+<tr><td>WILSON, PAT</td><td>KINGSBURGH</td></tr>
 <tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
 <tr><td>Wright, Rocky</td><td>Table View</td></tr>
 <tr><td>Young, Judy</td><td>Durbanville</td></tr>
