@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 131</li>
+<ul><li><strong>Number of Registrees</strong>: 133</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -43,6 +43,7 @@ Club
 <tr><td>Chazen, Lionel</td><td>Edenvale</td></tr>
 <tr><td>Cottle, Sharon</td><td>Groote Schuur</td></tr>
 <tr><td>Daniel, Peter</td><td>Gordon's Bay</td></tr>
+<tr><td>du Plooy, Marc</td><td>alberton</td></tr>
 <tr><td>Easton, Denise</td><td>Roodepoort Clearwater Cyber Lions Club</td></tr>
 <tr><td>Esdaile, Michael</td><td>Manzini</td></tr>
 <tr><td>Ewers, Aidan</td><td>Newlands</td></tr>
@@ -52,6 +53,7 @@ Club
 <tr><td>Gabriel, Anastasia</td><td>Vereeniging</td></tr>
 <tr><td>Gabriel, Mervyn</td><td>Vereeniging</td></tr>
 <tr><td>Gerhard, Bernd</td><td>Wilro Park</td></tr>
+<tr><td>Gerhard, Shirley</td><td>Wilro Park</td></tr>
 <tr><td>Govender, Siva</td><td>East Coast Lions</td></tr>
 <tr><td>graham, mike</td><td>Nelspruit</td></tr>
 <tr><td>Graham, Valerie</td><td>Nelspruit</td></tr>
