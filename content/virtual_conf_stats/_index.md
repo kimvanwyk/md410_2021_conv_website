@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 169</li>
+<ul><li><strong>Number of Registrees</strong>: 174</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -34,6 +34,7 @@ Club
 <tr><td>Abramsohn, Alan</td><td>Milnerton</td></tr>
 <tr><td>Abramsohn, Janine</td><td>Sea Point</td></tr>
 <tr><td>Adams, Rashid</td><td>Athlone</td></tr>
+<tr><td>Antwi, Ransford</td><td>UKZN Campus Lions Club</td></tr>
 <tr><td>Baumgarten, Linda</td><td>Sea Point</td></tr>
 <tr><td>Behrens, Ulrike</td><td>Windhoek</td></tr>
 <tr><td>Beukes, Valencia</td><td>Kuilsriver</td></tr>
@@ -61,6 +62,7 @@ Club
 <tr><td>Ewers, Aidan</td><td>Newlands</td></tr>
 <tr><td>Flanagan, Charlie</td><td>Tokai</td></tr>
 <tr><td>Flanagan, Jules</td><td>Tokai</td></tr>
+<tr><td>Fourie, Michele</td><td>Merriman Lions Club</td></tr>
 <tr><td>Froise, Martin</td><td>Letaba Tzaneen</td></tr>
 <tr><td>Gabriel, Anastasia</td><td>Vereeniging</td></tr>
 <tr><td>Gabriel, Mervyn</td><td>Vereeniging</td></tr>
@@ -103,6 +105,7 @@ Club
 <tr><td>Lang, Paula</td><td>Gordons Bay</td></tr>
 <tr><td>Laubscher, Herman</td><td>Ceres</td></tr>
 <tr><td>le Roux, Jeanette</td><td>GONUBIE</td></tr>
+<tr><td>Leisching, Tamara</td><td>Tableveiw</td></tr>
 <tr><td>Love, Dee</td><td>Cowies Hill</td></tr>
 <tr><td>MACROBERT, PAM</td><td>LIONS CLUB OF GROOTE SCHUUR</td></tr>
 <tr><td>Mangwende, Sharon</td><td>Lions Club of Cape Town</td></tr>
@@ -119,6 +122,7 @@ Club
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Bernice</td><td>Centurion</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
+<tr><td>MOELLER, FRAUKE</td><td>WINDHOEK LIONS CLUB</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
 <tr><td>Moulounda, Alain</td><td>CAPE OF GOOD HOPE LIONS</td></tr>
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
@@ -183,6 +187,7 @@ Club
 <tr><td>van Heerden, Sydney</td><td>WILRO PARK</td></tr>
 <tr><td>van Rensburg, Anne</td><td>Windhoek Lions Club</td></tr>
 <tr><td>van Rensburg, Johan</td><td>Windhoek Lions Club</td></tr>
+<tr><td>van Wulven, Jeannie</td><td>Tygerberg Hills</td></tr>
 <tr><td>Van Wyk, Edith</td><td>Kuilsriver</td></tr>
 <tr><td>Van wyk, Edith Naomi</td><td>Kuilsriver Loins</td></tr>
 <tr><td>van Wyk, Kim</td><td>North Durban</td></tr>
