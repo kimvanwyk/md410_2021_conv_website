@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 176</li>
+<ul><li><strong>Number of Registrees</strong>: 183</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -53,6 +53,7 @@ Club
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>Diener, Benita (Bonny)</td><td>Lions Club of Mitchell's Plain</td></tr>
 <tr><td>du Plooy, Marc</td><td>alberton</td></tr>
+<tr><td>Du Toit, Desiree</td><td>Ramsgate</td></tr>
 <tr><td>Easton, Denise</td><td>Roodepoort Clearwater Cyber Lions Club</td></tr>
 <tr><td>Elske, Valerie</td><td>Krugersdorp</td></tr>
 <tr><td>Ely, Fadia</td><td>Athlone</td></tr>
@@ -101,6 +102,7 @@ Club
 <tr><td>Krüger, Zwaai</td><td>Sedgefield</td></tr>
 <tr><td>kunfermann, ernst</td><td>durban north</td></tr>
 <tr><td>Kuni, Dylin</td><td>Table View</td></tr>
+<tr><td>Labuschagne, Susan</td><td>Wilro Park</td></tr>
 <tr><td>Lakay, Bevil</td><td>Mitchell's Plain</td></tr>
 <tr><td>Lamont, Margaret</td><td>Klerksdorp</td></tr>
 <tr><td>Lang, James</td><td>The Lions Club of Gordon's Bay</td></tr>
@@ -162,6 +164,7 @@ Club
 <tr><td>Smit, Herman</td><td>Swellendam Lions Club</td></tr>
 <tr><td>Smit, Sue</td><td>Centurion</td></tr>
 <tr><td>SMITH, BENNIE</td><td>WELLINGTON</td></tr>
+<tr><td>Smith, Jeff</td><td>Port Shepstone</td></tr>
 <tr><td>SMYTH, JANINE</td><td>VEREENIGING</td></tr>
 <tr><td>Sochen, Diana</td><td>Sea Point</td></tr>
 <tr><td>Stewart, Annia</td><td>Bergvliet</td></tr>
@@ -170,6 +173,7 @@ Club
 <tr><td>Sturges, Trevor</td><td>Lions Club of Midrand</td></tr>
 <tr><td>Theron, Moira</td><td>Midrand</td></tr>
 <tr><td>Theron, Pierre</td><td>Midrand</td></tr>
+<tr><td>Thompson, Jean</td><td>Northcliff</td></tr>
 <tr><td>Toward, Helen</td><td>Kingsburgh</td></tr>
 <tr><td>Toward, Ken</td><td>Amanzimtoti</td></tr>
 <tr><td>Townsend, Diane</td><td>Benoni Lakes Lions Club</td></tr>
@@ -182,6 +186,8 @@ Club
 <tr><td>Uchytil, Jiri</td><td>Alberton</td></tr>
 <tr><td>Valadao, Tracy</td><td>Midrand</td></tr>
 <tr><td>van Blerk, Carl</td><td>Eden</td></tr>
+<tr><td>VAN BREDA, HILARY</td><td>CAPE TOWN</td></tr>
+<tr><td>van den Heever, Liezel</td><td>Centurion Lions club</td></tr>
 <tr><td>VAN DER MERWE, MARINA</td><td>MALMESBURY</td></tr>
 <tr><td>VAN DER MERWE, PAT</td><td>PORT REX LIONS CLUB</td></tr>
 <tr><td>Van der Schyf, Yolandi</td><td>Midrand</td></tr>
@@ -194,6 +200,7 @@ Club
 <tr><td>Van wyk, Edith Naomi</td><td>Kuilsriver Loins</td></tr>
 <tr><td>van Wyk, Kim</td><td>North Durban</td></tr>
 <tr><td>van Wyk, Lindie</td><td>Pretoria Jakaranda</td></tr>
+<tr><td>van Wyk, Vicki</td><td>North Durban</td></tr>
 <tr><td>Voges, Tinus</td><td>Alberton</td></tr>
 <tr><td>von der Decken, Brian</td><td>King William's Town</td></tr>
 <tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
