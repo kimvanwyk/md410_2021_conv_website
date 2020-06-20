@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 188</li>
+<ul><li><strong>Number of Registrees</strong>: 189</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -199,6 +199,7 @@ Club
 <tr><td>van Heerden, Sydney</td><td>WILRO PARK</td></tr>
 <tr><td>van Rensburg, Anne</td><td>Windhoek Lions Club</td></tr>
 <tr><td>van Rensburg, Johan</td><td>Windhoek Lions Club</td></tr>
+<tr><td>van Rensburg, Neville</td><td>Moorreesburg</td></tr>
 <tr><td>van Wulven, Jeannie</td><td>Tygerberg Hills</td></tr>
 <tr><td>Van Wyk, Edith</td><td>Kuilsriver</td></tr>
 <tr><td>Van wyk, Edith Naomi</td><td>Kuilsriver Loins</td></tr>
