@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 183</li>
+<ul><li><strong>Number of Registrees</strong>: 185</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -127,6 +127,7 @@ Club
 <tr><td>Mills, Bernice</td><td>Centurion</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
 <tr><td>MOELLER, FRAUKE</td><td>WINDHOEK LIONS CLUB</td></tr>
+<tr><td>Morgan, Faith</td><td>Table View</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
 <tr><td>Moulounda, Alain</td><td>CAPE OF GOOD HOPE LIONS</td></tr>
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
@@ -205,6 +206,7 @@ Club
 <tr><td>von der Decken, Brian</td><td>King William's Town</td></tr>
 <tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
+<tr><td>Watson, Alison</td><td>Sedgefield</td></tr>
 <tr><td>Wedderburn, Del</td><td>Clearwater Cyber Club</td></tr>
 <tr><td>Williams, Alice</td><td>Kuilsriver</td></tr>
 <tr><td>Williams, Alice</td><td>Kuilsriver</td></tr>
