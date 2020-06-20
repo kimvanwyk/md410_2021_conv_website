@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 185</li>
+<ul><li><strong>Number of Registrees</strong>: 187</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -77,6 +77,7 @@ Club
 <tr><td>Griffith, David</td><td>The Wilds</td></tr>
 <tr><td>Harris, Washiela</td><td>Mitchell's Plain Lions Club</td></tr>
 <tr><td>Haywood, Barbara</td><td>Eden 410W</td></tr>
+<tr><td>Hendricks, Zarina</td><td>Athlone</td></tr>
 <tr><td>HENDRIKS, ELIZABETH</td><td>TABLEVIEW</td></tr>
 <tr><td>Herzfeld, Evelyn</td><td>Edenvale</td></tr>
 <tr><td>Hess, Dorothy</td><td>Kuilsriver</td></tr>
@@ -90,6 +91,7 @@ Club
 <tr><td>Houston, John</td><td>Table View</td></tr>
 <tr><td>Human, Leslie</td><td>East London Port Rex</td></tr>
 <tr><td>Irving, David</td><td>Benoni Lakes</td></tr>
+<tr><td>Jacobs, David</td><td>Durbanville</td></tr>
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
 <tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
 <tr><td>Jonathan, Grant</td><td>Gordon's Bay</td></tr>
