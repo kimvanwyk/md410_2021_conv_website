@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 194</li>
+<ul><li><strong>Number of Registrees</strong>: 233</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -34,26 +34,35 @@ Club
 <tr><td>Abramsohn, Alan</td><td>Milnerton</td></tr>
 <tr><td>Abramsohn, Janine</td><td>Sea Point</td></tr>
 <tr><td>Adams, Rashid</td><td>Athlone</td></tr>
+<tr><td>Alexander, Alison</td><td>Merriman Lions Club</td></tr>
 <tr><td>Antwi, Ransford</td><td>UKZN Campus Lions Club</td></tr>
+<tr><td>Bands, Karl</td><td>Helderkruin Lions</td></tr>
 <tr><td>Baumgarten, Linda</td><td>Sea Point</td></tr>
 <tr><td>Behrens, Ulrike</td><td>Windhoek</td></tr>
-<tr><td>Beukes, Valencia</td><td>Kuilsriver</td></tr>
 <tr><td>Beukes, Valencia</td><td>Kuilsrver</td></tr>
+<tr><td>Beukes, Valencia</td><td>Kuilsriver</td></tr>
+<tr><td>Bissell, Clifton</td><td>East London Port Rex</td></tr>
 <tr><td>Botha, Lynette</td><td>Cowies Hill</td></tr>
+<tr><td>Bothma, Sian</td><td>Tableview club</td></tr>
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
 <tr><td>Bull, Christopher (Chris)</td><td>Johannesburg - The Wilds</td></tr>
+<tr><td>Byars, Karin</td><td>Manzini Lions Club</td></tr>
 <tr><td>Calomiris, Artemis</td><td>Helderberg</td></tr>
 <tr><td>Carter, Shaun</td><td>Vereeniging</td></tr>
 <tr><td>Charles, Sue</td><td>Tokai</td></tr>
 <tr><td>Chazen, Lionel</td><td>Edenvale</td></tr>
 <tr><td>Chengan, Ryan</td><td>Merriman Lions</td></tr>
 <tr><td>Chetty, Perry</td><td>East Coast Lions club</td></tr>
+<tr><td>Chinyai, Tanyaradzwa</td><td>Groote Schuur Lions Club</td></tr>
+<tr><td>Clark, Rob</td><td>Knysna</td></tr>
 <tr><td>Cottle, Sharon</td><td>Groote Schuur</td></tr>
 <tr><td>Daniel, Peter</td><td>Gordon's Bay</td></tr>
+<tr><td>De Gouveia, Ashley</td><td>Benoni Lakes Lions Club</td></tr>
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>Diener, Benita (Bonny)</td><td>Lions Club of Mitchell's Plain</td></tr>
 <tr><td>du Plooy, Marc</td><td>alberton</td></tr>
+<tr><td>du Plooy, Tammy</td><td>alberton</td></tr>
 <tr><td>Du Toit, Desiree</td><td>Ramsgate</td></tr>
 <tr><td>Easton, Denise</td><td>Roodepoort Clearwater Cyber Lions Club</td></tr>
 <tr><td>Elske, Valerie</td><td>Krugersdorp</td></tr>
@@ -61,6 +70,7 @@ Club
 <tr><td>Erasmus, Freddie</td><td>Uitenhage</td></tr>
 <tr><td>Erasmus, Tanja</td><td>Uitenhage</td></tr>
 <tr><td>Esdaile, Michael</td><td>Manzini</td></tr>
+<tr><td>Esterhuizen, Francois</td><td>Worcester, South Africa</td></tr>
 <tr><td>Ewers, Aidan</td><td>Newlands</td></tr>
 <tr><td>Flanagan, Charlie</td><td>Tokai</td></tr>
 <tr><td>Flanagan, Jules</td><td>Tokai</td></tr>
@@ -68,8 +78,11 @@ Club
 <tr><td>Froise, Martin</td><td>Letaba Tzaneen</td></tr>
 <tr><td>Gabriel, Anastasia</td><td>Vereeniging</td></tr>
 <tr><td>Gabriel, Mervyn</td><td>Vereeniging</td></tr>
+<tr><td>Geldenhuis, Anthony</td><td>Uitenhage</td></tr>
+<tr><td>Geldenhuis, Sue</td><td>Uitenhage</td></tr>
 <tr><td>Gerhard, Bernd</td><td>Wilro Park</td></tr>
 <tr><td>Gerhard, Shirley</td><td>Wilro Park</td></tr>
+<tr><td>Gomes, Vanessa</td><td>Benoni Lakes</td></tr>
 <tr><td>Govender, Siva</td><td>East Coast Lions</td></tr>
 <tr><td>graham, mike</td><td>Nelspruit</td></tr>
 <tr><td>Graham, Valerie</td><td>Nelspruit</td></tr>
@@ -94,6 +107,7 @@ Club
 <tr><td>Irving, David</td><td>Benoni Lakes</td></tr>
 <tr><td>Isaacs, Roger</td><td>Athlone</td></tr>
 <tr><td>Jacobs, David</td><td>Durbanville</td></tr>
+<tr><td>Jacobs, Jean</td><td>Mitchells Plain</td></tr>
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
 <tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
 <tr><td>Jonathan, Grant</td><td>Gordon's Bay</td></tr>
@@ -102,8 +116,12 @@ Club
 <tr><td>Kahn, Michelle</td><td>Sea Point</td></tr>
 <tr><td>Karshagen, Veronica Nicolene</td><td>King Williams Town</td></tr>
 <tr><td>Kennel, Esmeralda Catherine</td><td>Lions Club of Newlands</td></tr>
+<tr><td>Kienast, Margie</td><td>Edenvale</td></tr>
 <tr><td>King, Ian</td><td>Alberton</td></tr>
 <tr><td>King, Sandy</td><td>Alberton</td></tr>
+<tr><td>KRAEMER, MARIETJIE</td><td>PORT REX LIONS CLUB</td></tr>
+<tr><td>Kruger, Niqula</td><td>Wilro Park</td></tr>
+<tr><td>Kruger, Pieter</td><td>Wilro Park</td></tr>
 <tr><td>Krüger, Zwaai</td><td>Sedgefield</td></tr>
 <tr><td>kunfermann, ernst</td><td>durban north</td></tr>
 <tr><td>Kuni, Dylin</td><td>Table View</td></tr>
@@ -112,11 +130,14 @@ Club
 <tr><td>Lamont, Margaret</td><td>Klerksdorp</td></tr>
 <tr><td>Lang, James</td><td>The Lions Club of Gordon's Bay</td></tr>
 <tr><td>Lang, Paula</td><td>Gordons Bay</td></tr>
+<tr><td>Langeveldt, Auriel</td><td>Table  view</td></tr>
 <tr><td>Laubscher, Herman</td><td>Ceres</td></tr>
 <tr><td>le Roux, Jeanette</td><td>GONUBIE</td></tr>
+<tr><td>Lee, Heather</td><td>Cape of Goodhope Lions</td></tr>
 <tr><td>Leisching, Tamara</td><td>Tableveiw</td></tr>
 <tr><td>Love, Dee</td><td>Cowies Hill</td></tr>
 <tr><td>M'bemba, Wilfried</td><td>Cape of good hope</td></tr>
+<tr><td>Mackintosh, Colin</td><td>Scottburgh Lions</td></tr>
 <tr><td>MACROBERT, PAM</td><td>LIONS CLUB OF GROOTE SCHUUR</td></tr>
 <tr><td>Mangwende, Sharon</td><td>Lions Club of Cape Town</td></tr>
 <tr><td>Marchant, Richard</td><td>The Wilds - Johannesburg</td></tr>
@@ -129,6 +150,8 @@ Club
 <tr><td>McDonald, Rochelle</td><td>Vereeniging Lions Club</td></tr>
 <tr><td>Meltzer, Mark</td><td>THE WILDS</td></tr>
 <tr><td>Meyer, Denis</td><td>Port Shepstone</td></tr>
+<tr><td>Meyer, Gary</td><td>Lions Club of Northcliff</td></tr>
+<tr><td>MICHAELS, EDMUND</td><td>NEWLANDS LIONS CLUB</td></tr>
 <tr><td>Michalitsis, Philip Antonios</td><td>Gordon's Bay</td></tr>
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Bernice</td><td>Centurion</td></tr>
@@ -140,6 +163,7 @@ Club
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
 <tr><td>Murray, Gary</td><td>Vereeniging</td></tr>
 <tr><td>Murray, Suzanne</td><td>Vereeniging Lions Club</td></tr>
+<tr><td>Mutschler, Peter</td><td>Grootfontein Lions Club</td></tr>
 <tr><td>Naidoo, Rajin</td><td>Mitchells Plain</td></tr>
 <tr><td>naidu, vanessa</td><td>merriman</td></tr>
 <tr><td>Nel, Pieter</td><td>George</td></tr>
@@ -147,10 +171,14 @@ Club
 <tr><td>Newlands, Mike</td><td>Port Alfred</td></tr>
 <tr><td>Ngoyi, John WaNgoyi</td><td>Lion club of athlone</td></tr>
 <tr><td>NIEHAUS, ANGELA</td><td>BERGVLIET LIONS CLUB 410W</td></tr>
+<tr><td>Noeth, Bonita</td><td>Sedgefield</td></tr>
+<tr><td>NORMAN, MAUREEN</td><td>PORT REX LIONS CLUB</td></tr>
 <tr><td>Nulliah, Ramona</td><td>Durban Host</td></tr>
 <tr><td>Olivier, Debra</td><td>Sedgefield</td></tr>
 <tr><td>Olsen, Rita</td><td>Gordon's Bay</td></tr>
+<tr><td>Paijmans, Bronwyn</td><td>Cowies Hill</td></tr>
 <tr><td>Pantoleon, IPP</td><td>Vereeniging Lions Club</td></tr>
+<tr><td>PATTEN, RICHARD</td><td>PORT REX LIONS CLUB</td></tr>
 <tr><td>Pillay, Patrick</td><td>Tygerberg Hills</td></tr>
 <tr><td>Pillay, Priya</td><td>Lions East Coast</td></tr>
 <tr><td>Polkinghorne, Gavin</td><td>Kensington</td></tr>
@@ -159,6 +187,8 @@ Club
 <tr><td>RICHARDSON, VANESSA</td><td>RAMSGATE</td></tr>
 <tr><td>Rigby, Moira</td><td>Kingsburgh</td></tr>
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
+<tr><td>Rossouw, Mark</td><td>Tokai Lions Club</td></tr>
+<tr><td>Russell, Ingrid</td><td>Fish Hoek</td></tr>
 <tr><td>Sabatier, Rodney</td><td>Letaba Tzaneen Lions Club</td></tr>
 <tr><td>Sampie, Sharon</td><td>BERGVLIET LC</td></tr>
 <tr><td>Schatz, Frank</td><td>Windhoek Lions Club</td></tr>
@@ -174,15 +204,19 @@ Club
 <tr><td>Smit, Sue</td><td>Centurion</td></tr>
 <tr><td>SMITH, BENNIE</td><td>WELLINGTON</td></tr>
 <tr><td>Smith, Jeff</td><td>Port Shepstone</td></tr>
+<tr><td>Smith, Johann</td><td>Worcester</td></tr>
 <tr><td>SMYTH, JANINE</td><td>VEREENIGING</td></tr>
 <tr><td>Sochen, Diana</td><td>Sea Point</td></tr>
 <tr><td>Stewart, Annia</td><td>Bergvliet</td></tr>
 <tr><td>stier, RORY</td><td>NEWLANDS DEEP SOUTH</td></tr>
 <tr><td>stuppel, malcolm</td><td>de grendel</td></tr>
 <tr><td>Sturges, Trevor</td><td>Lions Club of Midrand</td></tr>
+<tr><td>Talbot, Lauryn</td><td>Benoni Lakes</td></tr>
+<tr><td>TAYLOR, CATHY</td><td>PORT REX LIONS CLUB</td></tr>
 <tr><td>Theron, Moira</td><td>Midrand</td></tr>
 <tr><td>Theron, Pierre</td><td>Midrand</td></tr>
 <tr><td>Thompson, Jean</td><td>Northcliff</td></tr>
+<tr><td>Toms, Olwen</td><td>Knysna</td></tr>
 <tr><td>Toward, Helen</td><td>Kingsburgh</td></tr>
 <tr><td>Toward, Ken</td><td>Amanzimtoti</td></tr>
 <tr><td>Townsend, Diane</td><td>Benoni Lakes Lions Club</td></tr>
@@ -202,9 +236,11 @@ Club
 <tr><td>Van der Schyf, Yolandi</td><td>Midrand</td></tr>
 <tr><td>van Heerden, Sandy</td><td>WILRO PARK</td></tr>
 <tr><td>van Heerden, Sydney</td><td>WILRO PARK</td></tr>
+<tr><td>van Nieuwenhuyzen, Hilgardt</td><td>Worcester</td></tr>
 <tr><td>van Rensburg, Anne</td><td>Windhoek Lions Club</td></tr>
 <tr><td>van Rensburg, Johan</td><td>Windhoek Lions Club</td></tr>
 <tr><td>van Rensburg, Neville</td><td>Moorreesburg</td></tr>
+<tr><td>Van Romburgh, Lorna</td><td>Fish Hoek</td></tr>
 <tr><td>van Wulven, Jeannie</td><td>Tygerberg Hills</td></tr>
 <tr><td>Van Wyk, Edith</td><td>Kuilsriver</td></tr>
 <tr><td>Van wyk, Edith Naomi</td><td>Kuilsriver Loins</td></tr>
@@ -213,6 +249,7 @@ Club
 <tr><td>van Wyk, Vicki</td><td>North Durban</td></tr>
 <tr><td>Voges, Tinus</td><td>Alberton</td></tr>
 <tr><td>von der Decken, Brian</td><td>King William's Town</td></tr>
+<tr><td>Vorster, Rochelle</td><td>Sedgefield</td></tr>
 <tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
 <tr><td>Watson, Alison</td><td>Sedgefield</td></tr>
@@ -223,8 +260,10 @@ Club
 <tr><td>Wilson, Jim</td><td>Alberton</td></tr>
 <tr><td>WILSON, PAT</td><td>KINGSBURGH</td></tr>
 <tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
+<tr><td>Woodman, Joan</td><td>Lions Club of Mitchell's Plain</td></tr>
 <tr><td>Wright, Rocky</td><td>Table View</td></tr>
 <tr><td>Young, Judy</td><td>Durbanville</td></tr>
+<tr><td>‘T Hart, Michelle</td><td>Benoni Lakes Lions Club</td></tr>
 
 </tbody>
 </table>
