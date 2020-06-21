@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 233</li>
+<ul><li><strong>Number of Registrees</strong>: 252</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -33,10 +33,12 @@ Club
 <tbody>
 <tr><td>Abramsohn, Alan</td><td>Milnerton</td></tr>
 <tr><td>Abramsohn, Janine</td><td>Sea Point</td></tr>
+<tr><td>Adams, Jacqueline</td><td>Merriman Lions</td></tr>
 <tr><td>Adams, Rashid</td><td>Athlone</td></tr>
 <tr><td>Alexander, Alison</td><td>Merriman Lions Club</td></tr>
 <tr><td>Antwi, Ransford</td><td>UKZN Campus Lions Club</td></tr>
 <tr><td>Bands, Karl</td><td>Helderkruin Lions</td></tr>
+<tr><td>Barnard, Wentzel</td><td>Durbanville</td></tr>
 <tr><td>Baumgarten, Linda</td><td>Sea Point</td></tr>
 <tr><td>Behrens, Ulrike</td><td>Windhoek</td></tr>
 <tr><td>Beukes, Valencia</td><td>Kuilsrver</td></tr>
@@ -47,8 +49,11 @@ Club
 <tr><td>BRAGA BORGES, JOSE</td><td>MALMESBURY</td></tr>
 <tr><td>Bull, Christopher (Chris)</td><td>Johannesburg - The Wilds</td></tr>
 <tr><td>Byars, Karin</td><td>Manzini Lions Club</td></tr>
+<tr><td>CADMAN, CECELIA</td><td>STELLENBOSCH</td></tr>
+<tr><td>CADMAN, HERMAN</td><td>STELLENBOSCH</td></tr>
 <tr><td>Calomiris, Artemis</td><td>Helderberg</td></tr>
 <tr><td>Carter, Shaun</td><td>Vereeniging</td></tr>
+<tr><td>Castle, Lizelle</td><td>Lions Club of Athlone</td></tr>
 <tr><td>Charles, Sue</td><td>Tokai</td></tr>
 <tr><td>Chazen, Lionel</td><td>Edenvale</td></tr>
 <tr><td>Chengan, Ryan</td><td>Merriman Lions</td></tr>
@@ -75,6 +80,9 @@ Club
 <tr><td>Flanagan, Charlie</td><td>Tokai</td></tr>
 <tr><td>Flanagan, Jules</td><td>Tokai</td></tr>
 <tr><td>Fourie, Michele</td><td>Merriman Lions Club</td></tr>
+<tr><td>Fox, Clive</td><td>Merriman Lions Club</td></tr>
+<tr><td>Fox, Pat</td><td>Merriman Lions Club</td></tr>
+<tr><td>Fritz, Roger</td><td>Merriman Lions club</td></tr>
 <tr><td>Froise, Martin</td><td>Letaba Tzaneen</td></tr>
 <tr><td>Gabriel, Anastasia</td><td>Vereeniging</td></tr>
 <tr><td>Gabriel, Mervyn</td><td>Vereeniging</td></tr>
@@ -91,6 +99,7 @@ Club
 <tr><td>Griffith, David</td><td>The Wilds</td></tr>
 <tr><td>Harris, Washiela</td><td>Mitchell's Plain Lions Club</td></tr>
 <tr><td>Haywood, Barbara</td><td>Eden 410W</td></tr>
+<tr><td>Hendricks, Naathirah</td><td>Athlone Lions Club</td></tr>
 <tr><td>Hendricks, Zarina</td><td>Athlone</td></tr>
 <tr><td>HENDRIKS, ELIZABETH</td><td>TABLEVIEW</td></tr>
 <tr><td>Herzfeld, Evelyn</td><td>Edenvale</td></tr>
@@ -114,6 +123,7 @@ Club
 <tr><td>Jordaan, Danie</td><td>Moorreesburg</td></tr>
 <tr><td>Jubelin, Charlotte</td><td>CAPE OF GOOD HOPE</td></tr>
 <tr><td>Kahn, Michelle</td><td>Sea Point</td></tr>
+<tr><td>Kaiyamo, Nico</td><td>Tsumeb</td></tr>
 <tr><td>Karshagen, Veronica Nicolene</td><td>King Williams Town</td></tr>
 <tr><td>Kennel, Esmeralda Catherine</td><td>Lions Club of Newlands</td></tr>
 <tr><td>Kienast, Margie</td><td>Edenvale</td></tr>
@@ -136,6 +146,7 @@ Club
 <tr><td>Lee, Heather</td><td>Cape of Goodhope Lions</td></tr>
 <tr><td>Leisching, Tamara</td><td>Tableveiw</td></tr>
 <tr><td>Love, Dee</td><td>Cowies Hill</td></tr>
+<tr><td>Ludicks, Nicole</td><td>Merriman Lions</td></tr>
 <tr><td>M'bemba, Wilfried</td><td>Cape of good hope</td></tr>
 <tr><td>Mackintosh, Colin</td><td>Scottburgh Lions</td></tr>
 <tr><td>MACROBERT, PAM</td><td>LIONS CLUB OF GROOTE SCHUUR</td></tr>
@@ -159,10 +170,12 @@ Club
 <tr><td>MOELLER, FRAUKE</td><td>WINDHOEK LIONS CLUB</td></tr>
 <tr><td>Morgan, Faith</td><td>Table View</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
+<tr><td>Mostert, Jacquest</td><td>Lions Club of Merriman</td></tr>
 <tr><td>Moulounda, Alain</td><td>CAPE OF GOOD HOPE LIONS</td></tr>
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
 <tr><td>Murray, Gary</td><td>Vereeniging</td></tr>
 <tr><td>Murray, Suzanne</td><td>Vereeniging Lions Club</td></tr>
+<tr><td>Mutschler, Peter</td><td>Grootfontein Lions Club</td></tr>
 <tr><td>Mutschler, Peter</td><td>Grootfontein Lions Club</td></tr>
 <tr><td>Naidoo, Rajin</td><td>Mitchells Plain</td></tr>
 <tr><td>naidu, vanessa</td><td>merriman</td></tr>
@@ -184,6 +197,9 @@ Club
 <tr><td>Polkinghorne, Gavin</td><td>Kensington</td></tr>
 <tr><td>Polkinghorne, Tracey</td><td>Kensington</td></tr>
 <tr><td>PORTEOUS, BRIAN</td><td>HIBBERDENE - 57333</td></tr>
+<tr><td>Pretorius, Shane</td><td>Merriman Lions</td></tr>
+<tr><td>Pretorius, Sheldon</td><td>Merriman Lions Club</td></tr>
+<tr><td>Ras, Leon</td><td>Swellendam</td></tr>
 <tr><td>RICHARDSON, VANESSA</td><td>RAMSGATE</td></tr>
 <tr><td>Rigby, Moira</td><td>Kingsburgh</td></tr>
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
@@ -203,6 +219,7 @@ Club
 <tr><td>Smit, Herman</td><td>Swellendam Lions Club</td></tr>
 <tr><td>Smit, Sue</td><td>Centurion</td></tr>
 <tr><td>SMITH, BENNIE</td><td>WELLINGTON</td></tr>
+<tr><td>Smith, Carmen</td><td>TOKAI</td></tr>
 <tr><td>Smith, Jeff</td><td>Port Shepstone</td></tr>
 <tr><td>Smith, Johann</td><td>Worcester</td></tr>
 <tr><td>SMYTH, JANINE</td><td>VEREENIGING</td></tr>
@@ -241,6 +258,7 @@ Club
 <tr><td>van Rensburg, Johan</td><td>Windhoek Lions Club</td></tr>
 <tr><td>van Rensburg, Neville</td><td>Moorreesburg</td></tr>
 <tr><td>Van Romburgh, Lorna</td><td>Fish Hoek</td></tr>
+<tr><td>Van Schoor, Charles</td><td>Merriman Lions club</td></tr>
 <tr><td>van Wulven, Jeannie</td><td>Tygerberg Hills</td></tr>
 <tr><td>Van Wyk, Edith</td><td>Kuilsriver</td></tr>
 <tr><td>Van wyk, Edith Naomi</td><td>Kuilsriver Loins</td></tr>
@@ -249,6 +267,7 @@ Club
 <tr><td>van Wyk, Vicki</td><td>North Durban</td></tr>
 <tr><td>Voges, Tinus</td><td>Alberton</td></tr>
 <tr><td>von der Decken, Brian</td><td>King William's Town</td></tr>
+<tr><td>von Mollendorf, Rinette</td><td>Durbanville</td></tr>
 <tr><td>Vorster, Rochelle</td><td>Sedgefield</td></tr>
 <tr><td>Wallendorf, Gunther</td><td>Krugersdorp Lions Club</td></tr>
 <tr><td>Wangari, Joyce</td><td>Eden</td></tr>
