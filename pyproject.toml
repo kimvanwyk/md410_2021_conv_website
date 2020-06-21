@@ -17,6 +17,7 @@ black = "^19.10b0"
 requests = "^2.23.0"
 attrs = "^19.3.0"
 dateparser = "^0.7.6"
+openpyxl = "^3.0.3"
 
 [tool.poetry.dev-dependencies]
 ptpython = "^2.0"

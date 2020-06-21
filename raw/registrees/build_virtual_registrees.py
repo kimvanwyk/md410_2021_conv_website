@@ -2,10 +2,12 @@ import attr
 import datetime
 
 
-import gotowebinar_api
+# import gotowebinar_api
+import excel_users
 import plot
 
-api = gotowebinar_api.Api()
+# api = gotowebinar_api.Api()
+api = excel_users.ExcelSheet()
 
 CSV_PATH = "../../static/docs/virtual_convention_stats.csv"
 URL_PATH = "../../content/virtual_conf_stats/_index.md"

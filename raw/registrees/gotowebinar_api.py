@@ -34,6 +34,7 @@ class Api:
                 "Authorization": "Basic TVZtQ3l5SUNBQzZKdndYdEMyVkxMaldyd0xBMkRmb1k6YVV1R1ZqZXpVemhVQ0Nodg==",
             },
         )
+        print(res.json())
         self.access_token = res.json()["access_token"]
 
     def get_registrees(self):
