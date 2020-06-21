@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 189</li>
+<ul><li><strong>Number of Registrees</strong>: 194</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -46,6 +46,7 @@ Club
 <tr><td>Carter, Shaun</td><td>Vereeniging</td></tr>
 <tr><td>Charles, Sue</td><td>Tokai</td></tr>
 <tr><td>Chazen, Lionel</td><td>Edenvale</td></tr>
+<tr><td>Chengan, Ryan</td><td>Merriman Lions</td></tr>
 <tr><td>Chetty, Perry</td><td>East Coast Lions club</td></tr>
 <tr><td>Cottle, Sharon</td><td>Groote Schuur</td></tr>
 <tr><td>Daniel, Peter</td><td>Gordon's Bay</td></tr>
@@ -91,10 +92,12 @@ Club
 <tr><td>Houston, John</td><td>Table View</td></tr>
 <tr><td>Human, Leslie</td><td>East London Port Rex</td></tr>
 <tr><td>Irving, David</td><td>Benoni Lakes</td></tr>
+<tr><td>Isaacs, Roger</td><td>Athlone</td></tr>
 <tr><td>Jacobs, David</td><td>Durbanville</td></tr>
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
 <tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
 <tr><td>Jonathan, Grant</td><td>Gordon's Bay</td></tr>
+<tr><td>Jordaan, Danie</td><td>Moorreesburg</td></tr>
 <tr><td>Jubelin, Charlotte</td><td>CAPE OF GOOD HOPE</td></tr>
 <tr><td>Kahn, Michelle</td><td>Sea Point</td></tr>
 <tr><td>Karshagen, Veronica Nicolene</td><td>King Williams Town</td></tr>
@@ -113,6 +116,7 @@ Club
 <tr><td>le Roux, Jeanette</td><td>GONUBIE</td></tr>
 <tr><td>Leisching, Tamara</td><td>Tableveiw</td></tr>
 <tr><td>Love, Dee</td><td>Cowies Hill</td></tr>
+<tr><td>M'bemba, Wilfried</td><td>Cape of good hope</td></tr>
 <tr><td>MACROBERT, PAM</td><td>LIONS CLUB OF GROOTE SCHUUR</td></tr>
 <tr><td>Mangwende, Sharon</td><td>Lions Club of Cape Town</td></tr>
 <tr><td>Marchant, Richard</td><td>The Wilds - Johannesburg</td></tr>
@@ -147,6 +151,7 @@ Club
 <tr><td>Olivier, Debra</td><td>Sedgefield</td></tr>
 <tr><td>Olsen, Rita</td><td>Gordon's Bay</td></tr>
 <tr><td>Pantoleon, IPP</td><td>Vereeniging Lions Club</td></tr>
+<tr><td>Pillay, Patrick</td><td>Tygerberg Hills</td></tr>
 <tr><td>Pillay, Priya</td><td>Lions East Coast</td></tr>
 <tr><td>Polkinghorne, Gavin</td><td>Kensington</td></tr>
 <tr><td>Polkinghorne, Tracey</td><td>Kensington</td></tr>
