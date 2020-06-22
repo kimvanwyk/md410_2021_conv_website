@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 264</li>
+<ul><li><strong>Number of Registrees</strong>: 266</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -133,6 +133,7 @@ Club
 <tr><td>King, Ian</td><td>Alberton</td></tr>
 <tr><td>King, Sandy</td><td>Alberton</td></tr>
 <tr><td>KRAEMER, MARIETJIE</td><td>PORT REX LIONS CLUB</td></tr>
+<tr><td>Kruger, Jacques</td><td>Helderberg</td></tr>
 <tr><td>Kruger, Niqula</td><td>Wilro Park</td></tr>
 <tr><td>Kruger, Pieter</td><td>Wilro Park</td></tr>
 <tr><td>Krüger, Zwaai</td><td>Sedgefield</td></tr>
@@ -164,6 +165,7 @@ Club
 <tr><td>Maytham, Rosemarie</td><td>Bredasdorp</td></tr>
 <tr><td>McCullough, David</td><td>Benoni Lakes Lions Club</td></tr>
 <tr><td>McDonald, Rochelle</td><td>Vereeniging Lions Club</td></tr>
+<tr><td>Meiring, Melanie</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Meltzer, Mark</td><td>THE WILDS</td></tr>
 <tr><td>Meyer, Denis</td><td>Port Shepstone</td></tr>
 <tr><td>Meyer, Gary</td><td>Lions Club of Northcliff</td></tr>
