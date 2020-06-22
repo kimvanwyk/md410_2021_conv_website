@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 262</li>
+<ul><li><strong>Number of Registrees</strong>: 263</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -208,6 +208,7 @@ Club
 <tr><td>Pretorius, Shane</td><td>Merriman Lions</td></tr>
 <tr><td>Pretorius, Sheldon</td><td>Merriman Lions Club</td></tr>
 <tr><td>Ras, Leon</td><td>Swellendam</td></tr>
+<tr><td>Ras, Mary-Anne</td><td>Swellendam</td></tr>
 <tr><td>Reviglio, Katia</td><td>Windhoek</td></tr>
 <tr><td>Reviglio, Roberto</td><td>Windhoek</td></tr>
 <tr><td>RICHARDSON, VANESSA</td><td>RAMSGATE</td></tr>
