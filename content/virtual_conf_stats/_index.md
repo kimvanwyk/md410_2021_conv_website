@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 252</li>
+<ul><li><strong>Number of Registrees</strong>: 262</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -63,6 +63,7 @@ Club
 <tr><td>Cottle, Sharon</td><td>Groote Schuur</td></tr>
 <tr><td>Daniel, Peter</td><td>Gordon's Bay</td></tr>
 <tr><td>De Gouveia, Ashley</td><td>Benoni Lakes Lions Club</td></tr>
+<tr><td>de Kock, Engela</td><td>Swellendam</td></tr>
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>Diener, Benita (Bonny)</td><td>Lions Club of Mitchell's Plain</td></tr>
@@ -109,6 +110,7 @@ Club
 <tr><td>HOBBS, TREVOR</td><td>North Durban</td></tr>
 <tr><td>Hocking, Cliff</td><td>Midrand 410E</td></tr>
 <tr><td>Hocking, Jacqui</td><td>Midrand</td></tr>
+<tr><td>Hoffmann, Ellen</td><td>Windhoek Lions Club</td></tr>
 <tr><td>Hone, Amanda</td><td>Wilro Park</td></tr>
 <tr><td>Houston, Elizabeth</td><td>Table View</td></tr>
 <tr><td>Houston, John</td><td>Table View</td></tr>
@@ -117,6 +119,7 @@ Club
 <tr><td>Isaacs, Roger</td><td>Athlone</td></tr>
 <tr><td>Jacobs, David</td><td>Durbanville</td></tr>
 <tr><td>Jacobs, Jean</td><td>Mitchells Plain</td></tr>
+<tr><td>Jacobson, Elsie</td><td>Cape Town</td></tr>
 <tr><td>Jacobson, Wolsley</td><td>CAPE TOWN</td></tr>
 <tr><td>JOHNSTON, MALCOLM</td><td>STANDERTON</td></tr>
 <tr><td>Jonathan, Grant</td><td>Gordon's Bay</td></tr>
@@ -146,11 +149,13 @@ Club
 <tr><td>Lee, Heather</td><td>Cape of Goodhope Lions</td></tr>
 <tr><td>Leisching, Tamara</td><td>Tableveiw</td></tr>
 <tr><td>Love, Dee</td><td>Cowies Hill</td></tr>
+<tr><td>Ludicks, Nicole</td><td>Merriman Lions Club</td></tr>
 <tr><td>Ludicks, Nicole</td><td>Merriman Lions</td></tr>
 <tr><td>M'bemba, Wilfried</td><td>Cape of good hope</td></tr>
 <tr><td>Mackintosh, Colin</td><td>Scottburgh Lions</td></tr>
 <tr><td>MACROBERT, PAM</td><td>LIONS CLUB OF GROOTE SCHUUR</td></tr>
 <tr><td>Mangwende, Sharon</td><td>Lions Club of Cape Town</td></tr>
+<tr><td>Marais, Kevin</td><td>Knysna Lions Club</td></tr>
 <tr><td>Marchant, Richard</td><td>The Wilds - Johannesburg</td></tr>
 <tr><td>Mare, Beaulieu</td><td>Benoni Lakes</td></tr>
 <tr><td>Mare, Nicholas</td><td>Benoni Lakes Lions</td></tr>
@@ -167,9 +172,11 @@ Club
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Bernice</td><td>Centurion</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
+<tr><td>Mocke, Jenny</td><td>Swellendam</td></tr>
 <tr><td>MOELLER, FRAUKE</td><td>WINDHOEK LIONS CLUB</td></tr>
 <tr><td>Morgan, Faith</td><td>Table View</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
+<tr><td>Moses, Brian</td><td>Cape of Good Hope</td></tr>
 <tr><td>Mostert, Jacquest</td><td>Lions Club of Merriman</td></tr>
 <tr><td>Moulounda, Alain</td><td>CAPE OF GOOD HOPE LIONS</td></tr>
 <tr><td>Mouton, Rene</td><td>Eden Lions Club</td></tr>
@@ -187,6 +194,7 @@ Club
 <tr><td>Noeth, Bonita</td><td>Sedgefield</td></tr>
 <tr><td>NORMAN, MAUREEN</td><td>PORT REX LIONS CLUB</td></tr>
 <tr><td>Nulliah, Ramona</td><td>Durban Host</td></tr>
+<tr><td>Ocker, Jenny</td><td>Fish Hoek and Simonsbay</td></tr>
 <tr><td>Olivier, Debra</td><td>Sedgefield</td></tr>
 <tr><td>Olsen, Rita</td><td>Gordon's Bay</td></tr>
 <tr><td>Paijmans, Bronwyn</td><td>Cowies Hill</td></tr>
@@ -200,6 +208,8 @@ Club
 <tr><td>Pretorius, Shane</td><td>Merriman Lions</td></tr>
 <tr><td>Pretorius, Sheldon</td><td>Merriman Lions Club</td></tr>
 <tr><td>Ras, Leon</td><td>Swellendam</td></tr>
+<tr><td>Reviglio, Katia</td><td>Windhoek</td></tr>
+<tr><td>Reviglio, Roberto</td><td>Windhoek</td></tr>
 <tr><td>RICHARDSON, VANESSA</td><td>RAMSGATE</td></tr>
 <tr><td>Rigby, Moira</td><td>Kingsburgh</td></tr>
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
