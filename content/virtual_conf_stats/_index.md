@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 269</li>
+<ul><li><strong>Number of Registrees</strong>: 270</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -100,6 +100,7 @@ Club
 <tr><td>Grater, Viv</td><td>Newlands</td></tr>
 <tr><td>Gray, Brian</td><td>Durbanville</td></tr>
 <tr><td>Griffith, David</td><td>The Wilds</td></tr>
+<tr><td>Groves, Mattheus Edward</td><td>Sedgefield</td></tr>
 <tr><td>Harris, Washiela</td><td>Mitchell's Plain Lions Club</td></tr>
 <tr><td>Haywood, Barbara</td><td>Eden 410W</td></tr>
 <tr><td>Hendricks, Naathirah</td><td>Athlone Lions Club</td></tr>
