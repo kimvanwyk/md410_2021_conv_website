@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 266</li>
+<ul><li><strong>Number of Registrees</strong>: 267</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -174,7 +174,6 @@ Club
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Bernice</td><td>Centurion</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
-<tr><td>Mocke, Jenny</td><td>Swellendam</td></tr>
 <tr><td>MOELLER, FRAUKE</td><td>WINDHOEK LIONS CLUB</td></tr>
 <tr><td>Morgan, Faith</td><td>Table View</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
@@ -265,6 +264,8 @@ Club
 <tr><td>VAN DER MERWE, MARINA</td><td>MALMESBURY</td></tr>
 <tr><td>VAN DER MERWE, PAT</td><td>PORT REX LIONS CLUB</td></tr>
 <tr><td>Van der Schyf, Yolandi</td><td>Midrand</td></tr>
+<tr><td>van Eck, Felicity</td><td>Table View</td></tr>
+<tr><td>van Eck, Thys</td><td>Table View</td></tr>
 <tr><td>van Heerden, Sandy</td><td>WILRO PARK</td></tr>
 <tr><td>van Heerden, Sydney</td><td>WILRO PARK</td></tr>
 <tr><td>van Nieuwenhuyzen, Hilgardt</td><td>Worcester</td></tr>
