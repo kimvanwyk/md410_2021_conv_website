@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 268</li>
+<ul><li><strong>Number of Registrees</strong>: 269</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -74,6 +74,7 @@ Club
 <tr><td>Easton, Denise</td><td>Roodepoort Clearwater Cyber Lions Club</td></tr>
 <tr><td>Elske, Valerie</td><td>Krugersdorp</td></tr>
 <tr><td>Ely, Fadia</td><td>Athlone</td></tr>
+<tr><td>Emmerick, Sanet</td><td>St Croix</td></tr>
 <tr><td>Erasmus, Freddie</td><td>Uitenhage</td></tr>
 <tr><td>Erasmus, Tanja</td><td>Uitenhage</td></tr>
 <tr><td>Esdaile, Michael</td><td>Manzini</td></tr>
