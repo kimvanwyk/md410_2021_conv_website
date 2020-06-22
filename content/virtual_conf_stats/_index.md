@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 263</li>
+<ul><li><strong>Number of Registrees</strong>: 264</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -213,6 +213,7 @@ Club
 <tr><td>Reviglio, Roberto</td><td>Windhoek</td></tr>
 <tr><td>RICHARDSON, VANESSA</td><td>RAMSGATE</td></tr>
 <tr><td>Rigby, Moira</td><td>Kingsburgh</td></tr>
+<tr><td>Roman, Mike</td><td>Bergvliet</td></tr>
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
 <tr><td>Rossouw, Mark</td><td>Tokai Lions Club</td></tr>
 <tr><td>Russell, Ingrid</td><td>Fish Hoek</td></tr>
