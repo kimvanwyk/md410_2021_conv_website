@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 270</li>
+<ul><li><strong>Number of Registrees</strong>: 271</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -67,6 +67,7 @@ Club
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>De Vos, Felicity</td><td>Kuilsriver</td></tr>
 <tr><td>Diener, Benita (Bonny)</td><td>Lions Club of Mitchell's Plain</td></tr>
+<tr><td>Du Plooy, Ivan</td><td>Krugersdorp</td></tr>
 <tr><td>du Plooy, Marc</td><td>alberton</td></tr>
 <tr><td>du Plooy, Tammy</td><td>alberton</td></tr>
 <tr><td>Du Toit, Desiree</td><td>Ramsgate</td></tr>
