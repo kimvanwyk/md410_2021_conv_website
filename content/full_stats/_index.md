@@ -17,20 +17,20 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 73</li>
-<li><strong>Lions</strong>: 69</li>
+<li><strong>Total</strong>: 71</li>
+<li><strong>Lions</strong>: 67</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 39</li>
+<li><strong>Number of Clubs</strong>: 38</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Wilro Park (5 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 70
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 68
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
-<li><strong>Pins</strong>: 67
+<li><strong>Pins</strong>: 66
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 21
+<li><strong>MJF Lunch</strong>: 20
 <li><strong>PDG Breakfast</strong>: 15
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 2
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R95385.00</li>
-<li><strong>Paid:</strong> R39950.00</li>
-<li><strong>Still Owed:</strong> R55435.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 28 (38.36%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 7 (9.59%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (52.05%)</li>
+<li><strong>Total Owed:</strong> R92760.00</li>
+<li><strong>Paid:</strong> R37380.00</li>
+<li><strong>Still Owed:</strong> R55380.00</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 27 (38.03%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 6 (8.45%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (53.52%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -94,6 +94,8 @@ draft: false
 <li>20-06-02 Jacobs, Jean (reg number: 097)</li>
 <li>20-06-03 Braga Borges, Jose (reg number: 037)</li>
 <li>20-06-03 van der Merwe, Martha Maria (reg number: 038)</li>
+<li>20-06-22 Haywood, Barbara (reg number: 106)</li>
+<li>20-06-22 Young, Judy (reg number: 027)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -278,17 +280,6 @@ StillOwed
 <td>1285.00</td>
 <td>0.00</td>
 <td>1285.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>106</td>
-<td>Barbara Haywood</td>
-<td>Eden</td>
-<td>Barbara Haywood</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
 </tr>
 
     
@@ -850,17 +841,6 @@ StillOwed
 <td>1340.00</td>
 <td>1340.00</td>
 <td>0.00</td>
-</tr>
-
-    
-<tr>
-<td>27</td>
-<td>Judy Young</td>
-<td>Durbanville</td>
-<td>CS Judy Young</td>
-<td>1340.00</td>
-<td>1285.00</td>
-<td>55.00</td>
 </tr>
 
     

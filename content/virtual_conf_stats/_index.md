@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 271</li>
+<ul><li><strong>Number of Registrees</strong>: 277</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -101,6 +101,8 @@ Club
 <tr><td>Grater, Viv</td><td>Newlands</td></tr>
 <tr><td>Gray, Brian</td><td>Durbanville</td></tr>
 <tr><td>Griffith, David</td><td>The Wilds</td></tr>
+<tr><td>Grobler, Gert</td><td>Henties Bay</td></tr>
+<tr><td>Grobler, Matty</td><td>Henties Bay</td></tr>
 <tr><td>Groves, Mattheus Edward</td><td>Sedgefield</td></tr>
 <tr><td>Harris, Washiela</td><td>Mitchell's Plain Lions Club</td></tr>
 <tr><td>Haywood, Barbara</td><td>Eden 410W</td></tr>
@@ -178,6 +180,7 @@ Club
 <tr><td>Michas, Roy</td><td>Midrand</td></tr>
 <tr><td>Mills, Bernice</td><td>Centurion</td></tr>
 <tr><td>Mills, Patrick</td><td>Centurion</td></tr>
+<tr><td>Mitchell, Alana</td><td>Rustenburg</td></tr>
 <tr><td>MOELLER, FRAUKE</td><td>WINDHOEK LIONS CLUB</td></tr>
 <tr><td>Morgan, Faith</td><td>Table View</td></tr>
 <tr><td>Morison, Sabina</td><td>Hout Bay</td></tr>
@@ -221,6 +224,7 @@ Club
 <tr><td>Roman, Mike</td><td>Bergvliet</td></tr>
 <tr><td>Roman, Sandy</td><td>Bergvliet</td></tr>
 <tr><td>Rossouw, Mark</td><td>Tokai Lions Club</td></tr>
+<tr><td>Roux, Anton</td><td>Moorreesburg</td></tr>
 <tr><td>Russell, Ingrid</td><td>Fish Hoek</td></tr>
 <tr><td>Sabatier, Rodney</td><td>Letaba Tzaneen Lions Club</td></tr>
 <tr><td>Sampie, Sharon</td><td>BERGVLIET LC</td></tr>
@@ -245,8 +249,10 @@ Club
 <tr><td>stier, RORY</td><td>NEWLANDS DEEP SOUTH</td></tr>
 <tr><td>stuppel, malcolm</td><td>de grendel</td></tr>
 <tr><td>Sturges, Trevor</td><td>Lions Club of Midrand</td></tr>
+<tr><td>swoboda, heinrich</td><td>windhoek namibia</td></tr>
 <tr><td>Talbot, Lauryn</td><td>Benoni Lakes</td></tr>
 <tr><td>TAYLOR, CATHY</td><td>PORT REX LIONS CLUB</td></tr>
+<tr><td>Thelander, Martin</td><td>De Grendel</td></tr>
 <tr><td>Theron, Moira</td><td>Midrand</td></tr>
 <tr><td>Theron, Pierre</td><td>Midrand</td></tr>
 <tr><td>Thompson, Jean</td><td>Northcliff</td></tr>
