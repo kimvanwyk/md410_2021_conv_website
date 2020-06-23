@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 277</li>
+<ul><li><strong>Number of Registrees</strong>: 281</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -162,6 +162,7 @@ Club
 <tr><td>Mackintosh, Colin</td><td>Scottburgh Lions</td></tr>
 <tr><td>MACROBERT, PAM</td><td>LIONS CLUB OF GROOTE SCHUUR</td></tr>
 <tr><td>Mangwende, Sharon</td><td>Lions Club of Cape Town</td></tr>
+<tr><td>Manuel, Lamisah</td><td>Leo's Club</td></tr>
 <tr><td>Marais, Kevin</td><td>Knysna Lions Club</td></tr>
 <tr><td>Marchant, Richard</td><td>The Wilds - Johannesburg</td></tr>
 <tr><td>Mare, Beaulieu</td><td>Benoni Lakes</td></tr>
@@ -208,6 +209,7 @@ Club
 <tr><td>Paijmans, Bronwyn</td><td>Cowies Hill</td></tr>
 <tr><td>Pantoleon, IPP</td><td>Vereeniging Lions Club</td></tr>
 <tr><td>PATTEN, RICHARD</td><td>PORT REX LIONS CLUB</td></tr>
+<tr><td>Pillay, Nerisha</td><td>East Coast Lions Durban South Africa</td></tr>
 <tr><td>Pillay, Patrick</td><td>Tygerberg Hills</td></tr>
 <tr><td>Pillay, Priya</td><td>Lions East Coast</td></tr>
 <tr><td>Polkinghorne, Gavin</td><td>Kensington</td></tr>
@@ -278,6 +280,7 @@ Club
 <tr><td>van Eck, Thys</td><td>Table View</td></tr>
 <tr><td>van Heerden, Sandy</td><td>WILRO PARK</td></tr>
 <tr><td>van Heerden, Sydney</td><td>WILRO PARK</td></tr>
+<tr><td>van Litzenborgh, remona</td><td>hentiesbaai</td></tr>
 <tr><td>van Nieuwenhuyzen, Hilgardt</td><td>Worcester</td></tr>
 <tr><td>van Rensburg, Anne</td><td>Windhoek Lions Club</td></tr>
 <tr><td>van Rensburg, Johan</td><td>Windhoek Lions Club</td></tr>
@@ -306,6 +309,7 @@ Club
 <tr><td>Wilter-Sturges, Meredith</td><td>Lions Club of Midrand</td></tr>
 <tr><td>Woodman, Joan</td><td>Lions Club of Mitchell's Plain</td></tr>
 <tr><td>Wright, Rocky</td><td>Table View</td></tr>
+<tr><td>Young, Geraldine</td><td>Lions Club of Mitchell's Plain</td></tr>
 <tr><td>Young, Judy</td><td>Durbanville</td></tr>
 <tr><td>‘T Hart, Michelle</td><td>Benoni Lakes Lions Club</td></tr>
 
