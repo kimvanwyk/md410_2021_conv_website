@@ -23,7 +23,7 @@ if 1:
             )
             skip = True
             for (n, row) in enumerate(wb["Sheet0"].values):
-                if not skip:
+                if not skip and "Approved" in row[4].strip():
                     self.registrees[n] = {
                         "first_name": row[0],
                         "last_name": row[1],
