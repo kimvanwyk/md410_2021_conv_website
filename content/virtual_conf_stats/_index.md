@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Virtual Convention Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 281</li>
+<ul><li><strong>Number of Registrees</strong>: 283</li>
 </ul><a href="/docs/virtual_convention_stats.csv">Download registration details here</a>
 <h2>Registrees</h2>
 <table id="registreeTable" class="tablesorter" border="1" padding=1>
@@ -113,6 +113,7 @@ Club
 <tr><td>Hess, Dorothy</td><td>Kuilsriver</td></tr>
 <tr><td>Higgins, Wendy</td><td>Wilro Park</td></tr>
 <tr><td>Hobbs, Avril</td><td>North Durban</td></tr>
+<tr><td>Hobbs, Grant</td><td>North Durban</td></tr>
 <tr><td>HOBBS, TREVOR</td><td>North Durban</td></tr>
 <tr><td>Hocking, Cliff</td><td>Midrand 410E</td></tr>
 <tr><td>Hocking, Jacqui</td><td>Midrand</td></tr>
@@ -294,6 +295,7 @@ Club
 <tr><td>van Wyk, Lindie</td><td>Pretoria Jakaranda</td></tr>
 <tr><td>van Wyk, Vicki</td><td>North Durban</td></tr>
 <tr><td>Voges, Tinus</td><td>Alberton</td></tr>
+<tr><td>Volker, Russell</td><td>King Williams Town</td></tr>
 <tr><td>von der Decken, Brian</td><td>King William's Town</td></tr>
 <tr><td>von Mollendorf, Rinette</td><td>Durbanville</td></tr>
 <tr><td>Vorster, Rochelle</td><td>Sedgefield</td></tr>
