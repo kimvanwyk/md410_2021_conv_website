@@ -17,20 +17,20 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <ul><li><strong>Number of Registrees</strong><ul>
-<li><strong>Total</strong>: 71</li>
-<li><strong>Lions</strong>: 67</li>
+<li><strong>Total</strong>: 70</li>
+<li><strong>Lions</strong>: 66</li>
 <li><strong>Partners In Service</strong>: 4</li>
 </ul>
-<li><strong>Number of Clubs</strong>: 38</li>
+<li><strong>Number of Clubs</strong>: 37</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Of Good Hope, Wilro Park (5 registrees)</li>
-<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 68
+<li><strong>Registrations</strong></li><ul><li><strong>Full</strong>: 67
 <li><strong>Banquet</strong>: 1
 <li><strong>Convention</strong>: 2
 <li><strong>Theme</strong>: 1
 </ul><li><strong>Extra Items</strong></li><ul>
 <li><strong>Pins</strong>: 66
 </ul><li><strong>Extra Activities</strong></li><ul>
-<li><strong>MJF Lunch</strong>: 20
+<li><strong>MJF Lunch</strong>: 19
 <li><strong>PDG Breakfast</strong>: 15
 <li><strong>Sharks Board</strong>: 4
 <li><strong>Golf</strong>: 2
@@ -39,12 +39,12 @@ draft: false
 <li><strong>Partner Program</strong>: 4
 </ul>
 <li><strong>Payment Details</strong></li><ul>
-<li><strong>Total Owed:</strong> R92760.00</li>
-<li><strong>Paid:</strong> R37380.00</li>
+<li><strong>Total Owed:</strong> R91475.00</li>
+<li><strong>Paid:</strong> R36095.00</li>
 <li><strong>Still Owed:</strong> R55380.00</li>
-<li><strong>Number of Attendees Who Have Paid in Full:</strong> 27 (38.03%)</li>
-<li><strong>Number of Attendees Who Have Paid in Part:</strong> 6 (8.45%)</li>
-<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (53.52%)</li>
+<li><strong>Number of Attendees Who Have Paid in Full:</strong> 26 (37.14%)</li>
+<li><strong>Number of Attendees Who Have Paid in Part:</strong> 6 (8.57%)</li>
+<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> 38 (54.29%)</li>
 </ul>
 <li><strong>Cancellations</strong></li><ul>
 <li>20-02-07 McCullough, David (reg number: 058)</li>
@@ -96,6 +96,7 @@ draft: false
 <li>20-06-03 van der Merwe, Martha Maria (reg number: 038)</li>
 <li>20-06-22 Haywood, Barbara (reg number: 106)</li>
 <li>20-06-22 Young, Judy (reg number: 027)</li>
+<li>20-06-25 Nel, Pieter (reg number: 091)</li>
 </ul>
 <li><strong>Dietary Requirements</strong></li><ul>
 <li>Allergic to Shellfish</li>
@@ -500,17 +501,6 @@ StillOwed
 <td>1340.00</td>
 <td>0.00</td>
 <td>1340.00</td>
-</tr>
-
-    
-<tr style="background-color: lightgreen">
-<td>91</td>
-<td>Pieter Nel</td>
-<td>George</td>
-<td>DGE Pieter Nel</td>
-<td>1285.00</td>
-<td>1285.00</td>
-<td>0.00</td>
 </tr>
 
     
