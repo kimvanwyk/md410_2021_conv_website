@@ -11,39 +11,39 @@ The hotel can be contacted on +27 (0) 31 563 0600 or at [reserve@riversidehotel.
 
 <center><h4 style="color:red;">When booking at the hotel, make sure to inform them that you're booking for the Lions Convention.</h4></center>
 
-## Rates and Rooms
+<!-- ## Rates and Rooms -->
 
-The Riverside Hotel has offered a substantially reduced rate for the MD Convention, especially on double rate bookings:
+<!-- The Riverside Hotel has offered a substantially reduced rate for the MD Convention, especially on double rate bookings: -->
 
-<div class="text-center">
-    <img src="/img/riverside_room_standard.png" width="300" alt="Riverside Hotel - Standard Room" class="rounded img-fluid">
-</div>
+<!-- <div class="text-center"> -->
+<!--     <img src="/img/riverside_room_standard.png" width="300" alt="Riverside Hotel - Standard Room" class="rounded img-fluid"> -->
+<!-- </div> -->
 
-* **Standard Room**: (85 available):
-  * Double rate: R697.50 per person sharing per night
-  * Single rate: R1195 per room per night
+<!-- * **Standard Room**: (85 available): -->
+<!--   * Double rate: R697.50 per person sharing per night -->
+<!--   * Single rate: R1195 per room per night -->
 
-<div class="text-center">
-    <img src="/img/riverside_room_deluxe.png" width="300" alt="Riverside Hotel - Deluxe Room" class="rounded img-fluid">
-</div>
+<!-- <div class="text-center"> -->
+<!--     <img src="/img/riverside_room_deluxe.png" width="300" alt="Riverside Hotel - Deluxe Room" class="rounded img-fluid"> -->
+<!-- </div> -->
 
-* **Deluxe Room**: (12 available):
-  * Double rate: R772.50 per person sharing per night
-  * Single rate: R1345 per room per night
+<!-- * **Deluxe Room**: (12 available): -->
+<!--   * Double rate: R772.50 per person sharing per night -->
+<!--   * Single rate: R1345 per room per night -->
 
-<div class="text-center">
-    <img src="/img/riverside_room_triple.png" width="300" alt="Riverside Hotel - Triple Room" class="rounded img-fluid">
-</div>
+<!-- <div class="text-center"> -->
+<!--     <img src="/img/riverside_room_triple.png" width="300" alt="Riverside Hotel - Triple Room" class="rounded img-fluid"> -->
+<!-- </div> -->
 
-* **Triple Room**: (1 double bed and 1 single bed - 12 available):
-  * Rate: R565 per person sharing per night
+<!-- * **Triple Room**: (1 double bed and 1 single bed - 12 available): -->
+<!--   * Rate: R565 per person sharing per night -->
 
-<div class="text-center">
-    <img src="/img/riverside_room_family.png" width="300" alt="Riverside Hotel - Family Room" class="rounded img-fluid">
-</div>
+<!-- <div class="text-center"> -->
+<!--     <img src="/img/riverside_room_family.png" width="300" alt="Riverside Hotel - Family Room" class="rounded img-fluid"> -->
+<!-- </div> -->
 
-* **Family Room**: (2 double beds or 1 double bed and 2 single beds - 24 available):
-  * Rate: R473.75 per person sharing per night
+<!-- * **Family Room**: (2 double beds or 1 double bed and 2 single beds - 24 available): -->
+<!--   * Rate: R473.75 per person sharing per night -->
 
 ## Further Details
 
