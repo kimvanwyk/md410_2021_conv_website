@@ -1,6 +1,6 @@
 baseURL = "https://lionsconvention2021.co.za"
 languageCode = "en-za"
-title = "Lions Multiple District 410 2020 Convention"
+title = "Lions Multiple District 410 2021 Convention"
 theme = "beautifulhugo" 
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -100,59 +100,11 @@ unsafe= true
     url = "program"
     weight = 3
 
-[[menu.main]]
-    name = "News and Newsletters"
-    identifier = "news"
-    url = "news"
-    weight = 4
-
-[[menu.main]]
-    name = "Launch Poster"
-    url = "news/launch_poster"
-    parent = "news"
-    weight = 6
-
-[[menu.main]]
-    name = "Second Newsletter"
-    url = "news/newsletter_02"
-    parent = "news"
-    weight = 5
-
-[[menu.main]]
-    name = "Third Newsletter"
-    url = "news/newsletter_03"
-    parent = "news"
-    weight = 4
-
-[[menu.main]]
-    name = "A Message From the Council of Governors Regarding COVID-19"
-    url = "news/covid_19_01"
-    parent = "news"
-    weight = 3
-
-[[menu.main]]
-    name = "A Further Message From the Council of Governors Regarding COVID-19"
-    url = "news/covid_19_02"
-    parent = "news"
-    weight = 2
-
-[[menu.main]]
-    name = "Postponement of the MD410 2020 Convention"
-    url = "news/postponement"
-    parent = "news"
-    weight = 2
-
-[[menu.main]]
-    name = "Cancellation of the MD410 2020 Convention"
-    url = "news/cancellation"
-    parent = "news"
-    weight = 1
-
-[[menu.main]]
-    name = "Letter of Thanks From CC Jacqui"
-    url = "news/cc_thanks"
-    parent = "news"
-    weight = 1
+# [[menu.main]]
+#     name = "News and Newsletters"
+#     identifier = "news"
+#     url = "news"
+#     weight = 4
 
 # [[menu.main]]
 #     name = "International Guest"
