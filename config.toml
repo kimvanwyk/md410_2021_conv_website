@@ -111,15 +111,15 @@ unsafe= true
 #     url = "guest"
 #     weight = 5
 
-[[menu.main]]
-    name = "RLLI"
-    url = "rlli"
-    weight = 5
+# [[menu.main]]
+#     name = "RLLI"
+#     url = "rlli"
+#     weight = 5
 
-[[menu.main]]
-    name = "Convention Committee"
-    url = "committee"
-    weight = 6
+# [[menu.main]]
+#     name = "Convention Committee"
+#     url = "committee"
+#     weight = 6
 
 [[menu.main]]
     name = "Registration Stats"

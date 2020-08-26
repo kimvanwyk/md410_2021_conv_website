@@ -1,11 +1,11 @@
 ---
-title: "Lions MD410 2020 Convention Accommodation"
+title: "Lions MD410 2021 Convention Accommodation"
 draft: false
 ---
 
-The Lions MD410 2020 Convention will be held at the [Riverside Hotel](https://theriversidehotel.co.za/), nestled on the mouth of the Umgeni River in Durban North. The hotel is located 20 minutes from the King Shaka airport and is easily reached via major highways. Plentiful accommodation is available at the Riverside Hotel.
+The Lions MD410 2021 Convention will be held at the [Riverside Hotel](https://theriversidehotel.co.za/), nestled on the mouth of the Umgeni River in Durban North. The hotel is located 20 minutes from the King Shaka airport and is easily reached via major highways. Plentiful accommodation is available at the Riverside Hotel.
 
-Accommodation bookings at the Riverside Hotel should be made directly with the hotel - the MD410 2020 Convention committee are not handling accommodation requirements. 
+Accommodation bookings at the Riverside Hotel should be made directly with the hotel - the MD410 2021 Convention committee are not handling accommodation requirements. 
 
 The hotel can be contacted on +27 (0) 31 563 0600 or at [reserve@riversidehotel.co.za](mailto:reserve@riversidehotel.co.za). Full contact details for the hotel are on their [website](https://theriversidehotel.co.za/). 
 

@@ -4,7 +4,7 @@ date: 2019-07-14T16:19:07+02:00
 draft: false
 ---
 
-The 2020 MD410 Convention will be convened by a team of dedicated and passionate Lions from several clubs in and around the greater Durban area:
+The 2021 MD410 Convention will be convened by a team of dedicated and passionate Lions from several clubs in and around the greater Durban area:
 
 * **Convention Convenor**: Trevor Hobbs
     * 076 731 2993
@@ -41,11 +41,11 @@ The MD410 Standing Committee on Conventions advises the convention committee and
 Please use email wherever possible as the committee members may not be in a position to take phone calls.
 
 <!-- <div class="text-center"> -->
-<!--     <img src="/img/committee.png" width="20%" alt="Group Photo of 2020 MD410 Convention Organising Committee" class="rounded img-fluid"> -->
+<!--     <img src="/img/committee.png" width="20%" alt="Group Photo of 2021 MD410 Convention Organising Committee" class="rounded img-fluid"> -->
 <!-- </div> -->
-{{< figure src="/img/committee.png" alt="Group Photo of 2020 MD410 Convention Organising Committee">}}
+{{< figure src="/img/committee.png" alt="Group Photo of 2021 MD410 Convention Organising Committee">}}
  
-**2020 MD410 Convention Organising Committee** \
+**2021 MD410 Convention Organising Committee** \
 **Back Row, Left to Right:** Lions Cecile Kathan, Gary Nulliah, Lyn Botha, Basil Naidoo, Kim van Wyk, Dave Shone, Trevor Hobbs \
 **Front Row, Left to Right:** Lions Grant Hobbs, Avril Hobbs, Vicki van Wyk, Ramona Nulliah, Dee Love \
 **Inserts, Top to Bottom:** Lions Karin Preston, Kasturi Naidoo, Seelan Naidoo
