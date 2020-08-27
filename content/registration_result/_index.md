@@ -13,4 +13,4 @@ If you require an invoice for this registration, please contact the registration
 
 Thank you again for registering!
 
-<center>[Back to the home page](/)</center>
+<center><a href="/">Back to the home page</a></center>

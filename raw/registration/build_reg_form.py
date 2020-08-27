@@ -1,7 +1,8 @@
 CLUBS = []
 with open("clubs.txt", "r") as fh:
-    CLUBS = [l.strip() for l in fh]
+    CLUBS = [l.strip() for l in fh] + ["Other Club"]
 
+DISTRICTS = ["410E", "410W", "Other District"]
 
 class HTML(object):
     def __init__(self):
@@ -22,12 +23,12 @@ class HTML(object):
         self.out.append(f'{"~" * self.level}<br>')
         self.out.append(f'{"~" * self.level}<br>')
         self.out.append(
-            f'{"~" * self.level}Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2020.'
+            f'{"~" * self.level}Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2021.'
         )
         self.out.append(f'{"~" * self.level}<ul>')
         self.level += 1
         self.out.append(
-            f'{"~" * self.level}<li>If your registration is cancelled before 1 April 2020, 90% of the payments you have made will be refunded.</li>'
+            f'{"~" * self.level}<li>If your registration is cancelled before 1 April 2021, 90% of the payments you have made will be refunded.</li>'
         )
         self.out.append(
             f'{"~" * self.level}<li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>'
@@ -243,6 +244,8 @@ def make_attendee_fields(html, prefix, lion=True):
 
     if lion:
         html.add_selector(f"{prefix}_club", "Lions Club", CLUBS)
+    if lion:
+        html.add_selector(f"{prefix}_district", "District", DISTRICTS)
     html.add_text(
         f"{prefix}_cell",
         "Cell Phone",
@@ -270,35 +273,35 @@ def make_attendee_fields(html, prefix, lion=True):
         help="This lunch is only open to Melvin Jones Fellows and may carry an additional charge. Details will be provided closer to the time.",
     )
 
-    html.add_checkbox(
-        f"{prefix}_pdg_breakfast",
-        'Attendee will attend the <a href="/events/pdgs_breakfast">PDG\'s Breakfast.</a>',
-        help='This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.',
-    )
+    # html.add_checkbox(
+    #     f"{prefix}_pdg_breakfast",
+    #     'Attendee will attend the <a href="/events/pdgs_breakfast">PDG\'s Breakfast.</a>',
+    #     help='This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.',
+    # )
 
-    html.add_checkbox(
-        f"{prefix}_sharks_board",
-        'Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April',
-        help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
-    )
+    # html.add_checkbox(
+    #     f"{prefix}_sharks_board",
+    #     'Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April',
+    #     help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
+    # )
 
-    html.add_checkbox(
-        f"{prefix}_golf",
-        'Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May',
-        help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
-    )
+    # html.add_checkbox(
+    #     f"{prefix}_golf",
+    #     'Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May',
+    #     help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
+    # )
 
-    html.add_checkbox(
-        f"{prefix}_sight_seeing",
-        'Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May',
-        help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
-    )
+    # html.add_checkbox(
+    #     f"{prefix}_sight_seeing",
+    #     'Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May',
+    #     help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
+    # )
 
-    html.add_checkbox(
-        f"{prefix}_service_project",
-        'Attendee is interested in attending a <a href="/events/service_project/">service project</a> on Friday 1 May',
-        help="This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
-    )
+    # html.add_checkbox(
+    #     f"{prefix}_service_project",
+    #     'Attendee is interested in attending a <a href="/events/service_project/">service project</a> on Friday 1 May',
+    #     help="This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
+    # )
 
     if not lion:
         html.add_checkbox(
@@ -378,7 +381,7 @@ html.add_header("Extra Items")
 html.add_text(
     "pins",
     "Total Number of Convention Pins (R55 per pin)",
-    help="<b>Please note that pins ordered after 15 March 2020 will not be ready in time for collection at the convention.</b>",
+    help="<b>Please note that pins ordered after 15 March 2021 will not be ready in time for collection at the convention.</b>",
     type="number",
     cls="total",
     cost=55,

@@ -9,9 +9,9 @@ draft: false
    The details of your registration will be sent to you, including a unique registration number. Payment details will also be included in that email. Please make all payments using your registration number as a reference.
    <br>
    <br>
-   Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2020.
+   Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2021.
    <ul>
-      <li>If your registration is cancelled before 1 April 2020, 90% of the payments you have made will be refunded.</li>
+      <li>If your registration is cancelled before 1 April 2021, 90% of the payments you have made will be refunded.</li>
       <li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>
    </ul>
    <h2>First Attendee</h2>
@@ -209,6 +209,19 @@ draft: false
             <option value="Windhoek Alte Feste">Windhoek Alte Feste</option>
             <option value="Worcester">Worcester</option>
             <option value="Zastron">Zastron</option>
+            <option value="Other Club">Other Club</option>
+         </select>
+      </div>
+   </div>
+   <div class="form-group row">
+      <label for="main_district" class="col-sm-4 col-form-label">
+         District: 
+      </label>
+      <div class="col-sm-8">
+         <select class="form-control" id="main_district" name="main_district">
+            <option value="410E">410E</option>
+            <option value="410W">410W</option>
+            <option value="Other District">Other District</option>
          </select>
       </div>
    </div>
@@ -266,51 +279,6 @@ draft: false
       </label>
       <small id="main_mjf_lunch_help" class="form-text text-muted">
          This lunch is only open to Melvin Jones Fellows and may carry an additional charge. Details will be provided closer to the time.
-      </small>
-   </div>
-   <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="main_pdg_breakfast" name="main_pdg_breakfast" id="main_pdg_breakfast" aria-describedby="main_pdg_breakfast_help">
-      <label class="form-check-label" for="main_pdg_breakfast">
-         Attendee will attend the <a href="/events/pdgs_breakfast">PDG's Breakfast.</a>
-      </label>
-      <small id="main_pdg_breakfast_help" class="form-text text-muted">
-         This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.
-      </small>
-   </div>
-   <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="main_sharks_board" name="main_sharks_board" id="main_sharks_board" aria-describedby="main_sharks_board_help">
-      <label class="form-check-label" for="main_sharks_board">
-         Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April
-      </label>
-      <small id="main_sharks_board_help" class="form-text text-muted">
-         This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-      </small>
-   </div>
-   <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="main_golf" name="main_golf" id="main_golf" aria-describedby="main_golf_help">
-      <label class="form-check-label" for="main_golf">
-         Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May
-      </label>
-      <small id="main_golf_help" class="form-text text-muted">
-         This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-      </small>
-   </div>
-   <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="main_sight_seeing" name="main_sight_seeing" id="main_sight_seeing" aria-describedby="main_sight_seeing_help">
-      <label class="form-check-label" for="main_sight_seeing">
-         Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May
-      </label>
-      <small id="main_sight_seeing_help" class="form-text text-muted">
-         This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-      </small>
-   </div>
-   <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="main_service_project" name="main_service_project" id="main_service_project" aria-describedby="main_service_project_help">
-      <label class="form-check-label" for="main_service_project">
-         Attendee is interested in attending a <a href="/events/service_project/">service project</a> on Friday 1 May
-      </label>
-      <small id="main_service_project_help" class="form-text text-muted">
-         This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
       </small>
    </div>
    <hr>
@@ -531,6 +499,19 @@ draft: false
                   <option value="Windhoek Alte Feste">Windhoek Alte Feste</option>
                   <option value="Worcester">Worcester</option>
                   <option value="Zastron">Zastron</option>
+                  <option value="Other Club">Other Club</option>
+               </select>
+            </div>
+         </div>
+         <div class="form-group row">
+            <label for="partner_lion_district" class="col-sm-4 col-form-label">
+               District: 
+            </label>
+            <div class="col-sm-8">
+               <select class="form-control" id="partner_lion_district" name="partner_lion_district">
+                  <option value="410E">410E</option>
+                  <option value="410W">410W</option>
+                  <option value="Other District">Other District</option>
                </select>
             </div>
          </div>
@@ -588,51 +569,6 @@ draft: false
             </label>
             <small id="partner_lion_mjf_lunch_help" class="form-text text-muted">
                This lunch is only open to Melvin Jones Fellows and may carry an additional charge. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_lion_pdg_breakfast" name="partner_lion_pdg_breakfast" id="partner_lion_pdg_breakfast" aria-describedby="partner_lion_pdg_breakfast_help">
-            <label class="form-check-label" for="partner_lion_pdg_breakfast">
-               Attendee will attend the <a href="/events/pdgs_breakfast">PDG's Breakfast.</a>
-            </label>
-            <small id="partner_lion_pdg_breakfast_help" class="form-text text-muted">
-               This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_lion_sharks_board" name="partner_lion_sharks_board" id="partner_lion_sharks_board" aria-describedby="partner_lion_sharks_board_help">
-            <label class="form-check-label" for="partner_lion_sharks_board">
-               Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April
-            </label>
-            <small id="partner_lion_sharks_board_help" class="form-text text-muted">
-               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_lion_golf" name="partner_lion_golf" id="partner_lion_golf" aria-describedby="partner_lion_golf_help">
-            <label class="form-check-label" for="partner_lion_golf">
-               Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May
-            </label>
-            <small id="partner_lion_golf_help" class="form-text text-muted">
-               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_lion_sight_seeing" name="partner_lion_sight_seeing" id="partner_lion_sight_seeing" aria-describedby="partner_lion_sight_seeing_help">
-            <label class="form-check-label" for="partner_lion_sight_seeing">
-               Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May
-            </label>
-            <small id="partner_lion_sight_seeing_help" class="form-text text-muted">
-               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_lion_service_project" name="partner_lion_service_project" id="partner_lion_service_project" aria-describedby="partner_lion_service_project_help">
-            <label class="form-check-label" for="partner_lion_service_project">
-               Attendee is interested in attending a <a href="/events/service_project/">service project</a> on Friday 1 May
-            </label>
-            <small id="partner_lion_service_project_help" class="form-text text-muted">
-               This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
             </small>
          </div>
       </fieldset>
@@ -727,51 +663,6 @@ draft: false
             </small>
          </div>
          <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_non_lion_pdg_breakfast" name="partner_non_lion_pdg_breakfast" id="partner_non_lion_pdg_breakfast" aria-describedby="partner_non_lion_pdg_breakfast_help">
-            <label class="form-check-label" for="partner_non_lion_pdg_breakfast">
-               Attendee will attend the <a href="/events/pdgs_breakfast">PDG's Breakfast.</a>
-            </label>
-            <small id="partner_non_lion_pdg_breakfast_help" class="form-text text-muted">
-               This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_non_lion_sharks_board" name="partner_non_lion_sharks_board" id="partner_non_lion_sharks_board" aria-describedby="partner_non_lion_sharks_board_help">
-            <label class="form-check-label" for="partner_non_lion_sharks_board">
-               Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April
-            </label>
-            <small id="partner_non_lion_sharks_board_help" class="form-text text-muted">
-               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_non_lion_golf" name="partner_non_lion_golf" id="partner_non_lion_golf" aria-describedby="partner_non_lion_golf_help">
-            <label class="form-check-label" for="partner_non_lion_golf">
-               Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May
-            </label>
-            <small id="partner_non_lion_golf_help" class="form-text text-muted">
-               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_non_lion_sight_seeing" name="partner_non_lion_sight_seeing" id="partner_non_lion_sight_seeing" aria-describedby="partner_non_lion_sight_seeing_help">
-            <label class="form-check-label" for="partner_non_lion_sight_seeing">
-               Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May
-            </label>
-            <small id="partner_non_lion_sight_seeing_help" class="form-text text-muted">
-               This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="partner_non_lion_service_project" name="partner_non_lion_service_project" id="partner_non_lion_service_project" aria-describedby="partner_non_lion_service_project_help">
-            <label class="form-check-label" for="partner_non_lion_service_project">
-               Attendee is interested in attending a <a href="/events/service_project/">service project</a> on Friday 1 May
-            </label>
-            <small id="partner_non_lion_service_project_help" class="form-text text-muted">
-               This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.
-            </small>
-         </div>
-         <div class="form-check">
             <input class="form-check-input" type="checkbox" value="partner_non_lion_partner_program" name="partner_non_lion_partner_program" id="partner_non_lion_partner_program" aria-describedby="partner_non_lion_partner_program_help">
             <label class="form-check-label" for="partner_non_lion_partner_program">
                Attendee would be interested in the partner's program.
@@ -855,7 +746,7 @@ draft: false
       <div class="col-sm-4">
          <input type="number" min="0" value="0" class="form-control total" id="pins" name="pins" aria-describedby="pins_help" cost=55>
          <small id="pins_help" class="form-text text-muted">
-            <b>Please note that pins ordered after 15 March 2020 will not be ready in time for collection at the convention.</b>
+            <b>Please note that pins ordered after 15 March 2021 will not be ready in time for collection at the convention.</b>
          </small>
       </div>
    </div>
