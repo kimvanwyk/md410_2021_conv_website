@@ -99,13 +99,13 @@ FOOTER = '''
 '''
 
 TABLES = {
-    "registree": ("md410_2020_conv", "registree"),
-    "club": ("md410_2020_conv", "club"),
-    "partner_program": ("md410_2020_conv", "partner_program"),
-    "full_reg": ("md410_2020_conv", "full_reg"),
-    "partial_reg": ("md410_2020_conv", "partial_reg"),
-    "pins": ("md410_2020_conv", "pins"),
-    "payment": ("md410_2020_conv", "payment")
+    "registree": ("md410_2021_conv", "registree"),
+    "club": ("md410_2021_conv", "club"),
+    "partner_program": ("md410_2021_conv", "partner_program"),
+    "full_reg": ("md410_2021_conv", "full_reg"),
+    "partial_reg": ("md410_2021_conv", "partial_reg"),
+    "pins": ("md410_2021_conv", "pins"),
+    "payment": ("md410_2021_conv", "payment")
 }
 
 COSTS = {
@@ -131,11 +131,11 @@ class Registree(object):
     is_lion = attr.ib()
     first_mdc = attr.ib()
     mjf_lunch = attr.ib()
-    pdg_breakfast = attr.ib()
-    sharks_board = attr.ib()
-    golf = attr.ib()
-    sight_seeing = attr.ib()
-    service_project = attr.ib()
+    # pdg_breakfast = attr.ib()
+    # sharks_board = attr.ib()
+    # golf = attr.ib()
+    # sight_seeing = attr.ib()
+    # service_project = attr.ib()
     full = attr.ib()
     banquet = attr.ib()
     convention = attr.ib()
@@ -275,7 +275,11 @@ class Stats(object):
         self.registrees = registrees
         self.cancellations = cancellations
         freq = Counter([r.club for r in self.registrees]).most_common()
-        self.club_freq_num = freq[0][1]
+        if freq:
+            self.club_freq_num = freq[0][1]
+        else:
+            freq = []
+            self.club_freq_num = 0
         names = []
         for (name, num) in freq:
             if num == self.club_freq_num:
@@ -297,10 +301,11 @@ class Stats(object):
             fh.write('\n')
             fh.write(f'<li><strong>Club{"s" if ", " in self.club_freq_name else ""} With Most Attendees</strong>: {self.club_freq_name} ({self.club_freq_num} registrees)</li>\n')
             fh.write('</ul>')
-            fh.write(PUBLIC_TABLE_HEADER)
-            for registree in self.registrees:
-                fh.write(f"<tr><td>{registree.name}</td><td>{registree.club if registree.is_lion else '(Partner in Service)'}</td></tr>")
-            fh.write(TABLE_FOOTER)
+            if self.registrees:
+                fh.write(PUBLIC_TABLE_HEADER)
+                for registree in self.registrees:
+                    fh.write(f"<tr><td>{registree.name}</td><td>{registree.club if registree.is_lion else '(Partner in Service)'}</td></tr>")
+                fh.write(TABLE_FOOTER)
 
     def build_full_stats(self):
         with open(FULL_URL_PATH, 'w') as fh:
@@ -330,13 +335,13 @@ class Stats(object):
             fh.write(f'<li><strong>Paid:</strong> R{sum([r.paid for r in self.registrees])}</li>\n')
             fh.write(f'<li><strong>Still Owed:</strong> R{sum([r.still_owed for r in self.registrees])}</li>\n')
             num = len([r for r in self.registrees if r.still_owed <= 0])
-            perc = (float(num) / len(self.registrees) * 100)
+            perc = (float(num) / len(self.registrees) * 100) if self.registrees else 0
             fh.write(f'<li><strong>Number of Attendees Who Have Paid in Full:</strong> {num} ({perc:.2f}%)</li>\n')
             num = len([r for r in self.registrees if (r.still_owed > 0 and r.paid > 0)])
-            perc = (float(num) / len(self.registrees) * 100)
+            perc = (float(num) / len(self.registrees) * 100) if self.registrees else 0
             fh.write(f'<li><strong>Number of Attendees Who Have Paid in Part:</strong> {num} ({perc:.2f}%)</li>\n')
             num = len([r for r in self.registrees if (r.still_owed > 0 and r.paid <= 0)])
-            perc = (float(num) / len(self.registrees) * 100)
+            perc = (float(num) / len(self.registrees) * 100) if self.registrees else 0
             fh.write(f"<li><strong>Number of Attendees Who Haven't Paid Anything:</strong> {num} ({perc:.2f}%)</li>\n")
             fh.write('</ul>\n')
             fh.write('<li><strong>Cancellations</strong></li><ul>\n')
