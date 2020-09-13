@@ -244,7 +244,6 @@ def make_attendee_fields(html, prefix, lion=True):
 
     if lion:
         html.add_selector(f"{prefix}_club", "Lions Club", CLUBS)
-    if lion:
         html.add_selector(f"{prefix}_district", "District", DISTRICTS)
     html.add_text(
         f"{prefix}_cell",
