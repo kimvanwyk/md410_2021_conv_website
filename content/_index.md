@@ -8,11 +8,9 @@ draft: false
 
 Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2021 Convention website, coming up from 30 April - 2 May 2021 at the [Riverside Hotel](/venue) in eThekwini, KwaZulu-Natal.
 
-<form action="/registration">
-    <center>
-        <button style="height:100px; width:400px" type="button"><h3>Register Here</h3></button>
-    </center>
-</form>
+<center>
+    <h2><a href="/registration">Register Here</a></h2>
+</center>
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 <!-- <script src="/js/countdown.js"></script> -->
