@@ -4,6 +4,7 @@ with open("clubs.txt", "r") as fh:
 
 DISTRICTS = ["410E", "410W", "Other District"]
 
+
 class HTML(object):
     def __init__(self):
         self.out = [
@@ -272,11 +273,11 @@ def make_attendee_fields(html, prefix, lion=True):
         help="This lunch is only open to Melvin Jones Fellows and may carry an additional charge. Details will be provided closer to the time.",
     )
 
-    # html.add_checkbox(
-    #     f"{prefix}_pdg_breakfast",
-    #     'Attendee will attend the <a href="/events/pdgs_breakfast">PDG\'s Breakfast.</a>',
-    #     help='This event may carry an additional charge, especially if the attendee is not staying at the <a href="/venue">Riverside Hotel</a>. Details will be provided closer to the time.',
-    # )
+    html.add_checkbox(
+        f"{prefix}_pdg_dinner",
+        'Attendee will attend the <a href="/events/pdgs_dinner">PDG\'s Dinner.</a>',
+        help="This event will carry an additional charge. Details will be provided closer to the time.",
+    )
 
     # html.add_checkbox(
     #     f"{prefix}_sharks_board",
@@ -343,11 +344,11 @@ html.open_containing_div(cls="full_reg")
 html.add_header("Full Registrations")
 html.add_text(
     "full_reg",
-    "Number of Full Registrations (R1285 per person)",
+    "Number of Full Registrations (R1150 per person)",
     help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>",
     type="number",
     cls="total",
-    cost=1285,
+    cost=1150,
 )
 html.close_containing_div()
 html.open_containing_div(cls="partial_reg")

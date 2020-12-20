@@ -68,15 +68,15 @@ unsafe= true
 #   telegram = "username"
 #   500px = "username"
 
-# [[menu.main]]
-#     name = "Registration Form"
-#     url = "registration"
-#     weight = 1
+[[menu.main]]
+    name = "Registration Form"
+    url = "registration"
+    weight = 1
 
-# [[menu.main]]
-#     name = "Theme"
-#     url = "theme"
-#     weight = 1
+[[menu.main]]
+    name = "Theme"
+    url = "theme"
+    weight = 1
 
 [[menu.main]]
     name = "Accommodation & Venue"
@@ -95,10 +95,10 @@ unsafe= true
     url = "venue"
     weight = 2
 
-# [[menu.main]]
-#     name = "Program"
-#     url = "program"
-#     weight = 3
+[[menu.main]]
+    name = "Program"
+    url = "program"
+    weight = 3
 
 # [[menu.main]]
 #     name = "News and Newsletters"

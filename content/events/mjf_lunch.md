@@ -3,10 +3,10 @@ title: 'Melvin Jones Fellows lunch'
 draft: false
 ---
 
-More details will be made available closer to the event.
+The traditional lunch for Melvin Jones Fellows. This event will be the same lunch all the MD410 Convention delegates will be served, but in a private room.
 \
 \
-**Date and Time**: Saturday 02 May 2020, 12:30-13:30 \
+**Date and Time**: Saturday 01 May 2021, 12:45-13:30 \
 **Location**: [Riverside Hotel](/venue)
 \
 \

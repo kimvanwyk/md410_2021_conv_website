@@ -3,10 +3,10 @@ title: 'MD410 Convention'
 draft: false
 ---
 
-More details will be made available closer to the event.
+The 2021 Multiple District 410 Convention.
 \
 \
-**Date and Time**: Saturday 02 May 2020, 08:30-15:00 \
+**Date and Time**: Saturday 01 May 2021, 09:00-15:30 \
 **Location**: [Riverside Hotel](/venue)
 \
 \

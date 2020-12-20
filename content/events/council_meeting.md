@@ -3,10 +3,10 @@ title: 'MD410 3rd Council meeting'
 draft: false
 ---
 
-More details will be made available closer to the event.
+The 3rd MD410 Council meeting.
 \
 \
-**Date and Time**: Friday 01 May 2020, 09:00-12:00 \
+**Date and Time**: Thursday 29 April 2021, 09:00-12:30 \
 **Location**: [Riverside Hotel](/venue)
 \
 \
