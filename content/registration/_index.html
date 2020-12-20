@@ -736,30 +736,41 @@ draft: false
       <fieldset id="partial_reg_fs" disabled>
          <h2>Partial Registrations</h2>
          <div class="form-group row">
-            <label for="partial_reg_banquet" class="col-sm-8 col-form-label">
-               <a href="/events/banquet">Number of Banquet Registrations</a> (R500 per person): 
+            <label for="partial_reg_district_convention" class="col-sm-8 col-form-label">
+               <a href="/events/district_convention">Number of District Convention Registrations</a> (R280 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" min="0" value="0" class="form-control total" id="partial_reg_banquet" name="partial_reg_banquet" cost=500>
+               <input type="number" min="0" value="0" class="form-control total" id="partial_reg_district_convention" name="partial_reg_district_convention" aria-describedby="partial_reg_district_convention_help" cost=280>
+               <small id="partial_reg_district_convention_help" class="form-text text-muted">
+                  Includes lunch and teas
+               </small>
             </div>
          </div>
          <div class="form-group row">
-            <label for="partial_reg_convention" class="col-sm-8 col-form-label">
-               <a href="/events/md_convention">Number of MD410 Convention Registrations</a> (R400 per person): 
+            <label for="partial_reg_banquet" class="col-sm-8 col-form-label">
+               <a href="/events/banquet">Number of Banquet Registrations</a> (R400 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" min="0" value="0" class="form-control total" id="partial_reg_convention" name="partial_reg_convention" aria-describedby="partial_reg_convention_help" cost=400>
-               <small id="partial_reg_convention_help" class="form-text text-muted">
+               <input type="number" min="0" value="0" class="form-control total" id="partial_reg_banquet" name="partial_reg_banquet" cost=400>
+            </div>
+         </div>
+         <div class="form-group row">
+            <label for="partial_reg_md_convention" class="col-sm-8 col-form-label">
+               <a href="/events/md_convention">Number of MD410 Convention Registrations</a> (R320 per person): 
+            </label>
+            <div class="col-sm-4">
+               <input type="number" min="0" value="0" class="form-control total" id="partial_reg_md_convention" name="partial_reg_md_convention" aria-describedby="partial_reg_md_convention_help" cost=320>
+               <small id="partial_reg_md_convention_help" class="form-text text-muted">
                   Includes lunch and teas
                </small>
             </div>
          </div>
          <div class="form-group row">
             <label for="partial_reg_theme" class="col-sm-8 col-form-label">
-               <a href="/events/theme_evening">Number of Theme Evening Registrations</a> (R450 per person): 
+               <a href="/events/theme_evening">Number of Theme Evening Registrations</a> (R400 per person): 
             </label>
             <div class="col-sm-4">
-               <input type="number" min="0" value="0" class="form-control total" id="partial_reg_theme" name="partial_reg_theme" cost=450>
+               <input type="number" min="0" value="0" class="form-control total" id="partial_reg_theme" name="partial_reg_theme" cost=400>
             </div>
          </div>
       </fieldset>

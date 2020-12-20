@@ -121,7 +121,7 @@ unsafe= true
 #     url = "committee"
 #     weight = 6
 
-[[menu.main]]
-    name = "Registration Stats"
-    url = "registrees"
-    weight = 7
+# [[menu.main]]
+#     name = "Registration Stats"
+#     url = "registrees"
+#     weight = 7

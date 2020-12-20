@@ -354,26 +354,34 @@ html.close_containing_div()
 html.open_containing_div(cls="partial_reg")
 html.add_header("Partial Registrations")
 html.add_text(
-    "partial_reg_banquet",
-    '<a href="/events/banquet">Number of Banquet Registrations</a> (R500 per person)',
+    "partial_reg_district_convention",
+    '<a href="/events/district_convention">Number of District Convention Registrations</a> (R280 per person)',
+    help="Includes lunch and teas",
     type="number",
     cls="total",
-    cost=500,
+    cost=280,
 )
 html.add_text(
-    "partial_reg_convention",
-    '<a href="/events/md_convention">Number of MD410 Convention Registrations</a> (R400 per person)',
-    help="Includes lunch and teas",
+    "partial_reg_banquet",
+    '<a href="/events/banquet">Number of Banquet Registrations</a> (R400 per person)',
     type="number",
     cls="total",
     cost=400,
 )
 html.add_text(
-    "partial_reg_theme",
-    '<a href="/events/theme_evening">Number of Theme Evening Registrations</a> (R450 per person)',
+    "partial_reg_md_convention",
+    '<a href="/events/md_convention">Number of MD410 Convention Registrations</a> (R320 per person)',
+    help="Includes lunch and teas",
     type="number",
     cls="total",
-    cost=450,
+    cost=320,
+)
+html.add_text(
+    "partial_reg_theme",
+    '<a href="/events/theme_evening">Number of Theme Evening Registrations</a> (R400 per person)',
+    type="number",
+    cls="total",
+    cost=400,
 )
 html.close_containing_div()
 html.add_divider()
