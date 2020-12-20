@@ -345,7 +345,7 @@ html.add_header("Full Registrations")
 html.add_text(
     "full_reg",
     "Number of Full Registrations (R1150 per person)",
-    help="Full registration includes <ul><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>",
+    help="Full registration includes <ul><li>Lunch and teas during District Convention</li><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>",
     type="number",
     cls="total",
     cost=1150,
