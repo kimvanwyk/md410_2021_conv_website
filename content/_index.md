@@ -4,13 +4,7 @@ date: 2019-07-14T16:19:07+02:00
 draft: false
 ---
 
-<center><h2>30 April - 2 May 2021</h2></center>
-
-Welcome to the [Lions MD410](https://www.lionsclubs.co.za) 2021 Convention website, coming up from 30 April - 2 May 2021 at the [Riverside Hotel](/venue) in eThekwini, KwaZulu-Natal.
-
-<center>
-    <h2><a href="/registration">Register Here</a></h2>
-</center>
+The Council of Governors of MD410 has made the sad but necessary decision to present the 2021 MD410 Convention virtually. Please [see here](docs/cancellation.pdf) for a letter from Council Chair Herman Smit about the decision.
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 <!-- <script src="/js/countdown.js"></script> -->
