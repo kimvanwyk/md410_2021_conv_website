@@ -4,7 +4,9 @@ date: 2019-07-14T16:19:07+02:00
 draft: false
 ---
 
-The Council of Governors of MD410 has made the sad but necessary decision to present the 2021 MD410 Convention virtually. Please [see here](docs/cancellation.pdf) for a letter from Council Chair Herman Smit about the decision.
+The Council of Governors of MD410 has made the sad but necessary decision to present the 2021 MD410 Convention virtually. Please [see here](docs/cancellation.pdf) for a letter from Council Chair Herman Smit about the decision. 
+
+Details on registering for the virtual convention will be made available soon.
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 <!-- <script src="/js/countdown.js"></script> -->
