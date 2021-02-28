@@ -19,23 +19,8 @@ class HTML(object):
         ]
         self.level = 1
         self.out.append(
-            f'{"~" * self.level}The details of your registration will be sent to you, including a unique registration number. Payment details will also be included in that email. Please make all payments using your registration number as a reference.'
+            f'{"~" * self.level}The details of your registration will be sent to you, including a unique registration number.'
         )
-        self.out.append(f'{"~" * self.level}<br>')
-        self.out.append(f'{"~" * self.level}<br>')
-        self.out.append(
-            f'{"~" * self.level}Your registration will be finalised on the payment of a deposit of R300 per attendee. Payments can be made in as many instalments as you wish, as long as full payment is received by 31 March 2021.'
-        )
-        self.out.append(f'{"~" * self.level}<ul>')
-        self.level += 1
-        self.out.append(
-            f'{"~" * self.level}<li>If your registration is cancelled before 1 April 2021, 90% of the payments you have made will be refunded.</li>'
-        )
-        self.out.append(
-            f'{"~" * self.level}<li>Cancellations after 1 April will not be refunded as the full expenses will already have been incurred for the registration.</li>'
-        )
-        self.level -= 1
-        self.out.append(f'{"~" * self.level}</ul>')
 
     def close(self):
         self.out.append(f'{"~" * self.level}<center>')
@@ -233,169 +218,31 @@ def make_attendee_fields(html, prefix, lion=True):
     html.add_text(
         f"{prefix}_first_names",
         "First Name(s)",
-        "Attendee's first name or names. Please use a real name rather than a nickname - nicknames can however be used for the name badge later in this form.",
+        "Attendee's first name or names.",
     )
     html.add_text(f"{prefix}_last_name", "Last Name")
-
-    html.add_text(
-        f"{prefix}_name_badge",
-        "Name Badge",
-        help=f"The name to appear on the attendee's name badge. eg {'Joe Bloggs; Lion John Doe, ZC Wendy Bloggs, PDG Jane Doe' if lion else 'Joe Bloggs, Partner in Service Jane Doe'}",
-    )
 
     if lion:
         html.add_selector(f"{prefix}_club", "Lions Club", CLUBS)
         html.add_selector(f"{prefix}_district", "District", DISTRICTS)
+        html.add_checkbox(
+            f"{prefix}_voter",
+            "Attendee will exercise one of their club's votes",
+        )
     html.add_text(
         f"{prefix}_cell",
         "Cell Phone",
         "A cellphone number the attendee can be reached at if needed. This number may also be used for urgent SMSes for changes of plan during the convention.",
     )
     html.add_email(f"{prefix}_email", "Email Address")
-    html.add_text(
-        f"{prefix}_dietary",
-        "Dietary Requirements",
-        help="Please be VERY clear with these requirements. eg halal, kosher, vegetarian, allergic to dairy",
-    )
-    html.add_text(
-        f"{prefix}_disability",
-        "Special Access Requirements",
-        help="Please indicate any requirements for wheel chair access or the like, if applicable",
-    )
     html.add_checkbox(
         f"{prefix}_first_mdc",
         "This will be the attendee's first Multiple District Convention",
     )
 
-    html.add_checkbox(
-        f"{prefix}_mjf_lunch",
-        'Attendee will attend the <a href="/events/mjf_lunch">Melvin Jones Lunch</a>.',
-        help="This lunch is only open to Melvin Jones Fellows and may carry an additional charge. Details will be provided closer to the time.",
-    )
-
-    html.add_checkbox(
-        f"{prefix}_pdg_dinner",
-        'Attendee will attend the <a href="/events/pdgs_dinner">PDG\'s Dinner.</a>',
-        help="This event will carry an additional charge. Details will be provided closer to the time.",
-    )
-
-    # html.add_checkbox(
-    #     f"{prefix}_sharks_board",
-    #     'Attendee is interested in attending a <a href="/events/sharks_board_tour/">tour of the KwaZulu-Natal Sharks Board</a> on Thursday 30 April',
-    #     help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
-    # )
-
-    # html.add_checkbox(
-    #     f"{prefix}_golf",
-    #     'Attendee is interested in a <a href="/events/golf/">round of golf</a> on Friday 1 May',
-    #     help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
-    # )
-
-    # html.add_checkbox(
-    #     f"{prefix}_sight_seeing",
-    #     'Attendee is interested in a <a href="/events/sight_seeing/">sight-seeing tour of Durban</a> on Friday 1 May',
-    #     help="This event will be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
-    # )
-
-    # html.add_checkbox(
-    #     f"{prefix}_service_project",
-    #     'Attendee is interested in attending a <a href="/events/service_project/">service project</a> on Friday 1 May',
-    #     help="This event may be at an additional cost and will be offered subject to demand. Details will be provided closer to the time.",
-    # )
-
-    if not lion:
-        html.add_checkbox(
-            f"{prefix}_partner_program",
-            "Attendee would be interested in the partner's program.",
-            help="The partner's program may involve an additional cost. Details will be provided closer to the time.",
-        )
-
-
 html = HTML()
-html.add_header("First Attendee")
+html.add_header("Attendee Details")
 make_attendee_fields(html, "main")
-html.add_divider()
-html.add_radios(
-    "partner",
-    {
-        "partner_none": "No partner will be coming with me",
-        "partner_lion": "My Lion partner will be coming with me",
-        "partner_non_lion": "My non-Lion partner in service will be coming with me",
-    },
-)
-html.open_containing_div(cls="partner_lion")
-html.add_header("Lion Partner")
-make_attendee_fields(html, "partner_lion")
-html.close_containing_div()
-html.open_containing_div(cls="partner_non_lion")
-html.add_header("Non Lion Partner")
-make_attendee_fields(html, "partner_non_lion", lion=False)
-html.close_containing_div()
-html.add_divider()
-html.add_header("Registrations")
-html.add_radios(
-    "reg_type",
-    {
-        "full_reg": "I will be making full registrations",
-        "partial_reg": "I will be making one or more partial registrations",
-    },
-)
-html.open_containing_div(cls="full_reg")
-html.add_header("Full Registrations")
-html.add_text(
-    "full_reg",
-    "Number of Full Registrations (R1150 per person)",
-    help="Full registration includes <ul><li>Lunch and teas during District Convention</li><li>Lunch and teas during MD Convention</li><li>Banquet</li><li>Theme Evening</li></ul>",
-    type="number",
-    cls="total",
-    cost=1150,
-)
-html.close_containing_div()
-html.open_containing_div(cls="partial_reg")
-html.add_header("Partial Registrations")
-html.add_text(
-    "partial_reg_district_convention",
-    '<a href="/events/district_convention">Number of District Convention Registrations</a> (R280 per person)',
-    help="Includes lunch and teas",
-    type="number",
-    cls="total",
-    cost=280,
-)
-html.add_text(
-    "partial_reg_banquet",
-    '<a href="/events/banquet">Number of Banquet Registrations</a> (R400 per person)',
-    type="number",
-    cls="total",
-    cost=400,
-)
-html.add_text(
-    "partial_reg_md_convention",
-    '<a href="/events/md_convention">Number of MD410 Convention Registrations</a> (R320 per person)',
-    help="Includes lunch and teas",
-    type="number",
-    cls="total",
-    cost=320,
-)
-html.add_text(
-    "partial_reg_theme",
-    '<a href="/events/theme_evening">Number of Theme Evening Registrations</a> (R400 per person)',
-    type="number",
-    cls="total",
-    cost=400,
-)
-html.close_containing_div()
-html.add_divider()
-html.add_header("Extra Items")
-html.add_text(
-    "pins",
-    "Total Number of Convention Pins (R55 per pin)",
-    help="<b>Please note that pins ordered after 15 March 2021 will not be ready in time for collection at the convention.</b>",
-    type="number",
-    cls="total",
-    cost=55,
-)
-html.add_divider()
-html.add_label("total_cost", "Total Cost: R0", centre=True, font="b")
 html.close()
 
 with open("../../content/registration/_index.html", "w") as fh:
