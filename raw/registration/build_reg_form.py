@@ -227,7 +227,7 @@ def make_attendee_fields(html, prefix, lion=True):
         html.add_selector(f"{prefix}_district", "District", DISTRICTS)
         html.add_checkbox(
             f"{prefix}_voter",
-            "Are you a votig delegate for your club?",
+            "Are you a voting delegate for your club?",
         )
         html.add_checkbox(
             f"{prefix}_attending_district",
@@ -245,7 +245,7 @@ def make_attendee_fields(html, prefix, lion=True):
     html.add_email(f"{prefix}_email", "Email Address")
     html.add_checkbox(
         f"{prefix}_first_mdc",
-        "Will this be your first first Multiple District Convention?",
+        "Will this be your first Multiple District Convention?",
     )
 
 
