@@ -229,6 +229,14 @@ def make_attendee_fields(html, prefix, lion=True):
             f"{prefix}_voter",
             "Are you a votig delegate for your club?",
         )
+        html.add_checkbox(
+            f"{prefix}_attending_district",
+            "Will you be attending your District's online convention on 24 April?",
+        )
+        html.add_checkbox(
+            f"{prefix}_attending_md",
+            "Will you be attending the Multiple District online convention on 31 April?",
+        )
     html.add_text(
         f"{prefix}_cell",
         "Cell Phone",
