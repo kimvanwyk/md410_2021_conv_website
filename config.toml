@@ -73,10 +73,10 @@ unsafe= true
     url = "registration"
     weight = 1
 
-# [[menu.main]]
-#     name = "Theme"
-#     url = "theme"
-#     weight = 1
+[[menu.main]]
+    name = "Reports"
+    url = "reports"
+    weight = 1
 
 # [[menu.main]]
 #     name = "Accommodation & Venue"
