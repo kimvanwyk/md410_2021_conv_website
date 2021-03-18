@@ -230,11 +230,11 @@ def make_attendee_fields(html, prefix, lion=True):
             "Are you a voting delegate for your club?",
         )
         html.add_checkbox(
-            f"{prefix}_attending_district",
+            f"{prefix}_attending_district_convention",
             "Will you be attending your District's online convention on 24 April?",
         )
         html.add_checkbox(
-            f"{prefix}_attending_md",
+            f"{prefix}_attending_md_convention",
             "Will you be attending the Multiple District online convention on 1 May?",
         )
     html.add_text(
