@@ -21,9 +21,12 @@ draft: false
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 25</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 16</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 4</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 3</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 28</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 18</li>
 
 </ul>
 <h2>Registrees</h2>

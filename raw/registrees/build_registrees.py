@@ -125,8 +125,22 @@ class Stats(object):
         self.district_nums = Counter(
             [r.district for r in self.registrees if r.attending_district_convention]
         )
+        self.district_voter_nums = Counter(
+            [
+                r.district
+                for r in self.registrees
+                if (r.voter and r.attending_district_convention)
+            ]
+        )
         self.num_410_attendees = sum(
             [r.attending_md_convention for r in self.registrees]
+        )
+        self.num_410_voters = sum(
+            [
+                r.attending_md_convention
+                for r in self.registrees
+                if (r.voter and r.attending_md_convention)
+            ]
         )
 
     def build_public_stats(self):
@@ -166,10 +180,12 @@ class Stats(object):
             for (district, num) in self.district_nums.items():
                 fh.write(
                     f"<li><strong>Number of District {district} Convention Attendees</strong>: {num}</li>\n"
+                    f"<li><strong>Number of District {district} Convention Voters</strong>: {self.district_voter_nums[district]}</li>\n"
                 )
             fh.write("\n")
             fh.write(
                 f"<li><strong>Number of MD410 Convention Attendees</strong>: {self.num_410_attendees}</li>\n"
+                f"<li><strong>Number of MD410 Convention Voters</strong>: {self.num_410_voters}</li>\n"
             )
             fh.write("\n")
             fh.write("</ul>\n")
