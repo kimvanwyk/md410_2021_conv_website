@@ -74,6 +74,11 @@ unsafe= true
     weight = 1
 
 [[menu.main]]
+    name = "Registrees"
+    url = "registrees"
+    weight = 1
+
+[[menu.main]]
     name = "Reports"
     url = "reports"
     weight = 1
