@@ -16,14 +16,14 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 27</li>
+<ul><li><strong>Number of Registrees</strong>: 29</li>
 <li><strong>Number of Clubs</strong>: 15</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 23</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 25</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 4</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 26</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 28</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -80,6 +80,26 @@ draft: false
 <td>Kuilsriver</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>29</td>
+<td>Peter Daniel</td>
+<td>Gordons Bay</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>30</td>
+<td>Norma Daniel</td>
+<td>Gordons Bay</td>
+<td>410W</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 </tr>
