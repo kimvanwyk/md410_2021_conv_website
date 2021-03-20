@@ -226,11 +226,11 @@ python-dateutil = ">=2.1"
 
 [[package]]
 category = "main"
-description = "Common libraries for applications related to the 2020 and 2021 Lions MD410 Conventions"
-name = "md410-2021-conv-common"
+description = "Common libraries for applications related to the 2021 Lions MD410 Online Convention"
+name = "md410-2021-conv-common-online"
 optional = false
 python-versions = ">=3.7,<4.0"
-version = "1.9.0"
+version = "1.4.0"
 
 [package.dependencies]
 black = ">=19.10b0,<20.0"
@@ -514,7 +514,7 @@ python-versions = "*"
 version = "0.1.7"
 
 [metadata]
-content-hash = "a682b75d40de6eb8a7b02fd8f47feaac13fe1fefd9930b8761483413557138af"
+content-hash = "7ba2561a4d9b4181e1a3ad0d457cffce15c781f4adc0e5ce9030a77ca0babf28"
 python-versions = "^3.7"
 
 [metadata.files]
@@ -643,9 +643,9 @@ matplotlib = [
     {file = "matplotlib-3.1.2-cp38-cp38-win_amd64.whl", hash = "sha256:80f10af8378fccc136da40ea6aa4a920767476cdfb3241acb93ef4f0465dbf57"},
     {file = "matplotlib-3.1.2.tar.gz", hash = "sha256:8e8e2c2fe3d873108735c6ee9884e6f36f467df4a143136209cff303b183bada"},
 ]
-md410-2021-conv-common = [
-    {file = "md410_2021_conv_common-1.9.0-py3-none-any.whl", hash = "sha256:7e09a9cf11c577eb8e1e35a7274a0682fbf73793641ddd2688ec18332139fba5"},
-    {file = "md410_2021_conv_common-1.9.0.tar.gz", hash = "sha256:d709bf3e2a70666d73f913288aa55f86c7a521e99a2da64e1c1f257eddd60439"},
+md410-2021-conv-common-online = [
+    {file = "md410_2021_conv_common_online-1.4.0-py3-none-any.whl", hash = "sha256:fc7a43d69cbcd2418855ca92f454f63c3a81e1ee61e5a0bfb9885dc571d6cc3a"},
+    {file = "md410_2021_conv_common_online-1.4.0.tar.gz", hash = "sha256:87967fd31977f56f451d63ab621c1f1b156a3d7b8e1e4e2d3068532185d3ce54"},
 ]
 numpy = [
     {file = "numpy-1.18.1-cp35-cp35m-macosx_10_6_intel.whl", hash = "sha256:20b26aaa5b3da029942cdcce719b363dbe58696ad182aff0e5dcb1687ec946dc"},
