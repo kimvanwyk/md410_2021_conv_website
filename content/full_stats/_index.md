@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 29</li>
-<li><strong>Number of Clubs</strong>: 15</li>
+<ul><li><strong>Number of Registrees</strong>: 31</li>
+<li><strong>Number of Clubs</strong>: 16</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 25</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 16</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 27</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 17</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 4</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 3</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 28</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 18</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 30</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 19</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -145,6 +145,26 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>31</td>
+<td>Liz Houston</td>
+<td>Table View</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>32</td>
+<td>John Houston</td>
+<td>Table View</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
