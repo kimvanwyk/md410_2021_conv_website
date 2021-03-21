@@ -6,7 +6,7 @@ draft: false
 
 The Council of Governors of MD410 has made the sad but necessary decision to present the 2021 MD410 Convention virtually. Please [see here](docs/cancellation.pdf) for a letter from Council Chair Herman Smit about the decision. 
 
-Please [click here](/registration) to register for the 2021 online District Convention (on 24 March) and MD Convention (on 1 May).
+Please [click here](/registration) to register for the 2021 online District Convention (on 24 April) and MD Convention (on 1 May).
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 <!-- <script src="/js/countdown.js"></script> -->
