@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 32</li>
+<ul><li><strong>Number of Registrees</strong>: 33</li>
 <li><strong>Number of Clubs</strong>: 16</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 28</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 17</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 4</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 3</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 5</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 4</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 31</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 19</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 32</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 20</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -202,6 +202,16 @@ draft: false
 <td>Polquer Lang</td>
 <td>Gordons Bay</td>
 <td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>34</td>
+<td>Sharon Mangwende</td>
+<td>Cape Town</td>
+<td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
