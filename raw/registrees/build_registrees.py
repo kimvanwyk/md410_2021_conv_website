@@ -89,6 +89,9 @@ FULL_TABLE_HEADER = """<h2>Registrees</h2>
       <th>
         Attending MD410 Convention
       </th>
+      <th>
+        First MD Convention
+      </th>
     </tr>
   </thead>
 <tbody>
@@ -201,6 +204,7 @@ class Stats(object):
 <td{' style="background-color: lightgreen"' if registree.voter else ''}>{"Yes" if registree.voter else "No"}</td>
 <td{' style="background-color: lightgreen"' if registree.attending_district_convention else ''}>{"Yes" if registree.attending_district_convention else "No"}</td>
 <td{' style="background-color: lightgreen"' if registree.attending_md_convention else ''}>{"Yes" if registree.attending_md_convention else "No"}</td>
+<td{' style="background-color: lightgreen"' if registree.first_mdc else ''}>{"Yes" if registree.first_mdc else "No"}</td>
 </tr>\n
     """
                 )
