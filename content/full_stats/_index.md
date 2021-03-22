@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 37</li>
-<li><strong>Number of Clubs</strong>: 19</li>
+<ul><li><strong>Number of Registrees</strong>: 39</li>
+<li><strong>Number of Clubs</strong>: 20</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 31</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 18</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 6</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 4</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 8</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 5</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 36</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 21</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 38</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 22</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -54,20 +54,13 @@ draft: false
       <th>
         Attending MD410 Convention
       </th>
+      <th>
+        First MD Convention
+      </th>
     </tr>
   </thead>
 <tbody>
 
-<td>35</td>
-<td>JOSE BRAGA BORGES</td>
-<td>Malmesbury</td>
-<td>410W</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
 <td>22</td>
 <td>Valencia Beukes-Williams</td>
 <td>Kuilsriver</td>
@@ -75,6 +68,18 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>35</td>
+<td>JOSE BRAGA BORGES</td>
+<td>Malmesbury</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -85,6 +90,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -92,6 +98,7 @@ draft: false
 <td>Esme Cornelius</td>
 <td>Kuilsriver</td>
 <td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -105,6 +112,7 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -115,6 +123,29 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>5</td>
+<td>Engela de Kock</td>
+<td>Swellendam</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>6</td>
+<td>Francois de Kock</td>
+<td>Swellendam</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -125,6 +156,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -135,6 +167,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -145,6 +178,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -152,6 +186,29 @@ draft: false
 <td>Dorothy Hess</td>
 <td>Kuilsriver</td>
 <td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>39</td>
+<td>Jacqui Hocking</td>
+<td>Midrand</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>40</td>
+<td>Cliff Hocking</td>
+<td>Midrand</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -165,6 +222,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -175,6 +233,7 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -185,6 +244,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -195,6 +255,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -205,6 +266,7 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -215,6 +277,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -222,6 +285,7 @@ draft: false
 <td>Sharon Mangwende</td>
 <td>Cape Town</td>
 <td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -235,6 +299,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -245,6 +310,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -255,6 +321,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -265,6 +332,7 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -275,16 +343,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>8</td>
-<td>LYN SNYMAN</td>
-<td>Deep South</td>
-<td>410W</td>
 <td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -295,73 +354,15 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
-<td>25</td>
-<td>Patrick Strauss</td>
-<td>Kuilsriver</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>33</td>
-<td>HILARY LISE VAN BREDA</td>
-<td>Cape Town</td>
+<td>8</td>
+<td>LYN SNYMAN</td>
+<td>Deep South</td>
 <td>410W</td>
 <td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>24</td>
-<td>Edith Van Wyk-Nelson</td>
-<td>Kuilsriver</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>36</td>
-<td>Marina Van de Merwe</td>
-<td>Malmesbury</td>
-<td>410W</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>27</td>
-<td>Allan Watson</td>
-<td>Sea Point</td>
-<td>410W</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>5</td>
-<td>Engela de Kock</td>
-<td>Swellendam</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>6</td>
-<td>Francois de Kock</td>
-<td>Swellendam</td>
-<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -375,6 +376,40 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>25</td>
+<td>Patrick Strauss</td>
+<td>Kuilsriver</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>33</td>
+<td>HILARY LISE VAN BREDA</td>
+<td>Cape Town</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>36</td>
+<td>Marina Van de Merwe</td>
+<td>Malmesbury</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -385,6 +420,7 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -395,6 +431,7 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -405,6 +442,7 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -415,6 +453,18 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>24</td>
+<td>Edith Van Wyk-Nelson</td>
+<td>Kuilsriver</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -422,6 +472,18 @@ draft: false
 <td>Brian von der Decken</td>
 <td>King William's Town</td>
 <td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>27</td>
+<td>Allan Watson</td>
+<td>Sea Point</td>
+<td>410W</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
