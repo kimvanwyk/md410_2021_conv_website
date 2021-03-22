@@ -107,7 +107,7 @@ class Stats(object):
     def __init__(self):
         self.dbh = db.DB()
         self.registrees = self.dbh.get_registrees()
-        self.registrees.sort(key=lambda x: x.last_name)
+        self.registrees.sort(key=lambda x: x.last_name.lower())
         freq = Counter([r.club for r in self.registrees]).most_common()
         if freq:
             self.club_freq_num = freq[0][1]
