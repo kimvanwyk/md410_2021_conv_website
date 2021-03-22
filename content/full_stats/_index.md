@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 40</li>
-<li><strong>Number of Clubs</strong>: 21</li>
+<ul><li><strong>Number of Registrees</strong>: 41</li>
+<li><strong>Number of Clubs</strong>: 22</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 32</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 19</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 8</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 5</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 9</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 6</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 39</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 23</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 40</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 24</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -341,6 +341,17 @@ draft: false
 <td>Eden</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>42</td>
+<td>BRIAN PORTEOUS</td>
+<td>Hibberdene</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
