@@ -1,158 +1,159 @@
-Alberton	
-Amanzimtoti	
-Athlone	
-Azalea (Lioness)	
-Ballito	
-Bedfordview	
-Bela Bela	
-Benoni Benoryn	
-Benoni Host	
-Benoni Lakes	
-Benoni Van Rhyn	
-Bergvliet	
-Berlin	
-Bloemfontein	
-Boksburg	
-Brackenfell	
-Brackenfell (Leos)	
-Bredasdorp	
-Bryanston Champions Cyper	
-Butterworth	
-Cape Of Good Hope	
-Cape Town	
-Centurion	
-Centurion Lifestyle	
-Ceres	
-Cowies Hill	
-De Grendel	
-De Tyger (Leos)	
-Deep South	
-Drakenstein	
-Durban Central	
-Durban Host	
-Durban South	
-Durbanville	
-Durbanville (Leos)	
-East Coast	
-East London Beacon Bay	
-East London Cambridge	
-East London Port Rex	
-East London West	
-Eden	
-Edenvale	
-Edenvale (Lioness)	
-Empangeni	
-Estcourt	
-Fish Hoek	
-Fort Beaufort	
-Franschhoek	
-Gansbaai	
-George	
-Germiston	
-Gillitts-Camperdown	
-Gonubie	
-Gordonia	
-Gordons Bay	
-Graaff Reinet	
-Grahamstown	
-Groote Schuur	
-Grootfontein	
-Helderberg	
-Helderkruin	
-Henley On Klip	
-Henties Bay	
-Hibberdene	
-Hilton	
-Hout Bay	
-Howick-uMngeni	
-Johannesburg North	
-Kensington	
-Kimberley	
-King William's Town	
-Kingsburgh	
-Kirstenbosch	
-Klerksdorp	
-Kloof	
-Knysna	
-Kokstad	
-Komga	
-Kouga	
-Krugersdorp	
+Alberton
+Amanzimtoti
+Athlone
+Azalea (Lioness)
+Ballito
+Bedfordview
+Bela Bela
+Benoni Benoryn
+Benoni Host
+Benoni Lakes
+Benoni Van Rhyn
+Bergvliet
+Berlin
+Bloemfontein
+Boksburg
+Brackenfell
+Brackenfell (Leos)
+Bredasdorp
+Bryanston Champions Cyper
+Butterworth
+Cape Of Good Hope
+Cape Town
+Centurion
+Centurion Lifestyle
+Ceres
+Cowies Hill
+De Grendel
+De Tyger (Leos)
+Deep South
+Drakenstein
+Durban Central
+Durban Host
+Durban South
+Durbanville
+Durbanville (Leos)
+East Coast
+East London Beacon Bay
+East London Cambridge
+East London Port Rex
+East London West
+Eden
+Edenvale
+Edenvale (Lioness)
+Empangeni
+Estcourt
+Fish Hoek
+Fort Beaufort
+Franschhoek
+Gansbaai
+George
+Germiston
+Gillitts-Camperdown
+Gonubie
+Gordonia
+Gordons Bay
+Graaff Reinet
+Grahamstown
+Groote Schuur
+Grootfontein
+Helderberg
+Helderkruin
+Henley On Klip
+Henties Bay
+Hibberdene
+Hilton
+Hout Bay
+Howick-uMngeni
+Johannesburg North
+Kensington
+Kimberley
+King William's Town
+Kingsburgh
+Kirstenbosch
+Klerksdorp
+Kloof
+Knysna
+Kokstad
+Komga
+Kouga
+Krugersdorp
 Kuilsriver
-Ladysmith	
-Letaba Tzaneen	
-Mafikeng	
-Magaliesburg	
-Malgas	
-Malmesbury	
-Manzini	
-Merriman	
-Midrand	
-Milnerton	
-Mitchells Plain	
-Moorreesburg	
-Mossel Bay St Blaize	
-Nelspruit	
-Newcastle	
-Newlands	
-Newlands (Leos)	
-Noll	
-North Durban	
-Northcliff	
-Otavi	
-Paarl	
-Phalaborwa	
-Pietermaritzburg	
-Pietersburg	
-Pinetown	
-Plett Baia Formosa	
-Port Alfred	
-Port Elizabeth Cape Recife	
-Port Elizabeth Host	
-Port Elizabeth St Croix	
-Port Shepstone	
-Porterville	
-Potchefstroom	
-Pretoria City	
-Pretoria Jakaranda	
-Pretoria South	
-Ramsgate	
-Rehoboth	
-Reitz	
-Robertson	
-Roodepoort Clearwater Cyber	
-Roodepoort Host	
-Rustenburg	
-Scottburgh	
-Sea Point	
-Sedgefield	
-Shelly Beach	
-Soweto Host	
-Standerton	
-Stilfontein	
-Still Bay	
-Sunshine Coast Kenton-On-Sea	
-Swakopmund	
-Swellendam	
-Table View	
-The Wilds	
-Tokai	
-Tsumeb	
-Tulbagh	
-Tygerberg Hills	
-Uitenhage	
-Umtata	
-Uniondale	
-University of KwaZulu-Natal Campus	
-Vereeniging	
-Vredendal	
-Vryheid	
-Walvis Bay	
-Wellington	
-Weltevreden	
-Westville	
-Wilro Park	
-Windhoek	
-Windhoek Alte Feste	
-Worcester	
-Zastron	
+Ladysmith
+Letaba Tzaneen
+Mafikeng
+Magaliesburg
+Malgas
+Malmesbury
+Manzini
+Merriman
+Midrand
+Milnerton
+Mitchells Plain
+Moorreesburg
+Mossel Bay St Blaize
+Nelspruit
+Newcastle
+Newlands
+Newlands (Leos)
+Noll
+North Durban
+Northcliff
+Otavi
+Paarl
+Phalaborwa
+Pietermaritzburg
+Pietersburg
+Pinetown
+Plett Baia Formosa
+Port Alfred
+Port Elizabeth Cape Recife
+Port Elizabeth Host
+Port Elizabeth St Croix
+Port Shepstone
+Porterville
+Potchefstroom
+Pretoria City
+Pretoria Jakaranda
+Pretoria South
+Ramsgate
+Rehoboth
+Reitz
+Robertson
+Roodepoort Clearwater Cyber
+Roodepoort Host
+Rustenburg
+Scottburgh
+Sea Point
+Sedgefield
+Shelly Beach
+Soweto Host
+Standerton
+Stellenbosch
+Stilfontein
+Still Bay
+Sunshine Coast Kenton-On-Sea
+Swakopmund
+Swellendam
+Table View
+The Wilds
+Tokai
+Tsumeb
+Tulbagh
+Tygerberg Hills
+Uitenhage
+Umtata
+Uniondale
+University of KwaZulu-Natal Campus
+Vereeniging
+Vredendal
+Vryheid
+Walvis Bay
+Wellington
+Weltevreden
+Westville
+Wilro Park
+Windhoek
+Windhoek Alte Feste
+Worcester
+Zastron
