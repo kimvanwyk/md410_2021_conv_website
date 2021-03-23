@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 51</li>
-<li><strong>Number of Clubs</strong>: 29</li>
+<ul><li><strong>Number of Registrees</strong>: 52</li>
+<li><strong>Number of Clubs</strong>: 30</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 34</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 19</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 35</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 20</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 17</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 11</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 48</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 28</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 49</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 29</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -395,6 +395,17 @@ draft: false
 <td>Patrick Mills</td>
 <td>Centurion</td>
 <td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>53</td>
+<td>Cherie Milosevich</td>
+<td>Milnerton</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
