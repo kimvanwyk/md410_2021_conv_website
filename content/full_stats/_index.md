@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 47</li>
-<li><strong>Number of Clubs</strong>: 25</li>
+<ul><li><strong>Number of Registrees</strong>: 49</li>
+<li><strong>Number of Clubs</strong>: 27</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 33</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 19</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 14</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 10</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 16</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 11</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 45</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 46</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 28</li>
 
 </ul>
@@ -165,6 +165,17 @@ draft: false
 <td>Swellendam</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>49</td>
+<td>Desiree du Toit</td>
+<td>Ramsgate</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -332,6 +343,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>50</td>
+<td>Mark Meltzer</td>
+<td>The Wilds</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
