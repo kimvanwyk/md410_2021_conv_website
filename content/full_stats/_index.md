@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 41</li>
-<li><strong>Number of Clubs</strong>: 22</li>
+<ul><li><strong>Number of Registrees</strong>: 44</li>
+<li><strong>Number of Clubs</strong>: 24</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 32</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 33</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 19</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 9</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 6</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 11</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 7</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 40</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 24</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 42</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 25</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -204,6 +204,17 @@ draft: false
 </tr>
 
     
+<td>44</td>
+<td>Wendy Higgins</td>
+<td>Wilro Park</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>39</td>
 <td>Jacqui Hocking</td>
 <td>Midrand</td>
@@ -369,6 +380,17 @@ draft: false
 </tr>
 
     
+<td>45</td>
+<td>Sue Smit</td>
+<td>Centurion</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>3</td>
 <td>Jeff Smith</td>
 <td>Port Shepstone</td>
@@ -497,6 +519,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>43</td>
+<td>Rochelle Vorster</td>
+<td>Sedgefield</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
