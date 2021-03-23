@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 44</li>
-<li><strong>Number of Clubs</strong>: 24</li>
+<ul><li><strong>Number of Registrees</strong>: 47</li>
+<li><strong>Number of Clubs</strong>: 25</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 33</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 19</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 11</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 7</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 14</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 10</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 42</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 25</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 45</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 28</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -85,7 +85,7 @@ draft: false
     
 <td>41</td>
 <td>Herman Cadman</td>
-<td>Other Club</td>
+<td>Stellenbosch</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -113,6 +113,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>46</td>
+<td>Sharon Cottle</td>
+<td>Groote Schuur</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -328,6 +339,28 @@ draft: false
 <td>2</td>
 <td>Denis Meyer</td>
 <td>Port Shepstone</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>47</td>
+<td>BERNICE MILLS</td>
+<td>Centurion</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>48</td>
+<td>Patrick Mills</td>
+<td>Centurion</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
