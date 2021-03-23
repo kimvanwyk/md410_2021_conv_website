@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 52</li>
-<li><strong>Number of Clubs</strong>: 30</li>
+<ul><li><strong>Number of Registrees</strong>: 53</li>
+<li><strong>Number of Clubs</strong>: 31</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 35</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 20</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 36</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 21</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 17</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 11</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 49</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 29</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 50</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 30</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -528,6 +528,17 @@ draft: false
 <td>Malmesbury</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>54</td>
+<td>Neville Van Rensburg</td>
+<td>Moorreesburg</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
