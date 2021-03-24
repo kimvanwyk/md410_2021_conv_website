@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 57</li>
+<ul><li><strong>Number of Registrees</strong>: 58</li>
 <li><strong>Number of Clubs</strong>: 33</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 37</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 38</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 22</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 20</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 12</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 54</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 55</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 32</li>
 
 </ul>
@@ -337,10 +337,21 @@ draft: false
 
     
 <td>16</td>
-<td>Polquer Lang</td>
+<td>Paula Lang</td>
 <td>Gordons Bay</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>60</td>
+<td>Jimmy Lang</td>
+<td>Gordons Bay</td>
+<td>410W</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
