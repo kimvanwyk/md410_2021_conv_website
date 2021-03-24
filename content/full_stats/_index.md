@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 53</li>
-<li><strong>Number of Clubs</strong>: 31</li>
+<ul><li><strong>Number of Registrees</strong>: 55</li>
+<li><strong>Number of Clubs</strong>: 32</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 36</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 21</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 17</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 37</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 22</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 18</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 11</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 50</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 30</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 52</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 31</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -86,6 +86,17 @@ draft: false
 <td>41</td>
 <td>Herman Cadman</td>
 <td>Stellenbosch</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>55</td>
+<td>Linda Ann Cannone</td>
+<td>Fish Hoek</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -509,6 +520,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>56</td>
+<td>Alistair Tuckett</td>
+<td>Roodepoort Clearwater Cyber</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
