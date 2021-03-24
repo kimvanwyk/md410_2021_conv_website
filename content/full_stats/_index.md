@@ -16,13 +16,13 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 59</li>
-<li><strong>Number of Clubs</strong>: 33</li>
+<ul><li><strong>Number of Registrees</strong>: 60</li>
+<li><strong>Number of Clubs</strong>: 34</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 38</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 22</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 21</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 22</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 12</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 56</li>
@@ -464,6 +464,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>62</td>
+<td>Irene Rugheimer</td>
+<td>Bedfordview</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
