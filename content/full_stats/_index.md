@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 55</li>
-<li><strong>Number of Clubs</strong>: 32</li>
+<ul><li><strong>Number of Registrees</strong>: 57</li>
+<li><strong>Number of Clubs</strong>: 33</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 37</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 22</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 18</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 11</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 20</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 12</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 52</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 31</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 54</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 32</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -462,6 +462,28 @@ draft: false
 <td>Fish Hoek</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>58</td>
+<td>Francis Searle</td>
+<td>Kouga</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>59</td>
+<td>Gloria Searle</td>
+<td>Kouga</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
