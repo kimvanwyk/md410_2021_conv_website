@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 65</li>
+<ul><li><strong>Number of Registrees</strong>: 68</li>
 <li><strong>Number of Clubs</strong>: 36</li>
-<li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
+<li><strong>Club With Most Attendees</strong>: Cape Town (6 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 43</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 46</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 24</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 22</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 12</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 59</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 62</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 34</li>
 
 </ul>
@@ -61,6 +61,17 @@ draft: false
   </thead>
 <tbody>
 
+<td>68</td>
+<td>Natalie Abrahams</td>
+<td>Cape Town</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>22</td>
 <td>Valencia Beukes-Williams</td>
 <td>Kuilsriver</td>
@@ -462,6 +473,28 @@ draft: false
 <td>Milnerton</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>70</td>
+<td>Virginia Mkhize</td>
+<td>Cape Town</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>69</td>
+<td>Bernadine Moses</td>
+<td>Cape Town</td>
+<td>410W</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
