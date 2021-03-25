@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 68</li>
+<ul><li><strong>Number of Registrees</strong>: 69</li>
 <li><strong>Number of Clubs</strong>: 36</li>
 <li><strong>Club With Most Attendees</strong>: Cape Town (6 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 46</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 47</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 24</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 22</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 12</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 62</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 63</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 34</li>
 
 </ul>
@@ -352,6 +352,17 @@ draft: false
 <td>Cape Town</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>71</td>
+<td>Jerome Kern</td>
+<td>Groote Schuur</td>
+<td>410W</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
