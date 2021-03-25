@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 61</li>
-<li><strong>Number of Clubs</strong>: 35</li>
+<ul><li><strong>Number of Registrees</strong>: 65</li>
+<li><strong>Number of Clubs</strong>: 36</li>
 <li><strong>Club With Most Attendees</strong>: Kuilsriver (5 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 39</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 23</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 43</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 24</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 22</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 12</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 57</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 33</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 59</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 34</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -212,6 +212,28 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>66</td>
+<td>Roger Fahrbach</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>67</td>
+<td>Beate Fahrbach</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -627,6 +649,28 @@ draft: false
 <td>Moorreesburg</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>64</td>
+<td>Johan van Rensburg</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>65</td>
+<td>Anne van Rensburg</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
