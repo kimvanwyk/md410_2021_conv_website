@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 70</li>
-<li><strong>Number of Clubs</strong>: 36</li>
+<ul><li><strong>Number of Registrees</strong>: 73</li>
+<li><strong>Number of Clubs</strong>: 37</li>
 <li><strong>Club With Most Attendees</strong>: Cape Town (6 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 48</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 50</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 25</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 22</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 23</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 12</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 63</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 65</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 34</li>
 
 </ul>
@@ -223,6 +223,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>73</td>
+<td>Natalie Etridge</td>
+<td>Sedgefield</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -435,6 +446,17 @@ draft: false
 </tr>
 
     
+<td>74</td>
+<td>David Mccullough</td>
+<td>Pretoria South</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>50</td>
 <td>Mark Meltzer</td>
 <td>The Wilds</td>
@@ -593,6 +615,17 @@ draft: false
 <td>Gloria Searle</td>
 <td>Kouga</td>
 <td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>75</td>
+<td>Ami Sell</td>
+<td>Windhoek</td>
+<td>410W</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
