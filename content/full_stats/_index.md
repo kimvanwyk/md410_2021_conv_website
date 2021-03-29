@@ -21,12 +21,12 @@ draft: false
 <li><strong>Clubs With Most Attendees</strong>: Cape Town, Sedgefield (6 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 53</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 27</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 28</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 22</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 10</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 66</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 34</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 35</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -681,7 +681,7 @@ draft: false
 <td>RORY stier</td>
 <td>Deep South</td>
 <td>410W</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
