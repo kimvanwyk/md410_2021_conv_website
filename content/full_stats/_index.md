@@ -20,10 +20,10 @@ draft: false
 <li><strong>Number of Clubs</strong>: 37</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Town, Sedgefield (6 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 51</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 25</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 24</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 12</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 53</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 27</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 22</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 10</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 66</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 34</li>
@@ -152,7 +152,7 @@ draft: false
 <td>46</td>
 <td>Sharon Cottle</td>
 <td>Groote Schuur</td>
-<td>410E</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -438,7 +438,7 @@ draft: false
 <td>34</td>
 <td>Sharon Mangwende</td>
 <td>Cape Town</td>
-<td>410E</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
