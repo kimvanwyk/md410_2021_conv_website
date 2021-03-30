@@ -16,8 +16,8 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 79</li>
-<li><strong>Number of Clubs</strong>: 37</li>
+<ul><li><strong>Number of Registrees</strong>: 82</li>
+<li><strong>Number of Clubs</strong>: 38</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Town, Sedgefield (6 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 57</li>
@@ -589,6 +589,17 @@ draft: false
 </tr>
 
     
+<td>82</td>
+<td>Mike Newlands</td>
+<td>Port Alfred</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
 <td>72</td>
 <td>Debra Olivier</td>
 <td>Sedgefield</td>
@@ -707,6 +718,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>83</td>
+<td>Max Stander</td>
+<td>Port Alfred</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
 </tr>
 
     
@@ -916,6 +938,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>84</td>
+<td>Neville Williamson</td>
+<td>Port Alfred</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
 </tr>
 
     
