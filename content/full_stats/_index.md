@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 85</li>
+<ul><li><strong>Number of Registrees</strong>: 86</li>
 <li><strong>Number of Clubs</strong>: 39</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Town, Sedgefield (6 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 57</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 28</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 58</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 29</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 27</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 13</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 73</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 37</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 74</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 38</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -751,6 +751,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>91</td>
+<td>Diana Sochen</td>
+<td>Sea Point</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
