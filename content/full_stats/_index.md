@@ -16,11 +16,11 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 86</li>
+<ul><li><strong>Number of Registrees</strong>: 87</li>
 <li><strong>Number of Clubs</strong>: 39</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Town, Sedgefield (6 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 58</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 59</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 29</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 27</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 13</li>
@@ -69,6 +69,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>92</td>
+<td>Linda Baumgarten</td>
+<td>Sea Point</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
