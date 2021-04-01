@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 95</li>
+<ul><li><strong>Number of Registrees</strong>: 96</li>
 <li><strong>Number of Clubs</strong>: 41</li>
-<li><strong>Clubs With Most Attendees</strong>: Cape Town, Sedgefield, Windhoek (6 registrees)</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (7 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 64</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 33</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 65</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 34</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 29</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 15</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 82</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 44</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 83</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 45</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -767,6 +767,17 @@ draft: false
     
 <td>94</td>
 <td>Frank Schatz</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>101</td>
+<td>Vera Schatz</td>
 <td>Windhoek</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
