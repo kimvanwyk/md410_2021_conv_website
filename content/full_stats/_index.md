@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 91</li>
-<li><strong>Number of Clubs</strong>: 40</li>
+<ul><li><strong>Number of Registrees</strong>: 93</li>
+<li><strong>Number of Clubs</strong>: 41</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Town, Sedgefield, Windhoek (6 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 63</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 32</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 27</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 13</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 29</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 15</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 78</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 41</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 80</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 43</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -223,6 +223,28 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>97</td>
+<td>Peggy Du Plooy</td>
+<td>Krugersdorp</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>98</td>
+<td>Ivan Du Plooy</td>
+<td>Krugersdorp</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
