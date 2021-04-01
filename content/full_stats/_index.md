@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 93</li>
+<ul><li><strong>Number of Registrees</strong>: 95</li>
 <li><strong>Number of Clubs</strong>: 41</li>
 <li><strong>Clubs With Most Attendees</strong>: Cape Town, Sedgefield, Windhoek (6 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 63</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 32</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 64</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 33</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 29</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 15</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 80</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 43</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 82</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 44</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -413,6 +413,17 @@ draft: false
 </tr>
 
     
+<td>99</td>
+<td>Dawid Jacobs</td>
+<td>Durbanville</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>19</td>
 <td>WOLSLEY Jacobson</td>
 <td>Cape Town</td>
@@ -695,6 +706,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>100</td>
+<td>Sundru Pillay</td>
+<td>Durbanville</td>
+<td>410W</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 </tr>
 
