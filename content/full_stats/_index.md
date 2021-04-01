@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 96</li>
+<ul><li><strong>Number of Registrees</strong>: 97</li>
 <li><strong>Number of Clubs</strong>: 41</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (7 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 65</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 66</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 34</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 29</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 15</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 83</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 84</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 45</li>
 
 </ul>
@@ -1070,6 +1070,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>102</td>
+<td>Rinette Von Mollendorf</td>
+<td>Durbanville</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
