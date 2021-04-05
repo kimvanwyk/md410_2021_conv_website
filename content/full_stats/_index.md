@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 99</li>
-<li><strong>Number of Clubs</strong>: 42</li>
-<li><strong>Clubs With Most Attendees</strong>: Cape Town, Windhoek (7 registrees)</li>
+<ul><li><strong>Number of Registrees</strong>: 104</li>
+<li><strong>Number of Clubs</strong>: 43</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (11 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 68</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 71</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 35</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 29</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 15</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 30</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 16</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 86</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 46</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 90</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 48</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -80,6 +80,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>105</td>
+<td>Ulrike Behrens</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
 </tr>
 
     
@@ -307,6 +318,17 @@ draft: false
 <td>Jules Flanagan</td>
 <td>Tokai</td>
 <td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>107</td>
+<td>Martin Froise</td>
+<td>Letaba Tzaneen</td>
+<td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -839,6 +861,39 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>108</td>
+<td>Kenlis Sircoulomb</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>109</td>
+<td>Holger Sircoulomb</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>106</td>
+<td>Hennie Smeer</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
