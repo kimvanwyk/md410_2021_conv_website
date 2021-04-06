@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 114</li>
-<li><strong>Number of Clubs</strong>: 44</li>
+<ul><li><strong>Number of Registrees</strong>: 117</li>
+<li><strong>Number of Clubs</strong>: 45</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (11 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 73</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 36</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 38</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 21</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 75</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 37</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 39</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 22</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 98</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 53</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 101</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 55</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -490,6 +490,17 @@ draft: false
 </tr>
 
     
+<td>122</td>
+<td>Jean Jacobs</td>
+<td>Mitchells Plain</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>19</td>
 <td>WOLSLEY Jacobson</td>
 <td>Cape Town</td>
@@ -517,6 +528,17 @@ draft: false
 <td>Groote Schuur</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>121</td>
+<td>Ian King</td>
+<td>Alberton</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -835,6 +857,17 @@ draft: false
 <td>BRIAN PORTEOUS</td>
 <td>Hibberdene</td>
 <td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>124</td>
+<td>Mark Rossouw</td>
+<td>Tokai</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
