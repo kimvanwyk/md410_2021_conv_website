@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 111</li>
+<ul><li><strong>Number of Registrees</strong>: 112</li>
 <li><strong>Number of Clubs</strong>: 44</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (11 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 72</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 73</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 36</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 36</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 20</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 95</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 96</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 52</li>
 
 </ul>
@@ -64,6 +64,17 @@ draft: false
 <td>68</td>
 <td>Natalie Abrahams</td>
 <td>Cape Town</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>118</td>
+<td>Linda Anderson</td>
+<td>George</td>
 <td>410W</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
