@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 117</li>
-<li><strong>Number of Clubs</strong>: 45</li>
+<ul><li><strong>Number of Registrees</strong>: 118</li>
+<li><strong>Number of Clubs</strong>: 46</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (11 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 75</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 37</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 39</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 22</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 40</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 23</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 101</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 55</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 102</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 56</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -361,6 +361,17 @@ draft: false
 <td>107</td>
 <td>Martin Froise</td>
 <td>Letaba Tzaneen</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>125</td>
+<td>Valerie Graham</td>
+<td>Nelspruit</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
