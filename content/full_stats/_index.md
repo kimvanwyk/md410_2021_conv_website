@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 105</li>
+<ul><li><strong>Number of Registrees</strong>: 111</li>
 <li><strong>Number of Clubs</strong>: 44</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (11 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 72</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 36</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 30</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 16</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 36</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 20</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 91</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 49</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 95</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 52</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -112,6 +112,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>113</td>
+<td>Paul Brauteseth</td>
+<td>Port Shepstone</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
@@ -380,6 +391,17 @@ draft: false
 </tr>
 
     
+<td>111</td>
+<td>Mike Heathcote</td>
+<td>Port Shepstone</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>21</td>
 <td>Dorothy Hess</td>
 <td>Kuilsriver</td>
@@ -578,6 +600,17 @@ draft: false
 </tr>
 
     
+<td>112</td>
+<td>Jean Masson</td>
+<td>Port Shepstone</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
 <td>79</td>
 <td>LANCE MAYTHAM</td>
 <td>Swellendam</td>
@@ -638,6 +671,28 @@ draft: false
 <td>Port Shepstone</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>116</td>
+<td>Roy Michas</td>
+<td>Midrand</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>117</td>
+<td>Dawn Michas</td>
+<td>Midrand</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -1179,6 +1234,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>114</td>
+<td>Alastair Warman</td>
+<td>Port Shepstone</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 </tr>
 
