@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 119</li>
+<ul><li><strong>Number of Registrees</strong>: 121</li>
 <li><strong>Number of Clubs</strong>: 46</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (11 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 75</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 37</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 41</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 76</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 38</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 42</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 24</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 103</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 104</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 57</li>
 
 </ul>
@@ -131,6 +131,17 @@ draft: false
 <td>Paul Brauteseth</td>
 <td>Port Shepstone</td>
 <td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>127</td>
+<td>Nelle Buhrmann</td>
+<td>Sea Point</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -374,6 +385,17 @@ draft: false
 <td>Nelspruit</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>128</td>
+<td>Mike Graham</td>
+<td>Nelspruit</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
