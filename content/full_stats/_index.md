@@ -21,12 +21,12 @@ draft: false
 <li><strong>Club With Most Attendees</strong>: Windhoek (11 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 77</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 38</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 37</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 44</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 25</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 105</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 57</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 56</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -175,7 +175,7 @@ draft: false
 <td>Sue Charles</td>
 <td>Tokai</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
