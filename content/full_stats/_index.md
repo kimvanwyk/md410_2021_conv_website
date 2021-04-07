@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 125</li>
+<ul><li><strong>Number of Registrees</strong>: 126</li>
 <li><strong>Number of Clubs</strong>: 46</li>
-<li><strong>Club With Most Attendees</strong>: Windhoek (11 registrees)</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 77</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 37</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 78</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 38</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 45</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 26</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 106</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 57</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 107</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 58</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -817,6 +817,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>133</td>
+<td>Frauke E. Moeller</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
