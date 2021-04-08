@@ -21,12 +21,12 @@ draft: false
 <li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 78</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 38</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 34</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 45</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 26</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 107</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 58</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 55</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -197,7 +197,7 @@ draft: false
 <td>Esme Cornelius</td>
 <td>Kuilsriver</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -450,7 +450,7 @@ draft: false
 <td>Dorothy Hess</td>
 <td>Kuilsriver</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -1176,7 +1176,7 @@ draft: false
 <td>Patrick Strauss</td>
 <td>Kuilsriver</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -1363,7 +1363,7 @@ draft: false
 <td>Edith Van Wyk-Nelson</td>
 <td>Kuilsriver</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
