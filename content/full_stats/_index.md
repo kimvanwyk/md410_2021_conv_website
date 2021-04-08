@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 134</li>
-<li><strong>Number of Clubs</strong>: 48</li>
+<ul><li><strong>Number of Registrees</strong>: 135</li>
+<li><strong>Number of Clubs</strong>: 49</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 83</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 35</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 84</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 36</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 48</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 28</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 113</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 58</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 114</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 59</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -450,6 +450,17 @@ draft: false
 <td>Mike Heathcote</td>
 <td>Port Shepstone</td>
 <td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>143</td>
+<td>Zarina Hendricks</td>
+<td>Athlone</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
