@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 129</li>
+<ul><li><strong>Number of Registrees</strong>: 130</li>
 <li><strong>Number of Clubs</strong>: 47</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 80</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 35</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 46</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 47</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 27</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 110</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 111</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 57</li>
 
 </ul>
@@ -693,6 +693,17 @@ draft: false
 <td>Benoni Lakes</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>137</td>
+<td>Nick Maré</td>
+<td>Benoni Lakes</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
