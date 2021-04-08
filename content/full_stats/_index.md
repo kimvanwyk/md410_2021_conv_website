@@ -16,11 +16,11 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 132</li>
+<ul><li><strong>Number of Registrees</strong>: 134</li>
 <li><strong>Number of Clubs</strong>: 48</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 81</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 82</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 35</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 48</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 28</li>
@@ -926,6 +926,28 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>140</td>
+<td>Chris Ocker</td>
+<td>Fish Hoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>141</td>
+<td>Jenny ocker</td>
+<td>Alberton</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
