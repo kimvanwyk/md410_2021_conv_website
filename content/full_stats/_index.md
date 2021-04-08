@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 130</li>
-<li><strong>Number of Clubs</strong>: 47</li>
+<ul><li><strong>Number of Registrees</strong>: 131</li>
+<li><strong>Number of Clubs</strong>: 48</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 80</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 35</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 47</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 27</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 48</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 28</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 111</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 57</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 112</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 58</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -560,6 +560,17 @@ draft: false
 <td>WOLSLEY Jacobson</td>
 <td>Cape Town</td>
 <td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>138</td>
+<td>MALCOLM JOHNSTON</td>
+<td>Standerton</td>
+<td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
