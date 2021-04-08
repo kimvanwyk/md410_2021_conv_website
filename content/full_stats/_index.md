@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 131</li>
+<ul><li><strong>Number of Registrees</strong>: 132</li>
 <li><strong>Number of Clubs</strong>: 48</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 80</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 81</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 35</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 48</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 28</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 112</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 113</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 58</li>
 
 </ul>
@@ -957,6 +957,17 @@ draft: false
 <td>Hibberdene</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>139</td>
+<td>Mary-Anne Ras</td>
+<td>Swellendam</td>
+<td>410W</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
