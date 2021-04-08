@@ -20,7 +20,7 @@ draft: false
 <li><strong>Number of Clubs</strong>: 48</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 82</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 83</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 35</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 48</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 28</li>
@@ -941,12 +941,12 @@ draft: false
 </tr>
 
     
-<td>141</td>
-<td>Jenny ocker</td>
-<td>Alberton</td>
-<td>410E</td>
+<td>142</td>
+<td>Jenny Ocker</td>
+<td>Fish Hoek</td>
+<td>410W</td>
 <td>No</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td>No</td>
 </tr>
