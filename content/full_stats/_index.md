@@ -21,12 +21,12 @@ draft: false
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 80</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 36</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 35</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 46</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 27</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 110</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 58</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 57</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -164,7 +164,7 @@ draft: false
 <td>Linda Ann Cannone</td>
 <td>Fish Hoek</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
