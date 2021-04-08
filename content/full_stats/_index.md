@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 126</li>
-<li><strong>Number of Clubs</strong>: 46</li>
-<li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
+<ul><li><strong>Number of Registrees</strong>: 129</li>
+<li><strong>Number of Clubs</strong>: 47</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 78</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 34</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 45</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 26</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 80</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 36</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 46</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 27</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 107</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 55</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 110</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 58</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -187,6 +187,17 @@ draft: false
 <td>East Coast</td>
 <td>410E</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>136</td>
+<td>Delaney Yeltsin Cloete</td>
+<td>Eden</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -506,6 +517,17 @@ draft: false
 <td>Table View</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>135</td>
+<td>Alna Jackson</td>
+<td>Pretoria Jakaranda</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -986,6 +1008,17 @@ draft: false
 
     
 <td>101</td>
+<td>Vera Schatz</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>134</td>
 <td>Vera Schatz</td>
 <td>Windhoek</td>
 <td>410W</td>
