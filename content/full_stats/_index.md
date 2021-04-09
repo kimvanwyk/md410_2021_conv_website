@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 140</li>
+<ul><li><strong>Number of Registrees</strong>: 141</li>
 <li><strong>Number of Clubs</strong>: 53</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 87</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 39</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 50</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 51</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 29</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 119</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 120</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 63</li>
 
 </ul>
@@ -888,6 +888,17 @@ draft: false
     
 <td>149</td>
 <td>Alana Mitchell</td>
+<td>Rustenburg</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>150</td>
+<td>Juan Mitchell</td>
 <td>Rustenburg</td>
 <td>410E</td>
 <td>No</td>
