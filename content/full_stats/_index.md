@@ -16,7 +16,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 141</li>
+<ul><li><strong>Number of Registrees</strong>: 142</li>
 <li><strong>Number of Clubs</strong>: 53</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
@@ -1520,6 +1520,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>151</td>
+<td>Lindie van Wyk</td>
+<td>Pretoria Jakaranda</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
