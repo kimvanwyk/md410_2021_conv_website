@@ -21,12 +21,12 @@ draft: false
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 88</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 40</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 39</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 57</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 33</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 127</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 68</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 67</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -369,8 +369,8 @@ draft: false
 </tr>
 
     
-<td>10</td>
-<td>Charles Flanagan</td>
+<td>11</td>
+<td>Jules Flanagan</td>
 <td>Tokai</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -380,11 +380,11 @@ draft: false
 </tr>
 
     
-<td>11</td>
-<td>Jules Flanagan</td>
+<td>10</td>
+<td>Charles Flanagan</td>
 <td>Tokai</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
