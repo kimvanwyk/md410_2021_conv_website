@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 136</li>
-<li><strong>Number of Clubs</strong>: 49</li>
+<ul><li><strong>Number of Registrees</strong>: 140</li>
+<li><strong>Number of Clubs</strong>: 53</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 84</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 36</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 49</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 87</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 39</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 50</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 29</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 115</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 60</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 119</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 63</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -157,6 +157,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>147</td>
+<td>Artemis Calomiris</td>
+<td>Helderberg</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -875,6 +886,17 @@ draft: false
 </tr>
 
     
+<td>149</td>
+<td>Alana Mitchell</td>
+<td>Rustenburg</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>70</td>
 <td>Virginia Mkhize</td>
 <td>Cape Town</td>
@@ -902,6 +924,28 @@ draft: false
 <td>Cape Town</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>145</td>
+<td>Jacques Mostert</td>
+<td>Merriman</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>148</td>
+<td>Pieter Myburg</td>
+<td>Wellington</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
