@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 147</li>
-<li><strong>Number of Clubs</strong>: 55</li>
+<ul><li><strong>Number of Registrees</strong>: 153</li>
+<li><strong>Number of Clubs</strong>: 56</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 87</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 38</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 57</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 91</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 42</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 58</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 33</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 126</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 66</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 129</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 69</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -292,6 +292,17 @@ draft: false
 </tr>
 
     
+<td>159</td>
+<td>ANDRE DE VILLIERS</td>
+<td>Malgas</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>97</td>
 <td>Peggy Du Plooy</td>
 <td>Krugersdorp</td>
@@ -431,6 +442,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>158</td>
+<td>Matty Grobler</td>
+<td>Henties Bay</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
@@ -706,6 +728,17 @@ draft: false
 <td>No</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>162</td>
+<td>Pam MacRobert</td>
+<td>Groote Schuur</td>
+<td>410W</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
@@ -1150,6 +1183,17 @@ draft: false
 </tr>
 
     
+<td>161</td>
+<td>Anthonie Petrus Roux</td>
+<td>Moorreesburg</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>62</td>
 <td>Irene Rugheimer</td>
 <td>Bedfordview</td>
@@ -1381,6 +1425,17 @@ draft: false
 </tr>
 
     
+<td>160</td>
+<td>TIM STEENBERG</td>
+<td>Wellington</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>7</td>
 <td>RORY stier</td>
 <td>Deep South</td>
@@ -1444,6 +1499,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>163</td>
+<td>Jiri Uchytil</td>
+<td>Alberton</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
