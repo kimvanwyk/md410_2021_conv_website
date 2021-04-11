@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 174</li>
+<ul><li><strong>Number of Registrees</strong>: 176</li>
 <li><strong>Number of Clubs</strong>: 56</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 100</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 46</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 67</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 69</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 38</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 147</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 149</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 77</li>
 
 </ul>
@@ -245,6 +245,28 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>186</td>
+<td>Kate Coppen</td>
+<td>Letaba Tzaneen</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>187</td>
+<td>Kate Coppen</td>
+<td>Letaba Tzaneen</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -1878,7 +1900,7 @@ draft: false
     
 <td>181</td>
 <td>Russell Volker</td>
-<td>Alberton</td>
+<td>King William's Town</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
