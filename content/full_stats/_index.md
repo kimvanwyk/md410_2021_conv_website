@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 154</li>
+<ul><li><strong>Number of Registrees</strong>: 169</li>
 <li><strong>Number of Clubs</strong>: 56</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 92</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 43</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 58</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 33</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 99</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 46</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 64</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 35</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 130</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 70</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 142</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 74</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -66,6 +66,17 @@ draft: false
 <td>Cape Town</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>176</td>
+<td>Rashid Adams</td>
+<td>Athlone</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -149,6 +160,17 @@ draft: false
 </tr>
 
     
+<td>169</td>
+<td>Christopher Bull</td>
+<td>The Wilds</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
 <td>41</td>
 <td>Herman Cadman</td>
 <td>Stellenbosch</td>
@@ -174,6 +196,17 @@ draft: false
 <td>55</td>
 <td>Linda Ann Cannone</td>
 <td>Fish Hoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>180</td>
+<td>Lizelle Castle</td>
+<td>Athlone</td>
 <td>410W</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -398,6 +431,28 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>171</td>
+<td>Clive Fox</td>
+<td>Merriman</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>172</td>
+<td>Pat Fox</td>
+<td>Merriman</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
@@ -655,6 +710,17 @@ draft: false
 </tr>
 
     
+<td>167</td>
+<td>Sandy King</td>
+<td>Alberton</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>129</td>
 <td>Muya Koloko</td>
 <td>Durbanville</td>
@@ -671,6 +737,17 @@ draft: false
 <td>Sedgefield</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>170</td>
+<td>Natalie Laas</td>
+<td>Alberton</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -749,6 +826,17 @@ draft: false
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>175</td>
+<td>Richard MARCHANT</td>
+<td>The Wilds</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 </tr>
@@ -1370,6 +1458,28 @@ draft: false
 </tr>
 
     
+<td>178</td>
+<td>Carmen Dolores Smith</td>
+<td>Tokai</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>179</td>
+<td>David John Smith</td>
+<td>Tokai</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>8</td>
 <td>LYN SNYMAN</td>
 <td>Deep South</td>
@@ -1469,6 +1579,28 @@ draft: false
 </tr>
 
     
+<td>173</td>
+<td>Pierre Theron</td>
+<td>Midrand</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>174</td>
+<td>Moira Theron</td>
+<td>Midrand</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
 <td>77</td>
 <td>Diane Townsend</td>
 <td>Benoni Lakes</td>
@@ -1491,8 +1623,41 @@ draft: false
 </tr>
 
     
+<td>177</td>
+<td>David Alex Tshikala</td>
+<td>Athlone</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>56</td>
 <td>Alistair Tuckett</td>
+<td>Roodepoort Clearwater Cyber</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>165</td>
+<td>Rowan Tuckett</td>
+<td>Roodepoort Clearwater Cyber</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>166</td>
+<td>Gail Tuckett</td>
 <td>Roodepoort Clearwater Cyber</td>
 <td>410E</td>
 <td>No</td>
