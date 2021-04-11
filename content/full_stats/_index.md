@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 169</li>
+<ul><li><strong>Number of Registrees</strong>: 170</li>
 <li><strong>Number of Clubs</strong>: 56</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 99</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 46</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 64</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 35</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 65</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 36</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 142</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 74</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 143</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 75</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -1829,6 +1829,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>181</td>
+<td>Russell Volker</td>
+<td>Alberton</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
