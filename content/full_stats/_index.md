@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 227</li>
+<ul><li><strong>Number of Registrees</strong>: 229</li>
 <li><strong>Number of Clubs</strong>: 63</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 125</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 126</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 59</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 90</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 46</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 189</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 190</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 94</li>
 
 </ul>
@@ -1909,6 +1909,17 @@ draft: false
 </tr>
 
     
+<td>244</td>
+<td>Santie Smit</td>
+<td>Durbanville</td>
+<td>410W</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
 <td>3</td>
 <td>Jeff Smith</td>
 <td>Port Shepstone</td>
@@ -2489,6 +2500,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>243</td>
+<td>Johanna Williams</td>
+<td>Mitchells Plain</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
