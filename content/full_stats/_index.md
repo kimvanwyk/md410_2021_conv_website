@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 215</li>
+<ul><li><strong>Number of Registrees</strong>: 216</li>
 <li><strong>Number of Clubs</strong>: 63</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 120</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 58</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 85</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 86</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 45</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 178</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 179</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 93</li>
 
 </ul>
@@ -2253,6 +2253,17 @@ draft: false
 <td>151</td>
 <td>Lindie van Wyk</td>
 <td>Pretoria Jakaranda</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>229</td>
+<td>Willem van Wyk</td>
+<td>Midrand</td>
 <td>410E</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
