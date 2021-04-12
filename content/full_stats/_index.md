@@ -16,12 +16,12 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 214</li>
+<ul><li><strong>Number of Registrees</strong>: 215</li>
 <li><strong>Number of Clubs</strong>: 63</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 119</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 57</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 120</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 58</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 85</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 45</li>
 
@@ -2411,6 +2411,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>228</td>
+<td>Leonie Zucker</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
