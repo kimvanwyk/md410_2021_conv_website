@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 223</li>
+<ul><li><strong>Number of Registrees</strong>: 239</li>
 <li><strong>Number of Clubs</strong>: 64</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 122</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 57</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 89</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 45</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 130</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 63</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 95</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 51</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 185</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 91</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 198</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 100</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -204,6 +204,17 @@ draft: false
 </tr>
 
     
+<td>260</td>
+<td>Byron Brooker</td>
+<td>Pretoria South</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>127</td>
 <td>Nelle Buhrmann</td>
 <td>Sea Point</td>
@@ -256,6 +267,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>250</td>
+<td>Petrus Carstens</td>
+<td>Worcester</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
@@ -344,6 +366,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>252</td>
+<td>Joel d'Offay</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -490,6 +523,28 @@ draft: false
 </tr>
 
     
+<td>263</td>
+<td>Glynn Easton</td>
+<td>Helderkruin</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>264</td>
+<td>Denise Easton</td>
+<td>Helderkruin</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>240</td>
 <td>Fadia Ely</td>
 <td>Athlone</td>
@@ -578,6 +633,17 @@ draft: false
 </tr>
 
     
+<td>251</td>
+<td>Jéan Fouché</td>
+<td>Worcester</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>171</td>
 <td>Clive Fox</td>
 <td>Merriman</td>
@@ -596,6 +662,28 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>266</td>
+<td>Kelvin Foxcroft</td>
+<td>Helderkruin</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>267</td>
+<td>Jenny Foxcroft</td>
+<td>Helderkruin</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 </tr>
 
@@ -699,6 +787,28 @@ draft: false
 </tr>
 
     
+<td>255</td>
+<td>Christiana Groenewoud</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>259</td>
+<td>Christiana Groenewoud</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>76</td>
 <td>Mattheus Groves</td>
 <td>Sedgefield</td>
@@ -707,6 +817,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>253</td>
+<td>Glyn Gunter</td>
+<td>Malmesbury</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -930,6 +1051,28 @@ draft: false
 </tr>
 
     
+<td>261</td>
+<td>Amanda Kemp</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>256</td>
+<td>Esmeralda Catherine Kennel</td>
+<td>Newlands</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>71</td>
 <td>Jerome Kern</td>
 <td>Groote Schuur</td>
@@ -982,6 +1125,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>254</td>
+<td>Alton Koenze</td>
+<td>Worcester</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -1458,6 +1612,17 @@ draft: false
 </tr>
 
     
+<td>265</td>
+<td>Cornette Naude</td>
+<td>Letaba Tzaneen</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>18</td>
 <td>Pieter Nel</td>
 <td>George</td>
@@ -1707,17 +1872,6 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
-<td>62</td>
-<td>Irene Rugheimer</td>
-<td>Bedfordview</td>
-<td>410E</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
 <td>No</td>
 </tr>
 
@@ -2046,8 +2200,8 @@ draft: false
 <td>Midrand</td>
 <td>410E</td>
 <td>No</td>
-<td>No</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 </tr>
 
@@ -2195,6 +2349,17 @@ draft: false
 </tr>
 
     
+<td>257</td>
+<td>Hennie van der Westhuizen</td>
+<td>Helderberg</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>119</td>
 <td>Sydney van Heerden</td>
 <td>Wilro Park</td>
@@ -2225,6 +2390,17 @@ draft: false
 <td>No</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>262</td>
+<td>Mark van Heerden</td>
+<td>Pretoria South</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
