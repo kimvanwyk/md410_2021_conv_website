@@ -16,11 +16,11 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 207</li>
+<ul><li><strong>Number of Registrees</strong>: 208</li>
 <li><strong>Number of Clubs</strong>: 62</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 115</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 116</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 56</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 83</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 44</li>
@@ -2313,6 +2313,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>221</td>
+<td>Joan Woodman</td>
+<td>Mitchells Plain</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
