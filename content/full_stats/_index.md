@@ -17,11 +17,11 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 268</li>
+<ul><li><strong>Number of Registrees</strong>: 270</li>
 <li><strong>Number of Clubs</strong>: 67</li>
-<li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 142</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 144</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 66</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 106</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 58</li>
@@ -1401,6 +1401,28 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>303</td>
+<td>Elke Langmaak</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>304</td>
+<td>Kai Langmaak</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
