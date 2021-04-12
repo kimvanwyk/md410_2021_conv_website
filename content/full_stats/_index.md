@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 218</li>
-<li><strong>Number of Clubs</strong>: 63</li>
+<ul><li><strong>Number of Registrees</strong>: 223</li>
+<li><strong>Number of Clubs</strong>: 64</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 119</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 55</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 87</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 44</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 122</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 57</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 89</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 45</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 180</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 88</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 185</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 91</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -64,6 +64,28 @@ draft: false
 <td>68</td>
 <td>Natalie Abrahams</td>
 <td>Cape Town</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>246</td>
+<td>Alan Abramsohn</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>247</td>
+<td>Janine Abramsohn</td>
+<td>Sea Point</td>
 <td>410W</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -897,10 +919,32 @@ draft: false
 </tr>
 
     
+<td>249</td>
+<td>Faezal Karriem</td>
+<td>Worcester</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>71</td>
 <td>Jerome Kern</td>
 <td>Groote Schuur</td>
 <td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>248</td>
+<td>Margie Kienast</td>
+<td>Edenvale</td>
+<td>410E</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -1012,6 +1056,17 @@ draft: false
 <td>Ceres</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>245</td>
+<td>Steven Lautenbach</td>
+<td>Pretoria South</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
