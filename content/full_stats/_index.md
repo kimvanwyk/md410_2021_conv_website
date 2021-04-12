@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 188</li>
-<li><strong>Number of Clubs</strong>: 60</li>
+<ul><li><strong>Number of Registrees</strong>: 189</li>
+<li><strong>Number of Clubs</strong>: 61</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 102</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 47</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 77</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 78</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 43</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 157</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 158</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 81</li>
 
 </ul>
@@ -627,6 +627,17 @@ draft: false
 <td>Athlone</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>200</td>
+<td>Evelyn Herzfeld</td>
+<td>Edenvale</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
