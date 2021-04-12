@@ -17,17 +17,17 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 247</li>
-<li><strong>Number of Clubs</strong>: 65</li>
+<ul><li><strong>Number of Registrees</strong>: 255</li>
+<li><strong>Number of Clubs</strong>: 66</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (15 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 132</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 62</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 98</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 54</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 136</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 63</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 102</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 56</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 202</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 101</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 204</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 102</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -326,6 +326,17 @@ draft: false
 </tr>
 
     
+<td>279</td>
+<td>Tanyaradzwa Chinyai</td>
+<td>Groote Schuur</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>136</td>
 <td>Delaney Yeltsin Cloete</td>
 <td>Eden</td>
@@ -521,6 +532,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>278</td>
+<td>Hanè Dunn</td>
+<td>Swellendam</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -793,6 +815,17 @@ draft: false
 <td>Durbanville</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>281</td>
+<td>David Griffith</td>
+<td>The Wilds</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -1206,6 +1239,17 @@ draft: false
 </tr>
 
     
+<td>282</td>
+<td>Pieter Kruger</td>
+<td>Wilro Park</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>272</td>
 <td>Bettina Kröning</td>
 <td>Windhoek</td>
@@ -1224,6 +1268,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>286</td>
+<td>Susan Labuschagne</td>
+<td>Wilro Park</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
@@ -1653,6 +1708,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>287</td>
+<td>Peter Mutschler</td>
+<td>Grootfontein</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
@@ -2768,10 +2834,32 @@ draft: false
 </tr>
 
     
+<td>285</td>
+<td>Gerry Young</td>
+<td>Mitchells Plain</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>228</td>
 <td>Leonie Zucker</td>
 <td>Milnerton</td>
 <td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>280</td>
+<td>Leonie Zucker</td>
+<td>Milnerton</td>
+<td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
