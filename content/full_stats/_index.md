@@ -17,7 +17,7 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 244</li>
+<ul><li><strong>Number of Registrees</strong>: 245</li>
 <li><strong>Number of Clubs</strong>: 64</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
@@ -26,7 +26,7 @@ draft: false
 <li><strong>Number of District 410E Convention Attendees</strong>: 98</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 54</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 200</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 201</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 101</li>
 
 </ul>
@@ -983,6 +983,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>274</td>
+<td>Johan Huysamen</td>
+<td>Malmesbury</td>
+<td>410W</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
