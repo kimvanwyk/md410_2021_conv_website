@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 189</li>
+<ul><li><strong>Number of Registrees</strong>: 193</li>
 <li><strong>Number of Clubs</strong>: 61</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 102</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 47</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 78</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 105</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 50</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 79</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 43</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 158</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 81</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 161</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 83</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -87,6 +87,17 @@ draft: false
 <td>Linda Anderson</td>
 <td>George</td>
 <td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>203</td>
+<td>Neale Stewart ANDREWS</td>
+<td>Cowies Hill</td>
+<td>410E</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -1065,7 +1076,7 @@ draft: false
 <td>144</td>
 <td>Stuart McPherson</td>
 <td>Newlands</td>
-<td>410E</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -1227,6 +1238,17 @@ draft: false
 </tr>
 
     
+<td>204</td>
+<td>Gary Murray</td>
+<td>Vereeniging</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>148</td>
 <td>Pieter Myburg</td>
 <td>Wellington</td>
@@ -1275,6 +1297,17 @@ draft: false
 <td>Mike Newlands</td>
 <td>Port Alfred</td>
 <td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>201</td>
+<td>Angela Niehaus</td>
+<td>Bergvliet</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -2104,6 +2137,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>202</td>
+<td>Alison Watson</td>
+<td>Sedgefield</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
 </tr>
 
     
