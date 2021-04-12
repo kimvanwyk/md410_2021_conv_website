@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 217</li>
+<ul><li><strong>Number of Registrees</strong>: 227</li>
 <li><strong>Number of Clubs</strong>: 63</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 120</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 58</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 87</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 45</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 125</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 59</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 90</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 46</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 180</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 93</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 189</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 94</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -391,6 +391,17 @@ draft: false
 </tr>
 
     
+<td>236</td>
+<td>Charlotte de Silva</td>
+<td>Edenvale</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>63</td>
 <td>ANDRE DE VILLIERS</td>
 <td>Malgas</td>
@@ -483,6 +494,17 @@ draft: false
 <td>Desiree du Toit</td>
 <td>Ramsgate</td>
 <td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>240</td>
+<td>Fadia Ely</td>
+<td>Athlone</td>
+<td>410W</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -600,6 +622,39 @@ draft: false
 </tr>
 
     
+<td>237</td>
+<td>Allison Georges</td>
+<td>Cape Of Good Hope</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>234</td>
+<td>Bernd Gerhard</td>
+<td>Wilro Park</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>235</td>
+<td>Shirley Gerhard</td>
+<td>Wilro Park</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>125</td>
 <td>Valerie Graham</td>
 <td>Nelspruit</td>
@@ -630,6 +685,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>232</td>
+<td>Brian Gray</td>
+<td>Durbanville</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -685,6 +751,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>233</td>
+<td>ELIZABETH Hendriks</td>
+<td>Table View</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -1004,6 +1081,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>238</td>
+<td>Erika Louw</td>
+<td>Durbanville</td>
+<td>410W</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -1488,6 +1576,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td>No</td>
+</tr>
+
+    
+<td>242</td>
+<td>Isabella Stratton Ormandy</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -2048,6 +2147,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>241</td>
+<td>Tracy Valadao</td>
+<td>Midrand</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 </tr>
 
