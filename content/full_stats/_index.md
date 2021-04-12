@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 213</li>
+<ul><li><strong>Number of Registrees</strong>: 214</li>
 <li><strong>Number of Clubs</strong>: 63</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 118</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 56</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 119</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 57</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 85</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 45</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 177</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 92</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 178</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 93</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -1495,6 +1495,17 @@ draft: false
 <td>Teresa Pantoleon</td>
 <td>Vereeniging</td>
 <td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>227</td>
+<td>Maureen Peters</td>
+<td>Ceres</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
