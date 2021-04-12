@@ -17,18 +17,18 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 262</li>
-<li><strong>Number of Clubs</strong>: 66</li>
+<ul><li><strong>Number of Registrees</strong>: 263</li>
+<li><strong>Number of Clubs</strong>: 67</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 137</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 138</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 64</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 106</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 58</li>
 <li><strong>Number of District Other District Convention Attendees</strong>: 1</li>
 <li><strong>Number of District Other District Convention Voters</strong>: 1</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 209</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 210</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 105</li>
 
 </ul>
@@ -1125,6 +1125,17 @@ draft: false
 <td>Gordons Bay</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>297</td>
+<td>Nico Kaiyamo</td>
+<td>Tsumeb</td>
+<td>410W</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
