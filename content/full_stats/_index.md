@@ -17,17 +17,19 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 257</li>
+<ul><li><strong>Number of Registrees</strong>: 262</li>
 <li><strong>Number of Clubs</strong>: 66</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 137</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 64</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 102</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 56</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 106</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 58</li>
+<li><strong>Number of District Other District Convention Attendees</strong>: 1</li>
+<li><strong>Number of District Other District Convention Voters</strong>: 1</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 205</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 102</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 209</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 105</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -579,6 +581,17 @@ draft: false
 </tr>
 
     
+<td>296</td>
+<td>Abubakr Ely</td>
+<td>Deep South</td>
+<td>Other District</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>213</td>
 <td>Freddie Erasmus</td>
 <td>Uitenhage</td>
@@ -953,6 +966,28 @@ draft: false
 </tr>
 
     
+<td>294</td>
+<td>Avril Hobbs</td>
+<td>North Durban</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>295</td>
+<td>Trevor Hobbs</td>
+<td>North Durban</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>39</td>
 <td>Jacqui Hocking</td>
 <td>Midrand</td>
@@ -1239,6 +1274,17 @@ draft: false
 </tr>
 
     
+<td>293</td>
+<td>Niqula Kruger</td>
+<td>Wilro Park</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>272</td>
 <td>Bettina Kröning</td>
 <td>Windhoek</td>
@@ -1302,6 +1348,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>292</td>
+<td>Evelyn May Langton</td>
+<td>Alberton</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
