@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 176</li>
-<li><strong>Number of Clubs</strong>: 56</li>
+<ul><li><strong>Number of Registrees</strong>: 186</li>
+<li><strong>Number of Clubs</strong>: 59</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 100</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 46</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 69</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 38</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 102</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 47</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 75</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 42</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 149</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 77</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 155</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 80</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -127,7 +127,29 @@ draft: false
 </tr>
 
     
+<td>197</td>
+<td>Belinda Blakeman</td>
+<td>North Durban</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>35</td>
+<td>JOSE BRAGA BORGES</td>
+<td>Malmesbury</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>193</td>
 <td>JOSE BRAGA BORGES</td>
 <td>Malmesbury</td>
 <td>410W</td>
@@ -376,6 +398,28 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>195</td>
+<td>Tammy du Plooy</td>
+<td>Alberton</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>196</td>
+<td>Marc du Plooy</td>
+<td>Alberton</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
@@ -743,6 +787,17 @@ draft: false
 </tr>
 
     
+<td>189</td>
+<td>Christa Koekemoer</td>
+<td>Letaba Tzaneen</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>129</td>
 <td>Muya Koloko</td>
 <td>Durbanville</td>
@@ -805,6 +860,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>194</td>
+<td>Jeanette le Roux</td>
+<td>Gonubie</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
@@ -1777,6 +1843,28 @@ draft: false
 </tr>
 
     
+<td>191</td>
+<td>PATRICIA VAN DER MERWE</td>
+<td>East London Port Rex</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>192</td>
+<td>MARINA VAN DER MERWE</td>
+<td>Malmesbury</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>119</td>
 <td>Sydney van Heerden</td>
 <td>Wilro Park</td>
@@ -1796,6 +1884,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>190</td>
+<td>Craig van Heerden</td>
+<td>East London Beacon Bay</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -1892,6 +1991,17 @@ draft: false
 <td>Kuilsriver</td>
 <td>410W</td>
 <td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>188</td>
+<td>Louis Venter</td>
+<td>Letaba Tzaneen</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
