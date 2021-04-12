@@ -17,17 +17,17 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 263</li>
+<ul><li><strong>Number of Registrees</strong>: 267</li>
 <li><strong>Number of Clubs</strong>: 67</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 139</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 65</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 142</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 66</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 106</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 58</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 210</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 105</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 212</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 106</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -678,6 +678,17 @@ draft: false
 </tr>
 
     
+<td>298</td>
+<td>Michele Fourie</td>
+<td>Merriman</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
 <td>171</td>
 <td>Clive Fox</td>
 <td>Merriman</td>
@@ -1107,6 +1118,17 @@ draft: false
 </tr>
 
     
+<td>301</td>
+<td>Tristan Jeniker</td>
+<td>Merriman</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>138</td>
 <td>MALCOLM JOHNSTON</td>
 <td>Standerton</td>
@@ -1126,6 +1148,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>300</td>
+<td>Jos Kahn</td>
+<td>Ceres</td>
+<td>410W</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
 </tr>
 
     
@@ -2017,6 +2050,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>299</td>
+<td>Sheldon Edmund Pretorius</td>
+<td>Merriman</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
