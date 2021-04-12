@@ -21,12 +21,10 @@ draft: false
 <li><strong>Number of Clubs</strong>: 67</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 138</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 64</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 139</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 65</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 106</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 58</li>
-<li><strong>Number of District Other District Convention Attendees</strong>: 1</li>
-<li><strong>Number of District Other District Convention Voters</strong>: 1</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 210</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 105</li>
@@ -584,7 +582,7 @@ draft: false
 <td>296</td>
 <td>Abubakr Ely</td>
 <td>Deep South</td>
-<td>Other District</td>
+<td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
