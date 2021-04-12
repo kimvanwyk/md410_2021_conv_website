@@ -16,16 +16,16 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 195</li>
+<ul><li><strong>Number of Registrees</strong>: 197</li>
 <li><strong>Number of Clubs</strong>: 61</li>
-<li><strong>Club With Most Attendees</strong>: Windhoek (12 registrees)</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 105</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 106</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 50</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 80</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 81</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 43</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 163</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 164</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 84</li>
 
 </ul>
@@ -691,6 +691,28 @@ draft: false
 <td>40</td>
 <td>Cliff Hocking</td>
 <td>Midrand</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>207</td>
+<td>Ellen G W Hoffmann</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>208</td>
+<td>KEITH ALEXANDER HOLLIMAN</td>
+<td>Alberton</td>
 <td>410E</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
