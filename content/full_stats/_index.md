@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 239</li>
+<ul><li><strong>Number of Registrees</strong>: 240</li>
 <li><strong>Number of Clubs</strong>: 64</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 130</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 63</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 95</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 51</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 96</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 52</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 198</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 100</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 199</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 101</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -679,6 +679,17 @@ draft: false
     
 <td>267</td>
 <td>Jenny Foxcroft</td>
+<td>Helderkruin</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>268</td>
+<td>Katherine Foxcroft</td>
 <td>Helderkruin</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
