@@ -17,16 +17,16 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 246</li>
-<li><strong>Number of Clubs</strong>: 64</li>
+<ul><li><strong>Number of Registrees</strong>: 247</li>
+<li><strong>Number of Clubs</strong>: 65</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (15 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 131</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 132</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 62</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 98</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 54</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 201</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 202</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 101</li>
 
 </ul>
@@ -1115,6 +1115,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>276</td>
+<td>Hassan Khan</td>
+<td>Kirstenbosch</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
