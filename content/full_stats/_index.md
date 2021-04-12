@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 210</li>
+<ul><li><strong>Number of Registrees</strong>: 211</li>
 <li><strong>Number of Clubs</strong>: 63</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 117</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 56</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 84</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 44</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 85</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 45</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 176</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 91</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 177</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 92</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -1421,6 +1421,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>224</td>
+<td>PDG Bokkie Oberholzer</td>
+<td>Uitenhage</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 </tr>
 
