@@ -17,11 +17,11 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 245</li>
+<ul><li><strong>Number of Registrees</strong>: 246</li>
 <li><strong>Number of Clubs</strong>: 64</li>
-<li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (15 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 130</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 131</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 62</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 98</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 54</li>
@@ -602,6 +602,17 @@ draft: false
 
     
 <td>67</td>
+<td>Beate Fahrbach</td>
+<td>Windhoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>275</td>
 <td>Beate Fahrbach</td>
 <td>Windhoek</td>
 <td>410W</td>
