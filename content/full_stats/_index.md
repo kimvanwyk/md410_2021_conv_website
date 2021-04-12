@@ -17,17 +17,17 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 255</li>
+<ul><li><strong>Number of Registrees</strong>: 257</li>
 <li><strong>Number of Clubs</strong>: 66</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (15 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 136</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 63</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 138</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 65</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 102</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 56</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 204</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 102</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 205</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 103</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -1360,6 +1360,17 @@ draft: false
 </tr>
 
     
+<td>288</td>
+<td>Heather Lee</td>
+<td>Cape Of Good Hope</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>238</td>
 <td>Erika Louw</td>
 <td>Durbanville</td>
@@ -1675,6 +1686,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>289</td>
+<td>Brian Mosesd</td>
+<td>Cape Of Good Hope</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td>No</td>
 </tr>
 
