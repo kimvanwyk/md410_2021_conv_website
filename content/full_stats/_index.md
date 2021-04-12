@@ -19,15 +19,15 @@ draft: false
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
 <ul><li><strong>Number of Registrees</strong>: 257</li>
 <li><strong>Number of Clubs</strong>: 66</li>
-<li><strong>Club With Most Attendees</strong>: Windhoek (15 registrees)</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 138</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 65</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 137</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 64</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 102</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 56</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 205</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 103</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 102</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -624,17 +624,6 @@ draft: false
 
     
 <td>67</td>
-<td>Beate Fahrbach</td>
-<td>Windhoek</td>
-<td>410W</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>275</td>
 <td>Beate Fahrbach</td>
 <td>Windhoek</td>
 <td>410W</td>
@@ -1338,6 +1327,17 @@ draft: false
 </tr>
 
     
+<td>290</td>
+<td>leandre layman</td>
+<td>Groote Schuur</td>
+<td>410W</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>194</td>
 <td>Jeanette le Roux</td>
 <td>Gonubie</td>
@@ -1350,17 +1350,6 @@ draft: false
 
     
 <td>103</td>
-<td>Heather Lee</td>
-<td>Cape Of Good Hope</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
-<td>288</td>
 <td>Heather Lee</td>
 <td>Cape Of Good Hope</td>
 <td>410W</td>
@@ -2611,6 +2600,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>291</td>
+<td>Lorna Van Romburgh</td>
+<td>Fish Hoek</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
