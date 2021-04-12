@@ -16,11 +16,11 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 211</li>
+<ul><li><strong>Number of Registrees</strong>: 213</li>
 <li><strong>Number of Clubs</strong>: 63</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 117</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 118</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 56</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 85</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 45</li>
@@ -1194,6 +1194,17 @@ draft: false
 </tr>
 
     
+<td>226</td>
+<td>Elisa Metz</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
 <td>2</td>
 <td>Denis Meyer</td>
 <td>Port Shepstone</td>
@@ -1257,6 +1268,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>225</td>
+<td>Cherie Milosevich</td>
+<td>Milnerton</td>
+<td>410W</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
