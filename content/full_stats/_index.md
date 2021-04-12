@@ -16,17 +16,17 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
-<ul><li><strong>Number of Registrees</strong>: 229</li>
+<ul><li><strong>Number of Registrees</strong>: 218</li>
 <li><strong>Number of Clubs</strong>: 63</li>
-<li><strong>Club With Most Attendees</strong>: Windhoek (14 registrees)</li>
+<li><strong>Club With Most Attendees</strong>: Windhoek (13 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 126</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 59</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 90</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 46</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 119</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 55</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 87</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 44</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 190</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 94</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 180</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 88</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -171,17 +171,6 @@ draft: false
 </tr>
 
     
-<td>193</td>
-<td>JOSE BRAGA BORGES</td>
-<td>Malmesbury</td>
-<td>410W</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
 <td>113</td>
 <td>Paul Brauteseth</td>
 <td>Port Shepstone</td>
@@ -303,17 +292,6 @@ draft: false
 </tr>
 
     
-<td>186</td>
-<td>Kate Coppen</td>
-<td>Letaba Tzaneen</td>
-<td>410E</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
 <td>187</td>
 <td>Kate Coppen</td>
 <td>Letaba Tzaneen</td>
@@ -403,17 +381,6 @@ draft: false
 
     
 <td>63</td>
-<td>ANDRE DE VILLIERS</td>
-<td>Malgas</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
-<td>159</td>
 <td>ANDRE DE VILLIERS</td>
 <td>Malgas</td>
 <td>410W</td>
@@ -1007,17 +974,6 @@ draft: false
 </tr>
 
     
-<td>4</td>
-<td>Bevil Lakay</td>
-<td>Mitchells Plain</td>
-<td>410W</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
 <td>214</td>
 <td>Bevil Lakay</td>
 <td>Mitchells Plain</td>
@@ -1124,17 +1080,6 @@ draft: false
 <td>No</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
-<td>162</td>
-<td>Pam MacRobert</td>
-<td>Groote Schuur</td>
-<td>410W</td>
-<td>No</td>
-<td>No</td>
-<td>No</td>
 <td>No</td>
 </tr>
 
@@ -1348,17 +1293,6 @@ draft: false
 </tr>
 
     
-<td>53</td>
-<td>Cherie Milosevich</td>
-<td>Milnerton</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
 <td>225</td>
 <td>Cherie Milosevich</td>
 <td>Milnerton</td>
@@ -1492,17 +1426,6 @@ draft: false
 
     
 <td>87</td>
-<td>Mike Newlands</td>
-<td>Port Alfred</td>
-<td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
-<td>82</td>
 <td>Mike Newlands</td>
 <td>Port Alfred</td>
 <td>410E</td>
@@ -1769,17 +1692,6 @@ draft: false
 <td>95</td>
 <td>Sharon Sampie</td>
 <td>Bergvliet</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
-<td>94</td>
-<td>Frank Schatz</td>
-<td>Windhoek</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -2096,17 +2008,6 @@ draft: false
 </tr>
 
     
-<td>132</td>
-<td>Diane Townsend</td>
-<td>Benoni Lakes</td>
-<td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
 <td>177</td>
 <td>David Alex Tshikala</td>
 <td>Athlone</td>
@@ -2329,28 +2230,6 @@ draft: false
     
 <td>15</td>
 <td>Deon van Wulven</td>
-<td>Tygerberg Hills</td>
-<td>410W</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
-<td>209</td>
-<td>Jeannie van Wulven</td>
-<td>Tygerberg Hills</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
-<td>211</td>
-<td>Alan van Wulven</td>
 <td>Tygerberg Hills</td>
 <td>410W</td>
 <td>No</td>
