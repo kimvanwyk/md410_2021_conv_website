@@ -17,7 +17,7 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 286</li>
+<ul><li><strong>Number of Registrees</strong>: 287</li>
 <li><strong>Number of Clubs</strong>: 68</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
@@ -1312,6 +1312,17 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>326</td>
+<td>Faniso Khoza</td>
+<td>The Wilds</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 </tr>
 
