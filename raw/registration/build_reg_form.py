@@ -225,10 +225,7 @@ def make_attendee_fields(html, prefix, lion=True):
     if lion:
         html.add_selector(f"{prefix}_club", "Lions Club", CLUBS)
         html.add_selector(f"{prefix}_district", "District", DISTRICTS)
-        html.add_checkbox(
-            f"{prefix}_voter",
-            "Are you a voting delegate for your club?",
-        )
+        html.add_label("voting_info", "The registration deadline has passed so it is no longer possible to register as a voting delegate.")
         html.add_checkbox(
             f"{prefix}_attending_district_convention",
             "Will you be attending your District's online convention on 24 April?",

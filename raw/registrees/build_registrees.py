@@ -37,6 +37,7 @@ draft: false
 </head>
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
+<a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
 """
 PUBLIC_TABLE_HEADER = """<h2>Registrees</h2>
 
