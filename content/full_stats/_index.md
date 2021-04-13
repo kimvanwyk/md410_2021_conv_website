@@ -17,17 +17,17 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 278</li>
+<ul><li><strong>Number of Registrees</strong>: 281</li>
 <li><strong>Number of Clubs</strong>: 68</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 146</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 67</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 112</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 59</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 115</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 60</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 219</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 108</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 222</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 109</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -722,6 +722,17 @@ draft: false
 </tr>
 
     
+<td>316</td>
+<td>Lucille Fourie</td>
+<td>Alberton</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>171</td>
 <td>Clive Fox</td>
 <td>Merriman</td>
@@ -1283,6 +1294,17 @@ draft: false
 </tr>
 
     
+<td>315</td>
+<td>Joyce Kimari</td>
+<td>Eden</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>121</td>
 <td>Ian King</td>
 <td>Alberton</td>
@@ -1519,6 +1541,17 @@ draft: false
 <td>Cape Of Good Hope</td>
 <td>410W</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
+<td>319</td>
+<td>Graeme Logan</td>
+<td>Pretoria South</td>
+<td>410E</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
