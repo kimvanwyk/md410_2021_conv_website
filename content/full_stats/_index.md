@@ -23,7 +23,7 @@ draft: false
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 149</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 67</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 117</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 118</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 60</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 229</li>
@@ -2685,7 +2685,7 @@ draft: false
 <td>The Wilds</td>
 <td>410E</td>
 <td>No</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 </tr>
