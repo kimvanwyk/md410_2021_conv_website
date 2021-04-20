@@ -13,5 +13,5 @@ draft: false
 
 * [Click here to download the 2021 District 410W convention reports](/docs/410w_convention_reports.pdf)
 
-## Reports for MD410 Convention
+## Reports for the MD410 Convention
 Once they are available, reports for the District 410W and the Multiple District 410 online conventions can be downloaded from this page.
