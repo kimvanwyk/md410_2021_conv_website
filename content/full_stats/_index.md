@@ -17,16 +17,16 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 293</li>
+<ul><li><strong>Number of Registrees</strong>: 294</li>
 <li><strong>Number of Clubs</strong>: 69</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 148</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 55</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 124</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 125</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 59</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 234</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 235</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 102</li>
 
 </ul>
@@ -363,7 +363,7 @@ draft: false
 <td>Lionel Chazen</td>
 <td>Edenvale</td>
 <td>410E</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -605,7 +605,7 @@ draft: false
 <td>Desiree du Toit</td>
 <td>Ramsgate</td>
 <td>410E</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -2295,6 +2295,17 @@ draft: false
 </tr>
 
     
+<td>339</td>
+<td>Tabeth Rashirai</td>
+<td>Pretoria Jakaranda</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
 <td>126</td>
 <td>Hugo Reniers</td>
 <td>Nelspruit</td>
@@ -2845,17 +2856,6 @@ draft: false
 </tr>
 
     
-<td>183</td>
-<td>Ingrid van der Merwe</td>
-<td>Letaba Tzaneen</td>
-<td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
 <td>191</td>
 <td>PATRICIA VAN DER MERWE</td>
 <td>East London Port Rex</td>
@@ -2875,6 +2875,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>183</td>
+<td>Ingrid van der Merwe</td>
+<td>Letaba Tzaneen</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -3091,7 +3102,7 @@ draft: false
 <td>Louis Venter</td>
 <td>Letaba Tzaneen</td>
 <td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
