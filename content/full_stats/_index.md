@@ -24,10 +24,10 @@ draft: false
 <li><strong>Number of District 410W Convention Attendees</strong>: 148</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 56</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 125</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 52</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 51</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 235</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 95</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 94</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -1771,7 +1771,7 @@ draft: false
 <td>Rochelle McDonald</td>
 <td>Vereeniging</td>
 <td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
