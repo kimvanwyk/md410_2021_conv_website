@@ -22,12 +22,12 @@ draft: false
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 148</li>
-<li><strong>Number of District 410W Convention Voters</strong>: 55</li>
+<li><strong>Number of District 410W Convention Voters</strong>: 56</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 125</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 56</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 235</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 100</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 99</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -253,7 +253,7 @@ draft: false
 <td>Nelle Buhrmann</td>
 <td>Sea Point</td>
 <td>410W</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td>No</td>
@@ -1184,17 +1184,6 @@ draft: false
 </tr>
 
     
-<td>99</td>
-<td>Dawid Jacobs</td>
-<td>Durbanville</td>
-<td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
 <td>122</td>
 <td>Jean Jacobs</td>
 <td>Mitchells Plain</td>
@@ -1203,6 +1192,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>99</td>
+<td>Dawid Jacobs</td>
+<td>Durbanville</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -2244,7 +2244,7 @@ draft: false
 <td>Yvonne  Maureen Poyowe</td>
 <td>Cape Of Good Hope</td>
 <td>410W</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
