@@ -18,16 +18,16 @@ draft: false
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
 <ul><li><strong>Number of Registrees</strong>: 294</li>
-<li><strong>Number of Clubs</strong>: 69</li>
+<li><strong>Number of Clubs</strong>: 70</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 148</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 55</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 125</li>
-<li><strong>Number of District 410E Convention Voters</strong>: 59</li>
+<li><strong>Number of District 410E Convention Voters</strong>: 56</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 235</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 102</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 100</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -62,17 +62,6 @@ draft: false
   </thead>
 <tbody>
 
-<td>337</td>
-<td> </td>
-<td>Alberton</td>
-<td>410E</td>
-<td>No</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-</tr>
-
-    
 <td>68</td>
 <td>Natalie Abrahams</td>
 <td>Cape Town</td>
@@ -779,9 +768,9 @@ draft: false
     
 <td>316</td>
 <td>Lucille Fourie</td>
-<td>Alberton</td>
+<td>Not Specified</td>
 <td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -1043,9 +1032,9 @@ draft: false
     
 <td>270</td>
 <td>MBULELO HERMANUS</td>
-<td>Alberton</td>
+<td>Not Specified</td>
 <td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -2497,7 +2486,7 @@ draft: false
 <td>Sue Smit</td>
 <td>Centurion</td>
 <td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -2523,6 +2512,17 @@ draft: false
 <td>No</td>
 <td>No</td>
 <td>No</td>
+</tr>
+
+    
+<td>337</td>
+<td>Juanita Smit</td>
+<td>Alberton</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
