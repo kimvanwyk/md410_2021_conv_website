@@ -17,13 +17,13 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 296</li>
+<ul><li><strong>Number of Registrees</strong>: 295</li>
 <li><strong>Number of Clubs</strong>: 69</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 148</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 150</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 56</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 129</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 126</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 52</li>
 
 <li><strong>Number of MD410 Convention Attendees</strong>: 237</li>
@@ -190,17 +190,6 @@ draft: false
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-</tr>
-
-    
-<td>338</td>
-<td>Belinda Blakeman</td>
-<td>North Durban</td>
-<td>410E</td>
-<td>No</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
 <td>No</td>
 </tr>
 
@@ -2298,7 +2287,7 @@ draft: false
 <td>206</td>
 <td>Leon Jacobus Ras</td>
 <td>Swellendam</td>
-<td>410E</td>
+<td>410W</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -2980,7 +2969,7 @@ draft: false
 <td>335</td>
 <td>Hilgardt Van Nieuwenhuyzen</td>
 <td>Worcester</td>
-<td>410E</td>
+<td>410W</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
