@@ -231,7 +231,7 @@ draft: false
 <td>Paul Brauteseth</td>
 <td>Port Shepstone</td>
 <td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td>No</td>
@@ -242,7 +242,7 @@ draft: false
 <td>Byron Brooker</td>
 <td>Pretoria South</td>
 <td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -363,7 +363,7 @@ draft: false
 <td>Perry Chetty</td>
 <td>East Coast</td>
 <td>410E</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -1595,7 +1595,7 @@ draft: false
 <td>Jeanette le Roux</td>
 <td>Gonubie</td>
 <td>410E</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td>No</td>
@@ -2592,17 +2592,6 @@ draft: false
 </tr>
 
     
-<td>83</td>
-<td>Max Stander</td>
-<td>Port Alfred</td>
-<td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-<td>No</td>
-</tr>
-
-    
 <td>130</td>
 <td>Ashley Stander</td>
 <td>Krugersdorp</td>
@@ -2617,6 +2606,17 @@ draft: false
 <td>131</td>
 <td>Brett Jason Stander</td>
 <td>Krugersdorp</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td>No</td>
+</tr>
+
+    
+<td>83</td>
+<td>Max Stander</td>
+<td>Port Alfred</td>
 <td>410E</td>
 <td>No</td>
 <td style="background-color: lightgreen">Yes</td>
@@ -2739,7 +2739,7 @@ draft: false
 <td>Diane Townsend</td>
 <td>Benoni Lakes</td>
 <td>410E</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td>No</td>
