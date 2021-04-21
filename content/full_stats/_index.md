@@ -2387,7 +2387,7 @@ draft: false
 <td>Vera Schatz</td>
 <td>Windhoek</td>
 <td>410W</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -2398,7 +2398,7 @@ draft: false
 <td>Frank Schatz</td>
 <td>Windhoek</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
