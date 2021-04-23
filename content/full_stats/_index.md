@@ -17,11 +17,11 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 300</li>
+<ul><li><strong>Number of Registrees</strong>: 301</li>
 <li><strong>Number of Clubs</strong>: 70</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
-<li><strong>Number of District 410W Convention Attendees</strong>: 150</li>
+<li><strong>Number of District 410W Convention Attendees</strong>: 151</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 56</li>
 <li><strong>Number of District 410E Convention Attendees</strong>: 130</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 52</li>
@@ -1438,6 +1438,17 @@ draft: false
 
     
 <td>254</td>
+<td>Alton Koenze</td>
+<td>Worcester</td>
+<td>410W</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>348</td>
 <td>Alton Koenze</td>
 <td>Worcester</td>
 <td>410W</td>
