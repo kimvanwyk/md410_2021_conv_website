@@ -26,8 +26,8 @@ draft: false
 <li><strong>Number of District 410E Convention Attendees</strong>: 130</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 52</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 241</li>
-<li><strong>Number of MD410 Convention Voters</strong>: 96</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 243</li>
+<li><strong>Number of MD410 Convention Voters</strong>: 98</li>
 
 </ul>
 <h2>Registrees</h2>
@@ -568,24 +568,24 @@ draft: false
 </tr>
 
     
-<td>195</td>
-<td>Tammy du Plooy</td>
-<td>Alberton</td>
-<td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
-<td style="background-color: lightgreen">Yes</td>
-<td>No</td>
-<td>No</td>
-</tr>
-
-    
 <td>196</td>
 <td>Marc du Plooy</td>
 <td>Alberton</td>
 <td>410E</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>195</td>
+<td>Tammy du Plooy</td>
+<td>Alberton</td>
+<td>410E</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 </tr>
 
