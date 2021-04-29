@@ -17,7 +17,7 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 303</li>
+<ul><li><strong>Number of Registrees</strong>: 304</li>
 <li><strong>Number of Clubs</strong>: 70</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
@@ -26,7 +26,7 @@ draft: false
 <li><strong>Number of District 410E Convention Attendees</strong>: 130</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 52</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 244</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 245</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 98</li>
 
 </ul>
@@ -528,7 +528,7 @@ draft: false
 <td>Benita Diener</td>
 <td>Mitchells Plain</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -1705,7 +1705,7 @@ draft: false
 <td>Rashmiya Lucas</td>
 <td>Mitchells Plain</td>
 <td>410W</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -2075,6 +2075,17 @@ draft: false
 </tr>
 
     
+<td>358</td>
+<td>Nici Naude</td>
+<td>King William's Town</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
+</tr>
+
+    
 <td>18</td>
 <td>Pieter Nel</td>
 <td>George</td>
@@ -2255,7 +2266,7 @@ draft: false
 <td>Patrick Pillay</td>
 <td>Tygerberg Hills</td>
 <td>410W</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
@@ -3124,7 +3135,7 @@ draft: false
 <td>Jeannie van Wulven</td>
 <td>Tygerberg Hills</td>
 <td>410W</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
