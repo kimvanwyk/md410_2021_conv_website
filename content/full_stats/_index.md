@@ -17,16 +17,16 @@ draft: false
 <body>
 <h1 style="color: #000000;">Full Registration Stats</h1>
 <a href="/docs/registrees_list.xlsx">Download Registrees Excel File</a>
-<ul><li><strong>Number of Registrees</strong>: 306</li>
+<ul><li><strong>Number of Registrees</strong>: 308</li>
 <li><strong>Number of Clubs</strong>: 70</li>
 <li><strong>Club With Most Attendees</strong>: Windhoek (16 registrees)</li>
 
 <li><strong>Number of District 410W Convention Attendees</strong>: 152</li>
 <li><strong>Number of District 410W Convention Voters</strong>: 56</li>
-<li><strong>Number of District 410E Convention Attendees</strong>: 130</li>
+<li><strong>Number of District 410E Convention Attendees</strong>: 131</li>
 <li><strong>Number of District 410E Convention Voters</strong>: 52</li>
 
-<li><strong>Number of MD410 Convention Attendees</strong>: 247</li>
+<li><strong>Number of MD410 Convention Attendees</strong>: 249</li>
 <li><strong>Number of MD410 Convention Voters</strong>: 98</li>
 
 </ul>
@@ -653,6 +653,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
+</tr>
+
+    
+<td>362</td>
+<td>Reg Ellaya</td>
+<td>East Coast</td>
+<td>410E</td>
+<td>No</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
 </tr>
 
     
@@ -1995,6 +2006,17 @@ draft: false
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
+</tr>
+
+    
+<td>361</td>
+<td>Hansuya Moodley</td>
+<td>East Coast</td>
+<td>410E</td>
+<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
+<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 </tr>
 
     
