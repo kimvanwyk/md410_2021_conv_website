@@ -275,7 +275,7 @@ draft: false
 <td>Christopher Bull</td>
 <td>The Wilds</td>
 <td>410E</td>
-<td>No</td>
+<td style="background-color: lightgreen">Yes</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td>No</td>
@@ -1870,7 +1870,7 @@ draft: false
 <td>Mark Meltzer</td>
 <td>The Wilds</td>
 <td>410E</td>
-<td style="background-color: lightgreen">Yes</td>
+<td>No</td>
 <td style="background-color: lightgreen">Yes</td>
 <td>No</td>
 <td>No</td>
