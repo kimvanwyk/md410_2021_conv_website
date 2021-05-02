@@ -18,3 +18,5 @@ draft: false
 * [Click here to download the 2020/2021 Multiple District 410 convention agenda](/docs/md410_2020_2021_convention_agenda.pdf)
 * [Click here to download the 2020/2021 Multiple District 410 convention reports](/docs/md410_2020_2021_convention_reports.pdf)
 * [Click here to download the 2019/2020 Multiple District 410 convention minutes](/docs/md410_2019_2020_convention_minutes.pdf)
+* [Click here to download the address by 1IVP Douglas Alexander to the Lions of Africa](/docs/address_by_1ivp_douglas_alexander.mp4)
+
